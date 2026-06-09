@@ -55,9 +55,11 @@ This project is an advanced, multi-layered pipeline for detecting and masking Pe
    *The frontend will be available at `http://localhost:5173`.*
 
 ## Running Evaluations
-The repository includes scripts for generating synthetic financial documents with embedded ground truth data, allowing for strict accuracy testing.
+The evaluation suite has been updated to support batch processing and comprehensive reporting of Precision, Recall, and F1-Scores. 
 
-To run the evaluation suite and view the Precision/Recall/F1 scores:
+To run the benchmarking suite and generate the performance report:
 ```bash
-python evaluate.py
+python evaluate.py --mode=verbose --output=report.json
 ```
+
+Repository: https://github.com/gowthaman-tech4/audviklabs_task01
