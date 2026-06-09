@@ -1,4 +1,4 @@
-"# Minimal ignore - keep node_modules and Python caches only" 
-"node_modules/" 
-"__pycache__/" 
-"*.pyc" 
+﻿# Minimal .gitignore – keep only typical generated junk out of the repo
+node_modules/
+__pycache__/
+*.pyc
