@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Paul Decker
+Card Number:        4031-8653-1723-0051
+Billing Address:    11944 Jesse Terrace, North Maureen, IA 81133
+Phone:              870.494.7238
+Email:              danielleperkins@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 05, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   42,430.61
+Previous Balance:   $    5,482.32
+Payments Received:  $    4,159.79
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Tucker-Gillespie                    $     86.17
+05/20/2026     Ramirez-Cunningham                  $  1,673.63
+06/03/2026     Brown, Johnson and Cabrera          $  1,652.21
+06/03/2026     Bell-Richardson                     $    135.21
+05/17/2026     Gardner-Vazquez                     $  1,087.92
+05/17/2026     Butler Group                        $    848.98
+05/19/2026     Allen, Flores and Gonzalez          $  1,822.44
+06/06/2026     Wallace Ltd                         $  1,991.87
+
+-------------------------------------------------------------
+Total Charges:      $    9,298.43
+New Balance:        $   10,620.96
+Minimum Payment:    $      212.42
+
+============================================================

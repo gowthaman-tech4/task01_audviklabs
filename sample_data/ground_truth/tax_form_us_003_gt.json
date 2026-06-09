@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_003.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "145-77-8778",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "58-8528197",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Harper Group",
+      "start": 353,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 5834, Box 6961, APO AP 71747",
+      "start": 369,
+      "end": 401
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Cesar Dillon",
+      "start": 425,
+      "end": 437
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 5639 Box 5032, DPO AA 30462",
+      "start": 477,
+      "end": 509
+    }
+  ]
+}

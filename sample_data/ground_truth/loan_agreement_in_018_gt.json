@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_018.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "77/644, Contractor, Guntur-426855",
+      "start": 374,
+      "end": 407
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Oviya Chahal",
+      "start": 425,
+      "end": 437
+    },
+    {
+      "type": "PAN",
+      "value": "TKHTD6419E",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8588 3498 6881",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/29/1980",
+      "start": 493,
+      "end": 503
+    },
+    {
+      "type": "ADDRESS",
+      "value": "915, Sathe Circle, New Delhi-007959",
+      "start": 513,
+      "end": 548
+    },
+    {
+      "type": "PHONE",
+      "value": "91 85395 30907",
+      "start": 556,
+      "end": 570
+    },
+    {
+      "type": "EMAIL",
+      "value": "ekalinga57@example.com",
+      "start": 578,
+      "end": 600
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Rishi Khare",
+      "start": 637,
+      "end": 648
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63398 64411",
+      "start": 656,
+      "end": 671
+    },
+    {
+      "type": "EMAIL",
+      "value": "dkarpe@example.net",
+      "start": 679,
+      "end": 697
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "33796413577697",
+      "start": 959,
+      "end": 973
+    }
+  ]
+}

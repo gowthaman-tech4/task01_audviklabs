@@ -1,0 +1,49 @@
+============================================================
+                    [ORGANIZATION_003]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 06, 2026 to May 12, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           71/681, [PERSON_NAME_002], Shimoga [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Saharsa Branch
+Opening Balance:   $75,778.66
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/02/2026     ATM Withdrawal - Tirunelveli                         3,487.46      79,266.12
+[ORGANIZATION_002] Charge                          4,561.63                   74,704.49
+05/30/2026     Service Charge                                       2,088.83      76,793.32
+05/22/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,783.52                   72,009.80
+05/27/2026     Interest Credit                                      4,380.40      76,390.20
+05/23/2026     ATM Withdrawal - Pondicherry            2,883.79                   73,506.41
+05/16/2026     Interest Credit                         2,957.41                   70,549.00
+05/30/2026     Service Charge                          1,250.24                   69,298.76
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $69,298.76
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

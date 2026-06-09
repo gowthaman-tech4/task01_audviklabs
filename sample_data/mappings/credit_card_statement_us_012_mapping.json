@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_us_012.txt",
+  "timestamp": "2026-06-09T07:55:11.205822",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Elizabeth Cantrell",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 237
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "474347592636",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 258,
+        "end": 272
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "68833 Campbell Parks, Ramirezton, NC 97731",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 298,
+        "end": 340
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-863-676-5190x1398",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 361,
+        "end": 381
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kari19@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Hunter",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 780,
+        "end": 786
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Sandoval",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 788,
+        "end": 796
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 969,
+        "end": 974
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Anderson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 976,
+        "end": 984
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kim-Wu                              ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1032,
+        "end": 1068
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Phillips",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 774,
+        "end": 782
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Perez Inc                           ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 879,
+        "end": 915
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/09/2026     Rogers PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1055,
+        "end": 1080
+      }
+    }
+  ]
+}

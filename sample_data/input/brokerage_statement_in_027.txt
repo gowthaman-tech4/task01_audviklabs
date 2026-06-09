@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Agastya Ray
+Account Number:         5046318794
+PAN:                    MLLHA3139W
+Demat Account:          2594579340745024
+Email:                  michaelom@example.org
+Phone:                  +91 91313 11974
+Correspondence Address: 87, Zachariah Chowk, Arrah 046259
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              247 $    308.80 $    364.24 $   89,967.03 $   13,693.43
+GOOGL    Alphabet Inc.                 54 $    164.23 $    172.83 $    9,333.03 $      464.61
+AMZN     Amazon.com Inc.              388 $    165.90 $    166.72 $   64,687.37 $      318.17
+TSLA     Tesla Inc.                    79 $    175.42 $    242.90 $   19,189.24 $    5,331.06
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  183,176.67
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/26/2026     BUY      TSLA         58 $    467.30 $   27,103.40
+05/18/2026     DIV      MSFT         18 $    123.76 $    2,227.68
+04/03/2026     DIV      AMZN         97 $    374.80 $   36,355.60
+03/19/2026     SELL     AMZN         47 $    266.16 $   12,509.52
+05/06/2026     DIV      TSLA         30 $    245.63 $    7,368.90
+03/16/2026     BUY      MSFT         44 $    153.00 $    6,732.00
+06/07/2026     DIV      GOOGL        26 $    226.46 $    5,887.96
+03/27/2026     SELL     TSLA          2 $    487.57 $      975.14
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

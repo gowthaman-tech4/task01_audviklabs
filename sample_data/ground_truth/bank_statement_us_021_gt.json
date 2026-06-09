@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_021.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tina Jones",
+      "start": 352,
+      "end": 362
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "889050336151",
+      "start": 382,
+      "end": 394
+    },
+    {
+      "type": "SSN",
+      "value": "110-12-5950",
+      "start": 414,
+      "end": 425
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-770-575-5842",
+      "start": 445,
+      "end": 460
+    },
+    {
+      "type": "EMAIL",
+      "value": "millertracy@example.net",
+      "start": 480,
+      "end": 503
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/05/1961",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7234 Sanchez Hills, Harrisonfurt, ND 65149",
+      "start": 553,
+      "end": 595
+    }
+  ]
+}

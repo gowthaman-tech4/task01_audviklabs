@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_us_029.txt",
+  "timestamp": "2026-06-09T07:55:14.067290",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Travis Morgan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "449364507969",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "680 Brittany Forge Apt. 067, Hannahmouth, FL 37266",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 343
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(227)385-7341",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 364,
+        "end": 377
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "james06@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 398,
+        "end": 417
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Patterson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 840,
+        "end": 849
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 903,
+        "end": 910
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Clark",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 970,
+        "end": 975
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nelson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1155,
+        "end": 1161
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Stewart",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1163,
+        "end": 1170
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Billing Address",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 276,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/09/2026     Hoffman Group                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1210,
+        "end": 1261
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Schwartz-Scott                      ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1288,
+        "end": 1324
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Johnson-Hernandez                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1351,
+        "end": 1387
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Calhoun-Johnson                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1540,
+        "end": 1576
+      }
+    }
+  ]
+}

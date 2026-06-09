@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_015.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jeffery Phillips Jr.",
+      "start": 280,
+      "end": 300
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5980608376",
+      "start": 325,
+      "end": 335
+    },
+    {
+      "type": "SSN",
+      "value": "215-58-6684",
+      "start": 360,
+      "end": 371
+    },
+    {
+      "type": "EMAIL",
+      "value": "schultzbradley@example.org",
+      "start": 396,
+      "end": 422
+    },
+    {
+      "type": "PHONE",
+      "value": "684-990-1764x29597",
+      "start": 447,
+      "end": 465
+    },
+    {
+      "type": "ADDRESS",
+      "value": "50591 Rachael Harbors, Cannonchester, FM 87355",
+      "start": 490,
+      "end": 536
+    }
+  ]
+}

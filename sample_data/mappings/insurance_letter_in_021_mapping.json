@@ -1,0 +1,226 @@
+{
+  "document": "insurance_letter_in_021.txt",
+  "timestamp": "2026-06-09T07:55:20.038057",
+  "total_entities_masked": 16,
+  "entity_type_counts": {
+    "POLICY_NUMBER": 1,
+    "PERSON_NAME": 7,
+    "DATE_OF_BIRTH": 2,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 2,
+    "PAN": 1,
+    "AADHAAR": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[POLICY_NUMBER_001]",
+      "original": "POL-6410038",
+      "type": "POLICY_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 237,
+        "end": 248
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Yashvi Naidu",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 315,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 451,
+        "end": 462
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Girish Mani",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 484,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "01/06/1966",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 516,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "338278",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 578,
+        "end": 584
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 65260 19631",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 605,
+        "end": 620
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "nitara91@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 641,
+        "end": 661
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "XCDAG5425S",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 682,
+        "end": 692
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2706 1772 6358",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 713,
+        "end": 727
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 741,
+        "end": 752
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Amruta Borah",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 774,
+        "end": 786
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/04/1959",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 836,
+        "end": 846
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 859,
+        "end": 870
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sum Assured",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 872,
+        "end": 883
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "claims@globalshieldinsurance.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 1375,
+        "end": 1407
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "BHARATH LIFE INSURANCE LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 75,
+        "end": 101
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "EXCLUSIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1139,
+        "end": 1149
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "claim",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1359,
+        "end": 1364
+      }
+    }
+  ]
+}

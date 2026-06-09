@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_028.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Alexander Mccoy",
+      "start": 280,
+      "end": 295
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2535379806",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "type": "SSN",
+      "value": "444-63-8533",
+      "start": 355,
+      "end": 366
+    },
+    {
+      "type": "EMAIL",
+      "value": "huntermichael@example.net",
+      "start": 391,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "(730)309-1578",
+      "start": 441,
+      "end": 454
+    },
+    {
+      "type": "ADDRESS",
+      "value": "42056 Kimberly Passage, Walshtown, ME 59499",
+      "start": 479,
+      "end": 522
+    }
+  ]
+}

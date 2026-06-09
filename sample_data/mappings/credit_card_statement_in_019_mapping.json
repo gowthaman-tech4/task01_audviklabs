@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_in_019.txt",
+  "timestamp": "2026-06-09T07:55:04.803893",
+  "total_entities_masked": 5,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jalsa Luthra",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "469966650070",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "232490",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 321,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 87846 36960",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "snayar@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 401
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Billing Address",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 276,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Mane Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 306,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Sharma",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 762,
+        "end": 768
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Krishnan",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 825,
+        "end": 833
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bobal PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1392,
+        "end": 1401
+      }
+    }
+  ]
+}

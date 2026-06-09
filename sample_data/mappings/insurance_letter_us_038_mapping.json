@@ -1,0 +1,225 @@
+{
+  "document": "insurance_letter_us_038.txt",
+  "timestamp": "2026-06-09T07:55:30.475354",
+  "total_entities_masked": 15,
+  "entity_type_counts": {
+    "POLICY_NUMBER": 1,
+    "PERSON_NAME": 7,
+    "DATE_OF_BIRTH": 2,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 2,
+    "SSN": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[POLICY_NUMBER_001]",
+      "original": "POL-9782998",
+      "type": "POLICY_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 237,
+        "end": 248
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Joseph Beck",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 312,
+        "end": 323
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 447,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Michael Jenkins",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "01/09/1966",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 516,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "3331 Joann Grove Apt. 539, Danielburgh, FM 15797",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 595
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "699.285.0536",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 616,
+        "end": 628
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "christine97@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 649,
+        "end": 672
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "276-09-8633",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 693,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 718,
+        "end": 729
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "William Williams MD",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 751,
+        "end": 770
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/03/1984",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 818,
+        "end": 828
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 841,
+        "end": 852
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sum Assured",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 854,
+        "end": 865
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "claims@globalshieldinsurance.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 1352,
+        "end": 1384
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GLOBAL SHIELD INSURANCE CO.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 75,
+        "end": 102
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "EXCLUSIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1074
+      }
+    },
+    {
+      "placeholder": "[EMAIL_004]",
+      "original": "istin",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1223,
+        "end": 1228
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "claim",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1284,
+        "end": 1289
+      }
+    }
+  ]
+}

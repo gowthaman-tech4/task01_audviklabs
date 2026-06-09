@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Ikbal Nazareth
+Card Number:        4541-5229-6662-7409
+Billing Address:    13/06, Ghosh Circle, Avadi 210349
+Phone:              +91 66796 38390
+Email:              mannprisha@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   June 27, 2026
+Credit Limit:       $   30,897.43
+Previous Balance:   $    5,081.50
+Payments Received:  $    4,694.73
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/21/2026     Jaggi, Barad and Gade               $  1,654.69
+05/20/2026     Patil-Bajaj                         $  1,473.07
+05/13/2026     Patla, Chand and Morar              $    794.99
+05/24/2026     Rajagopal and Sons                  $    761.88
+05/14/2026     Bassi PLC                           $    963.75
+05/11/2026     Kamdar LLC                          $     72.35
+05/09/2026     Pau, Shetty and Mahal               $    236.50
+05/19/2026     Brar and Sons                       $    147.52
+05/09/2026     Ganguly Inc                         $  1,804.74
+05/14/2026     Zachariah, Kaul and Agrawal         $    382.69
+05/24/2026     Gokhale Group                       $    771.37
+05/16/2026     Sawhney Group                       $  1,122.28
+
+-------------------------------------------------------------
+Total Charges:      $   10,185.83
+New Balance:        $   10,572.60
+Minimum Payment:    $      211.45
+
+============================================================

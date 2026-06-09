@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_024.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "82/79, Bhatti Nagar, Rajkot-032653",
+      "start": 372,
+      "end": 406
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nicholas Dhar",
+      "start": 424,
+      "end": 437
+    },
+    {
+      "type": "PAN",
+      "value": "MZXCR7258Y",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5183 2117 6136",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/30/2001",
+      "start": 493,
+      "end": 503
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 59, Samra, Alappuzha-804913",
+      "start": 513,
+      "end": 546
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 88455 93616",
+      "start": 554,
+      "end": 569
+    },
+    {
+      "type": "EMAIL",
+      "value": "anirudh28@example.org",
+      "start": 577,
+      "end": 598
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "71594422486098",
+      "start": 863,
+      "end": 877
+    }
+  ]
+}

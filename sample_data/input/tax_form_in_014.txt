@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sidhu and Sons
+TAN of the Deductor:    CMGY23029U
+Address:                504, Sachdev, Etawah 083512
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Zarna Bawa
+PAN of the Employee:    PJNPB5230Y
+Aadhaar Number:         3557 3974 4842
+Date of Birth:          08/06/2003
+Address:                H.No. 637, Tata Road, Pimpri-Chinchwad-929160
+Email:                  chaitanya92@example.com
+Mobile:                 91 75300 58889
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,658,664.35
+   (b) Value of perquisites u/s 17(2)  Rs.      28,653.16
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     199,039.72
+   (b) LTA Exemption                   Rs.      20,108.75
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,409,624.63
+5. Tax on Total Income                 Rs.     281,924.93
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      11,277.00
+8. Total Tax Payable                   Rs.     293,201.92
+
+============================================================

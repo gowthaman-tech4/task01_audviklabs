@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_014.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "215-52-7595",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "30-5451803",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Morales and Sons",
+      "start": 353,
+      "end": 369
+    },
+    {
+      "type": "ADDRESS",
+      "value": "61904 Gill Plains, West Matthew, DC 90964",
+      "start": 373,
+      "end": 414
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Amy Smith",
+      "start": 438,
+      "end": 447
+    },
+    {
+      "type": "ADDRESS",
+      "value": "54889 Stone Loop, West Jessicaborough, WA 85751",
+      "start": 487,
+      "end": 534
+    }
+  ]
+}

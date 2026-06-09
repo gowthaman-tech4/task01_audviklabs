@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_us_017.txt",
+  "timestamp": "2026-06-09T07:55:12.019164",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Mrs. Sarah Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "421200712356",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "131 Daniel Wells, Lake Julian, NJ 12078",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 296,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "5778741792",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "conwayamy@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "James",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 774,
+        "end": 779
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Gibson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 970
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Garcia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 975,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Garcia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1089
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Miller",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1091,
+        "end": 1097
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Gordon Inc                          ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 871,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Bauer",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 934,
+        "end": 939
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Butler-Cummings                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1167,
+        "end": 1203
+      }
+    }
+  ]
+}

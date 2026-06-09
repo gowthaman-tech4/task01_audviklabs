@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_005.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Meghana Rout",
+      "start": 348,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9441190772",
+      "start": 380,
+      "end": 390
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "BARB0358313",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PAN",
+      "value": "FQPLG2334R",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "91 69567 00784",
+      "start": 471,
+      "end": 485
+    },
+    {
+      "type": "EMAIL",
+      "value": "mannejai@example.org",
+      "start": 505,
+      "end": 525
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/13/1960",
+      "start": 545,
+      "end": 555
+    },
+    {
+      "type": "ADDRESS",
+      "value": "56/79, Gera Path, Latur 997345",
+      "start": 575,
+      "end": 605
+    }
+  ]
+}

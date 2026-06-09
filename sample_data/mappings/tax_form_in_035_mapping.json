@@ -1,0 +1,225 @@
+{
+  "document": "tax_form_in_035.txt",
+  "timestamp": "2026-06-09T08:04:26.859988",
+  "total_entities_masked": 15,
+  "entity_type_counts": {
+    "PERSON_NAME": 8,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sule",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 348,
+        "end": 352
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Kale",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 354,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Tailor",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 363,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "23/309, Khosla Circle, Medininagar 028192",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 429,
+        "end": 470
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 485,
+        "end": 496
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Quincy Dutt",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 522,
+        "end": 533
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "YFBFH0308F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 558,
+        "end": 568
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "3891 1815 7909",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 593,
+        "end": 607
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "18/01/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 632,
+        "end": 642
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "512213",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 699,
+        "end": 705
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "trivediveer@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 730,
+        "end": 753
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 89785 49073",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 778,
+        "end": 793
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 806,
+        "end": 817
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 822,
+        "end": 834
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_010]",
+      "original": "Shukla Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 712,
+        "end": 725
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Arrah",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 727,
+        "end": 732
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1090,
+        "end": 1124
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1203,
+        "end": 1231
+      }
+    }
+  ]
+}

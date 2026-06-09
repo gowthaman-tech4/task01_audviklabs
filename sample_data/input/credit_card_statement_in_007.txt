@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Zarna Rajagopalan
+Card Number:        4832-9179-9414-4088
+Billing Address:    72/49, Krishnan Road, Ambattur 231639
+Phone:              +91 96551 74752
+Email:              avishankar@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 27, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   29,745.84
+Previous Balance:   $    4,424.99
+Payments Received:  $    1,371.13
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/09/2026     Bhatia, Morar and Mangat            $     41.46
+05/15/2026     Manda, Dhillon and Loke             $    282.70
+05/21/2026     Kuruvilla-Gara                      $  1,014.74
+05/19/2026     Din Ltd                             $  1,626.93
+05/31/2026     Hayre LLC                           $    374.65
+05/26/2026     Suri-Ravi                           $    568.56
+06/06/2026     Nair Inc                            $    529.85
+05/12/2026     Khalsa LLC                          $  1,150.05
+05/13/2026     Tailor, Rajagopal and Yohannan      $  1,674.79
+05/29/2026     Chandran-Loyal                      $  1,440.27
+05/18/2026     Gaba Ltd                            $    856.14
+05/12/2026     Chaudhari Ltd                       $    453.50
+05/25/2026     Sen, Samra and Thaman               $  1,683.94
+06/03/2026     Talwar-Sridhar                      $    831.04
+05/31/2026     Pal, Kurian and Sarin               $  1,251.23
+
+-------------------------------------------------------------
+Total Charges:      $   13,779.85
+New Balance:        $   16,833.71
+Minimum Payment:    $      336.67
+
+============================================================

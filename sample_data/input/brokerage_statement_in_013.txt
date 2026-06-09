@@ -1,0 +1,47 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Kiaan Pandya
+Account Number:         1761942384
+PAN:                    OOUTK0118H
+Demat Account:          8145815672567133
+Email:                  saraftara@example.com
+Phone:                  91 71530 34724
+Correspondence Address: H.No. 66, Menon Path, Madurai 212963
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              465 $    270.07 $    384.75 $  178,910.79 $   53,328.24
+NVDA     NVIDIA Corp.                 235 $    831.55 $    816.56 $  191,890.66 $   -3,523.59
+AMZN     Amazon.com Inc.               77 $    133.21 $    179.73 $   13,839.01 $    3,581.84
+META     Meta Platforms Inc.          450 $    352.74 $    458.90 $  206,502.84 $   47,769.84
+TSLA     Tesla Inc.                   450 $    187.42 $    205.48 $   92,464.34 $    8,125.34
+JPM      JPMorgan Chase & Co.         264 $    156.34 $    187.79 $   49,576.61 $    8,302.85
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  733,184.25
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/26/2026     BUY      JPM          92 $    352.87 $   32,464.04
+06/03/2026     BUY      TSLA         33 $    249.89 $    8,246.37
+03/24/2026     BUY      JPM          89 $     84.87 $    7,553.43
+04/13/2026     SELL     AMZN         33 $     69.80 $    2,303.40
+04/25/2026     BUY      MSFT         13 $    120.72 $    1,569.36
+04/25/2026     SELL     TSLA         11 $    207.32 $    2,280.52
+04/30/2026     DIV      JPM          45 $    162.45 $    7,310.25
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

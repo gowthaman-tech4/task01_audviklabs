@@ -1,0 +1,46 @@
+============================================================
+          [ORGANIZATION_009].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [ACCOUNT_NUMBER_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 840, [PERSON_NAME_002], Amritsar-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_008]           6 $    161.14 $    206.49 $    1,238.92 $      272.08
+MSFT     [ORGANIZATION_007]                5 $    383.75 $    372.63 $    1,863.13 $      -55.62
+TSLA     [ORGANIZATION_006]                   150 $    190.13 $    201.69 $   30,252.83 $    1,733.33
+[ORGANIZATION_005]           34 $    368.27 $    425.48 $   14,466.28 $    1,945.10
+[ORGANIZATION_004]                 325 $    848.21 $    829.87 $  269,707.98 $   -5,960.27
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  317,529.14
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/16/2026     SELL     [ORGANIZATION_003]         35 $    194.43 $    6,805.05
+04/13/2026     DIV      [ORGANIZATION_002]         77 $    226.13 $   17,412.01
+04/14/2026     DIV      JPM          27 $    423.77 $   11,441.79
+05/24/2026     DIV      [ORGANIZATION_001]         46 $    308.21 $   14,177.66
+04/02/2026     BUY      TSLA         10 $    488.13 $    4,881.30
+05/11/2026     DIV      NVDA         25 $    179.85 $    4,496.25
+04/11/2026     DIV      MSFT         71 $    271.77 $   19,295.67
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

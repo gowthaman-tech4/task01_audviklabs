@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_040.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mitesh Upadhyay",
+      "start": 315,
+      "end": 330
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Qabil Boase",
+      "start": 487,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/06/1995",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "82/809, Shukla Marg, Barasat-030860",
+      "start": 550,
+      "end": 585
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 70496 70679",
+      "start": 606,
+      "end": 621
+    },
+    {
+      "type": "EMAIL",
+      "value": "madhavvaidya@example.org",
+      "start": 642,
+      "end": 666
+    },
+    {
+      "type": "PAN",
+      "value": "SNNPS3653W",
+      "start": 687,
+      "end": 697
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9003 5875 3730",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Krishna Morar",
+      "start": 779,
+      "end": 792
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/10/1952",
+      "start": 840,
+      "end": 850
+    }
+  ]
+}

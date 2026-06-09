@@ -1,0 +1,135 @@
+{
+  "document": "credit_card_statement_in_025.txt",
+  "timestamp": "2026-06-09T07:55:06.023995",
+  "total_entities_masked": 5,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Tripti Brar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "414882575954",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "73/886, Chopra Marg, Bhiwandi 095973",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 95072 59933",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "haurora@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 403
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Billing Address",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 276,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Reddy PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 734,
+        "end": 743
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "06/07/2026     Sandal Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 782,
+        "end": 809
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Kunda-Kaur",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 923,
+        "end": 933
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Manda",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1175,
+        "end": 1180
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1509,
+        "end": 1520
+      }
+    }
+  ]
+}

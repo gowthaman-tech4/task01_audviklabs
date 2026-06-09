@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_011.txt",
+  "timestamp": "2026-06-09T07:55:43.261132",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "441190",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "9148 Willis Inlet Suite 099, New Kathleenport, PW 81385",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 375,
+        "end": 430
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Tiffany Chandler",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 448,
+        "end": 464
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "388-69-5340",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 470,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/30/1999",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 497,
+        "end": 507
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "79859 Alan Courts Suite 754, Dawnchester, HI 95401",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 517,
+        "end": 567
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "556.251.1334",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 575,
+        "end": 587
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "jasonwilliams@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 595,
+        "end": 620
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Elizabeth Bates",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 657,
+        "end": 672
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-614-372-9947x99279",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 680,
+        "end": 702
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "scottjoseph@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 710,
+        "end": 733
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "30995097975537",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 997,
+        "end": 1011
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 372
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 969
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 974,
+        "end": 984
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 997,
+        "end": 1005
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1265,
+        "end": 1273
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1364,
+        "end": 1370
+      }
+    }
+  ]
+}

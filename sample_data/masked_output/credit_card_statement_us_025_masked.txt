@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-0051
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 05, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   42,430.61
+Previous Balance:   $    5,482.32
+Payments Received:  $    4,159.79
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Tucker-Gillespie                    $     86.17
+05/20/2026     [ORGANIZATION_003]                  $  1,673.63
+06/03/2026     [PERSON_NAME_005], [PERSON_NAME_004] and [PERSON_NAME_003]          $  1,652.21
+06/03/2026     [ORGANIZATION_002]$    135.21
+05/17/2026     Gardner-Vazquez                     $  1,087.92
+05/17/2026     [ORGANIZATION_001]                        $    848.98
+05/19/2026     Allen, [PERSON_NAME_002] and [PERSON_NAME_001]          $  1,822.44
+06/06/2026     Wallace Ltd                         $  1,991.87
+
+-------------------------------------------------------------
+Total Charges:      $    9,298.43
+New Balance:        $   10,620.96
+Minimum Payment:    $      212.42
+
+============================================================

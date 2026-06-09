@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Ratti-Karnik
+TAN of the Deductor:    VVFU86411M
+Address:                973, Rajagopal Zila, North Dumdum-515502
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Janani Savant
+PAN of the Employee:    WZJGW3183R
+Aadhaar Number:         2731 2961 7310
+Date of Birth:          16/08/2001
+Address:                32/37, Dugar Chowk, Nellore 613023
+Email:                  omdayamai@example.org
+Mobile:                 91 70325 05333
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.     483,784.55
+   (b) Value of perquisites u/s 17(2)  Rs.      22,776.08
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.      58,054.15
+   (b) LTA Exemption                   Rs.      23,097.67
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     375,730.40
+5. Tax on Total Income                 Rs.      75,146.08
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       3,005.84
+8. Total Tax Payable                   Rs.      78,151.92
+
+============================================================

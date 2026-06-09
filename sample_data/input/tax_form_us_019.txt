@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   480-76-9293
+
+b  Employer Identification Number (EIN)
+   54-4946829
+
+c  Employer's Name, Address, and ZIP Code
+   Watson, Bradley and Young
+   263 Lisa Manor Suite 969, West Elizabeth, MD 69667
+
+e  Employee's Name
+   Mandy Neal
+
+f  Employee's Address and ZIP Code
+   599 Hernandez Manor Suite 828, Christopherton, IL 36738
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  209,766.28
+2  Federal income tax withheld         $   54,023.82
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  209,766.28
+6  Medicare tax withheld               $    3,041.61
+
+12a Code DD - Health Insurance          $    9,800.93
+
+--- STATE TAX INFORMATION ---
+
+15 State: MI
+16 State wages                         $  209,766.28
+17 State income tax                    $   17,707.99
+
+============================================================

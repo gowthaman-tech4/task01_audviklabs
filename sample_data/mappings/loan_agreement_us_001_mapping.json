@@ -1,0 +1,181 @@
+{
+  "document": "loan_agreement_us_001.txt",
+  "timestamp": "2026-06-09T07:55:41.047893",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "528719",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "2777 Justin Underpass Suite 513, Millsside, AL 90694",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 372,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ashley Avila",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 442,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "553-85-7202",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 460,
+        "end": 471
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/23/1991",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 487,
+        "end": 497
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "2971 Whitney Turnpike, New Angela, FM 62282",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 507,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(694)742-1558",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 558,
+        "end": 571
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "markjones@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 579,
+        "end": 600
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "27319400617435",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 861,
+        "end": 875
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 866,
+        "end": 871
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 876,
+        "end": 886
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 899,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1169,
+        "end": 1177
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1268,
+        "end": 1274
+      }
+    }
+  ]
+}

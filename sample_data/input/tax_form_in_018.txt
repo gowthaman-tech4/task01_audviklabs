@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Lalla Inc
+TAN of the Deductor:    CGOY17414U
+Address:                56/26, Chakraborty Marg, Bharatpur 663432
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Yatin Raj
+PAN of the Employee:    XRDGV5749X
+Aadhaar Number:         5821 8276 4033
+Date of Birth:          21/09/1997
+Address:                H.No. 65, Ramachandran Marg, Raebareli 995185
+Email:                  murthysara@example.org
+Mobile:                 +91 97387 46885
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,422,169.57
+   (b) Value of perquisites u/s 17(2)  Rs.      29,672.17
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     290,660.35
+   (b) LTA Exemption                   Rs.      27,736.98
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   2,081,509.22
+5. Tax on Total Income                 Rs.     416,301.84
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      16,652.07
+8. Total Tax Payable                   Rs.     432,953.92
+
+============================================================

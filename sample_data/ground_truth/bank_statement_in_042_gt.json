@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_042.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Bina Bahl",
+      "start": 341,
+      "end": 350
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "587776280984",
+      "start": 370,
+      "end": 382
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "SBIN0339350",
+      "start": 402,
+      "end": 413
+    },
+    {
+      "type": "PAN",
+      "value": "YKHGO3855N",
+      "start": 433,
+      "end": 443
+    },
+    {
+      "type": "PHONE",
+      "value": "91 98392 50896",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "type": "EMAIL",
+      "value": "om76@example.net",
+      "start": 497,
+      "end": 513
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/12/1957",
+      "start": 533,
+      "end": 543
+    },
+    {
+      "type": "ADDRESS",
+      "value": "69, Sama, Farrukhabad 044576",
+      "start": 563,
+      "end": 591
+    }
+  ]
+}

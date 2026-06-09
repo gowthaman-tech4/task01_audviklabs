@@ -1,0 +1,60 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 23, 2026 to June 02, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_004]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Whiteview Branch
+Opening Balance:   $81,662.37
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/13/2026     POS Purchase - Simmons, [ORGANIZATION_002] and [PERSON_NAME_003]                  4,184.51      85,846.88
+05/20/2026     Check #8847                               366.68                   85,480.20
+05/23/2026     Online Transfer to [ACCOUNT_NUMBER_004]                          3,942.75      89,422.95
+05/22/2026     UPI Transfer                              922.33                   88,500.62
+05/18/2026     Online Transfer to [ACCOUNT_NUMBER_003]                            196.46      88,697.08
+05/26/2026     Direct Deposit - UMU Corp               1,772.31                   86,924.77
+05/17/2026     Interest Credit                                      2,645.76      89,570.53
+05/23/2026     Direct Deposit - JDE Corp                            2,901.43      92,471.96
+06/06/2026     Online Transfer to [ACCOUNT_NUMBER_002]             3,143.80                   89,328.16
+05/13/2026     POS [ORGANIZATION_001]                 632.61                   88,695.55
+05/30/2026     NEFT Transfer                                        4,906.40      93,601.95
+05/23/2026     NEFT Transfer                                        4,033.19      97,635.14
+05/16/2026     Online Transfer to [ACCOUNT_NUMBER_001]               979.82                   96,655.32
+06/06/2026     Check #6731                               927.02                   95,728.30
+06/03/2026     Interest Credit                                        925.63      96,653.93
+05/25/2026     UPI Transfer                            2,073.74                   94,580.19
+05/09/2026     Interest Credit                         1,058.02                   93,522.17
+06/01/2026     POS [PERSON_NAME_002], [PERSON_NAME_001] and Mendez     4,885.85                   88,636.32
+05/25/2026     Bill Payment - Utility                  2,872.39                   85,763.93
+05/27/2026     Bill Payment - Utility                               3,428.68      89,192.61
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $89,192.61
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

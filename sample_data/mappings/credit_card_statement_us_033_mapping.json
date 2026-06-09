@@ -1,0 +1,278 @@
+{
+  "document": "credit_card_statement_us_033.txt",
+  "timestamp": "2026-06-09T07:55:14.763657",
+  "total_entities_masked": 16,
+  "entity_type_counts": {
+    "PERSON_NAME": 12,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_012]",
+      "original": "Nathan Stark",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "485418212987",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "594 Brandt Neck, Melissafurt, ND 85974",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 292,
+        "end": 330
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(580)528-2496",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "elizabeth62@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 385,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_011]",
+      "original": "Webster",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 974
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_010]",
+      "original": "Castro",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 979,
+        "end": 985
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Flynn",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1020,
+        "end": 1025
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Chang",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1088
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Evans",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1090,
+        "end": 1095
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Oliver             ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1100,
+        "end": 1119
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Kennedy",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1146,
+        "end": 1153
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Baker",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1155,
+        "end": 1160
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1345,
+        "end": 1350
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Romero-Garcia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1461,
+        "end": 1474
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Morris",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1650,
+        "end": 1656
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Adams-Pena                          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 832
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "05/13/2026     Aguirre Inc",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 844,
+        "end": 870
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Garrison         $  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1037,
+        "end": 1057
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Osborn-Padilla                      ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1314,
+        "end": 1350
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Sanchez-Mcclain                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1452,
+        "end": 1488
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "06/07/2026     Hall-Sampson                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1567,
+        "end": 1618
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Ross-Valenzuela                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1645,
+        "end": 1681
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Eaton",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1727,
+        "end": 1732
+      }
+    }
+  ]
+}

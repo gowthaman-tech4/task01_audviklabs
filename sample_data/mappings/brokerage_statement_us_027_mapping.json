@@ -1,0 +1,113 @@
+{
+  "document": "brokerage_statement_us_027.txt",
+  "timestamp": "2026-06-09T07:54:58.008848",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Michael Blackwell",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 297
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "1778684724",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 322,
+        "end": 332
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "150-84-5478",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 357,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "elizabeth47@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 393,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-233-670-5694x23689",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 441,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "47429 Sanford Views Apt. 889, Torresburgh, WY 97220",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 488,
+        "end": 539
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 716
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 909
+      }
+    }
+  ]
+}

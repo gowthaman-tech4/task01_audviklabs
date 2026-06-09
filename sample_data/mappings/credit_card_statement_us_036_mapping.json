@@ -1,0 +1,135 @@
+{
+  "document": "credit_card_statement_us_036.txt",
+  "timestamp": "2026-06-09T07:55:15.328872",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Tiffany Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "448602694948",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "550 Hoffman Trail, Eduardohaven, KY 36649",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 296,
+        "end": 337
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-227-586-2106x0550",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 358,
+        "end": 379
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jeremy07@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 400,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Mayer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1221,
+        "end": 1226
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Webster",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1284,
+        "end": 1291
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Alvarez",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1293,
+        "end": 1300
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Rogers-Franklin                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 769
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Martin-Daniel                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 832
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/27/2026     Sexton PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1380,
+        "end": 1405
+      }
+    }
+  ]
+}

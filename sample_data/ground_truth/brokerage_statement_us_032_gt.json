@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_032.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Lisa Wright",
+      "start": 280,
+      "end": 291
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0132122232",
+      "start": 316,
+      "end": 326
+    },
+    {
+      "type": "SSN",
+      "value": "159-50-9428",
+      "start": 351,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "hernandezluke@example.com",
+      "start": 387,
+      "end": 412
+    },
+    {
+      "type": "PHONE",
+      "value": "(513)273-3050",
+      "start": 437,
+      "end": 450
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3711 Mcpherson Dam, North Brianna, ID 84518",
+      "start": 475,
+      "end": 518
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_038.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Antonio Ponce",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2090432132",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "258-41-5136",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "corey74@example.com",
+      "start": 389,
+      "end": 408
+    },
+    {
+      "type": "PHONE",
+      "value": "3422054255",
+      "start": 433,
+      "end": 443
+    },
+    {
+      "type": "ADDRESS",
+      "value": "341 Nichole Springs Suite 606, Port Bobbyberg, PA 03102",
+      "start": 468,
+      "end": 523
+    }
+  ]
+}

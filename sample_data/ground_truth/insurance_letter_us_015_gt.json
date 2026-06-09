@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_015.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Courtney Herrera",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Robert Martin",
+      "start": 485,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/06/1996",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 2062 Box 7222, DPO AE 07846",
+      "start": 550,
+      "end": 582
+    },
+    {
+      "type": "PHONE",
+      "value": "(339)228-1891",
+      "start": 603,
+      "end": 616
+    },
+    {
+      "type": "EMAIL",
+      "value": "anthony17@example.com",
+      "start": 637,
+      "end": 658
+    },
+    {
+      "type": "SSN",
+      "value": "649-72-2304",
+      "start": 679,
+      "end": 690
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brandon Christensen",
+      "start": 737,
+      "end": 756
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/31/2022",
+      "start": 806,
+      "end": 816
+    }
+  ]
+}

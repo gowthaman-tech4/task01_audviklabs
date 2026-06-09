@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_036.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Daniel Benson",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3518620875",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "414-14-0035",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "craigkenneth@example.org",
+      "start": 389,
+      "end": 413
+    },
+    {
+      "type": "PHONE",
+      "value": "(989)684-1042x3450",
+      "start": 438,
+      "end": 456
+    },
+    {
+      "type": "ADDRESS",
+      "value": "83507 Jennifer Points, Coffeychester, FL 42651",
+      "start": 481,
+      "end": 527
+    }
+  ]
+}

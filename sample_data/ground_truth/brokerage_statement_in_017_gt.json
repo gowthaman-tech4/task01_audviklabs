@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_017.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekanta Seth",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8743099793",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "UZNHQ9648R",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6568359638209353",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "rajagopalananamika@example.org",
+      "start": 430,
+      "end": 460
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 69127 72202",
+      "start": 485,
+      "end": 500
+    },
+    {
+      "type": "ADDRESS",
+      "value": "53, Ganesh Circle, Sasaram 936289",
+      "start": 525,
+      "end": 558
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2838402
+Policy Type: Health Insurance
+Date of Issue: August 30, 2025
+
+Dear Samantha Rodriguez,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          David Faulkner
+Date of Birth:      07/23/1973
+Address:            34905 Sheri Lane Suite 486, South Michaelmouth, OR 60169
+Phone:              (584)799-0125x707
+Email:              debralee@example.org
+SSN:                190-31-2690
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Dr. Mary Meza
+Relationship:       Spouse
+Nominee DOB:        02/28/2013
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,511,970.60
+Annual Premium:     $     19,025.02
+Policy Term:        20 years
+Premium Payment:    Monthly
+Risk Commencement:  March 03, 2026
+Maturity Date:      November 26, 2041
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

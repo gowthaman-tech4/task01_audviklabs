@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_039.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Darika Prakash",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Naksh Konda",
+      "start": 483,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/23/1985",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "875, Seshadri Nagar, Serampore 988852",
+      "start": 546,
+      "end": 583
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 86981 82963",
+      "start": 604,
+      "end": 619
+    },
+    {
+      "type": "EMAIL",
+      "value": "umang70@example.org",
+      "start": 640,
+      "end": 659
+    },
+    {
+      "type": "PAN",
+      "value": "XNSPO2557R",
+      "start": 680,
+      "end": 690
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7120 2967 0221",
+      "start": 711,
+      "end": 725
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Keya Agate",
+      "start": 772,
+      "end": 782
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/22/1953",
+      "start": 830,
+      "end": 840
+    }
+  ]
+}

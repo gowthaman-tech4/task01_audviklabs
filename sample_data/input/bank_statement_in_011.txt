@@ -1,0 +1,51 @@
+============================================================
+                    Deccan Gramin Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 26, 2026 to May 25, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Onkar Pal
+Account Number:    012699835448
+IFSC Code:         ICIC0861522
+PAN:               UEKAA0686J
+Phone:             91 80092 43827
+Email:             calebparmar@example.org
+Date of Birth:     09/13/1994
+Address:           72/362, Jha Road, Siwan-386300
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Aizawl Branch
+Opening Balance:   $30,284.35
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/03/2026     NEFT Transfer                           2,195.23                   28,089.12
+05/13/2026     UPI Transfer                                         4,257.29      32,346.41
+06/04/2026     Online Transfer to 50772260                          3,535.19      35,881.60
+06/02/2026     Bill Payment - Utility                     78.19                   35,803.41
+05/20/2026     POS Purchase - Prabhakar, Sidhu and Dyal     1,557.17                   34,246.24
+06/05/2026     Check #1691                                          2,991.24      37,237.48
+05/30/2026     POS Purchase - Bhagat-Bhardwaj                       1,754.37      38,991.85
+05/22/2026     Direct Deposit - ECI Corp                            1,661.19      40,653.04
+06/05/2026     Check #3636                               571.84                   40,081.20
+05/12/2026     Service Charge                          4,474.35                   35,606.85
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $35,606.85
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Deccan Gramin Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

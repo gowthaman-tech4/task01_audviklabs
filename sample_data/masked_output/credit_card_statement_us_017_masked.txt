@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-7332
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 27, 2026
+Payment Due Date:   June 27, 2026
+Credit Limit:       $   43,465.17
+Previous Balance:   $   14,737.01
+Payments Received:  $    3,116.58
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/21/2026     Hall, [PERSON_NAME_005] and Lester              $    684.14
+05/14/2026     Lucero Inc                          $  1,297.36
+05/26/2026     [PERSON_NAME_007]$  1,300.72
+06/01/2026     [ORGANIZATION_002], [PERSON_NAME_004] and [PERSON_NAME_003]            $    325.33
+05/30/2026     Adams-Roy                           $     72.56
+06/03/2026     [PERSON_NAME_002], [PERSON_NAME_001] and Moses            $  1,332.64
+05/30/2026     [ORGANIZATION_001]$    168.02
+
+-------------------------------------------------------------
+Total Charges:      $    5,180.77
+New Balance:        $   16,801.20
+Minimum Payment:    $      336.02
+
+============================================================

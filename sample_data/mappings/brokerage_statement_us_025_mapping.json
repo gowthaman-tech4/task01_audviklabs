@@ -1,0 +1,190 @@
+{
+  "document": "brokerage_statement_us_025.txt",
+  "timestamp": "2026-06-09T07:54:57.513679",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Robin Sanders",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "8326839044",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "632-90-4746",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 353,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "racheldavis@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 412
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(941)737-3758x4689",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 437,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "USNV Barber, FPO AP 78591",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_010]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_009]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 721
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 829
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 979,
+        "end": 998
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1073,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1167,
+        "end": 1191
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1629,
+        "end": 1633
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1893,
+        "end": 1897
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2091,
+        "end": 2095
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2157,
+        "end": 2161
+      }
+    }
+  ]
+}

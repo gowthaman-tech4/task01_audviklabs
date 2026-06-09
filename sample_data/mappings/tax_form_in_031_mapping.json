@@ -1,0 +1,225 @@
+{
+  "document": "tax_form_in_031.txt",
+  "timestamp": "2026-06-09T08:03:14.997806",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "839869",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 444
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 459,
+        "end": 470
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Warjas Ratti",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 496,
+        "end": 508
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UUYAT5659M",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 533,
+        "end": 543
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "8051 0168 0846",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 568,
+        "end": 582
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "23/03/1992",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 607,
+        "end": 617
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "179390",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 670,
+        "end": 676
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mchokshi@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 701,
+        "end": 721
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 91133 42626",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 746,
+        "end": 760
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 773,
+        "end": 784
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 789,
+        "end": 801
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Ahuja Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Edwin",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 427,
+        "end": 432
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Bharatpur",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 434,
+        "end": 443
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Gill Street",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 677,
+        "end": 688
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Kumbakonam",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 690,
+        "end": 700
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1058,
+        "end": 1092
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1171,
+        "end": 1199
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Forum Warrior
+Account Number:         3944627349
+PAN:                    UFSJH1873Z
+Demat Account:          0045790141510101
+Email:                  csrinivasan@example.net
+Phone:                  +91 60175 30938
+Correspondence Address: H.No. 77, Krishnamurthy Ganj, Pali 180631
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+NVDA     NVIDIA Corp.                 210 $    806.13 $    897.82 $  188,542.98 $   19,255.68
+META     Meta Platforms Inc.          481 $    429.66 $    530.74 $  255,287.96 $   48,621.50
+AMZN     Amazon.com Inc.              478 $    139.60 $    178.10 $   85,130.03 $   18,401.23
+MSFT     Microsoft Corp.              367 $    298.63 $    369.27 $  135,522.59 $   25,925.38
+GOOGL    Alphabet Inc.                296 $    147.34 $    145.01 $   42,923.89 $     -688.75
+AAPL     Apple Inc.                   417 $    206.68 $    193.39 $   80,643.88 $   -5,541.68
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  788,051.33
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/11/2026     DIV      AAPL          7 $    307.67 $    2,153.69
+03/12/2026     DIV      GOOGL        56 $    108.08 $    6,052.48
+04/27/2026     DIV      NVDA         88 $    451.08 $   39,695.04
+03/18/2026     DIV      AMZN         49 $    310.83 $   15,230.67
+04/28/2026     DIV      MSFT         25 $    420.74 $   10,518.50
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

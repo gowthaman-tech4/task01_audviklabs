@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-448766
+Date of Agreement: April 18, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 9873 Soto Valleys Apt. 819, West Juanton, GU 98622
+
+BORROWER:
+Name: Debbie Ross
+SSN: 293-46-3607
+Date of Birth: 10/28/1961
+Address: 024 Baker Plaza, Erikhaven, NJ 29706
+Phone: 6699698209
+Email: ccaldwell@example.org
+
+CO-BORROWER (if applicable):
+Name: Jose Cortez
+Phone: +1-242-816-7195x195
+Email: tallen@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    207,495.48
+Interest Rate:              13.37% per annum
+Loan Tenure:                120 months
+EMI Amount:                 $      3,143.58
+Disbursement Account No:    70672087453915
+Disbursement Date:          May 14, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 120 equal monthly installments of $3,143.58.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

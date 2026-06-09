@@ -1,0 +1,136 @@
+{
+  "document": "brokerage_statement_us_032.txt",
+  "timestamp": "2026-06-09T07:54:59.145764",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 1,
+    "SSN": 1,
+    "EMAIL": 1,
+    "PHONE": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Lisa Wright",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "0132122232",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 316,
+        "end": 326
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "159-50-9428",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "hernandezluke@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 412
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(513)273-3050",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 437,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "3711 Mcpherson Dam, North Brianna, ID 84518",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 518
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 715,
+        "end": 730
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 828
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 916
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1582,
+        "end": 1586
+      }
+    }
+  ]
+}

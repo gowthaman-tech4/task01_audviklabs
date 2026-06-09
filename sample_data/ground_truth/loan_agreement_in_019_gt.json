@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_019.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 79, Soni, Ramgarh 020780",
+      "start": 374,
+      "end": 404
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Aarav Dewan",
+      "start": 422,
+      "end": 433
+    },
+    {
+      "type": "PAN",
+      "value": "OQLTU1919W",
+      "start": 439,
+      "end": 449
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2456 0837 4824",
+      "start": 459,
+      "end": 473
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/18/1996",
+      "start": 489,
+      "end": 499
+    },
+    {
+      "type": "ADDRESS",
+      "value": "67/746, Salvi Marg, Giridih 192571",
+      "start": 509,
+      "end": 543
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 65016 30778",
+      "start": 551,
+      "end": 566
+    },
+    {
+      "type": "EMAIL",
+      "value": "jacksonbahri@example.com",
+      "start": 574,
+      "end": 598
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Anvi Sharaf",
+      "start": 635,
+      "end": 646
+    },
+    {
+      "type": "PHONE",
+      "value": "91 62276 50451",
+      "start": 654,
+      "end": 668
+    },
+    {
+      "type": "EMAIL",
+      "value": "gaurang75@example.net",
+      "start": 676,
+      "end": 697
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "10452693220058",
+      "start": 957,
+      "end": 971
+    }
+  ]
+}

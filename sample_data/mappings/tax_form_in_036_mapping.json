@@ -1,0 +1,192 @@
+{
+  "document": "tax_form_in_036.txt",
+  "timestamp": "2026-06-09T08:04:42.937606",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Vora-Raja",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 357
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "117608",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 444
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 459,
+        "end": 470
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Tanveer Dhaliwal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 496,
+        "end": 512
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "NLXCC4752R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 537,
+        "end": 547
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2791 0755 2207",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 572,
+        "end": 586
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "19/11/2002",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 611,
+        "end": 621
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "26, Devan Zila, Tinsukia 031084",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 646,
+        "end": 677
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "usolanki@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 702,
+        "end": 722
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 97411 65913",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 747,
+        "end": 762
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 775,
+        "end": 786
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 803
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Yogi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 440
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1038,
+        "end": 1072
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1151,
+        "end": 1179
+      }
+    }
+  ]
+}

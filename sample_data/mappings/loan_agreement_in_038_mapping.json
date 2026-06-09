@@ -1,0 +1,248 @@
+{
+  "document": "loan_agreement_in_038.txt",
+  "timestamp": "2026-06-09T07:55:39.908668",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "792751",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "128208",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 400,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ubika Pant",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 424,
+        "end": 434
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "FESJU6150U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 440,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5456 7985 8917",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 460,
+        "end": 474
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "04/28/2000",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 490,
+        "end": 500
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "649644",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 540,
+        "end": 546
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 93582 42177",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 554,
+        "end": 569
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "jjain@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 577,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Manya Goswami",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 631,
+        "end": 644
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 87795 15267",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 652,
+        "end": 666
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mandalhema@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 674,
+        "end": 696
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "73750698600103",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 961,
+        "end": 975
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Vasa Street",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 397
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Chad Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 548,
+        "end": 557
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1043,
+        "end": 1048
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1053,
+        "end": 1063
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1076,
+        "end": 1084
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1346,
+        "end": 1354
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1445,
+        "end": 1451
+      }
+    }
+  ]
+}

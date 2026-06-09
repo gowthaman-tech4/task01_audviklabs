@@ -1,0 +1,156 @@
+{
+  "document": "tax_form_us_041.txt",
+  "timestamp": "2026-06-09T08:06:04.701526",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "SSN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "'s Social Security Number",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 211,
+        "end": 236
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "221-06-8538",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 240,
+        "end": 251
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "4328745",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 299,
+        "end": 306
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": ", and ZIP Code,    Williams PLC,    13459 Debra Pike, Millerstad, TN 13553",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 335,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "'s Name",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 420,
+        "end": 427
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Victor Hoover",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 431,
+        "end": 444
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "'s Address and ZIP Code",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 457,
+        "end": 480
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "5970 Roth Viaduct Suite 369, West Rhondatown, RI 30385",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 484,
+        "end": 538
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 640,
+        "end": 655
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 693,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 746,
+        "end": 754
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "State",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 891
+      }
+    }
+  ]
+}

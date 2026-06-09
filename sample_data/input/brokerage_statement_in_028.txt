@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Dalaja Chadha
+Account Number:         7848949295
+PAN:                    SQGJL1107H
+Demat Account:          4825471241495951
+Email:                  wnarayan@example.com
+Phone:                  +91 98015 13927
+Correspondence Address: H.No. 182, Rana Ganj, Gaya-703637
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          396 $    364.74 $    479.01 $  189,689.33 $   45,252.29
+MSFT     Microsoft Corp.               33 $    339.15 $    366.72 $   12,101.89 $      909.94
+NVDA     NVIDIA Corp.                 310 $    761.15 $    888.62 $  275,472.11 $   39,515.61
+GOOGL    Alphabet Inc.                302 $    158.20 $    153.34 $   46,307.77 $   -1,468.63
+JPM      JPMorgan Chase & Co.         254 $    198.24 $    204.83 $   52,025.97 $    1,673.01
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  575,597.07
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/16/2026     SELL     NVDA         33 $    278.86 $    9,202.38
+06/03/2026     DIV      META         93 $    150.76 $   14,020.68
+06/04/2026     BUY      JPM          42 $    489.49 $   20,558.58
+04/06/2026     DIV      NVDA         95 $    275.69 $   26,190.55
+04/09/2026     SELL     NVDA         94 $    107.03 $   10,060.82
+05/01/2026     SELL     META          6 $    329.42 $    1,976.52
+03/11/2026     SELL     GOOGL        17 $    114.90 $    1,953.30
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_041.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 338,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "19/55, Sarraf Marg, Amritsar-470661",
+      "start": 375,
+      "end": 410
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nandini Bhatia",
+      "start": 428,
+      "end": 442
+    },
+    {
+      "type": "PAN",
+      "value": "RPTJO7888C",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2208 8363 4314",
+      "start": 468,
+      "end": 482
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/07/1982",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "type": "ADDRESS",
+      "value": "791, Natt Road, Mango 055276",
+      "start": 518,
+      "end": 546
+    },
+    {
+      "type": "PHONE",
+      "value": "91 86347 93427",
+      "start": 554,
+      "end": 568
+    },
+    {
+      "type": "EMAIL",
+      "value": "jacksondeol@example.net",
+      "start": 576,
+      "end": 599
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Fariq Gaba",
+      "start": 636,
+      "end": 646
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 66848 05257",
+      "start": 654,
+      "end": 669
+    },
+    {
+      "type": "EMAIL",
+      "value": "imurty@example.org",
+      "start": 677,
+      "end": 695
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "48135998992828",
+      "start": 956,
+      "end": 970
+    }
+  ]
+}

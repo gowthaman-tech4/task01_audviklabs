@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-468393
+Date of Agreement: May 31, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Continental Credit Corporation
+Address: 54877 Sanders Mission Apt. 119, Smithchester, FM 75472
+
+BORROWER:
+Name: Joseph Robles
+SSN: 622-60-7361
+Date of Birth: 09/27/1970
+Address: USS Morgan, FPO AA 92068
+Phone: 5729716524
+Email: timothybrown@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    428,821.10
+Interest Rate:              9.6% per annum
+Loan Tenure:                12 months
+EMI Amount:                 $     37,620.46
+Disbursement Account No:    48880750681579
+Disbursement Date:          June 02, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 12 equal monthly installments of $37,620.46.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

@@ -1,0 +1,45 @@
+============================================================
+          [ORGANIZATION_005]
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_004]              106 $    134.01 $    176.04 $   18,660.65 $    4,455.59
+[ORGANIZATION_003]                 350 $    761.15 $    813.12 $  284,593.15 $   18,190.65
+JPM      [ORGANIZATION_002]231 $    208.54 $    191.50 $   44,237.34 $   -3,935.40
+TSLA     Tesla Inc.                   299 $    225.86 $    285.87 $   85,476.06 $   17,943.92
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  432,967.20
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/23/2026     SELL     TSLA         33 $     67.89 $    2,240.37
+04/03/2026     DIV      AMZN         53 $    154.99 $    8,214.47
+03/13/2026     SELL     AMZN         52 $    103.36 $    5,374.72
+03/10/2026     SELL     [ORGANIZATION_001]          2 $    315.75 $      631.50
+06/06/2026     DIV      AMZN         65 $    386.11 $   25,097.15
+05/11/2026     DIV      TSLA         10 $     78.79 $      787.90
+03/20/2026     SELL     JPM          15 $    123.02 $    1,845.30
+04/19/2026     BUY      JPM          24 $    465.98 $   11,183.52
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

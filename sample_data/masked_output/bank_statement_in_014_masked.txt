@@ -1,0 +1,51 @@
+============================================================
+                    [ORGANIZATION_002]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 27, 2026 to May 20, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           H.No. 749, [PERSON_NAME_002], [ADDRESS_002] [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Miryalaguda Branch
+Opening Balance:   $6,385.71
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/20/2026     Interest Credit                         4,785.03                    1,600.68
+06/01/2026     ATM Withdrawal - Amritsar               1,944.94                     -344.26
+05/24/2026     Direct Deposit - RUT Corp               4,656.58                   -5,000.84
+05/27/2026     Bill Payment - Utility                  1,724.52                   -6,725.36
+05/23/2026     UPI Transfer                                         3,480.25      -3,245.11
+05/24/2026     Service Charge                          3,340.39                   -6,585.50
+05/11/2026     Bill Payment - Utility                  3,714.02                  -10,299.52
+05/27/2026     Online Transfer to [ACCOUNT_NUMBER_001]             3,794.39                  -14,093.91
+05/14/2026     NEFT Transfer                           3,882.79                  -17,976.70
+05/11/2026     Interest Credit                            61.49                  -18,038.19
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $-18,038.19
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

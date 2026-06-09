@@ -1,0 +1,48 @@
+============================================================
+          [ORGANIZATION_007].
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 27, [PERSON_NAME_002], Pondicherry-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_006]111 $    203.91 $    205.38 $   22,797.50 $      163.49
+[ORGANIZATION_005]           15 $    341.91 $    430.94 $    6,464.17 $    1,335.52
+AAPL     Apple Inc.                   117 $    198.36 $    198.43 $   23,216.12 $        8.00
+TSLA     [ORGANIZATION_004]                   103 $    222.61 $    293.27 $   30,206.48 $    7,277.65
+AMZN     Amazon.com Inc.              331 $    122.02 $    173.57 $   57,451.34 $   17,062.72
+[ORGANIZATION_003]                365 $    134.06 $    172.40 $   62,924.85 $   13,992.95
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  203,060.46
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/19/2026     BUY      TSLA         26 $    148.81 $    3,869.06
+04/24/2026     DIV      [ORGANIZATION_002]         57 $    332.68 $   18,962.76
+03/20/2026     BUY      AMZN         81 $    121.91 $    9,874.71
+03/22/2026     BUY      GOOGL         4 $    191.02 $      764.08
+05/04/2026     SELL     TSLA          4 $    179.59 $      718.36
+03/30/2026     SELL     [ORGANIZATION_001]         30 $    236.59 $    7,097.70
+04/28/2026     BUY      GOOGL        52 $    409.89 $   21,314.28
+04/28/2026     BUY      GOOGL        40 $    345.57 $   13,822.80
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

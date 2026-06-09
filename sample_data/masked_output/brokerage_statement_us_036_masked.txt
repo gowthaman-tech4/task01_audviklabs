@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_007]
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_006]                   116 $    157.94 $    187.21 $   21,716.68 $    3,395.64
+[ORGANIZATION_005]                  32 $    784.20 $    873.69 $   27,958.02 $    2,863.62
+TSLA     Tesla Inc.                    54 $    215.57 $    218.89 $   11,820.26 $      179.48
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $   61,494.96
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/30/2026     SELL     AAPL         54 $    115.28 $    6,225.12
+04/23/2026     BUY      [ORGANIZATION_004]         62 $     72.11 $    4,470.82
+04/25/2026     DIV      [ORGANIZATION_003]         46 $    163.90 $    7,539.40
+03/14/2026     DIV      [ORGANIZATION_002]         77 $    484.66 $   37,318.82
+03/17/2026     DIV      AAPL         35 $    189.17 $    6,620.95
+04/29/2026     DIV      AAPL         39 $    369.90 $   14,426.10
+04/06/2026     BUY      [ORGANIZATION_001]         62 $    241.76 $   14,989.12
+04/13/2026     BUY      TSLA         90 $     85.37 $    7,683.30
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

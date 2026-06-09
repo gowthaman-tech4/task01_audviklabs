@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   344-66-9893
+
+b  Employer Identification Number (EIN)
+   98-5022524
+
+c  Employer's Name, Address, and ZIP Code
+   Newton, Giles and Wheeler
+   822 Ashley Springs, Port Bradyberg, AL 25123
+
+e  Employee's Name
+   Christina Clements
+
+f  Employee's Address and ZIP Code
+   PSC 0682, Box 7831, APO AP 06533
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  177,822.14
+2  Federal income tax withheld         $   30,136.17
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  177,822.14
+6  Medicare tax withheld               $    2,578.42
+
+12a Code DD - Health Insurance          $    5,046.53
+
+--- STATE TAX INFORMATION ---
+
+15 State: RI
+16 State wages                         $  177,822.14
+17 State income tax                    $   11,396.97
+
+============================================================

@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-4088
+Billing Address:    72/49, [ADDRESS_004], Ambattur [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 27, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   29,745.84
+Previous Balance:   $    4,424.99
+Payments Received:  $    1,371.13
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/09/2026     Bhatia, [PERSON_NAME_004] and Mangat            $     41.46
+05/15/2026     [ADDRESS_003], [ORGANIZATION_005] and Loke             $    282.70
+05/21/2026     [PERSON_NAME_003]$  1,014.74
+05/19/2026     Din Ltd                             $  1,626.93
+05/31/2026     Hayre LLC                           $    374.65
+05/26/2026     Suri-Ravi                           $    568.56
+06/06/2026     [ORGANIZATION_004]$    529.85
+05/12/2026     Khalsa LLC                          $  1,150.05
+05/13/2026     Tailor, [PERSON_NAME_002] and [PERSON_NAME_001]$  1,674.79
+05/29/2026     Chandran-Loyal                      $  1,440.27
+05/18/2026     [ORGANIZATION_003]$    856.14
+05/12/2026     [ORGANIZATION_002]$    453.50
+05/25/2026     Sen, Samra and Thaman               $  1,683.94
+06/03/2026     [ORGANIZATION_001]                      $    831.04
+05/31/2026     Pal, Kurian and Sarin               $  1,251.23
+
+-------------------------------------------------------------
+Total Charges:      $   13,779.85
+[ADDRESS_002]:        $   16,833.71
+Minimum Payment:    $      336.67
+
+============================================================

@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-1481
+Billing Address:    001, [ORGANIZATION_006], Vasai-Virar-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 07, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   18,630.02
+Previous Balance:   $   11,541.33
+Payments Received:  $    3,883.84
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/04/2026     [ADDRESS_003], [ADDRESS_002] and [ORGANIZATION_005]      $  1,119.80
+[ORGANIZATION_004]                          $  1,126.06
+05/27/2026     Mohan and Sons                      $  1,410.95
+05/17/2026     De Inc                              $    369.51
+05/10/2026     Palla Inc                           $     73.16
+05/26/2026     [ORGANIZATION_003]$  1,767.67
+05/14/2026     [ORGANIZATION_002]                          $     94.78
+05/27/2026     [ORGANIZATION_001]$    212.26
+05/09/2026     Modi Inc                            $    858.22
+05/22/2026     Bajwa Group                         $  1,206.79
+05/20/2026     Dasgupta, Goel and [PERSON_NAME_004]             $    183.29
+05/23/2026     Kale, [PERSON_NAME_003] and [PERSON_NAME_002]               $    362.36
+06/05/2026     Amble, Basu and Virk                $  1,406.11
+05/14/2026     Ramanathan, Gaba and [PERSON_NAME_001]          $  1,786.84
+
+-------------------------------------------------------------
+Total Charges:      $   11,977.80
+New Balance:        $   19,635.29
+Minimum Payment:    $      392.71
+
+============================================================

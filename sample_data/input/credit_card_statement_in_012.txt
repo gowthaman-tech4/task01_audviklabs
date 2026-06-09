@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Lipika Mody
+Card Number:        4815-8431-6927-9106
+Billing Address:    140, Jaggi Ganj, Thrissur 800751
+Phone:              +91 98457 35614
+Email:              vasatikabandi@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 07, 2026
+Payment Due Date:   June 26, 2026
+Credit Limit:       $   36,265.78
+Previous Balance:   $   10,118.68
+Payments Received:  $    2,020.67
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/22/2026     Gade-Dey                            $  1,908.61
+05/12/2026     Chana-Devan                         $  1,622.38
+05/18/2026     Roy-Sharma                          $  1,848.24
+05/23/2026     Shan-Wadhwa                         $    144.90
+05/17/2026     Ahluwalia-Goswami                   $  1,987.71
+05/23/2026     Deshpande, Ratti and Sachdev        $  1,939.81
+05/20/2026     Halder and Sons                     $  1,979.81
+05/29/2026     Pau-Ramesh                          $  1,626.63
+05/21/2026     Sodhi-Loyal                         $  1,955.93
+05/12/2026     Sabharwal, Dutta and Loyal          $    218.20
+06/03/2026     Sarma LLC                           $    553.09
+06/03/2026     Sharma, Bava and Iyer               $    475.15
+05/31/2026     Bora-Walia                          $  1,984.87
+05/29/2026     Ratta, Parmar and Sampath           $    434.69
+05/27/2026     Sethi-Borah                         $  1,113.37
+
+-------------------------------------------------------------
+Total Charges:      $   19,793.39
+New Balance:        $   27,891.40
+Minimum Payment:    $      557.83
+
+============================================================

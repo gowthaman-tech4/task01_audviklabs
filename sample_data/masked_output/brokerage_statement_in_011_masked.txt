@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_004].
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 363, [PERSON_NAME_003], [PERSON_NAME_002] [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_003]                153 $    162.43 $    155.93 $   23,857.25 $     -994.54
+MSFT     [ORGANIZATION_002]              110 $    398.78 $    364.16 $   40,057.19 $   -3,808.61
+[ORGANIZATION_001]               41 $    134.80 $    156.53 $    6,417.81 $      891.01
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $   70,332.25
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/27/2026     DIV      MSFT         76 $    125.51 $    9,538.76
+03/23/2026     BUY      AMZN         60 $    337.78 $   20,266.80
+05/23/2026     SELL     AMZN         36 $    333.12 $   11,992.32
+04/30/2026     BUY      GOOGL        79 $     90.35 $    7,137.65
+03/31/2026     BUY      AMZN         26 $    157.81 $    4,103.06
+05/26/2026     SELL     GOOGL        36 $    296.76 $   10,683.36
+04/30/2026     DIV      AMZN         18 $    378.24 $    6,808.32
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

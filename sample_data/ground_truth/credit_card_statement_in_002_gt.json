@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_002.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gayathri Ghose",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4147-7193-5481-5632",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "63/355, Chada Nagar, Malda 769138",
+      "start": 294,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "91 86014 46225",
+      "start": 348,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "edwinakshay@example.net",
+      "start": 383,
+      "end": 406
+    }
+  ]
+}

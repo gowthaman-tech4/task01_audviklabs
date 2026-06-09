@@ -1,0 +1,259 @@
+{
+  "document": "insurance_letter_in_017.txt",
+  "timestamp": "2026-06-09T07:55:19.380205",
+  "total_entities_masked": 16,
+  "entity_type_counts": {
+    "POLICY_NUMBER": 1,
+    "PERSON_NAME": 7,
+    "DATE_OF_BIRTH": 2,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 2,
+    "PAN": 1,
+    "AADHAAR": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[POLICY_NUMBER_001]",
+      "original": "POL-2454036",
+      "type": "POLICY_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 237,
+        "end": 248
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Gabriel Goda",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 316,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 452,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Nitesh Samra",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 485,
+        "end": 497
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "10/25/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 518,
+        "end": 528
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "323456",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 573,
+        "end": 579
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 65948 97268",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 600,
+        "end": 614
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "zayanreddy@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 635,
+        "end": 657
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "TWCCE3816E",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 678,
+        "end": 688
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5631 7976 9607",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 709,
+        "end": 723
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 737,
+        "end": 748
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bachittar Ranganathan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 770,
+        "end": 791
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/11/1958",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 839,
+        "end": 849
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 862,
+        "end": 873
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sum Assured",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 875,
+        "end": 886
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "claims@globalshieldinsurance.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 1377,
+        "end": 1409
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "BHARATH LIFE INSURANCE LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 75,
+        "end": 101
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Nath Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 589,
+        "end": 598
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Jammu",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 600,
+        "end": 605
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Spouse\nNominee DOB",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 838,
+        "end": 856
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "EXCLUSIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1130,
+        "end": 1140
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "claim",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1350,
+        "end": 1355
+      }
+    }
+  ]
+}

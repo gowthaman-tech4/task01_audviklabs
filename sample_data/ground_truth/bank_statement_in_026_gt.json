@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_026.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Viraj Deep",
+      "start": 340,
+      "end": 350
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2885665911175041",
+      "start": 370,
+      "end": 386
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "BKID0955716",
+      "start": 406,
+      "end": 417
+    },
+    {
+      "type": "PAN",
+      "value": "LJOTB9650V",
+      "start": 437,
+      "end": 447
+    },
+    {
+      "type": "PHONE",
+      "value": "91 89171 76350",
+      "start": 467,
+      "end": 481
+    },
+    {
+      "type": "EMAIL",
+      "value": "ikbalgrover@example.net",
+      "start": 501,
+      "end": 524
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/24/1999",
+      "start": 544,
+      "end": 554
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 76, Wadhwa Street, Dharmavaram-628668",
+      "start": 574,
+      "end": 617
+    }
+  ]
+}

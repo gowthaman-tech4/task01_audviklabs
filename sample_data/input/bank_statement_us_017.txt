@@ -1,0 +1,52 @@
+============================================================
+                    Pacific Union Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 13, 2026 to May 14, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Robert Mills
+Account Number:    805567879354
+SSN:               491-92-9668
+Phone:             +1-205-368-3746x994
+Email:             franklinjessica@example.org
+Date of Birth:     07/10/1997
+Address:           02452 Montoya Square, East Phillip, VI 80008
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            West Gregorybury Branch
+Opening Balance:   $125,277.82
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/28/2026     Bill Payment - Utility                               3,576.94     128,854.76
+05/31/2026     POS Purchase - Chavez, Crawford and Welc       715.11                  128,139.65
+05/22/2026     ATM Withdrawal - Kimberlyport           4,113.20                  124,026.45
+05/12/2026     UPI Transfer                                           238.06     124,264.51
+05/14/2026     Service Charge                          4,723.37                  119,541.14
+05/12/2026     Bill Payment - Utility                  2,095.14                  117,446.00
+06/05/2026     Bill Payment - Utility                  3,808.04                  113,637.96
+05/31/2026     Service Charge                          3,758.54                  109,879.42
+05/29/2026     Check #9613                             1,615.73                  108,263.69
+05/19/2026     Check #4897                                          1,085.00     109,348.69
+06/02/2026     Service Charge                          4,115.67                  105,233.02
+05/14/2026     ATM Withdrawal - North Adamview         2,436.89                  102,796.13
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $102,796.13
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Pacific Union Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

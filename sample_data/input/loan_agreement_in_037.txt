@@ -1,0 +1,58 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-337036
+Date of Agreement: May 30, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 38, Palla Marg, Jalandhar 118740
+
+BORROWER:
+Name: Nakul Mahajan
+PAN: JUCTS1087I
+Aadhaar: 2619 5452 0057
+Date of Birth: 11/27/1960
+Address: 34/81, Chanda Chowk, Karaikudi 612870
+Phone: +91 69509 47057
+Email: usankaran@example.org
+
+CO-BORROWER (if applicable):
+Name: Saanvi Goel
+Phone: +91 73310 31981
+Email: ymangat@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    422,359.21
+Interest Rate:              17.46% per annum
+Loan Tenure:                84 months
+EMI Amount:                 $      8,743.90
+Disbursement Account No:    40688256882850
+Disbursement Date:          May 10, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 84 equal monthly installments of $8,743.90.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

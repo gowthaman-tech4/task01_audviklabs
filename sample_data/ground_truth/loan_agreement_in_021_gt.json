@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_021.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 13, Chopra Street, Loni-971820",
+      "start": 376,
+      "end": 412
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Dhriti Srivastava",
+      "start": 430,
+      "end": 447
+    },
+    {
+      "type": "PAN",
+      "value": "BRXCF5746D",
+      "start": 453,
+      "end": 463
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4784 4765 4515",
+      "start": 473,
+      "end": 487
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/28/1986",
+      "start": 503,
+      "end": 513
+    },
+    {
+      "type": "ADDRESS",
+      "value": "93, Kumer Circle, Bathinda 342210",
+      "start": 523,
+      "end": 556
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 93829 10970",
+      "start": 564,
+      "end": 579
+    },
+    {
+      "type": "EMAIL",
+      "value": "dasjanuja@example.org",
+      "start": 587,
+      "end": 608
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tristan Iyer",
+      "start": 645,
+      "end": 657
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 61651 72114",
+      "start": 665,
+      "end": 680
+    },
+    {
+      "type": "EMAIL",
+      "value": "sodhibhavini@example.net",
+      "start": 688,
+      "end": 712
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "73345609280354",
+      "start": 973,
+      "end": 987
+    }
+  ]
+}

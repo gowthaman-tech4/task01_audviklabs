@@ -1,0 +1,37 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_002]
+Card Number:        [AADHAAR_001]-7780
+Billing Address:    H.No. 030, [ADDRESS_004], [ADDRESS_003] [ADDRESS_002]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 04, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   26,598.58
+Previous Balance:   $    5,162.21
+Payments Received:  $    2,664.97
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+[ADDRESS_001]     Goswami, Mand and Char              $  1,008.63
+05/31/2026     Ranganathan, Cherian and [PERSON_NAME_001]      $    124.81
+05/20/2026     Char, Rama and Doctor               $    422.12
+05/10/2026     [ORGANIZATION_001]$    297.03
+05/27/2026     Varughese-Gole                      $    954.30
+06/03/2026     Varghese PLC                        $  1,893.54
+
+-------------------------------------------------------------
+Total Charges:      $    4,700.43
+New Balance:        $    7,197.67
+Minimum Payment:    $      143.95
+
+============================================================

@@ -1,0 +1,135 @@
+{
+  "document": "credit_card_statement_us_024.txt",
+  "timestamp": "2026-06-09T07:55:13.221634",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Anthony Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 234
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "444799508586",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 255,
+        "end": 269
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "3665 Brad Ford, North Rachel, HI 05772",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 295,
+        "end": 333
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(867)575-8533x171",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ywilliams@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Douglas",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 909,
+        "end": 916
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Beard-Chambers",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 747
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Johnson-Reyes                       $  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 835
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "06/04/2026     Copeland",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 844,
+        "end": 867
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Smith         $  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 891,
+        "end": 908
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/04/2026     Brown Inc                           ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1043,
+        "end": 1094
+      }
+    }
+  ]
+}

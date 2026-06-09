@@ -1,0 +1,225 @@
+{
+  "document": "insurance_letter_us_022.txt",
+  "timestamp": "2026-06-09T07:55:27.619578",
+  "total_entities_masked": 15,
+  "entity_type_counts": {
+    "POLICY_NUMBER": 1,
+    "PERSON_NAME": 7,
+    "DATE_OF_BIRTH": 2,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 2,
+    "SSN": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[POLICY_NUMBER_001]",
+      "original": "POL-2838402",
+      "type": "POLICY_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 237,
+        "end": 248
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Samantha Rodriguez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 316,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 458,
+        "end": 469
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "David Faulkner",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 491,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "07/23/1973",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 526,
+        "end": 536
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "34905 Sheri Lane Suite 486, South Michaelmouth, OR 60169",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 557,
+        "end": 613
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(584)799-0125x707",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 634,
+        "end": 651
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "debralee@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 672,
+        "end": 692
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "190-31-2690",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 713,
+        "end": 724
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 738,
+        "end": 749
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Dr. Mary Meza",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 771,
+        "end": 784
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "02/28/2013",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 832,
+        "end": 842
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 855,
+        "end": 866
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sum Assured",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 868,
+        "end": 879
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "claims@globalshieldinsurance.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 1369,
+        "end": 1401
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "GLOBAL SHIELD INSURANCE CO.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 75,
+        "end": 102
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Spouse\nNominee DOB",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 780,
+        "end": 798
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "EXCLUSIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1071,
+        "end": 1081
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "claim",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1291,
+        "end": 1296
+      }
+    }
+  ]
+}

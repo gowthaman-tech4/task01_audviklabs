@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_019.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jalsa Luthra",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4699-6665-0070-9221",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 00, Mane Marg, Sasaram 232490",
+      "start": 292,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "91 87846 36960",
+      "start": 348,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "snayar@example.org",
+      "start": 383,
+      "end": 401
+    }
+  ]
+}

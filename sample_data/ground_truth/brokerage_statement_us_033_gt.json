@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_033.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Matthew Hammond",
+      "start": 280,
+      "end": 295
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3525765843",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "type": "SSN",
+      "value": "540-82-6577",
+      "start": 355,
+      "end": 366
+    },
+    {
+      "type": "EMAIL",
+      "value": "emilygarza@example.com",
+      "start": 391,
+      "end": 413
+    },
+    {
+      "type": "PHONE",
+      "value": "(452)266-7168x5481",
+      "start": 438,
+      "end": 456
+    },
+    {
+      "type": "ADDRESS",
+      "value": "187 Lisa Springs, Lopezfort, NY 71102",
+      "start": 481,
+      "end": 518
+    }
+  ]
+}

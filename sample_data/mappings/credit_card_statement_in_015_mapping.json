@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_in_015.txt",
+  "timestamp": "2026-06-09T07:55:04.132596",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Wahab Lata",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 229
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "486524236832",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 250,
+        "end": 264
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "874771",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 318,
+        "end": 324
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 72441 14270",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 359
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "qgupta@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 380,
+        "end": 398
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Keer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1080,
+        "end": 1084
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/28/2026     Som Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 872,
+        "end": 894
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Parekh, Sharaf",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1013,
+        "end": 1027
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kumer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1076,
+        "end": 1081
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Vora LLC                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1152,
+        "end": 1188
+      }
+    }
+  ]
+}

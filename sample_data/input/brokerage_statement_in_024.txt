@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Oliver Nagarajan
+Account Number:         8106157736
+PAN:                    NDTCP5174U
+Demat Account:          1776875860652944
+Email:                  tiwaripranit@example.net
+Phone:                  +91 72858 84022
+Correspondence Address: 27, Ramakrishnan Circle, Jamshedpur-782107
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+NVDA     NVIDIA Corp.                  66 $    613.23 $    759.71 $   50,141.05 $    9,667.87
+MSFT     Microsoft Corp.              132 $    361.31 $    352.58 $   46,540.03 $   -1,152.89
+JPM      JPMorgan Chase & Co.         144 $    148.60 $    208.52 $   30,027.07 $    8,628.67
+TSLA     Tesla Inc.                   252 $    240.64 $    239.80 $   60,430.22 $     -211.06
+META     Meta Platforms Inc.          336 $    512.77 $    548.88 $  184,422.92 $   12,132.20
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  371,561.29
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/28/2026     DIV      TSLA          7 $    278.57 $    1,949.99
+05/11/2026     SELL     META         60 $    421.00 $   25,260.00
+03/29/2026     SELL     TSLA         28 $    250.54 $    7,015.12
+03/26/2026     SELL     META         21 $    274.98 $    5,774.58
+05/25/2026     DIV      META         13 $    123.71 $    1,608.23
+05/26/2026     BUY      MSFT         80 $    176.46 $   14,116.80
+05/17/2026     DIV      TSLA         87 $    259.58 $   22,583.46
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

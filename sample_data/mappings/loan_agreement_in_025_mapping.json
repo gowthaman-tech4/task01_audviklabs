@@ -1,0 +1,215 @@
+{
+  "document": "loan_agreement_in_025.txt",
+  "timestamp": "2026-06-09T07:55:37.089556",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "485958",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "147298",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 405,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gunbir Varty",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 429,
+        "end": 441
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "XVEGY4146R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 447,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5909 4579 8679",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 467,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/08/1990",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 497,
+        "end": 507
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "875846",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 548,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 69759 46648",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 562,
+        "end": 576
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "januja69@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 604
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "96600437130898",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 866,
+        "end": 880
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Ratlam",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 405,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Hajipur",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 566,
+        "end": 573
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 954,
+        "end": 959
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 974
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 987,
+        "end": 995
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1258,
+        "end": 1266
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1357,
+        "end": 1363
+      }
+    }
+  ]
+}

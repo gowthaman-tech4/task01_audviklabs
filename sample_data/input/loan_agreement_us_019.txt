@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-341394
+Date of Agreement: May 17, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 36271 Olsen Villages, Benjaminfort, ND 25031
+
+BORROWER:
+Name: Jill Gomez
+SSN: 265-62-1254
+Date of Birth: 06/29/1988
+Address: 23621 Lisa Tunnel Suite 533, Morriston, TN 03375
+Phone: (498)895-0903
+Email: alyssaharmon@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    354,299.81
+Interest Rate:              4.88% per annum
+Loan Tenure:                12 months
+EMI Amount:                 $     30,311.23
+Disbursement Account No:    86821958434402
+Disbursement Date:          May 23, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 12 equal monthly installments of $30,311.23.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

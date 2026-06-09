@@ -1,0 +1,204 @@
+{
+  "document": "bank_statement_in_020.txt",
+  "timestamp": "2026-06-09T07:53:48.263152",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 3,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ladli Dewan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 355
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "2940049294415",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 375,
+        "end": 388
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "PUNB0951331",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 408,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "PGDHK0590Y",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 80517 93727",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 469,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ubali@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 504,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/09/1995",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 541,
+        "end": 551
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "982562",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 602,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "73160524",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1166,
+        "end": 1174
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "46882749",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1718,
+        "end": 1726
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "72",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 592,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Dhingra Chowk",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 596,
+        "end": 609
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "05/13/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1350,
+        "end": 1372
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "POS Purchase - Purohit-Sekhon             833.27",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1457,
+        "end": 1505
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "POS Purchase - Chhabra",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2113,
+        "end": 2135
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Dhillon",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2137,
+        "end": 2144
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 3027,
+        "end": 3061
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_023.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Carlos Elliott",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "John Miller",
+      "start": 483,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/01/1965",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "09166 Bridges Valleys Suite 021, North Kevin, SD 75039",
+      "start": 546,
+      "end": 600
+    },
+    {
+      "type": "PHONE",
+      "value": "360.760.9072",
+      "start": 621,
+      "end": 633
+    },
+    {
+      "type": "EMAIL",
+      "value": "jwilliams@example.com",
+      "start": 654,
+      "end": 675
+    },
+    {
+      "type": "SSN",
+      "value": "551-73-8156",
+      "start": 696,
+      "end": 707
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Shannon Payne",
+      "start": 754,
+      "end": 767
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/26/2014",
+      "start": 815,
+      "end": 825
+    }
+  ]
+}

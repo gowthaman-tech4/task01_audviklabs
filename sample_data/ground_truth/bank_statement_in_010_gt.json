@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_010.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Rachit Kumar",
+      "start": 341,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5052273018133",
+      "start": 373,
+      "end": 386
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0249571",
+      "start": 406,
+      "end": 417
+    },
+    {
+      "type": "PAN",
+      "value": "MKKGE1852J",
+      "start": 437,
+      "end": 447
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 67372 50504",
+      "start": 467,
+      "end": 482
+    },
+    {
+      "type": "EMAIL",
+      "value": "darikabuch@example.com",
+      "start": 502,
+      "end": 524
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/11/1962",
+      "start": 544,
+      "end": 554
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 563, Sundaram Road, Proddatur-725766",
+      "start": 574,
+      "end": 616
+    }
+  ]
+}

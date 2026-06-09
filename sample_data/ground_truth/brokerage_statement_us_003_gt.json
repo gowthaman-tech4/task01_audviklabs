@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_003.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Sherri Parks",
+      "start": 280,
+      "end": 292
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6267048774",
+      "start": 317,
+      "end": 327
+    },
+    {
+      "type": "SSN",
+      "value": "600-48-6741",
+      "start": 352,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "ruth60@example.com",
+      "start": 388,
+      "end": 406
+    },
+    {
+      "type": "PHONE",
+      "value": "5673565868",
+      "start": 431,
+      "end": 441
+    },
+    {
+      "type": "ADDRESS",
+      "value": "989 Glenn Villages Suite 046, Howardtown, MO 29412",
+      "start": 466,
+      "end": 516
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-514218
+Date of Agreement: May 23, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: USNV Ramirez, FPO AA 01111
+
+BORROWER:
+Name: Larry Williams
+SSN: 444-76-9925
+Date of Birth: 01/14/1986
+Address: 5227 Joseph Points Suite 018, Leachville, OH 35452
+Phone: 001-525-822-6533x252
+Email: dominiqueguzman@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    385,191.95
+Interest Rate:              9.25% per annum
+Loan Tenure:                60 months
+EMI Amount:                 $      8,042.77
+Disbursement Account No:    76431942590597
+Disbursement Date:          May 21, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 60 equal monthly installments of $8,042.77.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

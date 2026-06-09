@@ -1,0 +1,201 @@
+{
+  "document": "credit_card_statement_in_030.txt",
+  "timestamp": "2026-06-09T07:55:06.910833",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kiaan Tella",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "477378531357",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "947970",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 317,
+        "end": 323
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 75568 98243",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 359
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "srinivaschakrika@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 380,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kothari",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1103,
+        "end": 1110
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "Mangal Nagar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 301,
+        "end": 313
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Ballia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 315,
+        "end": 321
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "06/06/2026     Panchal Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 745,
+        "end": 773
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "06/02/2026     Natt Ltd                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 808,
+        "end": 859
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Chand",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1029,
+        "end": 1034
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Thaker",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1089
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "riniv",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1212,
+        "end": 1217
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Batra",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1223,
+        "end": 1228
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Kashyap       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1233,
+        "end": 1247
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Kohli-Sunder                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1274,
+        "end": 1310
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1608,
+        "end": 1619
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_028.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Devika Nair",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Xiti Murthy",
+      "start": 484,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/04/1979",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 705, D’Alia Ganj, Rampur-735002",
+      "start": 547,
+      "end": 584
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 89534 74887",
+      "start": 605,
+      "end": 620
+    },
+    {
+      "type": "EMAIL",
+      "value": "bhaktasamarth@example.com",
+      "start": 641,
+      "end": 666
+    },
+    {
+      "type": "PAN",
+      "value": "DWEAK0017G",
+      "start": 687,
+      "end": 697
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9914 0034 3154",
+      "start": 718,
+      "end": 732
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yuvraj Rau",
+      "start": 779,
+      "end": 789
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/21/2016",
+      "start": 837,
+      "end": 847
+    }
+  ]
+}

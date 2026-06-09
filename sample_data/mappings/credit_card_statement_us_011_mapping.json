@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_us_011.txt",
+  "timestamp": "2026-06-09T07:55:11.024588",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 8,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Daniel Richard",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "417404262881",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "8367 Christopher Knoll Suite 986, West Joshua, AZ 50646",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 294,
+        "end": 349
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "802-523-5002x7929",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 370,
+        "end": 387
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "abaxter@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 408,
+        "end": 427
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Roberts",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 859,
+        "end": 866
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Santana",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 871,
+        "end": 878
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Walsh",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 920,
+        "end": 925
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Ross",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1165,
+        "end": 1169
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Moreno",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1171,
+        "end": 1177
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Wright",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1182,
+        "end": 1188
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1299,
+        "end": 1306
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Reeves-Gentry",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 746
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Hill               ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 908,
+        "end": 927
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/28/2026     Cruz Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 939,
+        "end": 964
+      }
+    }
+  ]
+}

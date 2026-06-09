@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_037.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Diya Basu",
+      "start": 315,
+      "end": 324
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Oliver Dutta",
+      "start": 481,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/22/1984",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "54/915, Sha Chowk, Erode-888291",
+      "start": 545,
+      "end": 576
+    },
+    {
+      "type": "PHONE",
+      "value": "91 71203 78149",
+      "start": 597,
+      "end": 611
+    },
+    {
+      "type": "EMAIL",
+      "value": "birdaniel@example.org",
+      "start": 632,
+      "end": 653
+    },
+    {
+      "type": "PAN",
+      "value": "QKVFY5900W",
+      "start": 674,
+      "end": 684
+    },
+    {
+      "type": "AADHAAR",
+      "value": "3009 2350 9261",
+      "start": 705,
+      "end": 719
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Anamika Nayak",
+      "start": 766,
+      "end": 779
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/29/1946",
+      "start": 824,
+      "end": 834
+    }
+  ]
+}

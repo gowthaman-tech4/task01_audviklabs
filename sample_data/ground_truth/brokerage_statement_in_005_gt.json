@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_005.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Nihal Chhabra",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6179588474",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "YYFTG5200K",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7865874170356001",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "mohammedsekhon@example.com",
+      "start": 432,
+      "end": 458
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 90503 51860",
+      "start": 483,
+      "end": 498
+    },
+    {
+      "type": "ADDRESS",
+      "value": "593, Prasad, Morena 403509",
+      "start": 523,
+      "end": 549
+    }
+  ]
+}

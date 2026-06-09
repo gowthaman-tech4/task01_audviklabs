@@ -1,0 +1,181 @@
+{
+  "document": "loan_agreement_us_016.txt",
+  "timestamp": "2026-06-09T07:55:44.437994",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PHONE": 2,
+    "ADDRESS": 2,
+    "PERSON_NAME": 1,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "376706",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "1776 Justin Views Apt. 327, Susanside, NJ 36994",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Douglas Hernandez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "611-61-6185",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 461,
+        "end": 472
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "03/15/1995",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 488,
+        "end": 498
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "5616 Perez Tunnel Suite 187, Rayville, ID 23129",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 508,
+        "end": 555
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "9268742809",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 563,
+        "end": 573
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "dustin20@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 581,
+        "end": 601
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "55149334021505",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 862,
+        "end": 876
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 866,
+        "end": 871
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 876,
+        "end": 886
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 899,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1169,
+        "end": 1177
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1268,
+        "end": 1274
+      }
+    }
+  ]
+}

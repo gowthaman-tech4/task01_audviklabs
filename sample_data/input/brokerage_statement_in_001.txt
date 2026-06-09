@@ -1,0 +1,47 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Abhimanyu Dhar
+Account Number:         8037100063
+PAN:                    IXVPF7224S
+Demat Account:          1206288066503582
+Email:                  yjani@example.net
+Phone:                  91 88717 11253
+Correspondence Address: H.No. 816, Oak Zila, Satna-236377
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      JPMorgan Chase & Co.         388 $    162.95 $    207.04 $   80,330.95 $   17,106.35
+META     Meta Platforms Inc.          153 $    402.36 $    418.65 $   64,053.91 $    2,492.83
+TSLA     Tesla Inc.                    48 $    188.65 $    268.37 $   12,881.83 $    3,826.63
+MSFT     Microsoft Corp.               74 $    376.13 $    384.07 $   28,421.15 $      587.53
+AAPL     Apple Inc.                   107 $    113.54 $    156.30 $   16,724.06 $    4,575.28
+GOOGL    Alphabet Inc.                455 $    126.07 $    169.53 $   77,133.98 $   19,772.13
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  279,545.88
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/08/2026     DIV      JPM          96 $    201.44 $   19,338.24
+05/04/2026     BUY      TSLA         44 $    310.14 $   13,646.16
+03/24/2026     BUY      JPM          55 $    393.87 $   21,662.85
+05/20/2026     BUY      JPM          92 $    433.55 $   39,886.60
+04/03/2026     BUY      MSFT         79 $    374.72 $   29,602.88
+05/23/2026     SELL     TSLA         68 $    426.41 $   28,995.88
+03/18/2026     SELL     META          3 $     95.82 $      287.46
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

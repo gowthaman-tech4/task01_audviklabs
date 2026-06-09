@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_032.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Anamika Palla",
+      "start": 316,
+      "end": 329
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Zaid Chatterjee",
+      "start": 486,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/30/1980",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 996, Rajagopalan, Mangalore-940623",
+      "start": 553,
+      "end": 593
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 62707 29609",
+      "start": 614,
+      "end": 629
+    },
+    {
+      "type": "EMAIL",
+      "value": "pvenkataraman@example.com",
+      "start": 650,
+      "end": 675
+    },
+    {
+      "type": "PAN",
+      "value": "SKPAY6028M",
+      "start": 696,
+      "end": 706
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4994 6795 4856",
+      "start": 727,
+      "end": 741
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jasmit Hari",
+      "start": 788,
+      "end": 799
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/05/2024",
+      "start": 847,
+      "end": 857
+    }
+  ]
+}

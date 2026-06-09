@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_in_021.txt",
+  "timestamp": "2026-06-09T07:55:05.306435",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Caleb Walia",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "469443204722",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "28/52, Anand Ganj, Hajipur-085504",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 324
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 65368 21048",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "pahalmani@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 381,
+        "end": 402
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Khatri",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 762,
+        "end": 768
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Vora",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1014,
+        "end": 1018
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Nagarajan",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 813,
+        "end": 822
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Nair-Rao                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 933,
+        "end": 969
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Handa",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1015,
+        "end": 1020
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Chaudhari",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1072,
+        "end": 1081
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Kumer-Rege                          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1135,
+        "end": 1171
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1343,
+        "end": 1354
+      }
+    }
+  ]
+}

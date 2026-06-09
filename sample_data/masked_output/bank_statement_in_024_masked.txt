@@ -1,0 +1,57 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 10, 2026 to May 23, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_003]
+Account Number:    [ACCOUNT_NUMBER_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           H.No. 302, [PERSON_NAME_004], Kakinada [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Malda Branch
+Opening Balance:   $96,438.67
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/25/2026     Service Charge                            146.95                   96,291.72
+05/26/2026     POS [PERSON_NAME_002], [PERSON_NAME_001] and [ORGANIZATION_003]3,969.42                   92,322.30
+05/19/2026     Check #6979                                          4,694.69      97,016.99
+05/11/2026     ATM Withdrawal - Bangalore              3,290.75                   93,726.24
+05/10/2026     UPI Transfer                                         2,694.98      96,421.22
+05/30/2026     POS [ORGANIZATION_002]              4,421.94                   91,999.28
+05/26/2026     Interest Credit                         3,558.55                   88,440.73
+06/05/2026     POS Purchase - Chana and Sons                        1,847.56      90,288.29
+05/30/2026     POS Purchase - Murty and Sons           2,864.76                   87,423.53
+05/22/2026     Bill Payment - Utility                    714.71                   86,708.82
+05/19/2026     Check #2716                             3,466.73                   83,242.09
+05/26/2026     Direct Deposit - ZSQ Corp                 655.33                   82,586.76
+05/29/2026     Bill Payment - Utility                    504.81                   82,081.95
+05/26/2026     Direct Deposit - CLJ Corp               4,193.40                   77,888.55
+05/12/2026     Direct Deposit - FGI Corp               4,848.90                   73,039.65
+05/09/2026     Interest Credit                           209.74                   72,829.91
+05/10/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,742.13                   68,087.78
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $68,087.78
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001] | Equal Opportunity Lender
+============================================================

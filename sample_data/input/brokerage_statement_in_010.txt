@@ -1,0 +1,44 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Shivani Doctor
+Account Number:         4763105870
+PAN:                    MUQHA8953B
+Demat Account:          0711049772271368
+Email:                  saumya21@example.com
+Phone:                  91 81030 58726
+Correspondence Address: 62, Pathak Nagar, Ludhiana 236061
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              382 $    346.01 $    366.29 $  139,922.11 $    7,746.29
+GOOGL    Alphabet Inc.                133 $    174.28 $    159.57 $   21,222.77 $   -1,956.47
+NVDA     NVIDIA Corp.                 415 $    782.13 $    868.18 $  360,294.26 $   35,710.31
+AAPL     Apple Inc.                   336 $    155.34 $    177.70 $   59,707.27 $    7,513.03
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  581,146.41
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/17/2026     BUY      NVDA         22 $    389.74 $    8,574.28
+05/19/2026     BUY      GOOGL        39 $    494.23 $   19,274.97
+03/12/2026     DIV      GOOGL        28 $     78.20 $    2,189.60
+03/30/2026     DIV      NVDA         74 $    122.12 $    9,036.88
+05/13/2026     BUY      GOOGL        69 $    130.15 $    8,980.35
+04/01/2026     DIV      AAPL         83 $    222.09 $   18,433.47
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

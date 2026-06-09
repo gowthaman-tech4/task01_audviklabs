@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_010.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dalbir Kala",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Chakradev Basak",
+      "start": 483,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/16/1979",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "13/803, Panchal Zila, Amroha-002483",
+      "start": 550,
+      "end": 585
+    },
+    {
+      "type": "PHONE",
+      "value": "91 96092 67270",
+      "start": 606,
+      "end": 620
+    },
+    {
+      "type": "EMAIL",
+      "value": "uamble@example.net",
+      "start": 641,
+      "end": 659
+    },
+    {
+      "type": "PAN",
+      "value": "CJLCY0013X",
+      "start": 680,
+      "end": 690
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5473 6269 9017",
+      "start": 711,
+      "end": 725
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Vivaan Dhillon",
+      "start": 772,
+      "end": 786
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/12/1978",
+      "start": 831,
+      "end": 841
+    }
+  ]
+}

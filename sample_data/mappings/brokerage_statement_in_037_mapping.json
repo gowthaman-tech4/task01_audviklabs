@@ -1,0 +1,191 @@
+{
+  "document": "brokerage_statement_in_037.txt",
+  "timestamp": "2026-06-09T07:54:50.644696",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Netra Char",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "4021166410",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ATTLW6587F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 353,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "1503370934374286",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "umang11@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 429,
+        "end": 448
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 80384 54460",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 488
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "21, Bala Zila, Jaunpur-042196",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 513,
+        "end": 542
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_009]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 754,
+        "end": 764
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 839,
+        "end": 860
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 942,
+        "end": 952
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1036,
+        "end": 1051
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1753,
+        "end": 1757
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1819,
+        "end": 1823
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1951,
+        "end": 1955
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2017,
+        "end": 2021
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_027.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Joseph Kent",
+      "start": 339,
+      "end": 350
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "311297006198",
+      "start": 370,
+      "end": 382
+    },
+    {
+      "type": "SSN",
+      "value": "643-41-1553",
+      "start": 402,
+      "end": 413
+    },
+    {
+      "type": "PHONE",
+      "value": "(710)314-1278",
+      "start": 433,
+      "end": 446
+    },
+    {
+      "type": "EMAIL",
+      "value": "nkennedy@example.net",
+      "start": 466,
+      "end": 486
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/27/1994",
+      "start": 506,
+      "end": 516
+    },
+    {
+      "type": "ADDRESS",
+      "value": "130 Michael Field, East Jimmy, MN 78099",
+      "start": 536,
+      "end": 575
+    }
+  ]
+}

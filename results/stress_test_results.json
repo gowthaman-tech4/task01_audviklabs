@@ -1,0 +1,41 @@
+{
+  "suite_a": {
+    "documents": 32,
+    "total_gt_entities": 248,
+    "tp": 247,
+    "fp": 41,
+    "fn": 1,
+    "precision": 0.8576388888888888,
+    "recall": 0.9959677419354839,
+    "f1": 0.921641791044776
+  },
+  "suite_b": {
+    "documents": 32,
+    "total_gt_entities": 224,
+    "tp": 205,
+    "fp": 45,
+    "fn": 19,
+    "precision": 0.82,
+    "recall": 0.9151785714285714,
+    "f1": 0.8649789029535864
+  },
+  "suite_c": {
+    "documents": 32,
+    "total_gt_entities": 120,
+    "tp": 108,
+    "fp": 41,
+    "fn": 12,
+    "precision": 0.7248322147651006,
+    "recall": 0.9,
+    "f1": 0.8029739776951672
+  },
+  "combined": {
+    "total_gt_entities": 592,
+    "tp": 560,
+    "fp": 127,
+    "fn": 32,
+    "precision": 0.8151,
+    "recall": 0.9459,
+    "f1": 0.8757
+  }
+}

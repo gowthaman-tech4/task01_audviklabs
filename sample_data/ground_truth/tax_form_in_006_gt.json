@@ -1,0 +1,62 @@
+{
+  "document": "tax_form_in_006.txt",
+  "document_type": "tax_form",
+  "locale": "in",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bhatia Group",
+      "start": 348,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 24, Atwal Street, Coimbatore 580440",
+      "start": 420,
+      "end": 461
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ojasvi Chad",
+      "start": 513,
+      "end": 524
+    },
+    {
+      "type": "PAN",
+      "value": "UZUFB2230Z",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6354 7762 8640",
+      "start": 584,
+      "end": 598
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/01/1984",
+      "start": 623,
+      "end": 633
+    },
+    {
+      "type": "ADDRESS",
+      "value": "77/09, Maharaj, Hospet 073539",
+      "start": 658,
+      "end": 687
+    },
+    {
+      "type": "EMAIL",
+      "value": "damini06@example.com",
+      "start": 712,
+      "end": 732
+    },
+    {
+      "type": "PHONE",
+      "value": "91 82733 27028",
+      "start": 757,
+      "end": 771
+    }
+  ]
+}

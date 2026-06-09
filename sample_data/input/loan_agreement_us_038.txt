@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-540258
+Date of Agreement: April 03, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Premier Home Finance Ltd
+Address: 2240 Ho Islands Apt. 007, Lisaview, MP 20671
+
+BORROWER:
+Name: Christopher Johnson
+SSN: 251-33-0668
+Date of Birth: 01/05/2005
+Address: 9315 Samuel Rest Suite 107, Andrewchester, PR 24844
+Phone: 471.734.7310x03675
+Email: leonard58@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    132,358.25
+Interest Rate:              4.9% per annum
+Loan Tenure:                84 months
+EMI Amount:                 $      1,864.53
+Disbursement Account No:    77680048216043
+Disbursement Date:          June 06, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 84 equal monthly installments of $1,864.53.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

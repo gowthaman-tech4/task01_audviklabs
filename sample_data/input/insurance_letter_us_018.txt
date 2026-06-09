@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-5896098
+Policy Type: Auto Insurance
+Date of Issue: October 19, 2025
+
+Dear Edgar Miller,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Andrew Bell
+Date of Birth:      05/12/1984
+Address:            822 Estrada Summit, West Zacharyside, MT 03573
+Phone:              +1-744-426-6717x7349
+Email:              abigail44@example.com
+SSN:                189-43-7716
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Andrea Jones
+Relationship:       Daughter
+Nominee DOB:        07/13/2022
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    259,463.30
+Annual Premium:     $      6,541.20
+Policy Term:        20 years
+Premium Payment:    Annual
+Risk Commencement:  January 18, 2026
+Maturity Date:      March 12, 2047
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

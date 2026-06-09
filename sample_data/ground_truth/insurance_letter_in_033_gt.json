@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_033.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Warinder Walla",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jyoti Dhawan",
+      "start": 483,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/11/1969",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 55, Dubey Path, Ahmednagar 392618",
+      "start": 547,
+      "end": 586
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 89109 13788",
+      "start": 607,
+      "end": 622
+    },
+    {
+      "type": "EMAIL",
+      "value": "yauvaniborah@example.org",
+      "start": 643,
+      "end": 667
+    },
+    {
+      "type": "PAN",
+      "value": "EFPHM0203I",
+      "start": 688,
+      "end": 698
+    },
+    {
+      "type": "AADHAAR",
+      "value": "3579 0740 0320",
+      "start": 719,
+      "end": 733
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Anay Kulkarni",
+      "start": 780,
+      "end": 793
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/10/1955",
+      "start": 841,
+      "end": 851
+    }
+  ]
+}

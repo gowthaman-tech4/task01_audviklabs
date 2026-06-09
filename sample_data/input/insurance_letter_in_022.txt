@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9283948
+Policy Type: Term Insurance
+Date of Issue: April 03, 2026
+
+Dear Wakeeta Khatri,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Vedhika Desai
+Date of Birth:      10/02/1991
+Address:            84/18, Dhaliwal, Thiruvananthapuram 496843
+Phone:              91 64165 77774
+Email:              jalsatata@example.com
+PAN:                TSNCX5891X
+Aadhaar:            6237 2174 2141
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Krishna Mane
+Relationship:       Son
+Nominee DOB:        11/12/2007
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    604,133.30
+Annual Premium:     $     22,755.65
+Policy Term:        15 years
+Premium Payment:    Monthly
+Risk Commencement:  October 22, 2025
+Maturity Date:      April 26, 2040
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

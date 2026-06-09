@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-4416648
+Policy Type: Term Insurance
+Date of Issue: January 01, 2026
+
+Dear Michelle Sandoval,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Michael Johnson
+Date of Birth:      03/17/1968
+Address:            605 John Extensions Apt. 065, Lake Nicholas, VA 31233
+Phone:              296-271-5033
+Email:              victor35@example.com
+SSN:                179-04-4584
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Nicholas Washington
+Relationship:       Spouse
+Nominee DOB:        01/25/1974
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,533,837.29
+Annual Premium:     $     20,408.67
+Policy Term:        20 years
+Premium Payment:    Annual
+Risk Commencement:  December 16, 2025
+Maturity Date:      September 02, 2048
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

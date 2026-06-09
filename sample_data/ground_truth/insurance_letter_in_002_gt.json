@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_002.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Girik Loyal",
+      "start": 312,
+      "end": 323
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kamya Jani",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/03/1977",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "type": "ADDRESS",
+      "value": "07/77, Raval Path, Nagercoil-490172",
+      "start": 542,
+      "end": 577
+    },
+    {
+      "type": "PHONE",
+      "value": "91 88310 74763",
+      "start": 598,
+      "end": 612
+    },
+    {
+      "type": "EMAIL",
+      "value": "gopal26@example.com",
+      "start": 633,
+      "end": 652
+    },
+    {
+      "type": "PAN",
+      "value": "YTJBT7001D",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4647 0253 8100",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Advaith Mannan",
+      "start": 765,
+      "end": 779
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/01/2013",
+      "start": 829,
+      "end": 839
+    }
+  ]
+}

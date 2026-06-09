@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_006.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tripti Sawhney",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4457813205",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "PAN",
+      "value": "FUMPI4471Y",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7542737218701288",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "type": "EMAIL",
+      "value": "bhavnamanne@example.net",
+      "start": 433,
+      "end": 456
+    },
+    {
+      "type": "PHONE",
+      "value": "91 92097 43870",
+      "start": 481,
+      "end": 495
+    },
+    {
+      "type": "ADDRESS",
+      "value": "44, Raghavan Nagar, Muzaffarnagar-704657",
+      "start": 520,
+      "end": 560
+    }
+  ]
+}

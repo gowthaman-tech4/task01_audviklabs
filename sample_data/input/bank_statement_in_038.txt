@@ -1,0 +1,60 @@
+============================================================
+                    Southern Trust Bank Ltd
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 30, 2026 to May 30, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Hemang Jhaveri
+Account Number:    4657878916144458
+IFSC Code:         HDFC0861611
+PAN:               FWNFH9204J
+Phone:             91 93983 39448
+Email:             ronithdass@example.com
+Date of Birth:     10/28/1985
+Address:           78, Andra Marg, Rampur-281239
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Suryapet Branch
+Opening Balance:   $87,818.96
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/20/2026     Interest Credit                           704.42                   87,114.54
+05/23/2026     ATM Withdrawal - Jaunpur                             3,843.70      90,958.24
+06/02/2026     Online Transfer to 71835520             4,360.29                   86,597.95
+06/05/2026     Service Charge                          4,349.96                   82,247.99
+05/17/2026     Interest Credit                         4,936.06                   77,311.93
+06/01/2026     Online Transfer to 16682346                            234.04      77,545.97
+05/16/2026     Online Transfer to 99802157               392.03                   77,153.94
+05/17/2026     NEFT Transfer                                          990.38      78,144.32
+05/17/2026     UPI Transfer                            4,180.63                   73,963.69
+05/20/2026     Service Charge                          4,201.33                   69,762.36
+05/28/2026     NEFT Transfer                                        1,152.29      70,914.65
+06/02/2026     NEFT Transfer                                        4,637.39      75,552.04
+06/07/2026     Interest Credit                                      1,264.92      76,816.96
+06/03/2026     Service Charge                          4,997.29                   71,819.67
+05/09/2026     Direct Deposit - GYS Corp                 277.06                   71,542.61
+05/23/2026     NEFT Transfer                                        4,226.98      75,769.59
+06/07/2026     Bill Payment - Utility                               4,620.89      80,390.48
+05/18/2026     NEFT Transfer                           4,297.58                   76,092.90
+05/24/2026     UPI Transfer                              517.03                   75,575.87
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $75,575.87
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Southern Trust Bank Ltd
+FDIC Insured | Equal Opportunity Lender
+============================================================

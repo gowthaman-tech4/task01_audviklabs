@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-7333192
+Policy Type: Life Insurance
+Date of Issue: June 18, 2025
+
+Dear James Castillo,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Sonia Norris
+Date of Birth:      03/11/1970
+Address:            73126 Henderson Skyway Apt. 509, North Chad, LA 76964
+Phone:              001-465-967-2138
+Email:              mooretiffany@example.com
+SSN:                592-91-8035
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Mrs. Michelle Martinez DDS
+Relationship:       Father
+Nominee DOB:        06/26/1975
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,477,593.54
+Annual Premium:     $     11,727.17
+Policy Term:        10 years
+Premium Payment:    Monthly
+Risk Commencement:  April 29, 2026
+Maturity Date:      August 02, 2041
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

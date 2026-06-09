@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_007.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "80411 Martin Rue Suite 393, East Tonyaville, KY 53667",
+      "start": 376,
+      "end": 429
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Barbara Hernandez",
+      "start": 447,
+      "end": 464
+    },
+    {
+      "type": "SSN",
+      "value": "121-69-0657",
+      "start": 470,
+      "end": 481
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/13/1989",
+      "start": 497,
+      "end": 507
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3036 Moore Manors, Juarezfort, CO 61652",
+      "start": 517,
+      "end": 556
+    },
+    {
+      "type": "PHONE",
+      "value": "001-360-458-0848x51665",
+      "start": 564,
+      "end": 586
+    },
+    {
+      "type": "EMAIL",
+      "value": "jamieclark@example.net",
+      "start": 594,
+      "end": 616
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ryan Herrera",
+      "start": 653,
+      "end": 665
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-270-590-6110x67472",
+      "start": 673,
+      "end": 694
+    },
+    {
+      "type": "EMAIL",
+      "value": "courtneytaylor@example.com",
+      "start": 702,
+      "end": 728
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "91192672211417",
+      "start": 989,
+      "end": 1003
+    }
+  ]
+}

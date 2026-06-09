@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_002.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kathryn Silva DVM",
+      "start": 280,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5862485636",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "SSN",
+      "value": "266-01-9332",
+      "start": 357,
+      "end": 368
+    },
+    {
+      "type": "EMAIL",
+      "value": "walkerrichard@example.net",
+      "start": 393,
+      "end": 418
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-565-962-2091",
+      "start": 443,
+      "end": 458
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8563 Barton Greens, New Joe, AK 48578",
+      "start": 483,
+      "end": 520
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   662-01-9445
+
+b  Employer Identification Number (EIN)
+   35-7565796
+
+c  Employer's Name, Address, and ZIP Code
+   Smith, Gonzalez and Davies
+   723 Guzman Lodge Apt. 667, Mitchellview, PW 63426
+
+e  Employee's Name
+   Mr. Matthew Rivera
+
+f  Employee's Address and ZIP Code
+   66558 John Parkways Suite 243, South Amanda, OK 02454
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  249,207.93
+2  Federal income tax withheld         $   57,640.51
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  249,207.93
+6  Medicare tax withheld               $    3,613.51
+
+12a Code DD - Health Insurance          $   11,230.97
+
+--- STATE TAX INFORMATION ---
+
+15 State: AS
+16 State wages                         $  249,207.93
+17 State income tax                    $   18,412.86
+
+============================================================

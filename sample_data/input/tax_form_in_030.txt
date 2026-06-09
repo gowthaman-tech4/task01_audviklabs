@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Randhawa, Barad and Shanker
+TAN of the Deductor:    QKBY72020S
+Address:                H.No. 00, Nadig, Ujjain-331401
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Meera Bains
+PAN of the Employee:    RTQJF0103C
+Aadhaar Number:         4302 7401 5729
+Date of Birth:          15/04/1984
+Address:                H.No. 308, Kale Nagar, Tinsukia-423882
+Email:                  krishnavohra@example.net
+Mobile:                 91 87251 35414
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,198,290.11
+   (b) Value of perquisites u/s 17(2)  Rs.      46,051.06
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     143,794.81
+   (b) LTA Exemption                   Rs.       8,206.50
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,004,495.30
+5. Tax on Total Income                 Rs.     200,899.06
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       8,035.96
+8. Total Tax Payable                   Rs.     208,935.02
+
+============================================================

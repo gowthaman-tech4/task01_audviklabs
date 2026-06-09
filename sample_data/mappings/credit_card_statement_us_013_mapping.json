@@ -1,0 +1,223 @@
+{
+  "document": "credit_card_statement_us_013.txt",
+  "timestamp": "2026-06-09T07:55:11.385583",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Cindy Moore",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "448465128614",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "8667 Orozco Radial, Contrerasmouth, CA 13239",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-291-600-2295x535",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 376
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tranjeremy@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 397,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Tucker",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 974,
+        "end": 980
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Stevenson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 985,
+        "end": 994
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Diaz",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1292,
+        "end": 1296
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_010]",
+      "original": "Hicks",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 741,
+        "end": 746
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_009]",
+      "original": "Wilson",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 751,
+        "end": 757
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "Phillips Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "06/06/2026     Higgins Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 989,
+        "end": 1017
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Wilson",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1130,
+        "end": 1136
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Keller-Greene                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1193,
+        "end": 1229
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Simpson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1256,
+        "end": 1263
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Davis-Henderson                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1332,
+        "end": 1368
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Cowan",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1458,
+        "end": 1463
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "White",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1465,
+        "end": 1470
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Hernandez",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1475,
+        "end": 1484
+      }
+    }
+  ]
+}

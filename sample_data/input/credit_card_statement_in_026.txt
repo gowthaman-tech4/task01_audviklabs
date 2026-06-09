@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Dayamai Chaudry
+Card Number:        4474-6877-9598-2720
+Billing Address:    892, Suri Ganj, Munger 334995
+Phone:              +91 89969 32658
+Email:              bhattacharyyalucky@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 26, 2026
+Payment Due Date:   June 30, 2026
+Credit Limit:       $   28,033.98
+Previous Balance:   $    9,175.49
+Payments Received:  $    5,662.43
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/02/2026     Mannan, Basu and Kulkarni           $    932.59
+05/20/2026     Padmanabhan, Kaul and Soni          $  1,332.76
+05/09/2026     Cherian and Sons                    $  1,029.77
+05/12/2026     Ganesan-Pillai                      $    217.99
+05/15/2026     Agate-Garg                          $    340.95
+06/04/2026     Wagle-Bhardwaj                      $    436.52
+05/20/2026     Mangat Group                        $  1,664.70
+06/07/2026     Mammen, Gandhi and Krishnamurt      $    320.96
+
+-------------------------------------------------------------
+Total Charges:      $    6,276.24
+New Balance:        $    9,789.30
+Minimum Payment:    $      195.79
+
+============================================================

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_007.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "541-42-0105",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "35-6586836",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Nguyen-Cameron",
+      "start": 353,
+      "end": 367
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5380 Baker Turnpike Suite 624, Nicholasborough, WA 38803",
+      "start": 371,
+      "end": 427
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jesus Jones",
+      "start": 451,
+      "end": 462
+    },
+    {
+      "type": "ADDRESS",
+      "value": "75719 Price Light Apt. 596, East David, DE 54289",
+      "start": 502,
+      "end": 550
+    }
+  ]
+}

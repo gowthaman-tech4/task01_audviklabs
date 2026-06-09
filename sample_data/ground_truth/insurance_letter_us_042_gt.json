@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_042.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dr. Grant Smith",
+      "start": 313,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michelle King",
+      "start": 485,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/06/1996",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "42014 John Crossroad Suite 321, New William, GA 28999",
+      "start": 550,
+      "end": 603
+    },
+    {
+      "type": "PHONE",
+      "value": "001-951-561-0062x34877",
+      "start": 624,
+      "end": 646
+    },
+    {
+      "type": "EMAIL",
+      "value": "shelly76@example.com",
+      "start": 667,
+      "end": 687
+    },
+    {
+      "type": "SSN",
+      "value": "365-01-0490",
+      "start": 708,
+      "end": 719
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kenneth Harper",
+      "start": 766,
+      "end": 780
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/28/2009",
+      "start": 825,
+      "end": 835
+    }
+  ]
+}

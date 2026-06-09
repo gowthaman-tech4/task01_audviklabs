@@ -1,0 +1,42 @@
+============================================================
+          [ORGANIZATION_005].
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 14, [PERSON_NAME_002] Street, Chapra-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_004]418 $    168.26 $    185.64 $   77,598.92 $    7,266.24
+TSLA     [ORGANIZATION_003]                   479 $    221.57 $    233.17 $  111,688.02 $    5,555.99
+[ORGANIZATION_002]          208 $    381.95 $    490.58 $  102,041.30 $   22,595.70
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  291,328.24
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/13/2026     SELL     JPM          92 $    366.69 $   33,735.48
+04/18/2026     DIV      TSLA         40 $    358.92 $   14,356.80
+04/30/2026     BUY      [ORGANIZATION_001]         22 $    161.86 $    3,560.92
+04/15/2026     DIV      TSLA         38 $    137.47 $    5,223.86
+05/09/2026     BUY      TSLA         89 $    348.00 $   30,972.00
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

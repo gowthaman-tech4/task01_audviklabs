@@ -1,0 +1,181 @@
+{
+  "document": "loan_agreement_us_037.txt",
+  "timestamp": "2026-06-09T07:55:49.094430",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "468393",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "54877 Sanders Mission Apt. 119, Smithchester, FM 75472",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 376,
+        "end": 430
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Joseph Robles",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 448,
+        "end": 461
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "622-60-7361",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 467,
+        "end": 478
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/27/1970",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 494,
+        "end": 504
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "USS Morgan, FPO AA 92068",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 514,
+        "end": 538
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "5729716524",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 546,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "timothybrown@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 564,
+        "end": 588
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "48880750681579",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 847,
+        "end": 861
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 869,
+        "end": 874
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 879,
+        "end": 889
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 902,
+        "end": 910
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1173,
+        "end": 1181
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1272,
+        "end": 1278
+      }
+    }
+  ]
+}

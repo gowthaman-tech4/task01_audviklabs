@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_008.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekanta Sridhar",
+      "start": 344,
+      "end": 358
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "467564044647295",
+      "start": 378,
+      "end": 393
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0626687",
+      "start": 413,
+      "end": 424
+    },
+    {
+      "type": "PAN",
+      "value": "OTUBH6640H",
+      "start": 444,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 94586 97127",
+      "start": 474,
+      "end": 489
+    },
+    {
+      "type": "EMAIL",
+      "value": "srinivasnikita@example.com",
+      "start": 509,
+      "end": 535
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/24/2002",
+      "start": 555,
+      "end": 565
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 87, Khalsa Circle, Darbhanga-981243",
+      "start": 585,
+      "end": 626
+    }
+  ]
+}

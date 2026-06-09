@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2517190
+Policy Type: Health Insurance
+Date of Issue: August 21, 2025
+
+Dear Melvin Tapia,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Ann Smith
+Date of Birth:      04/29/1997
+Address:            3153 Douglas Terrace, Port Ryan, ND 89802
+Phone:              826.393.1553x16828
+Email:              sbruce@example.com
+SSN:                335-01-6885
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Zachary Hudson
+Relationship:       Father
+Nominee DOB:        03/18/1970
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,929,941.00
+Annual Premium:     $     12,011.70
+Policy Term:        15 years
+Premium Payment:    Monthly
+Risk Commencement:  January 28, 2026
+Maturity Date:      January 16, 2047
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

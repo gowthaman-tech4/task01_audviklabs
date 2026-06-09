@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Michael Davis
+Card Number:        4827-7284-4741-3773
+Billing Address:    337 Clark Greens Suite 907, Andersonmouth, VT 86989
+Phone:              862-781-4980x89970
+Email:              kaufmankelly@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $    9,215.06
+Previous Balance:   $    5,124.11
+Payments Received:  $    3,700.45
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/06/2026     Boyle, Sanchez and Todd             $  1,081.61
+05/18/2026     Miller, Lewis and Scott             $    955.98
+05/11/2026     Smith, Wheeler and Owens            $    322.26
+05/21/2026     Wilson LLC                          $  1,121.20
+06/05/2026     Landry PLC                          $    598.79
+05/13/2026     Ray Ltd                             $    915.71
+05/21/2026     Ward Inc                            $  1,297.17
+
+-------------------------------------------------------------
+Total Charges:      $    6,292.72
+New Balance:        $    7,716.38
+Minimum Payment:    $      154.33
+
+============================================================

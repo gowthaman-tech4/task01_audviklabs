@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_006.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "82165 Keith Corners, North Bethfurt, OR 25119",
+      "start": 370,
+      "end": 415
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kevin Martin",
+      "start": 433,
+      "end": 445
+    },
+    {
+      "type": "SSN",
+      "value": "167-55-5171",
+      "start": 451,
+      "end": 462
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/09/1980",
+      "start": 478,
+      "end": 488
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4328 Johnson Port, South Williambury, NM 49025",
+      "start": 498,
+      "end": 544
+    },
+    {
+      "type": "PHONE",
+      "value": "787-205-2689",
+      "start": 552,
+      "end": 564
+    },
+    {
+      "type": "EMAIL",
+      "value": "coryhicks@example.net",
+      "start": 572,
+      "end": 593
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Smith",
+      "start": 630,
+      "end": 643
+    },
+    {
+      "type": "PHONE",
+      "value": "(623)200-6876",
+      "start": 651,
+      "end": 664
+    },
+    {
+      "type": "EMAIL",
+      "value": "athomas@example.com",
+      "start": 672,
+      "end": 691
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "20045451828021",
+      "start": 951,
+      "end": 965
+    }
+  ]
+}

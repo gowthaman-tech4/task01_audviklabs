@@ -1,0 +1,234 @@
+{
+  "document": "credit_card_statement_in_036.txt",
+  "timestamp": "2026-06-09T07:55:08.014059",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Ikbal Nazareth",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "454152296662",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "210349",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 321,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 66796 38390",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mannprisha@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Patil-Bajaj                         ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 829,
+        "end": 865
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Bassi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1018,
+        "end": 1023
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Shetty",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1149,
+        "end": 1155
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Zachariah",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1333,
+        "end": 1342
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kaul",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1344,
+        "end": 1348
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Ghosh Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 303,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Avadi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 317,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "05/13/2026     Patla",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 852,
+        "end": 872
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Chand",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 874,
+        "end": 879
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Morar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 884,
+        "end": 889
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Mahal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1158,
+        "end": 1163
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/09/2026     Ganguly Inc",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1253,
+        "end": 1279
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/24/2026     Gokhale Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1400,
+        "end": 1428
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Sawhney Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1478,
+        "end": 1491
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1623,
+        "end": 1634
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_025.txt",
+  "timestamp": "2026-06-09T08:01:54.345568",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "334069",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 451,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 472,
+        "end": 483
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Jhalak Raja",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 509,
+        "end": 520
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "VFGAH2755M",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 545,
+        "end": 555
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "4631 4927 9279",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 580,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "22/02/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 619,
+        "end": 629
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "220978",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 691,
+        "end": 697
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "idikanair@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 722,
+        "end": 743
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 70597 23513",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 768,
+        "end": 782
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 795,
+        "end": 806
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 811,
+        "end": 823
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Dhar",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 354,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sons",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 363,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Devan Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 437,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1080,
+        "end": 1114
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1193,
+        "end": 1221
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_029.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Bachittar Dugal",
+      "start": 344,
+      "end": 359
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "653712799696383",
+      "start": 379,
+      "end": 394
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "SBIN0619470",
+      "start": 414,
+      "end": 425
+    },
+    {
+      "type": "PAN",
+      "value": "TJOGU3238P",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "type": "PHONE",
+      "value": "91 92021 91239",
+      "start": 475,
+      "end": 489
+    },
+    {
+      "type": "EMAIL",
+      "value": "rachanaradhakrishnan@example.net",
+      "start": 509,
+      "end": 541
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/18/1996",
+      "start": 561,
+      "end": 571
+    },
+    {
+      "type": "ADDRESS",
+      "value": "65, Doctor Nagar, Nandyal 085548",
+      "start": 591,
+      "end": 623
+    }
+  ]
+}

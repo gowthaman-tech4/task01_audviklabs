@@ -1,0 +1,53 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-546003
+Date of Agreement: May 01, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Premier Home Finance Ltd
+Address: 626, Vasa Chowk, Dibrugarh-114832
+
+BORROWER:
+Name: Ayushman Bajaj
+PAN: YWMLQ4606D
+Aadhaar: 6510 1623 8177
+Date of Birth: 12/17/1971
+Address: 55/29, Kothari Circle, Haridwar-845518
+Phone: 91 94977 53353
+Email: zlata@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    275,922.52
+Interest Rate:              7.64% per annum
+Loan Tenure:                36 months
+EMI Amount:                 $      8,600.66
+Disbursement Account No:    73851502722227
+Disbursement Date:          May 09, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 36 equal monthly installments of $8,600.66.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

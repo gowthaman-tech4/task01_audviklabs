@@ -1,0 +1,157 @@
+{
+  "document": "brokerage_statement_us_016.txt",
+  "timestamp": "2026-06-09T07:54:55.143477",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Paul Schultz",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 292
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "7522558520",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 317,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "154-28-7433",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "robin78@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-398-843-0037x5502",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 432,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "606 Ortega Haven Apt. 261, Danielleborough, DE 89213",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 530
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 725
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 885,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 979,
+        "end": 1000
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1082,
+        "end": 1097
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1761,
+        "end": 1765
+      }
+    }
+  ]
+}

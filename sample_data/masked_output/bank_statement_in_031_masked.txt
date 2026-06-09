@@ -1,0 +1,54 @@
+============================================================
+                    [ORGANIZATION_003]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 04, 2026 to June 06, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [ACCOUNT_NUMBER_003]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           90/43, [PERSON_NAME_002], Rajahmundry-[ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Chittoor Branch
+Opening Balance:   $38,637.72
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/03/2026     Check #6786                               786.19                   37,851.53
+05/12/2026     Interest Credit                         2,921.97                   34,929.56
+06/05/2026     UPI Transfer                              466.31                   34,463.25
+05/23/2026     Online Transfer to [ACCOUNT_NUMBER_002]             1,203.20                   33,260.05
+06/04/2026     Service Charge                          2,375.72                   30,884.33
+05/21/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          3,820.83      34,705.16
+05/31/2026     NEFT Transfer                           2,641.25                   32,063.91
+[ORGANIZATION_002] Charge                          1,002.80                   31,061.11
+05/13/2026     Service Charge                                       1,442.24      32,503.35
+06/07/2026     POS Purchase - Bains-Sule                 950.85                   31,552.50
+05/31/2026     NEFT Transfer                           1,425.20                   30,127.30
+05/09/2026     UPI Transfer                            1,687.53                   28,439.77
+05/30/2026     ATM Withdrawal - Morena                 4,015.76                   24,424.01
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $24,424.01
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

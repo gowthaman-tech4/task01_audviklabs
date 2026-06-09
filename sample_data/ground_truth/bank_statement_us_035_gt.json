@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_035.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Paige Jones",
+      "start": 345,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "231646738783",
+      "start": 376,
+      "end": 388
+    },
+    {
+      "type": "SSN",
+      "value": "132-95-0249",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PHONE",
+      "value": "572-336-3375x002",
+      "start": 439,
+      "end": 455
+    },
+    {
+      "type": "EMAIL",
+      "value": "xmassey@example.org",
+      "start": 475,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/11/2000",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5977 Robertson Lock, West David, PR 54025",
+      "start": 544,
+      "end": 585
+    }
+  ]
+}

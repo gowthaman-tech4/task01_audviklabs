@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   168-06-3599
+
+b  Employer Identification Number (EIN)
+   59-4031422
+
+c  Employer's Name, Address, and ZIP Code
+   Jones, Robinson and Buck
+   174 Joseph Square Apt. 688, Lake Jenniferfort, KY 31586
+
+e  Employee's Name
+   Jason Wright
+
+f  Employee's Address and ZIP Code
+   746 Brian Cliffs Apt. 096, New Anthony, NE 98578
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  110,990.36
+2  Federal income tax withheld         $   32,774.15
+3  Social Security wages               $  110,990.36
+4  Social Security tax withheld        $    6,881.40
+5  Medicare wages and tips             $  110,990.36
+6  Medicare tax withheld               $    1,609.36
+
+12a Code DD - Health Insurance          $   11,734.70
+
+--- STATE TAX INFORMATION ---
+
+15 State: NY
+16 State wages                         $  110,990.36
+17 State income tax                    $    7,994.39
+
+============================================================

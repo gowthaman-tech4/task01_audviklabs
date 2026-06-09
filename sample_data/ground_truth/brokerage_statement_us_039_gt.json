@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_039.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kristi Stevenson",
+      "start": 280,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9581519451",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "SSN",
+      "value": "143-84-5985",
+      "start": 356,
+      "end": 367
+    },
+    {
+      "type": "EMAIL",
+      "value": "hintonamber@example.org",
+      "start": 392,
+      "end": 415
+    },
+    {
+      "type": "PHONE",
+      "value": "619-492-2759",
+      "start": 440,
+      "end": 452
+    },
+    {
+      "type": "ADDRESS",
+      "value": "539 Angela Tunnel, Shellyfurt, DE 76802",
+      "start": 477,
+      "end": 516
+    }
+  ]
+}

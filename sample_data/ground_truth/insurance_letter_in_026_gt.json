@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_026.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Timothy Vohra",
+      "start": 316,
+      "end": 329
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Panini Nadkarni",
+      "start": 486,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/25/1973",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "232, Kohli Marg, Suryapet 136046",
+      "start": 553,
+      "end": 585
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 99502 19752",
+      "start": 606,
+      "end": 621
+    },
+    {
+      "type": "EMAIL",
+      "value": "fitan26@example.com",
+      "start": 642,
+      "end": 661
+    },
+    {
+      "type": "PAN",
+      "value": "OVHAV4270F",
+      "start": 682,
+      "end": 692
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8335 7890 0847",
+      "start": 713,
+      "end": 727
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Libni Hayre",
+      "start": 774,
+      "end": 785
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/10/2001",
+      "start": 833,
+      "end": 843
+    }
+  ]
+}

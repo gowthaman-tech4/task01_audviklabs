@@ -1,0 +1,41 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Raven Luna DDS
+Account Number:         7773488933
+SSN:                    577-76-2100
+Email:                  njohnson@example.com
+Phone:                  753.957.9220x289
+Correspondence Address: 222 Troy Court Suite 512, Colemanhaven, SC 04474
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+GOOGL    Alphabet Inc.                167 $    138.59 $    130.42 $   21,780.80 $   -1,363.73
+AMZN     Amazon.com Inc.               52 $    131.03 $    170.43 $    8,862.35 $    2,048.79
+AAPL     Apple Inc.                   251 $    169.47 $    194.81 $   48,896.83 $    6,359.86
+NVDA     NVIDIA Corp.                 363 $    671.11 $    744.85 $  270,379.73 $   26,766.80
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  349,919.71
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/30/2026     BUY      AAPL          6 $    101.10 $      606.60
+04/09/2026     BUY      GOOGL        89 $    398.04 $   35,425.56
+03/14/2026     BUY      NVDA         98 $    158.02 $   15,485.96
+03/21/2026     DIV      AAPL         53 $    231.84 $   12,287.52
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_025.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "270-38-5809",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "52-3153753",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Carter LLC",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 3523, Box 4581, APO AE 14771",
+      "start": 367,
+      "end": 399
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Gloria Salinas",
+      "start": 423,
+      "end": 437
+    },
+    {
+      "type": "ADDRESS",
+      "value": "40621 Gray Place, Port Joseph, AR 84805",
+      "start": 477,
+      "end": 516
+    }
+  ]
+}

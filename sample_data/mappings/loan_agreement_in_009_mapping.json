@@ -1,0 +1,259 @@
+{
+  "document": "loan_agreement_in_009.txt",
+  "timestamp": "2026-06-09T07:55:33.402280",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "917555",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "604703",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 407,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bimala Kamdar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 431,
+        "end": 444
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "RCBGL7134A",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 450,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6970 2522 3286",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 470,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/18/1995",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 500,
+        "end": 510
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "289313",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 541,
+        "end": 547
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 74157 19403",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "dkurian@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 578,
+        "end": 597
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Prisha Badami",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 634,
+        "end": 647
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 89289 22021",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 655,
+        "end": 669
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "urmi31@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 677,
+        "end": 695
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "25234901969850",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 955,
+        "end": 969
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 372
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gopal Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 393,
+        "end": 403
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Sodhi",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 550,
+        "end": 555
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Bhusawal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 557,
+        "end": 565
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1036,
+        "end": 1041
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1046,
+        "end": 1056
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1069,
+        "end": 1077
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1339,
+        "end": 1347
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1438,
+        "end": 1444
+      }
+    }
+  ]
+}

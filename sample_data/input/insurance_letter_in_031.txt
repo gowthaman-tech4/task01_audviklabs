@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-7170552
+Policy Type: Life Insurance
+Date of Issue: July 12, 2025
+
+Dear Hredhaan Trivedi,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Vasana Borra
+Date of Birth:      06/04/1975
+Address:            07/05, Mahal Ganj, Chandigarh 097585
+Phone:              91 94196 60098
+Email:              cchawla@example.net
+PAN:                FXYCQ5204R
+Aadhaar:            7740 9528 4243
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Bhavini Savant
+Relationship:       Father
+Nominee DOB:        07/27/2003
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,654,092.36
+Annual Premium:     $     22,632.70
+Policy Term:        30 years
+Premium Payment:    Monthly
+Risk Commencement:  September 30, 2025
+Maturity Date:      June 02, 2050
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

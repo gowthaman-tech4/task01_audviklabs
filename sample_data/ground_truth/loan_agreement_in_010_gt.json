@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_010.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "20/55, Yogi Nagar, Raiganj 553657",
+      "start": 373,
+      "end": 406
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Max Butala",
+      "start": 424,
+      "end": 434
+    },
+    {
+      "type": "PAN",
+      "value": "YIRFR2897L",
+      "start": 440,
+      "end": 450
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7666 3657 1529",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/08/1998",
+      "start": 490,
+      "end": 500
+    },
+    {
+      "type": "ADDRESS",
+      "value": "71/47, Parikh Road, Mangalore-221232",
+      "start": 510,
+      "end": 546
+    },
+    {
+      "type": "PHONE",
+      "value": "91 84879 08171",
+      "start": 554,
+      "end": 568
+    },
+    {
+      "type": "EMAIL",
+      "value": "mallkrish@example.org",
+      "start": 576,
+      "end": 597
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Baljiwan Prashad",
+      "start": 634,
+      "end": 650
+    },
+    {
+      "type": "PHONE",
+      "value": "91 76112 55259",
+      "start": 658,
+      "end": 672
+    },
+    {
+      "type": "EMAIL",
+      "value": "tanay89@example.net",
+      "start": 680,
+      "end": 699
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "18509186374059",
+      "start": 960,
+      "end": 974
+    }
+  ]
+}

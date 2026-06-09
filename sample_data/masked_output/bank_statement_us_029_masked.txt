@@ -1,0 +1,58 @@
+============================================================
+                    [ORGANIZATION_004]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 19, 2026 to May 23, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            West Timothyhaven Branch
+Opening Balance:   $79,526.76
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/29/2026     ATM Withdrawal - Stephanieburgh                      1,635.95      81,162.71
+06/05/2026     Direct Deposit - LOB Corp                              870.10      82,032.81
+05/18/2026     NEFT Transfer                             648.85                   81,383.96
+06/05/2026     NEFT Transfer                           1,685.03                   79,698.93
+05/19/2026     ATM Withdrawal - South Stephanie        3,291.41                   76,407.52
+05/22/2026     [ORGANIZATION_003]             1,496.28                   74,911.24
+06/05/2026     POS Purchase - Sanders LLC                           3,218.61      78,129.85
+06/06/2026     ATM Withdrawal - South Courtney                      1,566.19      79,696.04
+05/22/2026     Online Transfer to [ACCOUNT_NUMBER_001]             1,974.05                   77,721.99
+06/07/2026     Check #5573                                            701.58      78,423.57
+05/24/2026     NEFT Transfer                           2,858.72                   75,564.85
+05/26/2026     Direct Deposit - UAU Corp                            3,689.82      79,254.67
+05/28/2026     ATM Withdrawal - Hornebury                           4,841.53      84,096.20
+06/03/2026     [ORGANIZATION_002]                  731.25                   83,364.95
+06/01/2026     Interest Credit                                      1,315.75      84,680.70
+05/19/2026     Check #2702                               212.28                   84,468.42
+05/24/2026     Direct Deposit - HWN Corp                              652.81      85,121.23
+05/27/2026     ATM Withdrawal - Smithbury                             307.14      85,428.37
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $85,428.37
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

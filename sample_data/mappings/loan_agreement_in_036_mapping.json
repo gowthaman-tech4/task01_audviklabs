@@ -1,0 +1,248 @@
+{
+  "document": "loan_agreement_in_036.txt",
+  "timestamp": "2026-06-09T07:55:39.454026",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "680849",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "530130",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 412,
+        "end": 418
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nidhi Tripathi",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 436,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "JVUFT2132C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 456,
+        "end": 466
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5608 6594 4598",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 476,
+        "end": 490
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/19/1999",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 506,
+        "end": 516
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "976756",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 63483 93261",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 567,
+        "end": 582
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "daksha83@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 590,
+        "end": 610
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Joshua Lata",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 647,
+        "end": 658
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 92938 74147",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 666,
+        "end": 680
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "nkaul@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 688,
+        "end": 705
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "76102188953408",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 966,
+        "end": 980
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Viswanathan Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Jamshedpur",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 408,
+        "end": 418
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1048,
+        "end": 1053
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1058,
+        "end": 1068
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1081,
+        "end": 1089
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1352,
+        "end": 1360
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1451,
+        "end": 1457
+      }
+    }
+  ]
+}

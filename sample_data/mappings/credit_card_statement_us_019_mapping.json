@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_us_019.txt",
+  "timestamp": "2026-06-09T07:55:12.359018",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Elizabeth Watson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "474669444397",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "7479 Perez Terrace, East Georgeland, MN 07529",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 296,
+        "end": 341
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(357)835-8902x67912",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 362,
+        "end": 381
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jasonprice@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Berger",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 917,
+        "end": 923
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Jacobson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 928,
+        "end": 936
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Wright",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1162,
+        "end": 1168
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Brown",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1351,
+        "end": 1356
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/28/2026     Lynch",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 844,
+        "end": 864
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Wolf-Caldwell                       $  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1068,
+        "end": 1107
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Ramirez-Wilson                      ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1205,
+        "end": 1241
+      }
+    }
+  ]
+}

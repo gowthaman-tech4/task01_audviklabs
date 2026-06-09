@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_013.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Derek Wallace",
+      "start": 348,
+      "end": 361
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "048572978168",
+      "start": 381,
+      "end": 393
+    },
+    {
+      "type": "SSN",
+      "value": "609-10-4125",
+      "start": 413,
+      "end": 424
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-333-613-2587",
+      "start": 444,
+      "end": 459
+    },
+    {
+      "type": "EMAIL",
+      "value": "andrea22@example.org",
+      "start": 479,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/31/1976",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "27359 Carol Dale Suite 699, New Zacharytown, WV 08282",
+      "start": 549,
+      "end": 602
+    }
+  ]
+}

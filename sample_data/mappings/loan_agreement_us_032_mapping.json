@@ -1,0 +1,181 @@
+{
+  "document": "loan_agreement_us_032.txt",
+  "timestamp": "2026-06-09T07:55:48.022394",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "742031",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "99823 Jeffrey Plains, Vanessaborough, OH 20293",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 370,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "William Murray",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 434,
+        "end": 448
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "292-85-2123",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 454,
+        "end": 465
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/15/1966",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "864 Martin Road, Huntermouth, RI 67614",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 501,
+        "end": 539
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-337-910-2025x2169",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 567
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "phyllis80@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 575,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "59651816450523",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 857,
+        "end": 871
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 864,
+        "end": 869
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 874,
+        "end": 884
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 897,
+        "end": 905
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1167,
+        "end": 1175
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1266,
+        "end": 1272
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_031.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Nachiket Vig",
+      "start": 283,
+      "end": 295
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1585871790",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "type": "PAN",
+      "value": "YOWPT2805E",
+      "start": 355,
+      "end": 365
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0698133268704466",
+      "start": 390,
+      "end": 406
+    },
+    {
+      "type": "EMAIL",
+      "value": "charansankaran@example.org",
+      "start": 431,
+      "end": 457
+    },
+    {
+      "type": "PHONE",
+      "value": "91 80005 68760",
+      "start": 482,
+      "end": 496
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 840, Mann, Amritsar-190828",
+      "start": 521,
+      "end": 553
+    }
+  ]
+}

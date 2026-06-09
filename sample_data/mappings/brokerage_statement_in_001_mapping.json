@@ -1,0 +1,169 @@
+{
+  "document": "brokerage_statement_in_001.txt",
+  "timestamp": "2026-06-09T07:54:35.560471",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Abhimanyu Dhar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 297
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "8037100063",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 322,
+        "end": 332
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "IXVPF7224S",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 357,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "1206288066503582",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "yjani@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 433,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 88717 11253",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 489
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "236377",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 541,
+        "end": 547
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Oak Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 523,
+        "end": 531
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 866,
+        "end": 894
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1063,
+        "end": 1078
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/04/2026",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1746,
+        "end": 1756
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2100,
+        "end": 2104
+      }
+    }
+  ]
+}

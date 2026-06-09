@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_034.txt",
+  "timestamp": "2026-06-09T08:03:54.698934",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Bail Group",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "365963",
+      "type": "ADDRESS",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 451,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 472,
+        "end": 483
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Chaman Walla",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 509,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "GJPAM3896V",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 546,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5359 2534 4278",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 581,
+        "end": 595
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "13/12/1982",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 620,
+        "end": 630
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "988359",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 688,
+        "end": 694
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bimalagokhale@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 719,
+        "end": 744
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 86711 95783",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 769,
+        "end": 783
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 796,
+        "end": 807
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 812,
+        "end": 824
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Pingle Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Ravi Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 703,
+        "end": 712
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Madhyamgram",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 714,
+        "end": 725
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1117
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1196,
+        "end": 1224
+      }
+    }
+  ]
+}

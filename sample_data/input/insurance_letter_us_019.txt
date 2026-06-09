@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9885525
+Policy Type: Term Insurance
+Date of Issue: December 20, 2025
+
+Dear Ray Forbes,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Gabriella Osborn
+Date of Birth:      07/21/1992
+Address:            14092 Deanna Village, New Crystalville, WI 61084
+Phone:              (614)905-8620x519
+Email:              daniel06@example.com
+SSN:                356-43-3924
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Carol Suarez
+Relationship:       Daughter
+Nominee DOB:        12/24/2006
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,836,830.55
+Annual Premium:     $      8,134.49
+Policy Term:        25 years
+Premium Payment:    Annual
+Risk Commencement:  September 20, 2025
+Maturity Date:      July 09, 2051
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

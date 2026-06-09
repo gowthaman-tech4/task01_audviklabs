@@ -1,0 +1,237 @@
+{
+  "document": "loan_agreement_in_031.txt",
+  "timestamp": "2026-06-09T07:55:38.366703",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "636665",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "217330",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 399,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Tara Palla",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 423,
+        "end": 433
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UKUFQ0871C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "9202 5524 3076",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 459,
+        "end": 473
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/24/1997",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 489,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "297282",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 538,
+        "end": 544
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 74951 12737",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 552,
+        "end": 567
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "anvi55@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 575,
+        "end": 593
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "15147639274852",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 853,
+        "end": 867
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Virk",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 396
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_005]",
+      "original": "Mathura",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 398,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Shah Street",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 541,
+        "end": 552
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Madhyamgram",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 554,
+        "end": 565
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 944,
+        "end": 949
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 954,
+        "end": 964
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 977,
+        "end": 985
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1247,
+        "end": 1255
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1346,
+        "end": 1352
+      }
+    }
+  ]
+}

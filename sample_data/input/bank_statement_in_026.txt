@@ -1,0 +1,50 @@
+============================================================
+                    Kaveri State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 28, 2026 to May 22, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Viraj Deep
+Account Number:    2885665911175041
+IFSC Code:         BKID0955716
+PAN:               LJOTB9650V
+Phone:             91 89171 76350
+Email:             ikbalgrover@example.net
+Date of Birth:     08/24/1999
+Address:           H.No. 76, Wadhwa Street, Dharmavaram-628668
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Bharatpur Branch
+Opening Balance:   $120,733.95
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/07/2026     NEFT Transfer                           3,983.11                  116,750.84
+05/14/2026     Service Charge                                         115.23     116,866.07
+05/27/2026     Service Charge                                       3,642.86     120,508.93
+05/24/2026     Interest Credit                                      3,026.67     123,535.60
+05/13/2026     Check #7579                                          3,171.31     126,706.91
+06/04/2026     NEFT Transfer                                        2,174.03     128,880.94
+05/18/2026     Bill Payment - Utility                  4,203.17                  124,677.77
+06/02/2026     NEFT Transfer                           1,667.06                  123,010.71
+06/04/2026     NEFT Transfer                                        4,761.97     127,772.68
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $127,772.68
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Kaveri State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

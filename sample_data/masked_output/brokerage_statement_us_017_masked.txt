@@ -1,0 +1,47 @@
+============================================================
+          [ORGANIZATION_007]
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_006]                390 $    166.95 $    166.42 $   64,902.61 $     -207.89
+[ORGANIZATION_005]                 363 $    721.14 $    771.30 $  279,982.68 $   18,208.86
+[ORGANIZATION_004]                   316 $    142.40 $    151.77 $   47,958.25 $    2,959.85
+TSLA     [ORGANIZATION_003]                   173 $    316.99 $    299.56 $   51,824.19 $   -3,015.08
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  444,667.73
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/05/2026     DIV      AAPL         68 $    271.89 $   18,488.52
+05/30/2026     SELL     GOOGL        41 $    495.52 $   20,316.32
+04/29/2026     SELL     AAPL         41 $    110.76 $    4,541.16
+04/26/2026     SELL     TSLA         65 $    227.00 $   14,755.00
+03/26/2026     DIV      AAPL         93 $    164.33 $   15,282.69
+04/19/2026     BUY      [ORGANIZATION_002]         29 $    174.76 $    5,068.04
+05/01/2026     DIV      GOOGL        85 $     83.47 $    7,094.95
+03/11/2026     SELL     [ORGANIZATION_001]         21 $    446.39 $    9,374.19
+04/10/2026     BUY      TSLA         25 $    271.01 $    6,775.25
+05/16/2026     DIV      GOOGL        88 $    414.37 $   36,464.56
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

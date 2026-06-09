@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Dipta Krishna
+Account Number:         3236657669
+PAN:                    DHQCW1340Q
+Demat Account:          9364824894501046
+Email:                  padmanabhanmaanas@example.net
+Phone:                  91 66134 04519
+Correspondence Address: 93/234, Balakrishnan Chowk, Aligarh 971128
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+AAPL     Apple Inc.                   470 $    168.37 $    188.47 $   88,579.85 $    9,445.95
+GOOGL    Alphabet Inc.                496 $     96.54 $    137.07 $   67,985.95 $   20,102.11
+AMZN     Amazon.com Inc.              411 $    132.41 $    150.90 $   62,018.29 $    7,597.78
+TSLA     Tesla Inc.                   225 $    198.24 $    215.86 $   48,569.23 $    3,965.23
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  267,153.32
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/20/2026     BUY      TSLA         48 $    202.80 $    9,734.40
+04/08/2026     BUY      GOOGL        38 $    452.34 $   17,188.92
+03/11/2026     DIV      GOOGL         1 $    334.77 $      334.77
+05/07/2026     SELL     AAPL         71 $    196.53 $   13,953.63
+05/11/2026     SELL     AMZN         77 $     67.67 $    5,210.59
+04/21/2026     DIV      GOOGL        94 $    109.79 $   10,320.26
+03/17/2026     SELL     GOOGL        81 $    293.45 $   23,769.45
+06/02/2026     DIV      GOOGL        59 $    486.69 $   28,714.71
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

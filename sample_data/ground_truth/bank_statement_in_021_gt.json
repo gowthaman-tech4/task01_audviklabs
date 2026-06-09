@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_021.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Hema Bhandari",
+      "start": 349,
+      "end": 362
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "753978912771161",
+      "start": 382,
+      "end": 397
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "SBIN0038701",
+      "start": 417,
+      "end": 428
+    },
+    {
+      "type": "PAN",
+      "value": "DRMJB1317E",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 64099 15680",
+      "start": 478,
+      "end": 493
+    },
+    {
+      "type": "EMAIL",
+      "value": "ronith33@example.org",
+      "start": 513,
+      "end": 533
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/07/1966",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "type": "ADDRESS",
+      "value": "10/001, Guha Road, Surat 728873",
+      "start": 583,
+      "end": 614
+    }
+  ]
+}

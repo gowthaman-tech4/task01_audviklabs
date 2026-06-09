@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-4192
+Billing Address:    27, Doctor, Erode-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 13, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   45,468.66
+Previous Balance:   $    7,069.87
+Payments Received:  $    2,834.64
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/14/2026     Raman-Kapoor                        $  1,436.22
+06/06/2026     Handa-Sami                          $  1,224.65
+05/14/2026     Gaba, [PERSON_NAME_004] and [PERSON_NAME_003]               $  1,583.44
+05/27/2026     Mander, [PERSON_NAME_002] and Tara             $  1,667.33
+06/05/2026     Chad, [ADDRESS_004] and [ORGANIZATION_004]$    299.79
+05/25/2026     Golla and Sons                      $    775.01
+05/21/2026     Ramanathan LLC                      $    292.38
+05/20/2026     Oak-Arya                            $    808.39
+05/22/2026     [ORGANIZATION_003]$  1,494.25
+05/11/2026     [ADDRESS_003], Rao and Sekhon          $    495.63
+05/22/2026     Vyas, [ORGANIZATION_002] and [PERSON_NAME_001]             $    253.04
+05/22/2026     [ORGANIZATION_001]                           $  1,455.72
+06/05/2026     Borde-Pall                          $    870.99
+
+-------------------------------------------------------------
+Total Charges:      $   12,656.84
+[ADDRESS_002]:        $   16,892.07
+Minimum Payment:    $      337.84
+
+============================================================

@@ -1,0 +1,259 @@
+{
+  "document": "insurance_letter_in_026.txt",
+  "timestamp": "2026-06-09T07:55:20.925117",
+  "total_entities_masked": 17,
+  "entity_type_counts": {
+    "POLICY_NUMBER": 1,
+    "PERSON_NAME": 8,
+    "DATE_OF_BIRTH": 2,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 2,
+    "PAN": 1,
+    "AADHAAR": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[POLICY_NUMBER_001]",
+      "original": "POL-9801542",
+      "type": "POLICY_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 237,
+        "end": 248
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Timothy Vohra",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 316,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 453,
+        "end": 464
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Panini Nadkarni",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 486,
+        "end": 501
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "05/25/1973",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 522,
+        "end": 532
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "136046",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 579,
+        "end": 585
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 99502 19752",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 606,
+        "end": 621
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "fitan26@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 642,
+        "end": 661
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "OVHAV4270F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 682,
+        "end": 692
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 693,
+        "end": 700
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "8335 7890 0847",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 713,
+        "end": 727
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 741,
+        "end": 752
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Libni Hayre",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 774,
+        "end": 785
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/10/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 833,
+        "end": 843
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 856,
+        "end": 867
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sum Assured",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 869,
+        "end": 880
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "claims@globalshieldinsurance.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 1371,
+        "end": 1403
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "BHARATH LIFE INSURANCE LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 75,
+        "end": 101
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Kohli Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 597
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Spouse\nNominee DOB",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 850,
+        "end": 868
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "EXCLUSIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1142,
+        "end": 1152
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "claim",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1362,
+        "end": 1367
+      }
+    }
+  ]
+}

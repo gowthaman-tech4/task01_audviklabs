@@ -1,0 +1,180 @@
+{
+  "document": "brokerage_statement_in_013.txt",
+  "timestamp": "2026-06-09T07:54:44.920939",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "PAN": 1,
+    "EMAIL": 1,
+    "PHONE": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kiaan Pandya",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 295
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "1761942384",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 320,
+        "end": 330
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "OOUTK0118H",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 355,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "8145815672567133",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "saraftara@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 431,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 71530 34724",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 477,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "212963",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 546,
+        "end": 552
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Menon Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 531,
+        "end": 541
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 793,
+        "end": 808
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 878,
+        "end": 899
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 972,
+        "end": 996
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1066,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1169,
+        "end": 1179
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1263,
+        "end": 1292
+      }
+    }
+  ]
+}

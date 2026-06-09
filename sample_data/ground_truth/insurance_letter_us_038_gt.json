@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_038.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Joseph Beck",
+      "start": 312,
+      "end": 323
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Jenkins",
+      "start": 480,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/09/1966",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3331 Joann Grove Apt. 539, Danielburgh, FM 15797",
+      "start": 547,
+      "end": 595
+    },
+    {
+      "type": "PHONE",
+      "value": "699.285.0536",
+      "start": 616,
+      "end": 628
+    },
+    {
+      "type": "EMAIL",
+      "value": "christine97@example.com",
+      "start": 649,
+      "end": 672
+    },
+    {
+      "type": "SSN",
+      "value": "276-09-8633",
+      "start": 693,
+      "end": 704
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "William Williams MD",
+      "start": 751,
+      "end": 770
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/03/1984",
+      "start": 818,
+      "end": 828
+    }
+  ]
+}

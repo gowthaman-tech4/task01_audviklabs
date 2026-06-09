@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_026.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tyler Bautista",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6124460437",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "320-96-6804",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "fsullivan@example.net",
+      "start": 390,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-404-774-5736x543",
+      "start": 436,
+      "end": 455
+    },
+    {
+      "type": "ADDRESS",
+      "value": "022 Cruz Port, North Angelport, IN 59118",
+      "start": 480,
+      "end": 520
+    }
+  ]
+}

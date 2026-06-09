@@ -1,0 +1,50 @@
+============================================================
+                    Southern Trust Bank Ltd
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 01, 2026 to May 17, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Qasim Sama
+Account Number:    6164248328606
+IFSC Code:         HDFC0775847
+PAN:               JIQCA6852Q
+Phone:             +91 97768 05567
+Email:             wardamore@example.com
+Date of Birth:     04/13/1965
+Address:           20/221, Bahri Path, Nanded 552901
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Medininagar Branch
+Opening Balance:   $95,722.95
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/23/2026     Check #5895                                          3,118.22      98,841.17
+06/06/2026     Online Transfer to 58176802                            500.50      99,341.67
+05/15/2026     Service Charge                            379.88                   98,961.79
+05/27/2026     ATM Withdrawal - Rajahmundry                           688.97      99,650.76
+05/15/2026     Online Transfer to 20230885                          3,901.03     103,551.79
+05/24/2026     Interest Credit                                      4,964.47     108,516.26
+05/10/2026     Check #7296                                          4,482.98     112,999.24
+06/07/2026     UPI Transfer                            3,319.45                  109,679.79
+06/03/2026     UPI Transfer                            2,452.55                  107,227.24
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $107,227.24
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Southern Trust Bank Ltd
+FDIC Insured | Equal Opportunity Lender
+============================================================

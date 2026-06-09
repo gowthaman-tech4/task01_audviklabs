@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_030.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 55, Raja Circle, Varanasi 452382",
+      "start": 376,
+      "end": 414
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ridhi Roy",
+      "start": 432,
+      "end": 441
+    },
+    {
+      "type": "PAN",
+      "value": "IJUPU6232E",
+      "start": 447,
+      "end": 457
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2430 1779 2010",
+      "start": 467,
+      "end": 481
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/16/1982",
+      "start": 497,
+      "end": 507
+    },
+    {
+      "type": "ADDRESS",
+      "value": "29/44, Baral Circle, Jhansi-255186",
+      "start": 517,
+      "end": 551
+    },
+    {
+      "type": "PHONE",
+      "value": "91 87304 71923",
+      "start": 559,
+      "end": 573
+    },
+    {
+      "type": "EMAIL",
+      "value": "daraekani@example.com",
+      "start": 581,
+      "end": 602
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "05474062848208",
+      "start": 862,
+      "end": 876
+    }
+  ]
+}

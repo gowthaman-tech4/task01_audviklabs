@@ -1,0 +1,135 @@
+{
+  "document": "brokerage_statement_us_006.txt",
+  "timestamp": "2026-06-09T07:54:53.108139",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jason Skinner",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "3689108751",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "297-47-3530",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 353,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kvalentine@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "618-273-8353",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 436,
+        "end": 448
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "4571 Linda Villages Suite 122, Gomezborough, MO 95691",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 819
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1705,
+        "end": 1709
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "MSFT",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1837,
+        "end": 1841
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_in_008.txt",
+  "timestamp": "2026-06-09T07:55:02.825724",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 2,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Jonathan Krishna",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "450382024105",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "723063",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 330,
+        "end": 336
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 78061 98020",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 357,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "rchawla@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "05/26/2026",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 757,
+        "end": 767
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ghosh",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 860,
+        "end": 865
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Sangha Street",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 307,
+        "end": 320
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Katihar",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 322,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bail-Ramakrishnan                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 972,
+        "end": 1008
+      }
+    }
+  ]
+}

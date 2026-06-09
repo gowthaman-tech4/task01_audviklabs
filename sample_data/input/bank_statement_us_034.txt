@@ -1,0 +1,54 @@
+============================================================
+                    Global Trust Banking Corp
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 20, 2026 to May 24, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Beth Jackson
+Account Number:    661183806922
+SSN:               114-66-4586
+Phone:             (661)641-6654x13908
+Email:             tmiller@example.net
+Date of Birth:     09/18/1973
+Address:           4550 Rivera View Apt. 034, Amandaton, NV 13299
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Dennisbury Branch
+Opening Balance:   $44,480.35
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/15/2026     Service Charge                          2,983.09                   41,497.26
+05/10/2026     Online Transfer to 72256423               223.57                   41,273.69
+05/23/2026     Online Transfer to 07258061                          1,481.49      42,755.18
+05/21/2026     Online Transfer to 27713554             4,018.90                   38,736.28
+06/04/2026     Bill Payment - Utility                  2,758.58                   35,977.70
+06/02/2026     ATM Withdrawal - New Jill                            3,550.61      39,528.31
+05/15/2026     Bill Payment - Utility                  3,853.41                   35,674.90
+06/04/2026     ATM Withdrawal - Elizabethport          2,086.08                   33,588.82
+05/29/2026     Interest Credit                           227.65                   33,361.17
+05/10/2026     Interest Credit                                        391.96      33,753.13
+05/25/2026     Service Charge                            552.61                   33,200.52
+05/26/2026     Service Charge                                       3,166.37      36,366.89
+05/22/2026     UPI Transfer                                         3,800.60      40,167.49
+05/28/2026     Service Charge                                       1,976.43      42,143.92
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $42,143.92
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Global Trust Banking Corp
+FDIC Insured | Equal Opportunity Lender
+============================================================

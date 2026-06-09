@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_016.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Charvi Dhawan",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3530220324",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "XVDAF9738E",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4937933821348384",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "manyasaraf@example.org",
+      "start": 432,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "91 86971 14377",
+      "start": 479,
+      "end": 493
+    },
+    {
+      "type": "ADDRESS",
+      "value": "04/55, Shroff Road, Raipur 232951",
+      "start": 518,
+      "end": 551
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "document": "credit_card_statement_us_014.txt",
+  "timestamp": "2026-06-09T07:55:11.546681",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Cody Hall",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "480321274732",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 249,
+        "end": 263
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "19612 Ryan Grove Suite 781, Lauriefurt, MS 45556",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 289,
+        "end": 337
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "821.725.8237x6102",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 358,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "grace21@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 396,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 902,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Warren-Smith                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 996,
+        "end": 1032
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lopez-Matthews",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1059,
+        "end": 1073
+      }
+    }
+  ]
+}

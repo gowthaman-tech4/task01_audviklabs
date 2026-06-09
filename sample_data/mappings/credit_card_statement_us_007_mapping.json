@@ -1,0 +1,256 @@
+{
+  "document": "credit_card_statement_us_007.txt",
+  "timestamp": "2026-06-09T07:55:10.341386",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 10,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_010]",
+      "original": "Angelica Coleman",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "423045089773",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "1083 Warren Mount, Jaredview, VI 24634",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 296,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "448-919-5410",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 355,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kevin35@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "05/23/2026     Cochran",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 752,
+        "end": 774
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Murphy",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 776,
+        "end": 782
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Howard",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 787,
+        "end": 793
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 830,
+        "end": 837
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Frank",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 839,
+        "end": 844
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Keith-Garcia                        ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1145,
+        "end": 1181
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Werner",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1208,
+        "end": 1214
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1216,
+        "end": 1221
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Russell",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1226,
+        "end": 1233
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Bell",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1096,
+        "end": 1100
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Gallagher         $  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1105,
+        "end": 1126
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Thomas-Randall                      ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1353,
+        "end": 1389
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Howard PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1416,
+        "end": 1426
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Walton PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1479,
+        "end": 1489
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Burton-Jones                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1605,
+        "end": 1641
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Martinez-Rogers                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1668,
+        "end": 1704
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1813,
+        "end": 1824
+      }
+    }
+  ]
+}

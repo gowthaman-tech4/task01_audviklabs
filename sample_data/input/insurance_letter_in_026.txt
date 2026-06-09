@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9801542
+Policy Type: Term Insurance
+Date of Issue: December 23, 2025
+
+Dear Timothy Vohra,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Panini Nadkarni
+Date of Birth:      05/25/1973
+Address:            232, Kohli Marg, Suryapet 136046
+Phone:              +91 99502 19752
+Email:              fitan26@example.com
+PAN:                OVHAV4270F
+Aadhaar:            8335 7890 0847
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Libni Hayre
+Relationship:       Spouse
+Nominee DOB:        08/10/2001
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  4,090,546.43
+Annual Premium:     $      1,064.65
+Policy Term:        10 years
+Premium Payment:    Annual
+Risk Commencement:  December 04, 2025
+Maturity Date:      January 29, 2045
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

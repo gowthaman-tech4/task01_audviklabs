@@ -1,0 +1,47 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Ekanta Seth
+Account Number:         8743099793
+PAN:                    UZNHQ9648R
+Demat Account:          6568359638209353
+Email:                  rajagopalananamika@example.org
+Phone:                  +91 69127 72202
+Correspondence Address: 53, Ganesh Circle, Sasaram 936289
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              384 $    283.19 $    354.10 $  135,973.85 $   27,228.89
+NVDA     NVIDIA Corp.                 176 $    712.53 $    849.55 $  149,520.87 $   24,115.59
+META     Meta Platforms Inc.          238 $    415.23 $    520.23 $  123,814.30 $   24,989.56
+JPM      JPMorgan Chase & Co.          57 $    194.19 $    206.86 $   11,791.19 $      722.36
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  421,100.21
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/27/2026     DIV      MSFT         80 $    480.18 $   38,414.40
+04/13/2026     DIV      META         23 $    330.49 $    7,601.27
+03/24/2026     BUY      META         35 $    440.21 $   15,407.35
+05/27/2026     SELL     META         11 $    385.91 $    4,245.01
+05/09/2026     BUY      JPM          64 $    302.83 $   19,381.12
+04/03/2026     SELL     NVDA         73 $    467.04 $   34,093.92
+03/22/2026     SELL     MSFT         44 $    171.53 $    7,547.32
+03/12/2026     DIV      JPM          88 $     83.13 $    7,315.44
+04/12/2026     SELL     NVDA         98 $    113.97 $   11,169.06
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

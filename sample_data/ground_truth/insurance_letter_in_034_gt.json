@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_034.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekta Mitra",
+      "start": 313,
+      "end": 323
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Rudra Mannan",
+      "start": 480,
+      "end": 492
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/12/1971",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 35, Venkataraman Ganj, Raipur-273680",
+      "start": 544,
+      "end": 586
+    },
+    {
+      "type": "PHONE",
+      "value": "91 72436 28112",
+      "start": 607,
+      "end": 621
+    },
+    {
+      "type": "EMAIL",
+      "value": "jsankaran@example.org",
+      "start": 642,
+      "end": 663
+    },
+    {
+      "type": "PAN",
+      "value": "OKXFH3428X",
+      "start": 684,
+      "end": 694
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4269 2395 1534",
+      "start": 715,
+      "end": 729
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Rohan Swaminathan",
+      "start": 776,
+      "end": 793
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/19/2022",
+      "start": 841,
+      "end": 851
+    }
+  ]
+}

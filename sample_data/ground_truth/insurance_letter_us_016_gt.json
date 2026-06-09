@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_016.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Greg Snyder",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Stephen Cooke",
+      "start": 484,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/15/1981",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "067 Flores Springs Suite 884, Scottchester, HI 44739",
+      "start": 549,
+      "end": 601
+    },
+    {
+      "type": "PHONE",
+      "value": "6157305349",
+      "start": 622,
+      "end": 632
+    },
+    {
+      "type": "EMAIL",
+      "value": "matthewsantana@example.org",
+      "start": 653,
+      "end": 679
+    },
+    {
+      "type": "SSN",
+      "value": "605-42-5987",
+      "start": 700,
+      "end": 711
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Karen Rose",
+      "start": 758,
+      "end": 768
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/18/1984",
+      "start": 816,
+      "end": 826
+    }
+  ]
+}

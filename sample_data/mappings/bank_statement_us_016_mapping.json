@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_us_016.txt",
+  "timestamp": "2026-06-09T07:53:58.032339",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Derrick Robinson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "538831074763",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 381,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "513-98-1859",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 413,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "727.819.0777",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 444,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "gomezjordan@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 476,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/06/2004",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 519,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "2512 Edwards Locks, West Makaylaburgh, MA 99584",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 549,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "77462289",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1522,
+        "end": 1530
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Owens",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1987,
+        "end": 1992
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Weber",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1997,
+        "end": 2002
+      }
+    }
+  ]
+}

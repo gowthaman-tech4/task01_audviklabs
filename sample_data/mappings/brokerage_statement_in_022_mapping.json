@@ -1,0 +1,180 @@
+{
+  "document": "brokerage_statement_in_022.txt",
+  "timestamp": "2026-06-09T07:54:47.003226",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gaurika Maharaj",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 298
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "7921469267",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 323,
+        "end": 333
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ANIPX1319P",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 358,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "0217878795924203",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 393,
+        "end": 409
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "gabaunni@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 434,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 75321 03817",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 479,
+        "end": 494
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "099, Varma Nagar, Tiruvottiyur 025626",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 519,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 754,
+        "end": 764
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 839,
+        "end": 867
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 942,
+        "end": 957
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1027,
+        "end": 1046
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "JPMorgan Chase & Co.         483",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1130,
+        "end": 1162
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1215,
+        "end": 1237
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1809,
+        "end": 1813
+      }
+    }
+  ]
+}

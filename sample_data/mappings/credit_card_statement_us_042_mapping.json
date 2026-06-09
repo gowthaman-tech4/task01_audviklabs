@@ -1,0 +1,256 @@
+{
+  "document": "credit_card_statement_us_042.txt",
+  "timestamp": "2026-06-09T07:55:16.515015",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 9,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Michael Martinez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "428592639040",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "1063 Johnson River, East William, NV 05765",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 296,
+        "end": 338
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "823.976.1286",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 359,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "matthewbruce@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Parker",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 776,
+        "end": 782
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Farrell",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1100,
+        "end": 1107
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Brewer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1286,
+        "end": 1292
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1297,
+        "end": 1305
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1406,
+        "end": 1411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Robertson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1413,
+        "end": 1422
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Mann",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1487,
+        "end": 1491
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Patel",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1595,
+        "end": 1600
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_009]",
+      "original": "Adams and Roman             ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 752,
+        "end": 780
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "Pollard-Perez                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 870,
+        "end": 906
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Barton",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 996,
+        "end": 1002
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "05/12/2026     Rivera Ltd                          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1180,
+        "end": 1231
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Henderson-Sanchez                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1341,
+        "end": 1377
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Holloway",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1445,
+        "end": 1453
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Ford",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1487,
+        "end": 1491
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Fleming",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1493,
+        "end": 1500
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Abbott-Nguyen                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1563,
+        "end": 1599
+      }
+    }
+  ]
+}

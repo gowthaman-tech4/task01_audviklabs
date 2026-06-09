@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_042.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Caitlin Galloway",
+      "start": 351,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "159853065111",
+      "start": 387,
+      "end": 399
+    },
+    {
+      "type": "SSN",
+      "value": "646-05-7225",
+      "start": 419,
+      "end": 430
+    },
+    {
+      "type": "PHONE",
+      "value": "296.916.8427x3922",
+      "start": 450,
+      "end": 467
+    },
+    {
+      "type": "EMAIL",
+      "value": "amanda20@example.com",
+      "start": 487,
+      "end": 507
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/10/1964",
+      "start": 527,
+      "end": 537
+    },
+    {
+      "type": "ADDRESS",
+      "value": "274 Mora Square, Reidberg, NE 11022",
+      "start": 557,
+      "end": 592
+    }
+  ]
+}

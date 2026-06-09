@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   469-96-8018
+
+b  Employer Identification Number (EIN)
+   53-9776127
+
+c  Employer's Name, Address, and ZIP Code
+   Kent-Burns
+   3769 Michael Park, Terrytown, MH 34358
+
+e  Employee's Name
+   Crystal Ortiz
+
+f  Employee's Address and ZIP Code
+   953 Hall Divide, East Amyton, TN 18499
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  117,470.70
+2  Federal income tax withheld         $   30,984.76
+3  Social Security wages               $  117,470.70
+4  Social Security tax withheld        $    7,283.18
+5  Medicare wages and tips             $  117,470.70
+6  Medicare tax withheld               $    1,703.33
+
+12a Code DD - Health Insurance          $    5,617.27
+
+--- STATE TAX INFORMATION ---
+
+15 State: MP
+16 State wages                         $  117,470.70
+17 State income tax                    $    9,313.93
+
+============================================================

@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-505488
+Date of Agreement: May 07, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Continental Credit Corporation
+Address: PSC 6857, Box 5316, APO AE 05844
+
+BORROWER:
+Name: Nancy Hurst
+SSN: 548-47-3379
+Date of Birth: 10/01/2001
+Address: 91692 Shannon Lane, Davidborough, HI 18772
+Phone: 540.725.1937
+Email: ashleychen@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    483,584.92
+Interest Rate:              12.63% per annum
+Loan Tenure:                60 months
+EMI Amount:                 $     10,911.67
+Disbursement Account No:    08786211391431
+Disbursement Date:          June 07, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 60 equal monthly installments of $10,911.67.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

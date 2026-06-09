@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_039.txt",
+  "timestamp": "2026-06-09T08:05:31.073218",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Raja Group",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "22, Saran Street, South Dumdum-051810",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 418,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 470,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Indali Srinivasan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 507,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "EDACQ1064R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 549,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6262 4746 0324",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 598
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "13/06/1979",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 623,
+        "end": 633
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "611066",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 688,
+        "end": 694
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "gaurangi99@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 719,
+        "end": 741
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 60426 00873",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 766,
+        "end": 781
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 794,
+        "end": 805
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 810,
+        "end": 822
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Jaggi Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 668,
+        "end": 678
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Alappuzha",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 680,
+        "end": 689
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1047,
+        "end": 1081
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1160,
+        "end": 1188
+      }
+    }
+  ]
+}

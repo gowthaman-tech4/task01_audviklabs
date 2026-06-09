@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_015.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Zehaan Kala",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Balveer Halder",
+      "start": 484,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/01/2000",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "19, Kata Zila, Solapur-059681",
+      "start": 550,
+      "end": 579
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 79086 85135",
+      "start": 600,
+      "end": 615
+    },
+    {
+      "type": "EMAIL",
+      "value": "fiyaz00@example.net",
+      "start": 636,
+      "end": 655
+    },
+    {
+      "type": "PAN",
+      "value": "BVYFV4770K",
+      "start": 676,
+      "end": 686
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8507 9070 5597",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Vasana Tiwari",
+      "start": 768,
+      "end": 781
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/09/1997",
+      "start": 829,
+      "end": 839
+    }
+  ]
+}

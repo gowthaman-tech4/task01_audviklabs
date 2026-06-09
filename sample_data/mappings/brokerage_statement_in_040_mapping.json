@@ -1,0 +1,158 @@
+{
+  "document": "brokerage_statement_in_040.txt",
+  "timestamp": "2026-06-09T07:54:51.319265",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jackson Deol",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 295
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "1907327806",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 320,
+        "end": 330
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "BOGPO8443O",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 355,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "5160788968553427",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "danielpillay@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 431,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 98082 75559",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "320746",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bora",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 522,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 784,
+        "end": 813
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 878,
+        "end": 888
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 963,
+        "end": 991
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1557,
+        "end": 1561
+      }
+    }
+  ]
+}

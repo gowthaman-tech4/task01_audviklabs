@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_036.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dalbir Ram",
+      "start": 312,
+      "end": 322
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jagrati Dhar",
+      "start": 479,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/19/1984",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 36, Gupta Circle, Srinagar-286634",
+      "start": 543,
+      "end": 582
+    },
+    {
+      "type": "PHONE",
+      "value": "91 98593 29778",
+      "start": 603,
+      "end": 617
+    },
+    {
+      "type": "EMAIL",
+      "value": "fsubramaniam@example.net",
+      "start": 638,
+      "end": 662
+    },
+    {
+      "type": "PAN",
+      "value": "NEFCF5362O",
+      "start": 683,
+      "end": 693
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9051 2104 9610",
+      "start": 714,
+      "end": 728
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tanveer Date",
+      "start": 775,
+      "end": 787
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/19/2001",
+      "start": 835,
+      "end": 845
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "document": "bank_statement_in_025.txt",
+  "timestamp": "2026-06-09T07:53:49.517062",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Saanvi Prashad",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "1967591666",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "ICIC0372902",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 412,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "DFJAL9276J",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 443,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 85519 74592",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "devanvarenya@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 507,
+        "end": 531
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "03/12/1999",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 551,
+        "end": 561
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "953534",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 623,
+        "end": 629
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "89007358",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 997,
+        "end": 1005
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "36237772",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1641,
+        "end": 1649
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "33064231",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2561,
+        "end": 2569
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "43",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 589
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Krishnamurthy Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 591,
+        "end": 610
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/28/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2662,
+        "end": 2684
+      }
+    }
+  ]
+}

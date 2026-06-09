@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_030.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "524-65-2795",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "14-8976203",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Gordon-Everett",
+      "start": 353,
+      "end": 367
+    },
+    {
+      "type": "ADDRESS",
+      "value": "338 Ashley Trail Suite 407, Murraystad, WA 59951",
+      "start": 371,
+      "end": 419
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Cathy Miller",
+      "start": 443,
+      "end": 455
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0474 Darius Loaf Suite 911, South Mary, NY 53711",
+      "start": 495,
+      "end": 543
+    }
+  ]
+}

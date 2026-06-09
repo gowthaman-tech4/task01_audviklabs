@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-1971012
+Policy Type: Life Insurance
+Date of Issue: July 20, 2025
+
+Dear Dalbir Ram,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Jagrati Dhar
+Date of Birth:      09/19/1984
+Address:            H.No. 36, Gupta Circle, Srinagar-286634
+Phone:              91 98593 29778
+Email:              fsubramaniam@example.net
+PAN:                NEFCF5362O
+Aadhaar:            9051 2104 9610
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Tanveer Date
+Relationship:       Spouse
+Nominee DOB:        08/19/2001
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,004,819.04
+Annual Premium:     $     20,168.22
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  June 11, 2025
+Maturity Date:      February 04, 2056
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   72-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  126,098.43
+2  Federal income tax withheld         $   32,803.05
+3  [ORGANIZATION_006] wages               $  126,098.43
+4  [ORGANIZATION_005] tax withheld        $    7,818.10
+5  [ORGANIZATION_004] wages and tips             $  126,098.43
+6  [ORGANIZATION_003] tax withheld               $    1,828.43
+
+12a [ORGANIZATION_002]
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: NV
+16 State wages                         $  126,098.43
+17 State income tax                    $    4,931.10
+
+============================================================

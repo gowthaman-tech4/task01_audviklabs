@@ -1,0 +1,55 @@
+============================================================
+                    National Commerce Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 14, 2026 to May 15, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Timothy Arnold
+Account Number:    181161708836
+SSN:               145-97-7205
+Phone:             353-471-1245x4707
+Email:             gstafford@example.net
+Date of Birth:     07/17/1979
+Address:           3473 Reyes Plain, Lake Susanport, NM 07796
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Meltonfurt Branch
+Opening Balance:   $21,183.85
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/19/2026     Bill Payment - Utility                  3,047.99                   18,135.86
+05/17/2026     POS Purchase - Lin, Buckley and Day     2,316.05                   15,819.81
+05/13/2026     Check #6065                             2,906.66                   12,913.15
+06/05/2026     POS Purchase - Leonard-Bryant           3,575.21                    9,337.94
+05/27/2026     Bill Payment - Utility                    783.40                    8,554.54
+05/20/2026     Check #9680                             3,193.58                    5,360.96
+06/04/2026     Service Charge                            780.64                    4,580.32
+06/07/2026     Bill Payment - Utility                               4,345.86       8,926.18
+05/31/2026     ATM Withdrawal - Ballfurt                              832.27       9,758.45
+05/28/2026     Check #6740                             3,784.22                    5,974.23
+06/04/2026     Bill Payment - Utility                  3,627.53                    2,346.70
+05/16/2026     Bill Payment - Utility                  1,933.42                      413.28
+06/06/2026     POS Purchase - Hamilton-Kelly           1,171.87                     -758.59
+05/18/2026     Online Transfer to 38073268                             78.06        -680.53
+05/17/2026     Direct Deposit - KLG Corp                              563.80        -116.73
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $-116.73
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+National Commerce Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

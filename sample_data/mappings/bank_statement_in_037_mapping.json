@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_in_037.txt",
+  "timestamp": "2026-06-09T07:53:52.672953",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Luke Mody",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 346,
+        "end": 355
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "021623903797515",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 375,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "HDFC0879443",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 410,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "SVDAZ7594C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 441,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 96499 30411",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 471,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jagrati01@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 506,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/06/1975",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 557
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "675579",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 613,
+        "end": 619
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "25237608",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1266,
+        "end": 1274
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Pandit Circle",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 590,
+        "end": 603
+      }
+    }
+  ]
+}

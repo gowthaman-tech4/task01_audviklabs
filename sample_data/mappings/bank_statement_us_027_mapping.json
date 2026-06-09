@@ -1,0 +1,93 @@
+{
+  "document": "bank_statement_us_027.txt",
+  "timestamp": "2026-06-09T07:54:00.750574",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Joseph Kent",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 350
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "311297006198",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 370,
+        "end": 382
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "643-41-1553",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 402,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(710)314-1278",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 433,
+        "end": 446
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "nkennedy@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 466,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/27/1994",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 506,
+        "end": 516
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "130 Michael Field, East Jimmy, MN 78099",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 536,
+        "end": 575
+      }
+    }
+  ]
+}

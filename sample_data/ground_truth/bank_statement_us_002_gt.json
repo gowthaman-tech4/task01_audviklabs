@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_002.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Amy Black",
+      "start": 348,
+      "end": 357
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "109385828234",
+      "start": 377,
+      "end": 389
+    },
+    {
+      "type": "SSN",
+      "value": "231-43-2680",
+      "start": 409,
+      "end": 420
+    },
+    {
+      "type": "PHONE",
+      "value": "709.443.9345x872",
+      "start": 440,
+      "end": 456
+    },
+    {
+      "type": "EMAIL",
+      "value": "gabriel31@example.com",
+      "start": 476,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/16/1957",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "08980 Jones Point Apt. 189, Geraldbury, VI 19441",
+      "start": 547,
+      "end": 595
+    }
+  ]
+}

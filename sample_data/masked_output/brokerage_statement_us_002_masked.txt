@@ -1,0 +1,41 @@
+============================================================
+          [ORGANIZATION_008]
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_007]                  79 $    736.81 $    788.36 $   62,280.21 $    4,072.22
+[ORGANIZATION_006]          487 $    317.73 $    449.81 $  219,056.26 $   64,321.75
+MSFT     [ORGANIZATION_005]              374 $    401.49 $    381.53 $  142,691.20 $   -7,466.06
+JPM      [ORGANIZATION_004]169 $    205.54 $    196.94 $   33,283.21 $   -1,453.05
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  457,310.88
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/19/2026     SELL     [ORGANIZATION_003]         75 $    396.63 $   29,747.25
+06/03/2026     BUY      [ORGANIZATION_002]         41 $    175.01 $    7,175.41
+04/08/2026     DIV      [ORGANIZATION_001]         46 $    100.05 $    4,602.30
+04/10/2026     DIV      MSFT         12 $    283.74 $    3,404.88
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

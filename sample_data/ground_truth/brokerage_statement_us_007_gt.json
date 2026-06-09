@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_007.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Lisa Jefferson",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5795808131",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "633-52-7847",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "danielsjulia@example.com",
+      "start": 390,
+      "end": 414
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-630-735-2527x867",
+      "start": 439,
+      "end": 458
+    },
+    {
+      "type": "ADDRESS",
+      "value": "59980 Misty Burg Apt. 596, Juliamouth, DC 14331",
+      "start": 483,
+      "end": 530
+    }
+  ]
+}

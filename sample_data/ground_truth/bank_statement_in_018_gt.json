@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_018.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Anjali Halder",
+      "start": 344,
+      "end": 357
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "66321563744003",
+      "start": 377,
+      "end": 391
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0730911",
+      "start": 411,
+      "end": 422
+    },
+    {
+      "type": "PAN",
+      "value": "JGYHR6084R",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 72006 79040",
+      "start": 472,
+      "end": 487
+    },
+    {
+      "type": "EMAIL",
+      "value": "vrishti37@example.org",
+      "start": 507,
+      "end": 528
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/15/1960",
+      "start": 548,
+      "end": 558
+    },
+    {
+      "type": "ADDRESS",
+      "value": "16, Baral Marg, Gorakhpur 051328",
+      "start": 578,
+      "end": 610
+    }
+  ]
+}

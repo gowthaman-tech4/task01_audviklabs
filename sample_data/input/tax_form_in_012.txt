@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Raju-Dar
+TAN of the Deductor:    WXPH77029P
+Address:                H.No. 443, Srinivas Chowk, Kamarhati 286105
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Mohammed Anne
+PAN of the Employee:    MZFHY1538U
+Aadhaar Number:         2978 7662 6184
+Date of Birth:          21/02/1981
+Address:                267, Raval Zila, Raiganj 365636
+Email:                  nbaria@example.org
+Mobile:                 +91 64542 37246
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,305,548.11
+   (b) Value of perquisites u/s 17(2)  Rs.       9,435.64
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     276,665.77
+   (b) LTA Exemption                   Rs.      15,211.74
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,978,882.34
+5. Tax on Total Income                 Rs.     395,776.47
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      15,831.06
+8. Total Tax Payable                   Rs.     411,607.53
+
+============================================================

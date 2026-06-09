@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_010.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5280 Walsh Skyway, West Lori, PA 27005",
+      "start": 378,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kevin Thomas",
+      "start": 434,
+      "end": 446
+    },
+    {
+      "type": "SSN",
+      "value": "243-72-0945",
+      "start": 452,
+      "end": 463
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/23/1973",
+      "start": 479,
+      "end": 489
+    },
+    {
+      "type": "ADDRESS",
+      "value": "70493 Mendez Union Suite 658, East April, OH 91574",
+      "start": 499,
+      "end": 549
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-319-456-3998",
+      "start": 557,
+      "end": 572
+    },
+    {
+      "type": "EMAIL",
+      "value": "doylelevi@example.org",
+      "start": 580,
+      "end": 601
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Joshua Mitchell",
+      "start": 638,
+      "end": 653
+    },
+    {
+      "type": "PHONE",
+      "value": "729-613-5261x6236",
+      "start": 661,
+      "end": 678
+    },
+    {
+      "type": "EMAIL",
+      "value": "bethgreen@example.org",
+      "start": 686,
+      "end": 707
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "66287451185419",
+      "start": 967,
+      "end": 981
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_004.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kevin Swanson",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9249539059",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "373-05-3565",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "amy53@example.org",
+      "start": 389,
+      "end": 406
+    },
+    {
+      "type": "PHONE",
+      "value": "8499604033",
+      "start": 431,
+      "end": 441
+    },
+    {
+      "type": "ADDRESS",
+      "value": "63579 William Overpass Apt. 850, Joneshaven, KS 60213",
+      "start": 466,
+      "end": 519
+    }
+  ]
+}

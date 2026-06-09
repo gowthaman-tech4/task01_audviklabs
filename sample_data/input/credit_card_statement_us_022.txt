@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Kathryn Giles
+Card Number:        4078-5942-6276-1449
+Billing Address:    919 Holly Track Suite 189, Port Kellystad, WY 13521
+Phone:              368.747.7393
+Email:              ymcknight@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 19, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   47,160.97
+Previous Balance:   $   11,563.62
+Payments Received:  $    5,877.98
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/30/2026     Kelly-Cox                           $  1,610.60
+05/27/2026     Lewis PLC                           $     13.83
+05/28/2026     Beard-Thomas                        $  1,014.87
+05/23/2026     Jones, Lynch and Roberts            $  1,807.29
+06/06/2026     Bonilla Inc                         $  1,248.90
+05/17/2026     Bernard and Sons                    $  1,372.12
+06/01/2026     Noble, Collier and Moses            $    287.26
+05/19/2026     Washington, Mendez and Howard       $  1,756.49
+05/20/2026     Green-Brown                         $    273.67
+
+-------------------------------------------------------------
+Total Charges:      $    9,385.03
+New Balance:        $   15,070.67
+Minimum Payment:    $      301.41
+
+============================================================

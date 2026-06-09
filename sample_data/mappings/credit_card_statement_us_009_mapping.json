@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_us_009.txt",
+  "timestamp": "2026-06-09T07:55:10.700602",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Thomas Riddle",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "411954243885",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "61367 Dennis Flats, Michelleton, VA 17141",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "240-655-9681x41460",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 355,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "dferguson@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 394,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Williams-Patel                      ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1090,
+        "end": 1126
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Carlson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1350,
+        "end": 1357
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Reyes-Jimenez                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 832
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/24/2026     Stone Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 844,
+        "end": 870
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Thomas-Navarro",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 985,
+        "end": 999
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Marks",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1100,
+        "end": 1105
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Chase",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1311,
+        "end": 1316
+      }
+    }
+  ]
+}

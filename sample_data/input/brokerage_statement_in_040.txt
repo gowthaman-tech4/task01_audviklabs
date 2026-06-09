@@ -1,0 +1,42 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Jackson Deol
+Account Number:         1907327806
+PAN:                    BOGPO8443O
+Demat Account:          5160788968553427
+Email:                  danielpillay@example.com
+Phone:                  +91 98082 75559
+Correspondence Address: H.No. 14, Bora Street, Chapra-320746
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      JPMorgan Chase & Co.         418 $    168.26 $    185.64 $   77,598.92 $    7,266.24
+TSLA     Tesla Inc.                   479 $    221.57 $    233.17 $  111,688.02 $    5,555.99
+META     Meta Platforms Inc.          208 $    381.95 $    490.58 $  102,041.30 $   22,595.70
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  291,328.24
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/13/2026     SELL     JPM          92 $    366.69 $   33,735.48
+04/18/2026     DIV      TSLA         40 $    358.92 $   14,356.80
+04/30/2026     BUY      META         22 $    161.86 $    3,560.92
+04/15/2026     DIV      TSLA         38 $    137.47 $    5,223.86
+05/09/2026     BUY      TSLA         89 $    348.00 $   30,972.00
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

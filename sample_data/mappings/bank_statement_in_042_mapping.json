@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_in_042.txt",
+  "timestamp": "2026-06-09T07:53:53.959757",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Bina Bahl",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 350
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "587776280984",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 370,
+        "end": 382
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "SBIN0339350",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "YKHGO3855N",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 433,
+        "end": 443
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 98392 50896",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 463,
+        "end": 477
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "om76@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 497,
+        "end": 513
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/12/1957",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 533,
+        "end": 543
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "69, Sama, Farrukhabad 044576",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 563,
+        "end": 591
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/26/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1569,
+        "end": 1591
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "FDIC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2053,
+        "end": 2057
+      }
+    }
+  ]
+}

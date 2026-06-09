@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_019.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "480-76-9293",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "54-4946829",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Watson, Bradley and Young",
+      "start": 353,
+      "end": 378
+    },
+    {
+      "type": "ADDRESS",
+      "value": "263 Lisa Manor Suite 969, West Elizabeth, MD 69667",
+      "start": 382,
+      "end": 432
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Mandy Neal",
+      "start": 456,
+      "end": 466
+    },
+    {
+      "type": "ADDRESS",
+      "value": "599 Hernandez Manor Suite 828, Christopherton, IL 36738",
+      "start": 506,
+      "end": 561
+    }
+  ]
+}

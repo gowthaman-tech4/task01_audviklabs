@@ -1,0 +1,92 @@
+{
+  "document": "bank_statement_us_023.txt",
+  "timestamp": "2026-06-09T07:53:59.787704",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Justin Mitchell",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "044801983747",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 398
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "244-91-6406",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 418,
+        "end": 429
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "9725828479",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 449,
+        "end": 459
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "chelseathomas@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 479,
+        "end": 504
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "02/01/1982",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 524,
+        "end": 534
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "10932 Timothy Road, Port Christopher, AZ 34295",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 554,
+        "end": 600
+      }
+    }
+  ]
+}

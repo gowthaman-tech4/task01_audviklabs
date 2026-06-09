@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_040.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ryan Chavez",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Sara Kelley",
+      "start": 484,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/07/1999",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0989 Thompson Club Apt. 117, Thomasburgh, AR 01192",
+      "start": 547,
+      "end": 597
+    },
+    {
+      "type": "PHONE",
+      "value": "001-278-862-7204x33837",
+      "start": 618,
+      "end": 640
+    },
+    {
+      "type": "EMAIL",
+      "value": "msmith@example.org",
+      "start": 661,
+      "end": 679
+    },
+    {
+      "type": "SSN",
+      "value": "563-28-3389",
+      "start": 700,
+      "end": 711
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ann Thompson",
+      "start": 758,
+      "end": 770
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/07/1965",
+      "start": 818,
+      "end": 828
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_in_022.txt",
+  "timestamp": "2026-06-09T07:55:05.481076",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 8,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Amrita Rama",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "414486812776",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "255834",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 314,
+        "end": 320
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 86977 50275",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "zinal50@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 377,
+        "end": 396
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Natt",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 882,
+        "end": 886
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Chawla              ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1087,
+        "end": 1107
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Kale",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1134,
+        "end": 1138
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Desai",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1140,
+        "end": 1145
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kara",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1150,
+        "end": 1154
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nori",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1208,
+        "end": 1212
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kala",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1217,
+        "end": 1221
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Chana",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 914,
+        "end": 919
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Nanda-Sastry                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 958,
+        "end": 994
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Varty",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1090,
+        "end": 1095
+      }
+    }
+  ]
+}

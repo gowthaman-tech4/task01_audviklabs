@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_026.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "136-63-8729",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "62-3874685",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Washington Group",
+      "start": 353,
+      "end": 369
+    },
+    {
+      "type": "ADDRESS",
+      "value": "429 Rodriguez Meadow, Christinefort, NC 54983",
+      "start": 373,
+      "end": 418
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michelle Ramirez",
+      "start": 442,
+      "end": 458
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0515 Amanda Stream, West Joseph, ME 94567",
+      "start": 498,
+      "end": 539
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-5853965
+Policy Type: Health Insurance
+Date of Issue: September 04, 2025
+
+Dear Tammie Brown,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Crystal Norman
+Date of Birth:      04/28/1979
+Address:            6396 Sandra Lane, Louisberg, TN 86708
+Phone:              (479)959-2338
+Email:              larry81@example.com
+SSN:                161-91-8879
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Manuel Wilson
+Relationship:       Son
+Nominee DOB:        10/25/1965
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  4,470,365.68
+Annual Premium:     $     21,564.92
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  January 08, 2026
+Maturity Date:      September 02, 2049
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

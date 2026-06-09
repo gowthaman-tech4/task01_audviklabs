@@ -1,0 +1,182 @@
+{
+  "document": "bank_statement_in_024.txt",
+  "timestamp": "2026-06-09T07:53:49.238395",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Jason Merchant",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "231097930093532",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 378,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "PUNB0264961",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 413,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "GLAPP1730R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 444,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 67219 10930",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 474,
+        "end": 489
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "talwaryoshita@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 509,
+        "end": 534
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "04/18/1968",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 554,
+        "end": 564
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "397813",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 616,
+        "end": 622
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Natarajan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1067,
+        "end": 1087
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Bajaj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1089,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "34190277",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2467,
+        "end": 2475
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Nigam Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 597,
+        "end": 607
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Panc     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1117,
+        "end": 1126
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Purchase - Bahri-Dutta",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1458,
+        "end": 1480
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2927,
+        "end": 2961
+      }
+    }
+  ]
+}

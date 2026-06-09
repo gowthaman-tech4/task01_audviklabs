@@ -1,0 +1,60 @@
+============================================================
+                    Pacific Union Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 08, 2026 to May 22, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Suzanne Harvey
+Account Number:    767796358428
+SSN:               366-88-1232
+Phone:             488-515-7480x41704
+Email:             wcollins@example.com
+Date of Birth:     05/18/1959
+Address:           83712 Roberson Prairie Suite 911, Lake Michaelland, DC 58229
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Estradamouth Branch
+Opening Balance:   $72,838.12
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/20/2026     Online Transfer to 37303854             1,224.24                   71,613.88
+05/20/2026     Direct Deposit - XPU Corp                            1,782.92      73,396.80
+05/24/2026     Check #7058                                            315.83      73,712.63
+06/01/2026     Check #2457                             4,334.45                   69,378.18
+05/16/2026     Bill Payment - Utility                  4,176.53                   65,201.65
+05/16/2026     ATM Withdrawal - South Ryanstad           410.87                   64,790.78
+06/03/2026     Bill Payment - Utility                  1,620.49                   63,170.29
+05/09/2026     Interest Credit                         4,677.50                   58,492.79
+06/04/2026     Service Charge                          1,193.40                   57,299.39
+06/02/2026     Online Transfer to 74895747               152.26                   57,147.13
+05/16/2026     Direct Deposit - VGR Corp               4,932.56                   52,214.57
+05/22/2026     Check #8472                                          1,536.47      53,751.04
+06/03/2026     Interest Credit                                      1,428.92      55,179.96
+05/13/2026     Service Charge                          4,844.18                   50,335.78
+06/04/2026     Interest Credit                         1,219.52                   49,116.26
+05/24/2026     ATM Withdrawal - East Charlotte         4,196.60                   44,919.66
+05/31/2026     Bill Payment - Utility                               2,361.14      47,280.80
+05/30/2026     NEFT Transfer                                        4,936.84      52,217.64
+06/02/2026     UPI Transfer                            1,001.09                   51,216.55
+05/15/2026     POS Purchase - Lynch, Conway and Dickers       315.16                   50,901.39
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $50,901.39
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Pacific Union Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

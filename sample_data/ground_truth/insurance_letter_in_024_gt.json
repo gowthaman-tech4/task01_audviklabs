@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_024.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Yachana Gopal",
+      "start": 312,
+      "end": 325
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Udant Kurian",
+      "start": 482,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/28/1998",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 989, Johal Road, Sambhal 051371",
+      "start": 546,
+      "end": 583
+    },
+    {
+      "type": "PHONE",
+      "value": "91 68848 05672",
+      "start": 604,
+      "end": 618
+    },
+    {
+      "type": "EMAIL",
+      "value": "vedhika77@example.com",
+      "start": 639,
+      "end": 660
+    },
+    {
+      "type": "PAN",
+      "value": "TKTLY0021L",
+      "start": 681,
+      "end": 691
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9745 5535 0569",
+      "start": 712,
+      "end": 726
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jasmit Garg",
+      "start": 773,
+      "end": 784
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/25/2019",
+      "start": 832,
+      "end": 842
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Matthew Hammond
+Account Number:         3525765843
+SSN:                    540-82-6577
+Email:                  emilygarza@example.com
+Phone:                  (452)266-7168x5481
+Correspondence Address: 187 Lisa Springs, Lopezfort, NY 71102
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+GOOGL    Alphabet Inc.                299 $    112.37 $    152.61 $   45,631.75 $   12,033.12
+JPM      JPMorgan Chase & Co.         499 $    156.26 $    175.45 $   87,551.46 $    9,577.72
+AAPL     Apple Inc.                   123 $    189.59 $    185.18 $   22,777.39 $     -542.18
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  155,960.60
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/03/2026     SELL     GOOGL         8 $    265.18 $    2,121.44
+05/22/2026     DIV      JPM          98 $    159.02 $   15,583.96
+04/02/2026     DIV      JPM          86 $    227.72 $   19,583.92
+06/06/2026     SELL     JPM          11 $    290.12 $    3,191.32
+06/03/2026     BUY      JPM          68 $    379.58 $   25,811.44
+05/09/2026     DIV      AAPL         24 $    180.45 $    4,330.80
+04/16/2026     DIV      GOOGL        69 $    344.17 $   23,747.73
+05/13/2026     SELL     GOOGL         4 $    274.57 $    1,098.28
+04/17/2026     DIV      JPM           7 $    103.27 $      722.89
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

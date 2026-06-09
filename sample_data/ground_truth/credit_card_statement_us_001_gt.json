@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_001.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Keith Ferrell",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4870-7558-4285-3010",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "171 Alvarez Fords Suite 534, Harrisonfurt, ND 65149",
+      "start": 293,
+      "end": 344
+    },
+    {
+      "type": "PHONE",
+      "value": "955-572-2104x86678",
+      "start": 365,
+      "end": 383
+    },
+    {
+      "type": "EMAIL",
+      "value": "jamiebaker@example.org",
+      "start": 404,
+      "end": 426
+    }
+  ]
+}

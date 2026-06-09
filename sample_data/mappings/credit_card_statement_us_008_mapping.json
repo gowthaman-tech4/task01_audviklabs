@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_us_008.txt",
+  "timestamp": "2026-06-09T07:55:10.530817",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 7,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Deborah Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "470567322830",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "510 Sandra Turnpike Apt. 134, Johnsonton, WA 40873",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 343
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "900.690.5886x58979",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 364,
+        "end": 382
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "michael85@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 403,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Williams-Barrett",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1225,
+        "end": 1241
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Brown",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1358,
+        "end": 1363
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1477,
+        "end": 1482
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Garrett",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1484,
+        "end": 1491
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Michael",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1496,
+        "end": 1503
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Miller",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1540,
+        "end": 1546
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Parrish-Simmons                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1111,
+        "end": 1147
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Quinn",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1617,
+        "end": 1622
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/09/2026     Phelps Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1656,
+        "end": 1681
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1816,
+        "end": 1827
+      }
+    }
+  ]
+}

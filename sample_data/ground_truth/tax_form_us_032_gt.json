@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_032.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "572-40-3132",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "95-9295766",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Parker-Lee",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "11850 Graves Junction Apt. 428, Robinsontown, TX 23081",
+      "start": 367,
+      "end": 421
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Craig George",
+      "start": 445,
+      "end": 457
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4549 Smith Crossroad, West Loriview, NE 19360",
+      "start": 497,
+      "end": 542
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_022.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Amrita Rama",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4144-8681-2776-3349",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "316, Pandit, Dibrugarh-255834",
+      "start": 291,
+      "end": 320
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 86977 50275",
+      "start": 341,
+      "end": 356
+    },
+    {
+      "type": "EMAIL",
+      "value": "zinal50@example.com",
+      "start": 377,
+      "end": 396
+    }
+  ]
+}

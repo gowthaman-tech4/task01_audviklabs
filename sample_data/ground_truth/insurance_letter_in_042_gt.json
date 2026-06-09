@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_042.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Timothy Sule",
+      "start": 315,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Pratyush Sama",
+      "start": 484,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/06/1966",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "359, Sachar, Bilaspur-070727",
+      "start": 549,
+      "end": 577
+    },
+    {
+      "type": "PHONE",
+      "value": "91 76486 51396",
+      "start": 598,
+      "end": 612
+    },
+    {
+      "type": "EMAIL",
+      "value": "kkrishnan@example.com",
+      "start": 633,
+      "end": 654
+    },
+    {
+      "type": "PAN",
+      "value": "QPRBX1449S",
+      "start": 675,
+      "end": 685
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8236 1021 4114",
+      "start": 706,
+      "end": 720
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Krishna Chaudry",
+      "start": 767,
+      "end": 782
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/08/1954",
+      "start": 832,
+      "end": 842
+    }
+  ]
+}

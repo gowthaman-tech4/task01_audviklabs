@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_004.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "224-22-6793",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "43-5845963",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Jackson LLC",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9318 Williams Highway Suite 690, Forbesfort, LA 07869",
+      "start": 368,
+      "end": 421
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Laura Becker",
+      "start": 445,
+      "end": 457
+    },
+    {
+      "type": "ADDRESS",
+      "value": "876 Lopez Route, Jonesside, TX 72759",
+      "start": 497,
+      "end": 533
+    }
+  ]
+}

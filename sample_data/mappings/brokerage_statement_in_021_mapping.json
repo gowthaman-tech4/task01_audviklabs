@@ -1,0 +1,202 @@
+{
+  "document": "brokerage_statement_in_021.txt",
+  "timestamp": "2026-06-09T07:54:46.755255",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Baljiwan Ravi",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 296
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "0531988285",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 321,
+        "end": 331
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "DHQJB0043V",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 356,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "7977616436698184",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "chameli24@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 432,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 61174 82254",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 493
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "764521",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 556,
+        "end": 562
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Sani Road",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 523,
+        "end": 532
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Tiruchirappalli",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 534,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 783,
+        "end": 811
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 877,
+        "end": 898
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "AAPL     Apple Inc.                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1065,
+        "end": 1103
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1168,
+        "end": 1183
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1621,
+        "end": 1625
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1951,
+        "end": 1955
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2017,
+        "end": 2021
+      }
+    }
+  ]
+}

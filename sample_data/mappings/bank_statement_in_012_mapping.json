@@ -1,0 +1,204 @@
+{
+  "document": "bank_statement_in_012.txt",
+  "timestamp": "2026-06-09T07:53:46.174541",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ACCOUNT_NUMBER": 3,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Eta Bhatia",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 351
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "1006554479754",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 371,
+        "end": 384
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "SBIN0394650",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 404,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "FMJPR4989N",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 435,
+        "end": 445
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 94630 77883",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 465,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "anshbandi@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 499,
+        "end": 520
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/20/1992",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 540,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "780738",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 597,
+        "end": 603
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Sankaran",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 981,
+        "end": 989
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "45391852",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1161,
+        "end": 1169
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "81561240",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1345,
+        "end": 1353
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Purchase - Anne",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1606,
+        "end": 1621
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Edwin",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1623,
+        "end": 1628
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Mukhopadhyay",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1809,
+        "end": 1821
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Bajaj Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 590,
+        "end": 600
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "POS Purchase - Shere Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1079,
+        "end": 1105
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "FDIC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2885,
+        "end": 2889
+      }
+    }
+  ]
+}

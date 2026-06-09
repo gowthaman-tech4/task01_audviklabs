@@ -1,0 +1,135 @@
+{
+  "document": "brokerage_statement_us_010.txt",
+  "timestamp": "2026-06-09T07:54:53.925376",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Melissa Moore",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "6166274387",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "345-18-0137",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 353,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "helenandrews@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(297)232-0416x058",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "18016 Debra Trafficway, West Alexandria, CT 49245",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 721
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 885,
+        "end": 913
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1413,
+        "end": 1417
+      }
+    }
+  ]
+}

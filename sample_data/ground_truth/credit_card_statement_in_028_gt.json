@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_028.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Chasmum Dara",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4508-1137-2242-1500",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 35, Iyer Road, Nagpur-915714",
+      "start": 292,
+      "end": 326
+    },
+    {
+      "type": "PHONE",
+      "value": "91 86135 91041",
+      "start": 347,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "saurora@example.org",
+      "start": 382,
+      "end": 401
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Garg and Sons
+TAN of the Deductor:    DENG71844M
+Address:                28/779, Barad Marg, Vellore-151351
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Qabil Oommen
+PAN of the Employee:    QITJV5197C
+Aadhaar Number:         5306 1813 7341
+Date of Birth:          01/08/1970
+Address:                19/841, Walia Street, Mango 457273
+Email:                  balangayathri@example.net
+Mobile:                 +91 69865 41391
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,039,887.13
+   (b) Value of perquisites u/s 17(2)  Rs.      39,107.89
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     244,786.45
+   (b) LTA Exemption                   Rs.      18,187.56
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,745,100.67
+5. Tax on Total Income                 Rs.     349,020.14
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      13,960.81
+8. Total Tax Payable                   Rs.     362,980.94
+
+============================================================

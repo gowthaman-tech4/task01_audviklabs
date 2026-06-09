@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Deborah Smith
+Card Number:        4705-6732-2830-1788
+Billing Address:    510 Sandra Turnpike Apt. 134, Johnsonton, WA 40873
+Phone:              900.690.5886x58979
+Email:              michael85@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 11, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $    5,412.74
+Previous Balance:   $   10,109.25
+Payments Received:  $    2,820.76
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/27/2026     Young-Dunn                          $    778.07
+05/29/2026     Edwards Ltd                         $  1,725.88
+06/06/2026     Knight-Martin                       $    926.40
+05/09/2026     Ellis-Henderson                     $    628.81
+06/06/2026     Ray, Webb and Sims                  $    766.76
+05/14/2026     Tanner-Shaw                         $    429.41
+05/12/2026     Parrish-Simmons                     $  1,819.76
+05/18/2026     Williams-Barrett                    $  1,027.30
+06/03/2026     Mitchell Group                      $    466.28
+05/09/2026     Walsh, Brown and Benitez            $    223.10
+05/28/2026     Rivers-Young                        $  1,100.09
+06/04/2026     Davis, Garrett and Michael          $    910.61
+06/01/2026     Miller and Sons                     $  1,789.54
+06/07/2026     Daniels, Quinn and Rodriguez        $  1,712.41
+05/09/2026     Phelps Ltd                          $    714.07
+
+-------------------------------------------------------------
+Total Charges:      $   15,018.49
+New Balance:        $   22,306.98
+Minimum Payment:    $      446.14
+
+============================================================

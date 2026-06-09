@@ -1,0 +1,169 @@
+{
+  "document": "brokerage_statement_in_014.txt",
+  "timestamp": "2026-06-09T07:54:45.148867",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "PAN": 1,
+    "EMAIL": 1,
+    "PHONE": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gayathri Anne",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 296
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "5661180873",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 321,
+        "end": 331
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "EDIFF9330O",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 356,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "4705668239692937",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "banikrushil@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 432,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 98975 09104",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 494
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "829575",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Dada Ganj",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 531,
+        "end": 540
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ozhukarai",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 542,
+        "end": 551
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 794,
+        "end": 809
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 879,
+        "end": 898
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 973,
+        "end": 995
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "MSFT",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1699,
+        "end": 1703
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-179052
+Date of Agreement: May 25, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 87303 Katie Hill, East Lindseyfurt, FL 74012
+
+BORROWER:
+Name: Kristi Harris
+SSN: 345-02-3762
+Date of Birth: 02/10/1980
+Address: 5905 Meyer Hollow, North Maria, FM 34079
+Phone: +1-949-949-3485
+Email: christopher85@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    395,132.32
+Interest Rate:              15.13% per annum
+Loan Tenure:                36 months
+EMI Amount:                 $     13,722.56
+Disbursement Account No:    00835771687286
+Disbursement Date:          May 18, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 36 equal monthly installments of $13,722.56.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

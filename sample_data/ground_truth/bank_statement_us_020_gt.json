@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_020.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Andrew Stanton",
+      "start": 339,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "133233925320",
+      "start": 373,
+      "end": 385
+    },
+    {
+      "type": "SSN",
+      "value": "426-11-7843",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-349-943-8165x3055",
+      "start": 436,
+      "end": 456
+    },
+    {
+      "type": "EMAIL",
+      "value": "shannon33@example.org",
+      "start": 476,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/24/1991",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "58893 Michael Mountain, Port Joshuastad, MN 40071",
+      "start": 547,
+      "end": 596
+    }
+  ]
+}

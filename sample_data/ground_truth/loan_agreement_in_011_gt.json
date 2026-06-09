@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_011.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "84/283, Nayar, Sambalpur 270902",
+      "start": 373,
+      "end": 404
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Theodore Mohan",
+      "start": 422,
+      "end": 436
+    },
+    {
+      "type": "PAN",
+      "value": "SWYBE5549E",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9002 9733 9042",
+      "start": 462,
+      "end": 476
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/05/1976",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "type": "ADDRESS",
+      "value": "01/60, Kade Ganj, Thoothukudi 494470",
+      "start": 512,
+      "end": 548
+    },
+    {
+      "type": "PHONE",
+      "value": "91 73852 03786",
+      "start": 556,
+      "end": 570
+    },
+    {
+      "type": "EMAIL",
+      "value": "harshil98@example.net",
+      "start": 578,
+      "end": 599
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yashawini Bora",
+      "start": 636,
+      "end": 650
+    },
+    {
+      "type": "PHONE",
+      "value": "91 66836 24250",
+      "start": 658,
+      "end": 672
+    },
+    {
+      "type": "EMAIL",
+      "value": "pandeyanay@example.org",
+      "start": 680,
+      "end": 702
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "78697738982721",
+      "start": 962,
+      "end": 976
+    }
+  ]
+}

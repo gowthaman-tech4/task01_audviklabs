@@ -1,0 +1,160 @@
+{
+  "document": "bank_statement_us_019.txt",
+  "timestamp": "2026-06-09T07:53:58.751690",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Damon Carr",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "803710006338",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 378,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "115-22-3900",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 410,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "2184161525",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 441,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "richardburns@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 471,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/17/1994",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 515,
+        "end": 525
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "13464 Andrew Road Suite 861, Morganshire, ID 55726",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 545,
+        "end": 595
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "36221407",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1243,
+        "end": 1251
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "60123305",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1519,
+        "end": 1527
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "86984567",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2071,
+        "end": 2079
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 106
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "06/06/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2223,
+        "end": 2245
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2687,
+        "end": 2712
+      }
+    }
+  ]
+}

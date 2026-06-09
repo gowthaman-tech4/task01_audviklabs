@@ -1,0 +1,124 @@
+{
+  "document": "brokerage_statement_us_042.txt",
+  "timestamp": "2026-06-09T07:55:01.384682",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Larry Martinez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 294
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "1467418985",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 319,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "195-90-6077",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "arogers@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 409
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "398-919-5981",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 434,
+        "end": 446
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "327 Gill Drive, West Anita, NM 97758",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 471,
+        "end": 507
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 721
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 885,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1677,
+        "end": 1681
+      }
+    }
+  ]
+}

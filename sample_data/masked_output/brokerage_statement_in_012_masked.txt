@@ -1,0 +1,48 @@
+============================================================
+          [ORGANIZATION_007].
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 814, [PERSON_NAME_002], Tumkur-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     [ORGANIZATION_006]              398 $    260.37 $    354.03 $  140,903.88 $   37,276.62
+[ORGANIZATION_005]                   455 $    143.02 $    166.07 $   75,563.10 $   10,489.00
+JPM      [ORGANIZATION_004]          53 $    189.88 $    204.93 $   10,861.50 $      797.86
+[ORGANIZATION_003]                 84 $    132.58 $    139.67 $   11,731.99 $      595.27
+[ORGANIZATION_002]          144 $    474.29 $    511.30 $   73,627.01 $    5,329.25
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  312,687.48
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/22/2026     DIV      MSFT         39 $    257.95 $   10,060.05
+[ORGANIZATION_001]     BUY      JPM          53 $    282.99 $   14,998.47
+03/12/2026     SELL     MSFT         61 $    488.80 $   29,816.80
+04/04/2026     BUY      JPM          25 $    357.21 $    8,930.25
+05/27/2026     BUY      JPM          26 $    341.27 $    8,873.02
+03/26/2026     BUY      GOOGL         1 $    425.21 $      425.21
+04/29/2026     SELL     GOOGL        34 $     54.39 $    1,849.26
+05/09/2026     SELL     MSFT         84 $    422.70 $   35,506.80
+03/14/2026     SELL     GOOGL        26 $    259.35 $    6,743.10
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

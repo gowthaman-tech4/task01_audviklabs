@@ -1,0 +1,44 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Qushi Devan
+Account Number:         4155921218
+PAN:                    BCRLL6931V
+Demat Account:          9409391774878178
+Email:                  sathvik24@example.org
+Phone:                  91 73679 39887
+Correspondence Address: H.No. 01, Sampath Ganj, Karnal-742325
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                   204 $    292.74 $    268.54 $   54,781.51 $   -4,937.45
+AAPL     Apple Inc.                   267 $    171.57 $    182.64 $   48,765.25 $    2,956.06
+META     Meta Platforms Inc.          172 $    518.90 $    477.00 $   82,043.52 $   -7,207.28
+JPM      JPMorgan Chase & Co.         152 $    133.88 $    186.78 $   28,389.93 $    8,040.17
+GOOGL    Alphabet Inc.                495 $    142.16 $    140.98 $   69,787.20 $     -582.00
+MSFT     Microsoft Corp.              149 $    457.14 $    419.08 $   62,443.03 $   -5,670.83
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  346,210.44
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/20/2026     SELL     JPM          58 $    256.85 $   14,897.30
+04/25/2026     DIV      META         26 $    374.92 $    9,747.92
+03/18/2026     BUY      JPM          46 $    153.37 $    7,055.02
+05/18/2026     SELL     AAPL         37 $    372.95 $   13,799.15
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,59 @@
+============================================================
+                    [ORGANIZATION_003]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 16, 2026 to June 05, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_003]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            East Cindyhaven Branch
+Opening Balance:   $137,036.90
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/06/2026     Interest Credit                         1,188.25                  135,848.65
+06/05/2026     UPI Transfer                            4,691.65                  131,157.00
+05/25/2026     ATM Withdrawal - South Samuelside                    2,196.89     133,353.89
+06/03/2026     Service Charge                          2,449.61                  130,904.28
+[ORGANIZATION_002] Charge                          3,604.41                  127,299.87
+05/25/2026     Bill Payment - Utility                               2,816.61     130,116.48
+06/05/2026     Bill Payment - Utility                               2,746.88     132,863.36
+05/24/2026     POS Purchase - Ramirez, Rodriguez and Wa                  2,170.58     135,033.94
+06/02/2026     Bill Payment - Utility                  1,291.10                  133,742.84
+06/05/2026     Bill Payment - Utility                  2,275.70                  131,467.14
+05/25/2026     ATM Withdrawal - Port Veronicamouth                     38.05     131,505.19
+05/25/2026     Bill Payment - Utility                  3,450.53                  128,054.66
+06/03/2026     NEFT Transfer                           2,090.23                  125,964.43
+05/12/2026     ATM Withdrawal - Lake Christineshire                  4,729.91     130,694.34
+05/15/2026     POS [PERSON_NAME_002] and Sons           309.01                  130,385.33
+05/20/2026     Direct Deposit - SDB Corp                              666.66     131,051.99
+06/07/2026     Interest Credit                         2,056.15                  128,995.84
+05/10/2026     Service Charge                          2,647.07                  126,348.77
+06/01/2026     Online Transfer to [ACCOUNT_NUMBER_001]             1,836.81                  124,511.96
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $[PERSON_NAME_001]
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

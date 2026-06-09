@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_026.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Laurie Sloan",
+      "start": 351,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "965934257443",
+      "start": 383,
+      "end": 395
+    },
+    {
+      "type": "SSN",
+      "value": "221-64-9929",
+      "start": 415,
+      "end": 426
+    },
+    {
+      "type": "PHONE",
+      "value": "273-485-7772x61794",
+      "start": 446,
+      "end": 464
+    },
+    {
+      "type": "EMAIL",
+      "value": "alex25@example.org",
+      "start": 484,
+      "end": 502
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/30/1994",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "72594 Jackson Plains Suite 951, Port Julie, TN 86464",
+      "start": 552,
+      "end": 604
+    }
+  ]
+}

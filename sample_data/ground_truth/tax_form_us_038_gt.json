@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_038.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "652-49-2324",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "49-5740720",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Ryan, Thomas and Moon",
+      "start": 353,
+      "end": 374
+    },
+    {
+      "type": "ADDRESS",
+      "value": "07177 Avery Views, Deborahhaven, FL 84202",
+      "start": 378,
+      "end": 419
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Chavez",
+      "start": 443,
+      "end": 461
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4008 Lisa Estate, Yvonnestad, FL 46411",
+      "start": 501,
+      "end": 539
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 23, 2026 to June 05, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Jennifer Ramos
+Account Number:    754442437825
+SSN:               661-01-1880
+Phone:             273.346.5513x780
+Email:             katelynstevens@example.com
+Date of Birth:     10/14/1992
+Address:           97153 Autumn Bridge Suite 294, Melissaland, FM 90231
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Jessicaside Branch
+Opening Balance:   $26,393.38
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/22/2026     POS Purchase - Kim and Sons                          2,939.54      29,332.92
+05/29/2026     Check #3066                             4,325.55                   25,007.37
+06/05/2026     NEFT Transfer                                        3,343.62      28,350.99
+05/09/2026     Service Charge                          2,785.66                   25,565.33
+05/27/2026     ATM Withdrawal - Robertochester           391.57                   25,173.76
+05/17/2026     UPI Transfer                                         2,728.10      27,901.86
+05/13/2026     NEFT Transfer                           1,912.82                   25,989.04
+05/09/2026     Online Transfer to 78343040                          4,315.44      30,304.48
+06/07/2026     Interest Credit                                      2,172.43      32,476.91
+05/31/2026     Bill Payment - Utility                  2,594.10                   29,882.81
+05/24/2026     POS Purchase - Davis PLC                             4,176.11      34,058.92
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $34,058.92
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

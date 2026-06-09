@@ -1,0 +1,48 @@
+============================================================
+                    Global Trust Banking Corp
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 15, 2026 to May 11, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Christopher Mcintyre
+Account Number:    025632509374
+SSN:               183-41-1203
+Phone:             353.848.7164x7015
+Email:             rodrigueznathan@example.org
+Date of Birth:     05/07/1979
+Address:           37715 Jessica Prairie Apt. 504, Grantburgh, VT 36702
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Mccannshire Branch
+Opening Balance:   $84,848.42
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/07/2026     Bill Payment - Utility                                 221.32      85,069.74
+05/18/2026     Direct Deposit - RWR Corp                            2,319.91      87,389.65
+05/17/2026     NEFT Transfer                                           18.69      87,408.34
+05/11/2026     Direct Deposit - AUP Corp                            4,836.43      92,244.77
+06/04/2026     NEFT Transfer                                        1,979.39      94,224.16
+05/25/2026     Online Transfer to 52527386             3,873.54                   90,350.62
+06/05/2026     Check #5066                             3,051.75                   87,298.87
+05/15/2026     UPI Transfer                            4,140.51                   83,158.36
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $83,158.36
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Global Trust Banking Corp
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_005.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Randy Mckenzie",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0820879223",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "105-47-3413",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "davisjasmine@example.org",
+      "start": 390,
+      "end": 414
+    },
+    {
+      "type": "PHONE",
+      "value": "344.396.3053",
+      "start": 439,
+      "end": 451
+    },
+    {
+      "type": "ADDRESS",
+      "value": "USNV Gibson, FPO AA 38273",
+      "start": 476,
+      "end": 501
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   572-40-3132
+
+b  Employer Identification Number (EIN)
+   95-9295766
+
+c  Employer's Name, Address, and ZIP Code
+   Parker-Lee
+   11850 Graves Junction Apt. 428, Robinsontown, TX 23081
+
+e  Employee's Name
+   Craig George
+
+f  Employee's Address and ZIP Code
+   4549 Smith Crossroad, West Loriview, NE 19360
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   82,303.80
+2  Federal income tax withheld         $   21,795.49
+3  Social Security wages               $   82,303.80
+4  Social Security tax withheld        $    5,102.84
+5  Medicare wages and tips             $   82,303.80
+6  Medicare tax withheld               $    1,193.41
+
+12a Code DD - Health Insurance          $    3,883.54
+
+--- STATE TAX INFORMATION ---
+
+15 State: WY
+16 State wages                         $   82,303.80
+17 State income tax                    $    6,306.07
+
+============================================================

@@ -1,0 +1,43 @@
+============================================================
+          [ORGANIZATION_006].
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [ACCOUNT_NUMBER_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 28, [PERSON_NAME_002], Gaya [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_005]488 $    211.93 $    202.51 $   98,822.82 $   -4,599.02
+[ORGANIZATION_004]               46 $    123.77 $    163.43 $    7,517.88 $    1,824.46
+[ORGANIZATION_003]                  60 $    770.77 $    700.99 $   42,059.22 $   -4,186.98
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  148,399.92
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/21/2026     DIV      [ORGANIZATION_002]         58 $    498.54 $   28,915.32
+04/02/2026     DIV      AMZN          3 $    135.53 $      406.59
+04/08/2026     DIV      JPM          25 $    258.42 $    6,460.50
+04/15/2026     SELL     AMZN         89 $    341.10 $   30,357.90
+04/19/2026     SELL     [ORGANIZATION_001]         74 $    405.15 $   29,981.10
+05/25/2026     BUY      AMZN         23 $    223.97 $    5,151.31
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

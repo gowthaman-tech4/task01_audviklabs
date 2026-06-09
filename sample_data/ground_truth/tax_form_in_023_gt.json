@@ -1,0 +1,62 @@
+{
+  "document": "tax_form_in_023.txt",
+  "document_type": "tax_form",
+  "locale": "in",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Tella-Varma",
+      "start": 348,
+      "end": 359
+    },
+    {
+      "type": "ADDRESS",
+      "value": "196, Baria, Panihati-772417",
+      "start": 419,
+      "end": 446
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Udant Mangal",
+      "start": 498,
+      "end": 510
+    },
+    {
+      "type": "PAN",
+      "value": "FGMBD9728O",
+      "start": 535,
+      "end": 545
+    },
+    {
+      "type": "AADHAAR",
+      "value": "3443 8121 3071",
+      "start": 570,
+      "end": 584
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/06/1996",
+      "start": 609,
+      "end": 619
+    },
+    {
+      "type": "ADDRESS",
+      "value": "70, Chandra Path, Surendranagar Dudhrej 413530",
+      "start": 644,
+      "end": 690
+    },
+    {
+      "type": "EMAIL",
+      "value": "keerjason@example.net",
+      "start": 715,
+      "end": 736
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 99109 73626",
+      "start": 761,
+      "end": 776
+    }
+  ]
+}

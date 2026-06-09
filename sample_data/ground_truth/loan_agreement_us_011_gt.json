@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_011.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 338,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9148 Willis Inlet Suite 099, New Kathleenport, PW 81385",
+      "start": 375,
+      "end": 430
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tiffany Chandler",
+      "start": 448,
+      "end": 464
+    },
+    {
+      "type": "SSN",
+      "value": "388-69-5340",
+      "start": 470,
+      "end": 481
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/30/1999",
+      "start": 497,
+      "end": 507
+    },
+    {
+      "type": "ADDRESS",
+      "value": "79859 Alan Courts Suite 754, Dawnchester, HI 95401",
+      "start": 517,
+      "end": 567
+    },
+    {
+      "type": "PHONE",
+      "value": "556.251.1334",
+      "start": 575,
+      "end": 587
+    },
+    {
+      "type": "EMAIL",
+      "value": "jasonwilliams@example.org",
+      "start": 595,
+      "end": 620
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Elizabeth Bates",
+      "start": 657,
+      "end": 672
+    },
+    {
+      "type": "PHONE",
+      "value": "001-614-372-9947x99279",
+      "start": 680,
+      "end": 702
+    },
+    {
+      "type": "EMAIL",
+      "value": "scottjoseph@example.com",
+      "start": 710,
+      "end": 733
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "30995097975537",
+      "start": 997,
+      "end": 1011
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Yatan Chander
+Card Number:        4246-8522-4048-5185
+Billing Address:    20, Kaur Circle, Hapur-454931
+Phone:              91 70985 11251
+Email:              tamannakrishnan@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 04, 2026
+Payment Due Date:   June 25, 2026
+Credit Limit:       $   38,672.61
+Previous Balance:   $    4,241.35
+Payments Received:  $    3,423.19
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/19/2026     Ganesan Group                       $  1,668.99
+05/26/2026     Bajwa LLC                           $    197.03
+05/25/2026     Bhasin, Master and Bhatti           $  1,407.15
+05/11/2026     Gala PLC                            $  1,895.42
+05/18/2026     Balan, Gola and Patla               $    852.73
+06/04/2026     Pal Ltd                             $  1,251.82
+06/07/2026     Sampath, Jha and Chad               $  1,656.70
+05/25/2026     Parekh LLC                          $  1,882.93
+05/27/2026     Yadav LLC                           $  1,831.68
+05/19/2026     Sarin-Mammen                        $  1,828.29
+05/18/2026     Goyal-Lad                           $     52.97
+05/22/2026     Mann, Rana and Bhatt                $  1,048.61
+05/27/2026     Mallick-Palan                       $  1,499.32
+05/14/2026     Rajagopal-Rout                      $    567.58
+
+-------------------------------------------------------------
+Total Charges:      $   17,641.22
+New Balance:        $   18,459.38
+Minimum Payment:    $      369.19
+
+============================================================

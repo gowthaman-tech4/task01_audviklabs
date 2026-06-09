@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_in_006.txt",
+  "timestamp": "2026-06-09T07:53:44.721455",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Shravya Varughese",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 349,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "55643607208754",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "BKID0679274",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 420,
+        "end": 431
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "SZQAH3764P",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 451,
+        "end": 461
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 81142 80424",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "qloyal@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 515,
+        "end": 533
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/06/1957",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 563
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "433680",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 610,
+        "end": 616
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "82428292",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1998,
+        "end": 2006
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kara Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 598,
+        "end": 608
+      }
+    }
+  ]
+}

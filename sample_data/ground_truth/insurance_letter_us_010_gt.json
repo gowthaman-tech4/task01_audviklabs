@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_010.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Murphy",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "James Fox",
+      "start": 483,
+      "end": 492
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/18/1990",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "397 Alex Crossing Suite 423, New Marisa, WA 86595",
+      "start": 544,
+      "end": 593
+    },
+    {
+      "type": "PHONE",
+      "value": "001-816-772-1609x584",
+      "start": 614,
+      "end": 634
+    },
+    {
+      "type": "EMAIL",
+      "value": "joshua53@example.net",
+      "start": 655,
+      "end": 675
+    },
+    {
+      "type": "SSN",
+      "value": "435-19-3599",
+      "start": 696,
+      "end": 707
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Dale Austin",
+      "start": 754,
+      "end": 765
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/05/1980",
+      "start": 813,
+      "end": 823
+    }
+  ]
+}

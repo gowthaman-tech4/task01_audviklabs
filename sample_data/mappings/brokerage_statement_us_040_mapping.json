@@ -1,0 +1,135 @@
+{
+  "document": "brokerage_statement_us_040.txt",
+  "timestamp": "2026-06-09T07:55:00.938672",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Thomas Hart",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "8606720412",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 316,
+        "end": 326
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "451-95-2194",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kristenphillips@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 414
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "471-654-6521x563",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 439,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "78321 Scott Ports, Port Aimee, KY 79636",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 519
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 721
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 812
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 923
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1639,
+        "end": 1643
+      }
+    }
+  ]
+}

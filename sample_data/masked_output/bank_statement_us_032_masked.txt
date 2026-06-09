@@ -1,0 +1,50 @@
+============================================================
+                    Pacific Union Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 03, 2026 to May 24, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_002]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            [ADDRESS_001]:   $67,662.03
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+[ORGANIZATION_001] Charge                          4,237.02                   63,425.01
+05/23/2026     Service Charge                                       1,791.92      65,216.93
+06/02/2026     ATM Withdrawal - New Joshua             4,291.46                   60,925.47
+05/23/2026     Service Charge                          2,662.86                   58,262.61
+06/05/2026     NEFT Transfer                                        3,764.45      62,027.06
+05/18/2026     Check #4467                                          2,745.23      64,772.29
+05/13/2026     ATM Withdrawal - Gonzalezland                           80.55      64,852.84
+05/18/2026     Service Charge                          2,960.26                   61,892.58
+05/29/2026     Interest Credit                                        639.56      62,532.14
+05/13/2026     Interest Credit                                      2,556.48      65,088.62
+05/09/2026     Bill Payment - Utility                  2,706.79                   62,381.83
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $62,381.83
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Pacific Union Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

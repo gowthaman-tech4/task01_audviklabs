@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_007.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ryan Mangal",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kashvi Dass",
+      "start": 484,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/12/1985",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 36, Mohan Chowk, Jalandhar-499072",
+      "start": 547,
+      "end": 586
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 93377 39444",
+      "start": 607,
+      "end": 622
+    },
+    {
+      "type": "EMAIL",
+      "value": "nidra83@example.org",
+      "start": 643,
+      "end": 662
+    },
+    {
+      "type": "PAN",
+      "value": "MQBHK4609U",
+      "start": 683,
+      "end": 693
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7747 9507 7397",
+      "start": 714,
+      "end": 728
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Janaki Sibal",
+      "start": 775,
+      "end": 787
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/23/1945",
+      "start": 835,
+      "end": 845
+    }
+  ]
+}

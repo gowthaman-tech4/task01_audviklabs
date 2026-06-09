@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_014.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Scott Goodman",
+      "start": 315,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brenda Thomas",
+      "start": 485,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/24/2000",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "654 Ronald Village Suite 524, Turnerburgh, NE 91422",
+      "start": 550,
+      "end": 601
+    },
+    {
+      "type": "PHONE",
+      "value": "957-876-5966",
+      "start": 622,
+      "end": 634
+    },
+    {
+      "type": "EMAIL",
+      "value": "kelly93@example.org",
+      "start": 655,
+      "end": 674
+    },
+    {
+      "type": "SSN",
+      "value": "240-19-8539",
+      "start": 695,
+      "end": 706
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christy Barton",
+      "start": 753,
+      "end": 767
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/14/1973",
+      "start": 815,
+      "end": 825
+    }
+  ]
+}

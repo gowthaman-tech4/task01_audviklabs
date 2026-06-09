@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_010.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael White",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4241-0193-1811-6291",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "03019 Adam Cove, Triciaburgh, VT 56563",
+      "start": 293,
+      "end": 331
+    },
+    {
+      "type": "PHONE",
+      "value": "923-238-6118",
+      "start": 352,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "mcmillanjoseph@example.org",
+      "start": 385,
+      "end": 411
+    }
+  ]
+}

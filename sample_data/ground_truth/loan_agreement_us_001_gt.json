@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_001.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2777 Justin Underpass Suite 513, Millsside, AL 90694",
+      "start": 372,
+      "end": 424
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ashley Avila",
+      "start": 442,
+      "end": 454
+    },
+    {
+      "type": "SSN",
+      "value": "553-85-7202",
+      "start": 460,
+      "end": 471
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/23/1991",
+      "start": 487,
+      "end": 497
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2971 Whitney Turnpike, New Angela, FM 62282",
+      "start": 507,
+      "end": 550
+    },
+    {
+      "type": "PHONE",
+      "value": "(694)742-1558",
+      "start": 558,
+      "end": 571
+    },
+    {
+      "type": "EMAIL",
+      "value": "markjones@example.org",
+      "start": 579,
+      "end": 600
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "27319400617435",
+      "start": 861,
+      "end": 875
+    }
+  ]
+}

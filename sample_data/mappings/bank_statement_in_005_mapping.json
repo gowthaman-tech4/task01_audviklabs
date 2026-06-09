@@ -1,0 +1,115 @@
+{
+  "document": "bank_statement_in_005.txt",
+  "timestamp": "2026-06-09T07:53:44.461943",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Meghana Rout",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "9441190772",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 380,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "BARB0358313",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 410,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "FQPLG2334R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 441,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 69567 00784",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 471,
+        "end": 485
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mannejai@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 505,
+        "end": 525
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/13/1960",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 545,
+        "end": 555
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "997345",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 599,
+        "end": 605
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Gera Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 588,
+        "end": 597
+      }
+    }
+  ]
+}

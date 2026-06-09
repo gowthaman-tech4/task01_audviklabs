@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_038.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Isha Borde",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4297-5624-1542-8773",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "18/62, Randhawa Zila, Guwahati 770859",
+      "start": 290,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "91 80174 71802",
+      "start": 348,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "aadiiyer@example.net",
+      "start": 383,
+      "end": 403
+    }
+  ]
+}

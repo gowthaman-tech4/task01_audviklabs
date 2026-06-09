@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_017.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Karen Pope",
+      "start": 315,
+      "end": 325
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Lynn Brown",
+      "start": 482,
+      "end": 492
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/25/1971",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0481 Mary Wall Apt. 269, North Richardbury, WY 65328",
+      "start": 544,
+      "end": 596
+    },
+    {
+      "type": "PHONE",
+      "value": "001-729-771-6402x421",
+      "start": 617,
+      "end": 637
+    },
+    {
+      "type": "EMAIL",
+      "value": "colin51@example.net",
+      "start": 658,
+      "end": 677
+    },
+    {
+      "type": "SSN",
+      "value": "468-94-0966",
+      "start": 698,
+      "end": 709
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Phyllis Merritt",
+      "start": 756,
+      "end": 771
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/25/1949",
+      "start": 819,
+      "end": 829
+    }
+  ]
+}

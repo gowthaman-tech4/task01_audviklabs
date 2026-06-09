@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Vrinda Shanker
+Card Number:        4990-6121-4592-6990
+Billing Address:    46, Ramanathan Road, Shimoga 980788
+Phone:              +91 99176 90669
+Email:              mayaahuja@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 02, 2026
+Payment Due Date:   July 04, 2026
+Credit Limit:       $   11,924.85
+Previous Balance:   $    4,818.29
+Payments Received:  $    1,925.90
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/17/2026     Guha and Sons                       $  1,857.81
+06/06/2026     Patla, De and Verma                 $  1,223.34
+06/07/2026     Naik, Kashyap and Thaker            $    410.41
+05/24/2026     Chawla, Chandra and Pillay          $    620.11
+06/06/2026     Mangat Ltd                          $  1,616.71
+05/30/2026     Pall-Choudhary                      $    786.73
+05/12/2026     Pau, Deep and Pingle                $  1,537.63
+05/11/2026     Dugar, Chaudhari and Dugal          $    538.09
+05/25/2026     Bajwa-Bali                          $  1,750.85
+05/13/2026     Buch-Nayak                          $  1,236.64
+05/25/2026     Date, Chaudhuri and Srinivas        $  1,594.53
+05/17/2026     Sabharwal LLC                       $    999.23
+05/28/2026     Prabhu LLC                          $  1,826.40
+05/10/2026     Karan-Kata                          $  1,720.11
+05/23/2026     Ramanathan-Pathak                   $    412.13
+
+-------------------------------------------------------------
+Total Charges:      $   18,130.72
+New Balance:        $   21,023.11
+Minimum Payment:    $      420.46
+
+============================================================

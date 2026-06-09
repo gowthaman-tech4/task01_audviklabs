@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_016.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Pranav Wason",
+      "start": 344,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7696981391307612",
+      "start": 376,
+      "end": 392
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0734282",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PAN",
+      "value": "IIPPI0802L",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "91 83078 70071",
+      "start": 473,
+      "end": 487
+    },
+    {
+      "type": "EMAIL",
+      "value": "dchoudhary@example.com",
+      "start": 507,
+      "end": 529
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/07/1999",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "type": "ADDRESS",
+      "value": "11, Mane Street, Berhampore-864313",
+      "start": 579,
+      "end": 613
+    }
+  ]
+}

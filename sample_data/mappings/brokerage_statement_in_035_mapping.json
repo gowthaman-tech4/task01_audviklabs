@@ -1,0 +1,169 @@
+{
+  "document": "brokerage_statement_in_035.txt",
+  "timestamp": "2026-06-09T07:54:50.199643",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Janya Shah",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "9344422454",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "QFLHP9982D",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 353,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "4706763087729168",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "nishabobal@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 429,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 67077 45857",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 476,
+        "end": 490
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "572765",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Varma Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 522,
+        "end": 534
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 783,
+        "end": 811
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 896
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Apple Inc.                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 980,
+        "end": 1009
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1499,
+        "end": 1503
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1565,
+        "end": 1569
+      }
+    }
+  ]
+}

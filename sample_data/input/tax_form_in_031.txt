@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Ahuja Ltd
+TAN of the Deductor:    BARI98547Z
+Address:                66, Edwin, Bharatpur 839869
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Warjas Ratti
+PAN of the Employee:    UUYAT5659M
+Aadhaar Number:         8051 0168 0846
+Date of Birth:          23/03/1992
+Address:                07, Gill Street, Kumbakonam 179390
+Email:                  mchokshi@example.org
+Mobile:                 91 91133 42626
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,567,878.39
+   (b) Value of perquisites u/s 17(2)  Rs.      30,227.40
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     188,145.41
+   (b) LTA Exemption                   Rs.         962.29
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,329,732.98
+5. Tax on Total Income                 Rs.     265,946.60
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      10,637.86
+8. Total Tax Payable                   Rs.     276,584.46
+
+============================================================

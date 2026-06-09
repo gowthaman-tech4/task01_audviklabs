@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_015.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Zinal Manda",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5410845719",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "LRTGP3237Y",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7308853146865550",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "mhalder@example.org",
+      "start": 430,
+      "end": 449
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 85054 31095",
+      "start": 474,
+      "end": 489
+    },
+    {
+      "type": "ADDRESS",
+      "value": "28, Dubey Nagar, Gaya 333574",
+      "start": 514,
+      "end": 542
+    }
+  ]
+}

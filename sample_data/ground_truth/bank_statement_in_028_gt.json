@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_028.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Abhimanyu Chanda",
+      "start": 347,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4059694100",
+      "start": 383,
+      "end": 393
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0096861",
+      "start": 413,
+      "end": 424
+    },
+    {
+      "type": "PAN",
+      "value": "DIYAA7488V",
+      "start": 444,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 90535 03450",
+      "start": 474,
+      "end": 489
+    },
+    {
+      "type": "EMAIL",
+      "value": "gangavohra@example.com",
+      "start": 509,
+      "end": 531
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/30/1986",
+      "start": 551,
+      "end": 561
+    },
+    {
+      "type": "ADDRESS",
+      "value": "10, Chauhan Street, Malegaon 042257",
+      "start": 581,
+      "end": 616
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_005.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kenneth Marquez",
+      "start": 316,
+      "end": 331
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Glen Haney",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/27/1968",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8271 Avila Plains Suite 888, South Benjamin, CT 37541",
+      "start": 550,
+      "end": 603
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-281-707-9410x62359",
+      "start": 624,
+      "end": 645
+    },
+    {
+      "type": "EMAIL",
+      "value": "elizabeth64@example.net",
+      "start": 666,
+      "end": 689
+    },
+    {
+      "type": "SSN",
+      "value": "554-44-6344",
+      "start": 710,
+      "end": 721
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Olivia Bailey",
+      "start": 768,
+      "end": 781
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/15/2022",
+      "start": 829,
+      "end": 839
+    }
+  ]
+}

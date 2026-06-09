@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_009.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "344-66-9893",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "98-5022524",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Newton, Giles and Wheeler",
+      "start": 353,
+      "end": 378
+    },
+    {
+      "type": "ADDRESS",
+      "value": "822 Ashley Springs, Port Bradyberg, AL 25123",
+      "start": 382,
+      "end": 426
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christina Clements",
+      "start": 450,
+      "end": 468
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 0682, Box 7831, APO AP 06533",
+      "start": 508,
+      "end": 540
+    }
+  ]
+}

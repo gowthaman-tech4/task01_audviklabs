@@ -1,0 +1,48 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Joseph Simpson
+Account Number:         8039386710
+SSN:                    562-65-3245
+Email:                  rpeterson@example.org
+Phone:                  (809)878-3808x16334
+Correspondence Address: 30620 William Station Suite 459, Lake Melissa, FM 63333
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          444 $    452.20 $    439.73 $  195,240.57 $   -5,536.23
+AAPL     Apple Inc.                   207 $    176.54 $    176.05 $   36,441.78 $     -102.00
+MSFT     Microsoft Corp.                5 $    311.51 $    417.77 $    2,088.87 $      531.32
+GOOGL    Alphabet Inc.                 19 $    172.79 $    175.30 $    3,330.75 $       47.74
+TSLA     Tesla Inc.                   158 $    199.92 $    241.76 $   38,197.92 $    6,610.56
+JPM      JPMorgan Chase & Co.         300 $    148.19 $    197.15 $   59,146.26 $   14,689.26
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  334,446.15
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/20/2026     DIV      GOOGL        95 $    204.47 $   19,424.65
+04/12/2026     SELL     META         67 $    153.94 $   10,313.98
+04/28/2026     SELL     TSLA         99 $    110.96 $   10,985.04
+04/04/2026     BUY      MSFT         70 $    279.44 $   19,560.80
+05/21/2026     BUY      AAPL         22 $    411.76 $    9,058.72
+06/01/2026     BUY      JPM          38 $    157.23 $    5,974.74
+03/10/2026     SELL     GOOGL        26 $    183.50 $    4,771.00
+04/29/2026     DIV      TSLA         34 $    110.00 $    3,740.00
+04/01/2026     BUY      AAPL         26 $    129.23 $    3,359.98
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_037.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "38, Palla Marg, Jalandhar 118740",
+      "start": 372,
+      "end": 404
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nakul Mahajan",
+      "start": 422,
+      "end": 435
+    },
+    {
+      "type": "PAN",
+      "value": "JUCTS1087I",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2619 5452 0057",
+      "start": 461,
+      "end": 475
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/27/1960",
+      "start": 491,
+      "end": 501
+    },
+    {
+      "type": "ADDRESS",
+      "value": "34/81, Chanda Chowk, Karaikudi 612870",
+      "start": 511,
+      "end": 548
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 69509 47057",
+      "start": 556,
+      "end": 571
+    },
+    {
+      "type": "EMAIL",
+      "value": "usankaran@example.org",
+      "start": 579,
+      "end": 600
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Saanvi Goel",
+      "start": 637,
+      "end": 648
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 73310 31981",
+      "start": 656,
+      "end": 671
+    },
+    {
+      "type": "EMAIL",
+      "value": "ymangat@example.org",
+      "start": 679,
+      "end": 698
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "40688256882850",
+      "start": 959,
+      "end": 973
+    }
+  ]
+}

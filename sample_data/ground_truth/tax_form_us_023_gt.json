@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_023.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "617-02-9793",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "82-5753125",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Smith, Harper and Carroll",
+      "start": 353,
+      "end": 378
+    },
+    {
+      "type": "ADDRESS",
+      "value": "45977 Miranda Crossroad Suite 504, Bryanside, ME 41040",
+      "start": 382,
+      "end": 436
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Charles Martinez",
+      "start": 460,
+      "end": 476
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 7224 Box 8568, DPO AP 99674",
+      "start": 516,
+      "end": 548
+    }
+  ]
+}

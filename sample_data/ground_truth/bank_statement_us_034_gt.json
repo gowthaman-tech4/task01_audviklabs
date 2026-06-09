@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_034.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Beth Jackson",
+      "start": 348,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "661183806922",
+      "start": 380,
+      "end": 392
+    },
+    {
+      "type": "SSN",
+      "value": "114-66-4586",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PHONE",
+      "value": "(661)641-6654x13908",
+      "start": 443,
+      "end": 462
+    },
+    {
+      "type": "EMAIL",
+      "value": "tmiller@example.net",
+      "start": 482,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/18/1973",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4550 Rivera View Apt. 034, Amandaton, NV 13299",
+      "start": 551,
+      "end": 597
+    }
+  ]
+}

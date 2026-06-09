@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-8414
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 16, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   48,903.84
+Previous Balance:   $   12,401.73
+Payments Received:  $    3,892.84
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/22/2026     [PERSON_NAME_005], [PERSON_NAME_004] and [ORGANIZATION_002]       $    980.29
+05/11/2026     Rodriguez-Cobb                      $    390.25
+05/10/2026     [PERSON_NAME_007]$    517.02
+06/03/2026     [PERSON_NAME_003], [PERSON_NAME_002] and Pineda          $  1,479.64
+05/19/2026     [PERSON_NAME_001]$    650.36
+[ORGANIZATION_001]                          $  1,923.55
+05/18/2026     Pierce LLC                          $    284.53
+05/26/2026     Rogers-Fox                          $    432.41
+
+-------------------------------------------------------------
+Total Charges:      $    6,658.05
+New Balance:        $   15,166.94
+Minimum Payment:    $      303.34
+
+============================================================

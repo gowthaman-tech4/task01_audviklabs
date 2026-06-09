@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_012.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Timothy Morar",
+      "start": 316,
+      "end": 329
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Harini Sama",
+      "start": 486,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/22/1990",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "667, Chakraborty Street, Raipur 961123",
+      "start": 549,
+      "end": 587
+    },
+    {
+      "type": "PHONE",
+      "value": "91 85164 30847",
+      "start": 608,
+      "end": 622
+    },
+    {
+      "type": "EMAIL",
+      "value": "arunima72@example.net",
+      "start": 643,
+      "end": 664
+    },
+    {
+      "type": "PAN",
+      "value": "XDTCL5918G",
+      "start": 685,
+      "end": 695
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6214 9028 4024",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Abhiram Shan",
+      "start": 777,
+      "end": 789
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/07/1957",
+      "start": 839,
+      "end": 849
+    }
+  ]
+}

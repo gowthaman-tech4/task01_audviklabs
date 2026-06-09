@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_035.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Patricia Combs",
+      "start": 316,
+      "end": 330
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Soto",
+      "start": 487,
+      "end": 500
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/16/1986",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3974 Timothy Pike Apt. 577, Rebeccachester, WA 36605",
+      "start": 552,
+      "end": 604
+    },
+    {
+      "type": "PHONE",
+      "value": "(853)559-2048x7765",
+      "start": 625,
+      "end": 643
+    },
+    {
+      "type": "EMAIL",
+      "value": "claysamuel@example.com",
+      "start": 664,
+      "end": 686
+    },
+    {
+      "type": "SSN",
+      "value": "159-54-1593",
+      "start": 707,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nancy Giles",
+      "start": 765,
+      "end": 776
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/11/2019",
+      "start": 826,
+      "end": 836
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_us_034.txt",
+  "timestamp": "2026-06-09T07:55:14.971883",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Diane Walker",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "453294798653",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "1913 Ashley Crossroad, Lake Charlesshire, MH 79625",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 292,
+        "end": 342
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "746.308.9797",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 363,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "taylor45@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 396,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1098,
+        "end": 1105
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Dawson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1164,
+        "end": 1170
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1595,
+        "end": 1602
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Williams-Jefferson                  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 769
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "06/04/2026     Harris-Martinez                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 970,
+        "end": 1021
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Campbell",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1121,
+        "end": 1129
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "aylor",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1265,
+        "end": 1270
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Velasquez-Wells                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1384,
+        "end": 1420
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1728,
+        "end": 1739
+      }
+    }
+  ]
+}

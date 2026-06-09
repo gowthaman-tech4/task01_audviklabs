@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_023.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Rachel Meyers",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8612102370",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "276-67-7106",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "melindaliu@example.com",
+      "start": 389,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "793-858-0286",
+      "start": 436,
+      "end": 448
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 1964, Box 5357, APO AP 08259",
+      "start": 473,
+      "end": 505
+    }
+  ]
+}

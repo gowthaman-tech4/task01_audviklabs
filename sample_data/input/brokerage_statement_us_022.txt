@@ -1,0 +1,44 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Mark Warner
+Account Number:         0445534062
+SSN:                    497-18-4686
+Email:                  edward40@example.com
+Phone:                  +1-813-362-4037x62801
+Correspondence Address: 3225 Fuller Keys, Amandachester, MH 95610
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+GOOGL    Alphabet Inc.                 81 $    118.80 $    153.71 $   12,450.83 $    2,828.03
+META     Meta Platforms Inc.          243 $    504.89 $    530.76 $  128,975.04 $    6,286.77
+NVDA     NVIDIA Corp.                 184 $    743.34 $    881.14 $  162,128.95 $   25,354.39
+JPM      JPMorgan Chase & Co.          81 $    208.00 $    196.30 $   15,900.13 $     -947.87
+MSFT     Microsoft Corp.              466 $    368.45 $    361.78 $  168,590.18 $   -3,107.52
+AAPL     Apple Inc.                   319 $    126.00 $    152.63 $   48,690.16 $    8,496.16
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  536,735.29
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/08/2026     BUY      GOOGL        30 $     57.58 $    1,727.40
+04/09/2026     SELL     MSFT         18 $    134.70 $    2,424.60
+03/11/2026     BUY      META         89 $    154.64 $   13,762.96
+03/29/2026     DIV      AAPL         94 $    109.78 $   10,319.32
+03/26/2026     BUY      AAPL         37 $     76.64 $    2,835.68
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

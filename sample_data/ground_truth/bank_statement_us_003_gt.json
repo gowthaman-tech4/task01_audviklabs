@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_003.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Stacey Smith",
+      "start": 345,
+      "end": 357
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "888808274095",
+      "start": 377,
+      "end": 389
+    },
+    {
+      "type": "SSN",
+      "value": "326-30-0591",
+      "start": 409,
+      "end": 420
+    },
+    {
+      "type": "PHONE",
+      "value": "537.507.8178",
+      "start": 440,
+      "end": 452
+    },
+    {
+      "type": "EMAIL",
+      "value": "jeffersonedward@example.com",
+      "start": 472,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/18/1969",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "6042 Smith Island Suite 876, East Krystalmouth, ME 66927",
+      "start": 549,
+      "end": 605
+    }
+  ]
+}

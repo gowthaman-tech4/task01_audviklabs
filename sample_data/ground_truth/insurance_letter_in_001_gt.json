@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_001.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Garima Nori",
+      "start": 317,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nidra Sundaram",
+      "start": 485,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/30/2000",
+      "start": 520,
+      "end": 530
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 39, Malhotra Ganj, Gulbarga-150413",
+      "start": 551,
+      "end": 591
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 94543 76562",
+      "start": 612,
+      "end": 627
+    },
+    {
+      "type": "EMAIL",
+      "value": "atharv76@example.com",
+      "start": 648,
+      "end": 668
+    },
+    {
+      "type": "PAN",
+      "value": "EZTCK8630L",
+      "start": 689,
+      "end": 699
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2439 3681 1198",
+      "start": 720,
+      "end": 734
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Idika Rege",
+      "start": 781,
+      "end": 791
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/21/1995",
+      "start": 839,
+      "end": 849
+    }
+  ]
+}

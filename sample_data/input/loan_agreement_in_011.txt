@@ -1,0 +1,58 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-899230
+Date of Agreement: May 07, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: 84/283, Nayar, Sambalpur 270902
+
+BORROWER:
+Name: Theodore Mohan
+PAN: SWYBE5549E
+Aadhaar: 9002 9733 9042
+Date of Birth: 11/05/1976
+Address: 01/60, Kade Ganj, Thoothukudi 494470
+Phone: 91 73852 03786
+Email: harshil98@example.net
+
+CO-BORROWER (if applicable):
+Name: Yashawini Bora
+Phone: 91 66836 24250
+Email: pandeyanay@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    306,088.85
+Interest Rate:              17.2% per annum
+Loan Tenure:                24 months
+EMI Amount:                 $     15,163.16
+Disbursement Account No:    78697738982721
+Disbursement Date:          June 04, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 24 equal monthly installments of $15,163.16.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

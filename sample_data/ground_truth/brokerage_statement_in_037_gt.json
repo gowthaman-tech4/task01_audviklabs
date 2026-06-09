@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_037.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Netra Char",
+      "start": 283,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4021166410",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "PAN",
+      "value": "ATTLW6587F",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1503370934374286",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "type": "EMAIL",
+      "value": "umang11@example.net",
+      "start": 429,
+      "end": 448
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 80384 54460",
+      "start": 473,
+      "end": 488
+    },
+    {
+      "type": "ADDRESS",
+      "value": "21, Bala Zila, Jaunpur-042196",
+      "start": 513,
+      "end": 542
+    }
+  ]
+}

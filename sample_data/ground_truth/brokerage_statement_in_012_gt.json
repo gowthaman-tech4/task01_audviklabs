@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_012.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Indali Khanna",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3214615638",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "PQIPJ9353B",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4408500199236837",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "ldutta@example.com",
+      "start": 432,
+      "end": 450
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 71743 26769",
+      "start": 475,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "814, Nayar, Tumkur-996073",
+      "start": 515,
+      "end": 540
+    }
+  ]
+}

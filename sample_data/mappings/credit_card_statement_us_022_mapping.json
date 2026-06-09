@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_us_022.txt",
+  "timestamp": "2026-06-09T07:55:12.884674",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Kathryn Giles",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "407859426276",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "919 Holly Track Suite 189, Port Kellystad, WY 13521",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 344
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "368.747.7393",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 365,
+        "end": 377
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ymcknight@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 398,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Lynch",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 975,
+        "end": 980
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Roberts",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 985,
+        "end": 992
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Howard       ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1243,
+        "end": 1256
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Billing Address",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 276,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/27/2026     Lewis PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 805
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Washington",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1196,
+        "end": 1206
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Mendez",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1208,
+        "end": 1214
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Green-Brown",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1263,
+        "end": 1274
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_003.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 337,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "90/02, Sabharwal Zila, Anantapur 161075",
+      "start": 374,
+      "end": 413
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Om Patla",
+      "start": 431,
+      "end": 439
+    },
+    {
+      "type": "PAN",
+      "value": "PBDCT4387W",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "type": "AADHAAR",
+      "value": "3600 3818 3469",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/19/1999",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "type": "ADDRESS",
+      "value": "19, Tandon Ganj, Alwar-822120",
+      "start": 515,
+      "end": 544
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 77258 66015",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "type": "EMAIL",
+      "value": "hemanginimand@example.net",
+      "start": 575,
+      "end": 600
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Chatura Singh",
+      "start": 637,
+      "end": 650
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 60650 43117",
+      "start": 658,
+      "end": 673
+    },
+    {
+      "type": "EMAIL",
+      "value": "anay78@example.com",
+      "start": 681,
+      "end": 699
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "39617417175270",
+      "start": 961,
+      "end": 975
+    }
+  ]
+}

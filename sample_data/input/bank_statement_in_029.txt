@@ -1,0 +1,53 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 09, 2026 to May 12, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Bachittar Dugal
+Account Number:    653712799696383
+IFSC Code:         SBIN0619470
+PAN:               TJOGU3238P
+Phone:             91 92021 91239
+Email:             rachanaradhakrishnan@example.net
+Date of Birth:     11/18/1996
+Address:           65, Doctor Nagar, Nandyal 085548
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Raurkela Industrial Township Branch
+Opening Balance:   $96,967.53
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/23/2026     Online Transfer to 76605980                          4,189.01     101,156.54
+05/11/2026     POS Purchase - Anne, Pant and Iyer      1,199.62                   99,956.92
+05/15/2026     Service Charge                                       3,990.17     103,947.09
+05/10/2026     ATM Withdrawal - Avadi                  3,302.21                  100,644.88
+05/22/2026     ATM Withdrawal - Miryalaguda            4,574.27                   96,070.61
+06/02/2026     Direct Deposit - FHL Corp               3,276.09                   92,794.52
+05/27/2026     POS Purchase - Sahota-Gour                           4,200.59      96,995.11
+05/19/2026     Online Transfer to 22984840             4,187.11                   92,808.00
+05/14/2026     ATM Withdrawal - Jalgaon                             3,831.87      96,639.87
+05/15/2026     Service Charge                                          13.73      96,653.60
+06/06/2026     NEFT Transfer                           3,272.22                   93,381.38
+05/31/2026     ATM Withdrawal - North Dumdum           1,236.56                   92,144.82
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $92,144.82
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Bharath National Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

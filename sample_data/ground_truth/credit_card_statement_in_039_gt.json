@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_039.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Krisha Buch",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4650-7866-4636-0700",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "18/181, Badami Street, Satara-909661",
+      "start": 291,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "91 90643 90453",
+      "start": 348,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "munijhalak@example.com",
+      "start": 383,
+      "end": 405
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "document": "loan_agreement_in_019.txt",
+  "timestamp": "2026-06-09T07:55:35.691954",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "428641",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "H.No. 79, Soni, Ramgarh 020780",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 374,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Aarav Dewan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 422,
+        "end": 433
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "OQLTU1919W",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2456 0837 4824",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 459,
+        "end": 473
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/18/1996",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 489,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "192571",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 537,
+        "end": 543
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 65016 30778",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 551,
+        "end": 566
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "jacksonbahri@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 574,
+        "end": 598
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Anvi Sharaf",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 635,
+        "end": 646
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 62276 50451",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 654,
+        "end": 668
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "gaurang75@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 676,
+        "end": 697
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "10452693220058",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 957,
+        "end": 971
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Salvi Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 520,
+        "end": 530
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Giridih",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 532,
+        "end": 539
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1010,
+        "end": 1015
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1020,
+        "end": 1030
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1043,
+        "end": 1051
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1313,
+        "end": 1321
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1412,
+        "end": 1418
+      }
+    }
+  ]
+}

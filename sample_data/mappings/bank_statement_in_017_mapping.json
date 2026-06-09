@@ -1,0 +1,149 @@
+{
+  "document": "bank_statement_in_017.txt",
+  "timestamp": "2026-06-09T07:53:47.479274",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "ACCOUNT_NUMBER": 3,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Jasmit Khanna",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 357
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "82825139532676",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 377,
+        "end": 391
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "HDFC0030847",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 411,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ZDFCM2500C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 66687 24047",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 472,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ranveer56@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 507,
+        "end": 528
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/01/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 548,
+        "end": 558
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "920316",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 607,
+        "end": 613
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Purchase - Tiwari-Pingle            ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1704,
+        "end": 1740
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "10349243",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1811,
+        "end": 1819
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "88364031",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2087,
+        "end": 2095
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Barad Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 594,
+        "end": 604
+      }
+    }
+  ]
+}

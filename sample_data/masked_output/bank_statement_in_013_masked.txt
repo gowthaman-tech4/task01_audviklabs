@@ -1,0 +1,53 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 14, 2026 to May 26, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [ACCOUNT_NUMBER_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           H.No. 055, [PERSON_NAME_002], Barasat-[ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Tiruchirappalli Branch
+Opening Balance:   $89,328.08
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/05/2026     Online Transfer to [ACCOUNT_NUMBER_001]               299.65                   89,028.43
+05/12/2026     UPI Transfer                            4,577.33                   84,451.10
+06/07/2026     Interest Credit                         2,534.50                   81,916.60
+05/13/2026     NEFT Transfer                           3,284.74                   78,631.86
+05/15/2026     Bill Payment - Utility                               3,890.80      82,522.66
+05/21/2026     Interest Credit                         1,129.33                   81,393.33
+05/24/2026     Direct Deposit - XZF Corp                            4,141.79      85,535.12
+05/12/2026     Service Charge                          1,484.74                   84,050.38
+05/17/2026     Direct Deposit - IAL Corp                            4,502.89      88,553.27
+05/10/2026     Bill Payment - Utility                    842.47                   87,710.80
+05/22/2026     Interest Credit                                      3,923.84      91,634.64
+05/11/2026     Interest Credit                                        922.12      92,556.76
+05/30/2026     Interest Credit                         3,805.14                   88,751.62
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $88,751.62
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001] | Equal Opportunity Lender
+============================================================

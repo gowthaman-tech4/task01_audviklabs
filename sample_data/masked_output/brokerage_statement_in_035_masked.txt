@@ -1,0 +1,41 @@
+============================================================
+          [ORGANIZATION_006].
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 86, [PERSON_NAME_002], Vijayanagaram-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_005]           21 $    380.89 $    518.35 $   10,885.42 $    2,886.73
+TSLA     [ORGANIZATION_004]                   160 $    217.32 $    259.84 $   41,574.56 $    6,803.36
+AAPL     [ORGANIZATION_003]387 $    152.49 $    165.71 $   64,129.12 $    5,115.49
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  116,589.10
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/05/2026     BUY      AAPL         90 $    358.88 $   32,299.20
+05/29/2026     DIV      [ORGANIZATION_002]         94 $    185.49 $   17,436.06
+03/21/2026     BUY      [ORGANIZATION_001]         54 $    158.36 $    8,551.44
+04/26/2026     BUY      AAPL         94 $    441.93 $   41,541.42
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

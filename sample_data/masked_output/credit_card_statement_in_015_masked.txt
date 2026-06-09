@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_002]
+Card Number:        [AADHAAR_001]-1539
+Billing Address:    25/034, Natt Street, Bokaro-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 19, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   12,449.95
+Previous Balance:   $    5,058.52
+Payments Received:  $    3,996.80
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/07/2026     Gade-Sehgal                         $    702.48
+06/06/2026     Shenoy and Sons                     $    500.64
+[ORGANIZATION_003]                             $  1,942.93
+06/04/2026     Srinivasan-Sane                     $  1,516.68
+05/26/2026     [ORGANIZATION_002] and Oza              $    671.53
+05/09/2026     [PERSON_NAME_003], [PERSON_NAME_001] and Doctor              $    719.56
+06/01/2026     [ORGANIZATION_001]$    792.95
+05/17/2026     Peri LLC                            $    904.29
+
+-------------------------------------------------------------
+Total Charges:      $    7,751.06
+New Balance:        $    8,812.78
+Minimum Payment:    $      176.26
+
+============================================================

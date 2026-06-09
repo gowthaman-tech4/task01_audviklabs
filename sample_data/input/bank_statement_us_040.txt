@@ -1,0 +1,59 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 04, 2026 to May 17, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Christopher Rodriguez
+Account Number:    120677233641
+SSN:               511-23-3442
+Phone:             +1-833-225-9561x1623
+Email:             bperkins@example.com
+Date of Birth:     10/26/1979
+Address:           303 Melanie Loop, Port Robert, KY 47392
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Karenborough Branch
+Opening Balance:   $61,118.66
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/19/2026     Direct Deposit - KHH Corp               1,602.54                   59,516.12
+05/22/2026     UPI Transfer                            1,120.26                   58,395.86
+05/15/2026     UPI Transfer                            2,846.28                   55,549.58
+06/04/2026     Check #8351                               720.02                   54,829.56
+05/11/2026     POS Purchase - Wilson, Reed and Miller       805.06                   54,024.50
+05/24/2026     Bill Payment - Utility                               3,091.09      57,115.59
+05/12/2026     NEFT Transfer                                        1,694.16      58,809.75
+06/07/2026     Online Transfer to 62050406             2,271.35                   56,538.40
+05/20/2026     ATM Withdrawal - Port Josephburgh       4,575.11                   51,963.29
+05/26/2026     Interest Credit                                        360.48      52,323.77
+05/28/2026     UPI Transfer                            4,904.23                   47,419.54
+05/10/2026     Direct Deposit - KYR Corp               1,563.04                   45,856.50
+05/24/2026     UPI Transfer                                         3,925.26      49,781.76
+05/31/2026     Interest Credit                         3,201.46                   46,580.30
+05/28/2026     Direct Deposit - ACV Corp                            3,538.42      50,118.72
+05/09/2026     NEFT Transfer                                        1,254.56      51,373.28
+06/05/2026     Bill Payment - Utility                  1,773.44                   49,599.84
+05/18/2026     Online Transfer to 01121596                          1,294.85      50,894.69
+05/31/2026     Interest Credit                         4,372.78                   46,521.91
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $46,521.91
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_004.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Varsha Deo",
+      "start": 350,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "017113053606",
+      "start": 380,
+      "end": 392
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "ICIC0617618",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PAN",
+      "value": "RZHJY6293I",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "91 73402 52202",
+      "start": 473,
+      "end": 487
+    },
+    {
+      "type": "EMAIL",
+      "value": "gopalhanda@example.com",
+      "start": 507,
+      "end": 529
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/31/1987",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "type": "ADDRESS",
+      "value": "90/922, Deshmukh Marg, Nangloi Jat 766360",
+      "start": 579,
+      "end": 620
+    }
+  ]
+}

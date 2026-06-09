@@ -1,0 +1,181 @@
+{
+  "document": "tax_form_in_021.txt",
+  "timestamp": "2026-06-09T08:00:56.980348",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "881, Kadakia Marg, Davanagere-029749",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 435,
+        "end": 471
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 486,
+        "end": 497
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Laksh Sengupta",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 523,
+        "end": 537
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ZYFTG7818I",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 562,
+        "end": 572
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5179 0943 6903",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 597,
+        "end": 611
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "16/11/1998",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 636,
+        "end": 646
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "51, Murty, Chandigarh 069065",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 671,
+        "end": 699
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ladli87@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 724,
+        "end": 743
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 61459 45535",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 768,
+        "end": 783
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 796,
+        "end": 807
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 812,
+        "end": 824
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Mohan\nTAN",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 376,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1027,
+        "end": 1061
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1140,
+        "end": 1168
+      }
+    }
+  ]
+}

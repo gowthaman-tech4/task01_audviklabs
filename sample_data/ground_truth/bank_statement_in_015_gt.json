@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_015.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Qasim Sama",
+      "start": 344,
+      "end": 354
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6164248328606",
+      "start": 374,
+      "end": 387
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0775847",
+      "start": 407,
+      "end": 418
+    },
+    {
+      "type": "PAN",
+      "value": "JIQCA6852Q",
+      "start": 438,
+      "end": 448
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 97768 05567",
+      "start": 468,
+      "end": 483
+    },
+    {
+      "type": "EMAIL",
+      "value": "wardamore@example.com",
+      "start": 503,
+      "end": 524
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/13/1965",
+      "start": 544,
+      "end": 554
+    },
+    {
+      "type": "ADDRESS",
+      "value": "20/221, Bahri Path, Nanded 552901",
+      "start": 574,
+      "end": 607
+    }
+  ]
+}

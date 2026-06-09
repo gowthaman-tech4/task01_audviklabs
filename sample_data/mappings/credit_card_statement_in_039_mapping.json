@@ -1,0 +1,212 @@
+{
+  "document": "credit_card_statement_in_039.txt",
+  "timestamp": "2026-06-09T07:55:08.510079",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 8,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Krisha Buch",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "465078664636",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "909661",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 321,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 90643 90453",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "munijhalak@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Mangat",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 772,
+        "end": 778
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Raghavan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 783,
+        "end": 791
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Hayre",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 828,
+        "end": 833
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Bhatnagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 835,
+        "end": 844
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kota",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 962,
+        "end": 966
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Tailor",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1395,
+        "end": 1401
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Lall",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1403,
+        "end": 1407
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "05/23/2026     Nadig",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 748,
+        "end": 768
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Shankar-Chacko",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1131,
+        "end": 1145
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "06/04/2026     Bera PLC                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1179,
+        "end": 1230
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Vala Ltd                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1257,
+        "end": 1293
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/06/2026     Sen Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1581,
+        "end": 1605
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1741,
+        "end": 1752
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_032.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "40/09, Kurian Road, Kharagpur-468838",
+      "start": 372,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Gagan Rajagopalan",
+      "start": 426,
+      "end": 443
+    },
+    {
+      "type": "PAN",
+      "value": "NHRPT2259G",
+      "start": 449,
+      "end": 459
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6358 8893 8316",
+      "start": 469,
+      "end": 483
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/29/1968",
+      "start": 499,
+      "end": 509
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 376, Morar Ganj, Kishanganj-983536",
+      "start": 519,
+      "end": 559
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 62623 21567",
+      "start": 567,
+      "end": 582
+    },
+    {
+      "type": "EMAIL",
+      "value": "xkant@example.net",
+      "start": 590,
+      "end": 607
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "29278920360771",
+      "start": 868,
+      "end": 882
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_017.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Richard Mendez",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9797335916",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "470-63-3771",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "jessicareyes@example.com",
+      "start": 390,
+      "end": 414
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-682-330-5730",
+      "start": 439,
+      "end": 454
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0831 Brenda Trace Apt. 999, West Paula, WI 83194",
+      "start": 479,
+      "end": 527
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "document": "bank_statement_us_031.txt",
+  "timestamp": "2026-06-09T07:54:14.130846",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Robert Bailey",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 340,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "596888853542",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "246-22-6577",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 405,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "8804945386",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 446
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "christopher26@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 466,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "03/31/1974",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 511,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "79442 John Prairie, West James, SC 47526",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 541,
+        "end": 581
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "29509957",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1322,
+        "end": 1330
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/15/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 984,
+        "end": 1006
+      }
+    }
+  ]
+}

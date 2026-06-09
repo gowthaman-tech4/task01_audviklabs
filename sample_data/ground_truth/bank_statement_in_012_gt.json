@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_012.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Eta Bhatia",
+      "start": 341,
+      "end": 351
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1006554479754",
+      "start": 371,
+      "end": 384
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "SBIN0394650",
+      "start": 404,
+      "end": 415
+    },
+    {
+      "type": "PAN",
+      "value": "FMJPR4989N",
+      "start": 435,
+      "end": 445
+    },
+    {
+      "type": "PHONE",
+      "value": "91 94630 77883",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "EMAIL",
+      "value": "anshbandi@example.net",
+      "start": 499,
+      "end": 520
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/20/1992",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "type": "ADDRESS",
+      "value": "20/99, Bajaj Marg, Madurai-780738",
+      "start": 570,
+      "end": 603
+    }
+  ]
+}

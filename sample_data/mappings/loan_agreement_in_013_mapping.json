@@ -1,0 +1,226 @@
+{
+  "document": "loan_agreement_in_013.txt",
+  "timestamp": "2026-06-09T07:55:34.338306",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "610793",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "334025",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 407,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ojasvi Dhawan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 431,
+        "end": 444
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "PKMAG2139S",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 450,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "4516 1880 8071",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 470,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/15/1995",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 500,
+        "end": 510
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "516548",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 81324 61938",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 567,
+        "end": 582
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "opillai@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 590,
+        "end": 609
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "02579543194415",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 869,
+        "end": 883
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Ghose",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 395,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Nangloi Jat",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Krishna Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 555,
+        "end": 567
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 956,
+        "end": 961
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 966,
+        "end": 976
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 989,
+        "end": 997
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1259,
+        "end": 1267
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1358,
+        "end": 1364
+      }
+    }
+  ]
+}

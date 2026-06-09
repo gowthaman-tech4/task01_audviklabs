@@ -1,0 +1,161 @@
+{
+  "document": "bank_statement_in_014.txt",
+  "timestamp": "2026-06-09T07:53:46.669762",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gayathri Sunder",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "243090674453",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 387,
+        "end": 399
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "SBIN0480385",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 419,
+        "end": 430
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "LTGPZ8876U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 450,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 95487 13705",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bawaurmi@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 515,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/25/2004",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 565
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "800520",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 615,
+        "end": 621
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "66755309",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1639,
+        "end": 1647
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 110
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Edwin Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 598,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Haldia",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 610,
+        "end": 616
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2275,
+        "end": 2304
+      }
+    }
+  ]
+}

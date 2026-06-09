@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_041.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dakshesh Menon",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0972135157",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "PAN",
+      "value": "UKZLY9893E",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4875240718834600",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "type": "EMAIL",
+      "value": "eshanaswaminathan@example.org",
+      "start": 433,
+      "end": 462
+    },
+    {
+      "type": "PHONE",
+      "value": "91 98102 26320",
+      "start": 487,
+      "end": 501
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 647, Vig Path, Malda-298470",
+      "start": 526,
+      "end": 559
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_041.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Januja Gour",
+      "start": 312,
+      "end": 323
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Timothy De",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/22/1992",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "type": "ADDRESS",
+      "value": "33, Chad Ganj, Farrukhabad 048206",
+      "start": 542,
+      "end": 575
+    },
+    {
+      "type": "PHONE",
+      "value": "91 69138 41920",
+      "start": 596,
+      "end": 610
+    },
+    {
+      "type": "EMAIL",
+      "value": "pchokshi@example.org",
+      "start": 631,
+      "end": 651
+    },
+    {
+      "type": "PAN",
+      "value": "LSNHB4796U",
+      "start": 672,
+      "end": 682
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4757 6810 4823",
+      "start": 703,
+      "end": 717
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Hritik Sha",
+      "start": 764,
+      "end": 774
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/04/1968",
+      "start": 822,
+      "end": 832
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_in_009.txt",
+  "timestamp": "2026-06-09T07:55:02.990413",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Hema Seth",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "421786792239",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 249,
+        "end": 263
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "414933",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 309,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 89417 19451",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 336,
+        "end": 350
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "orinder49@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 371,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Suri",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 823,
+        "end": 827
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kaur",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1081,
+        "end": 1085
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Anne",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1090,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Nazareth",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1139,
+        "end": 1147
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Edwin",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 304,
+        "end": 309
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Aggarwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 908,
+        "end": 916
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Sama-Varty",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1019,
+        "end": 1029
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Padmanabhan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1082,
+        "end": 1093
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Sama",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1438,
+        "end": 1442
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Randhawa",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1564,
+        "end": 1572
+      }
+    }
+  ]
+}

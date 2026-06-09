@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Chawla, Singhal and Sharaf
+TAN of the Deductor:    NQCL30414H
+Address:                17/278, Chaudhary Ganj, Bhiwani 608222
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Pahal Mistry
+PAN of the Employee:    PTCCN5540F
+Aadhaar Number:         4175 8156 4317
+Date of Birth:          13/11/1974
+Address:                H.No. 523, Shroff Circle, Thrissur 663966
+Email:                  rgulati@example.org
+Mobile:                 +91 78834 25419
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,208,586.05
+   (b) Value of perquisites u/s 17(2)  Rs.      43,432.81
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     265,030.33
+   (b) LTA Exemption                   Rs.      25,430.02
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,893,555.72
+5. Tax on Total Income                 Rs.     378,711.14
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      15,148.45
+8. Total Tax Payable                   Rs.     393,859.59
+
+============================================================

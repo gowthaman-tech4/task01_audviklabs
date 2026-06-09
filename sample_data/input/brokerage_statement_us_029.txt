@@ -1,0 +1,42 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   James Bradley
+Account Number:         4078681868
+SSN:                    188-12-4117
+Email:                  denisepham@example.org
+Phone:                  240-391-1439
+Correspondence Address: 61219 Mitchell Falls Suite 504, Connieport, SC 48515
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          457 $    319.76 $    414.14 $  189,262.22 $   43,131.90
+MSFT     Microsoft Corp.              247 $    351.62 $    415.61 $  102,655.75 $   15,805.61
+TSLA     Tesla Inc.                   150 $    200.62 $    237.43 $   35,614.19 $    5,521.19
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  327,532.16
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/10/2026     SELL     TSLA         47 $    333.40 $   15,669.80
+04/24/2026     SELL     META         68 $    199.24 $   13,548.32
+05/29/2026     BUY      META         70 $    247.92 $   17,354.40
+04/27/2026     DIV      TSLA         55 $    367.59 $   20,217.45
+03/29/2026     DIV      MSFT          2 $    337.67 $      675.34
+04/30/2026     BUY      MSFT         51 $    330.92 $   16,876.92
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

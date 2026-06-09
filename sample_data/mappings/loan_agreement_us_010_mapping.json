@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_010.txt",
+  "timestamp": "2026-06-09T07:55:43.026298",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "430212",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "5280 Walsh Skyway, West Lori, PA 27005",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 378,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kevin Thomas",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 434,
+        "end": 446
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "243-72-0945",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 452,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/23/1973",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 479,
+        "end": 489
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "70493 Mendez Union Suite 658, East April, OH 91574",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 499,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+1-319-456-3998",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 557,
+        "end": 572
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "doylelevi@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 580,
+        "end": 601
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Joshua Mitchell",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 638,
+        "end": 653
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "729-613-5261x6236",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 661,
+        "end": 678
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bethgreen@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 686,
+        "end": 707
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "66287451185419",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 963,
+        "end": 968
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 973,
+        "end": 983
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 996,
+        "end": 1004
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1267,
+        "end": 1275
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1366,
+        "end": 1372
+      }
+    }
+  ]
+}

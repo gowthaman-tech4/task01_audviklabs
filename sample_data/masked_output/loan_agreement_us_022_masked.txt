@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-[ADDRESS_003]
+Date of Agreement: May 21, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: [PERSON_NAME_003]
+Address: [ADDRESS_002]
+
+BORROWER:
+Name: [PERSON_NAME_002]
+SSN: [SSN_001]
+Date of Birth: [DATE_OF_BIRTH_001]
+Address: [ADDRESS_001]
+Phone: [PHONE_002]
+Email: [EMAIL_002]
+
+CO-BORROWER (if applicable):
+Name: [PERSON_NAME_001]
+Phone: [PHONE_001]
+Email: [EMAIL_001]
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    374,344.66
+Interest Rate:              8.72% per annum
+Loan Tenure:                240 months
+EMI Amount:                 $      3,300.96
+Disbursement Account No:    [ACCOUNT_NUMBER_001]
+Disbursement Date:          May 12, 2026
+
+--- [ORGANIZATION_005] AND [ORGANIZATION_004] ---
+
+1. The [ORGANIZATION_003] agrees to repay the loan amount along with interest
+   in 240 equal monthly installments of $3,300.96.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The [ORGANIZATION_002] authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the [ORGANIZATION_001] reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

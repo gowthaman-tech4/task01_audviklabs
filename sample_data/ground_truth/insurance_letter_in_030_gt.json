@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_030.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Aarini Subramanian",
+      "start": 316,
+      "end": 334
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Chakradev Bava",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/15/1991",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "type": "ADDRESS",
+      "value": "27/172, Lad Circle, Hajipur-027522",
+      "start": 557,
+      "end": 591
+    },
+    {
+      "type": "PHONE",
+      "value": "91 60684 91999",
+      "start": 612,
+      "end": 626
+    },
+    {
+      "type": "EMAIL",
+      "value": "ykala@example.net",
+      "start": 647,
+      "end": 664
+    },
+    {
+      "type": "PAN",
+      "value": "OWGFU4013E",
+      "start": 685,
+      "end": 695
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9276 7765 5068",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Zayyan Lad",
+      "start": 777,
+      "end": 787
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/26/2024",
+      "start": 835,
+      "end": 845
+    }
+  ]
+}

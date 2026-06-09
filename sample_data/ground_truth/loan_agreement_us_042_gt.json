@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_042.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "87303 Katie Hill, East Lindseyfurt, FL 74012",
+      "start": 372,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kristi Harris",
+      "start": 434,
+      "end": 447
+    },
+    {
+      "type": "SSN",
+      "value": "345-02-3762",
+      "start": 453,
+      "end": 464
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/10/1980",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5905 Meyer Hollow, North Maria, FM 34079",
+      "start": 500,
+      "end": 540
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-949-949-3485",
+      "start": 548,
+      "end": 563
+    },
+    {
+      "type": "EMAIL",
+      "value": "christopher85@example.org",
+      "start": 571,
+      "end": 596
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "00835771687286",
+      "start": 857,
+      "end": 871
+    }
+  ]
+}

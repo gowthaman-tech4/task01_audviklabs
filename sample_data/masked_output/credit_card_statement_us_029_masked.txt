@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-9920
+[ORGANIZATION_005]:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 10, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   20,291.16
+Previous Balance:   $    6,219.77
+Payments Received:  $    5,919.65
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/30/2026     Berger Group                        $    574.64
+05/14/2026     [PERSON_NAME_005] and Sons                  $    402.86
+05/31/2026     [PERSON_NAME_004]-Cohen                       $    833.89
+06/01/2026     Ho, [PERSON_NAME_003] and Barrera               $  1,552.98
+05/29/2026     Rice Ltd                            $  1,771.28
+05/11/2026     Rivera-Sandoval                     $     68.80
+05/15/2026     [PERSON_NAME_002], [PERSON_NAME_001] and Whitaker        $    899.24
+[ORGANIZATION_004]$    758.45
+05/31/2026     [ORGANIZATION_003]$  1,941.48
+05/21/2026     [ORGANIZATION_002]$  1,220.46
+05/29/2026     Patel, Day and Brown                $  1,622.31
+05/09/2026     Hampton LLC                         $    367.13
+05/12/2026     [ORGANIZATION_001]$  1,110.77
+
+-------------------------------------------------------------
+Total Charges:      $   13,124.29
+New Balance:        $   13,424.41
+Minimum Payment:    $      268.49
+
+============================================================

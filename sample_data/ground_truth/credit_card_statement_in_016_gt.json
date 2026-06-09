@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_016.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Vamakshi Lata",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4162-9747-0530-8866",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "87/765, Grover Circle, Anantapuram 051025",
+      "start": 293,
+      "end": 334
+    },
+    {
+      "type": "PHONE",
+      "value": "91 98345 62737",
+      "start": 355,
+      "end": 369
+    },
+    {
+      "type": "EMAIL",
+      "value": "noah24@example.com",
+      "start": 390,
+      "end": 408
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "document": "tax_form_in_002.txt",
+  "timestamp": "2026-06-09T07:56:18.603714",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "938920",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 441,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 462,
+        "end": 473
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Niharika Dayal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 499,
+        "end": 513
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UUFPA7797U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 538,
+        "end": 548
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5976 1519 6084",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 573,
+        "end": 587
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "20/03/1972",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 612,
+        "end": 622
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "18/86, Mohan Zila, Rourkela 021930",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 647,
+        "end": 681
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mnazareth@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 727
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 90331 02483",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 752,
+        "end": 766
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 779,
+        "end": 790
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 795,
+        "end": 807
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Hora Inc",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Issac Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 426,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1033,
+        "end": 1067
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1146,
+        "end": 1174
+      }
+    }
+  ]
+}

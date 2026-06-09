@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Damyanti Rao
+Account Number:         3096588913
+PAN:                    TJCLS3270D
+Demat Account:          2135823479342680
+Email:                  narasimhananya@example.net
+Phone:                  91 64875 77294
+Correspondence Address: 816, Jayaraman Path, Ambarnath 179573
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+NVDA     NVIDIA Corp.                 377 $    619.14 $    776.23 $  292,637.20 $   59,221.42
+TSLA     Tesla Inc.                    21 $    279.19 $    277.08 $    5,818.75 $      -44.24
+MSFT     Microsoft Corp.               44 $    438.57 $    407.82 $   17,943.93 $   -1,353.15
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  316,399.88
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/29/2026     BUY      TSLA         34 $    395.28 $   13,439.52
+05/16/2026     BUY      MSFT         87 $     65.13 $    5,666.31
+03/28/2026     BUY      NVDA         63 $     95.95 $    6,044.85
+03/10/2026     SELL     MSFT         93 $    475.16 $   44,189.88
+05/01/2026     DIV      MSFT         19 $    404.22 $    7,680.18
+03/21/2026     DIV      TSLA         61 $    127.85 $    7,798.85
+04/05/2026     DIV      TSLA         14 $    280.72 $    3,930.08
+03/31/2026     BUY      NVDA         72 $    395.57 $   28,481.04
+03/25/2026     SELL     NVDA         15 $    146.64 $    2,199.60
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

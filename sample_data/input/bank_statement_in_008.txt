@@ -1,0 +1,53 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 12, 2026 to May 31, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Ekanta Sridhar
+Account Number:    467564044647295
+IFSC Code:         AXIS0626687
+PAN:               OTUBH6640H
+Phone:             +91 94586 97127
+Email:             srinivasnikita@example.com
+Date of Birth:     07/24/2002
+Address:           H.No. 87, Khalsa Circle, Darbhanga-981243
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Raebareli Branch
+Opening Balance:   $53,638.91
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/10/2026     POS Purchase - Ratta, Sehgal and Sura       756.63                   52,882.28
+06/02/2026     Check #1225                               127.50                   52,754.78
+05/13/2026     Service Charge                                       2,990.97      55,745.75
+05/16/2026     UPI Transfer                            2,242.44                   53,503.31
+05/09/2026     Direct Deposit - TET Corp               3,749.95                   49,753.36
+05/31/2026     Check #3869                                            549.42      50,302.78
+05/16/2026     NEFT Transfer                                        1,293.17      51,595.95
+05/29/2026     Direct Deposit - FYN Corp                            2,134.40      53,730.35
+06/01/2026     Check #7247                             4,145.67                   49,584.68
+05/12/2026     NEFT Transfer                                        2,637.19      52,221.87
+05/12/2026     Service Charge                          2,494.70                   49,727.17
+05/28/2026     UPI Transfer                            4,117.05                   45,610.12
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $45,610.12
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Bharath National Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

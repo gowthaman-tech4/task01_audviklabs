@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-199941
+Date of Agreement: May 25, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Premier Home Finance Ltd
+Address: 1272 Ryan Walk, Port Melissa, FL 03120
+
+BORROWER:
+Name: Jennifer Lang
+SSN: 601-19-8344
+Date of Birth: 03/07/1985
+Address: 8879 Robert Dale, Wilsonfort, VT 64589
+Phone: 001-221-941-8220x1802
+Email: hallmary@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    394,554.13
+Interest Rate:              15.56% per annum
+Loan Tenure:                120 months
+EMI Amount:                 $      6,501.52
+Disbursement Account No:    52810479323884
+Disbursement Date:          May 22, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 120 equal monthly installments of $6,501.52.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

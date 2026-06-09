@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   220-67-2154
+
+b  Employer Identification Number (EIN)
+   48-5031281
+
+c  Employer's Name, Address, and ZIP Code
+   Black LLC
+   8783 Wilson Rapids Suite 110, Kingville, TN 08440
+
+e  Employee's Name
+   Ann Hill
+
+f  Employee's Address and ZIP Code
+   9014 Jesse Prairie, Tylerton, MD 41770
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   80,819.06
+2  Federal income tax withheld         $   15,440.55
+3  Social Security wages               $   80,819.06
+4  Social Security tax withheld        $    5,010.78
+5  Medicare wages and tips             $   80,819.06
+6  Medicare tax withheld               $    1,171.88
+
+12a Code DD - Health Insurance          $    9,144.92
+
+--- STATE TAX INFORMATION ---
+
+15 State: KY
+16 State wages                         $   80,819.06
+17 State income tax                    $    6,705.59
+
+============================================================

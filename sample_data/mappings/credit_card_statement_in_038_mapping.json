@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_in_038.txt",
+  "timestamp": "2026-06-09T07:55:08.335280",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Isha Borde",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 229
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "429756241542",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 250,
+        "end": 264
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "770859",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 321,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 80174 71802",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "aadiiyer@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 403
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Dora",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1016,
+        "end": 1020
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Randhawa Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 303,
+        "end": 316
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Guwahati",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 326
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Thaman-Deshmukh                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 891,
+        "end": 927
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Sarkar               ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1045,
+        "end": 1066
+      }
+    }
+  ]
+}

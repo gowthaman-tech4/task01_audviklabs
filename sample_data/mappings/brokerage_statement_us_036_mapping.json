@@ -1,0 +1,157 @@
+{
+  "document": "brokerage_statement_us_036.txt",
+  "timestamp": "2026-06-09T07:55:00.015533",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Daniel Benson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "3518620875",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "414-14-0035",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 353,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "craigkenneth@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(989)684-1042x3450",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "83507 Jennifer Points, Coffeychester, FL 42651",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 716
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 812
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1413,
+        "end": 1417
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1479,
+        "end": 1483
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1545,
+        "end": 1549
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1743,
+        "end": 1747
+      }
+    }
+  ]
+}

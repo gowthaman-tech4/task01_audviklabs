@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_018.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Gibson",
+      "start": 340,
+      "end": 358
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "558624856361",
+      "start": 378,
+      "end": 390
+    },
+    {
+      "type": "SSN",
+      "value": "107-73-1199",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PHONE",
+      "value": "433-469-8656",
+      "start": 441,
+      "end": 453
+    },
+    {
+      "type": "EMAIL",
+      "value": "snowcharles@example.org",
+      "start": 473,
+      "end": 496
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/29/2001",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8563 Barton Greens, New Joe, AK 48578",
+      "start": 546,
+      "end": 583
+    }
+  ]
+}

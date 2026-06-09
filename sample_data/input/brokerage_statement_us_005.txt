@@ -1,0 +1,45 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Randy Mckenzie
+Account Number:         0820879223
+SSN:                    105-47-3413
+Email:                  davisjasmine@example.org
+Phone:                  344.396.3053
+Correspondence Address: USNV Gibson, FPO AA 38273
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          194 $    472.28 $    482.02 $   93,511.63 $    1,889.31
+MSFT     Microsoft Corp.              142 $    353.35 $    412.69 $   58,602.05 $    8,426.35
+NVDA     NVIDIA Corp.                 375 $    838.52 $    772.91 $  289,841.29 $  -24,603.71
+TSLA     Tesla Inc.                   225 $    203.63 $    237.05 $   53,337.22 $    7,520.47
+AMZN     Amazon.com Inc.              243 $    158.20 $    153.58 $   37,320.27 $   -1,122.33
+AAPL     Apple Inc.                    52 $    131.95 $    184.45 $    9,591.49 $    2,730.09
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  542,203.95
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/26/2026     DIV      NVDA         79 $    277.62 $   21,931.98
+04/21/2026     SELL     MSFT         21 $    436.63 $    9,169.23
+04/09/2026     DIV      TSLA         90 $    294.87 $   26,538.30
+05/22/2026     SELL     MSFT         52 $    419.67 $   21,822.84
+06/03/2026     BUY      MSFT         47 $    347.15 $   16,316.05
+05/17/2026     DIV      MSFT         98 $    440.53 $   43,171.94
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

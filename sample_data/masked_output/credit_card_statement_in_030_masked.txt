@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_002]
+Card Number:        [AADHAAR_001]-1674
+Billing Address:    615, [ORGANIZATION_008], [PERSON_NAME_003] [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 07, 2026
+Payment Due Date:   July 01, 2026
+Credit Limit:       $   34,727.69
+Previous Balance:   $    1,625.85
+Payments Received:  $      713.75
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+[ORGANIZATION_007]                       $    903.40
+[ORGANIZATION_006]$    250.35
+05/14/2026     Iyengar and Sons                    $    819.97
+06/01/2026     Wable-Garg                          $  1,464.55
+05/10/2026     Pingle, Babu and [ORGANIZATION_005]              $  1,919.91
+05/16/2026     Sehgal, [ORGANIZATION_004] and [PERSON_NAME_001]          $    637.65
+05/11/2026     Saraf-Nagi                          $  1,622.20
+05/13/2026     S[EMAIL_002]asan, [ORGANIZATION_003] and [ORGANIZATION_002]$     55.04
+05/18/2026     [ORGANIZATION_001]$    574.97
+06/05/2026     Sridhar, Tak and Garg               $  1,495.34
+05/18/2026     Jayaraman, Kar and Ram              $  1,096.47
+05/11/2026     Agarwal-Badami                      $  1,167.18
+
+-------------------------------------------------------------
+Total Charges:      $   12,007.03
+[ADDRESS_002]:        $   12,919.13
+Minimum Payment:    $      258.38
+
+============================================================

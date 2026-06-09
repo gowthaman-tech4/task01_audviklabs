@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Anne, Mangal and Sandhu
+TAN of the Deductor:    SHDM41330B
+Address:                672, Dada Marg, Haldia-006945
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Gopal Goyal
+PAN of the Employee:    USQGH5901U
+Aadhaar Number:         5643 8067 2708
+Date of Birth:          01/10/1970
+Address:                39/70, Patla Path, Bareilly 987309
+Email:                  sachareshana@example.net
+Mobile:                 +91 93980 45267
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,689,062.93
+   (b) Value of perquisites u/s 17(2)  Rs.      42,587.66
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     202,687.55
+   (b) LTA Exemption                   Rs.      12,578.57
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,436,375.38
+5. Tax on Total Income                 Rs.     287,275.08
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      11,491.00
+8. Total Tax Payable                   Rs.     298,766.08
+
+============================================================

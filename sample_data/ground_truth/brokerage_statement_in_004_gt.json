@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_004.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Nisha Madan",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6642720305",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "EIALM7796F",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6073974114539201",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "bhavikarege@example.org",
+      "start": 430,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 78601 11951",
+      "start": 478,
+      "end": 493
+    },
+    {
+      "type": "ADDRESS",
+      "value": "13, Ganesan Circle, Nashik-876286",
+      "start": 518,
+      "end": 551
+    }
+  ]
+}

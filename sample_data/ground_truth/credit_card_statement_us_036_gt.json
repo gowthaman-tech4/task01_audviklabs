@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_036.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tiffany Williams",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4486-0269-4948-3978",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "550 Hoffman Trail, Eduardohaven, KY 36649",
+      "start": 296,
+      "end": 337
+    },
+    {
+      "type": "PHONE",
+      "value": "001-227-586-2106x0550",
+      "start": 358,
+      "end": 379
+    },
+    {
+      "type": "EMAIL",
+      "value": "jeremy07@example.org",
+      "start": 400,
+      "end": 420
+    }
+  ]
+}

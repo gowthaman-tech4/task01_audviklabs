@@ -1,0 +1,248 @@
+{
+  "document": "loan_agreement_in_015.txt",
+  "timestamp": "2026-06-09T07:55:34.775692",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "298018",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "628, Gara Circle, Karaikudi-060018",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 372,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Yachana Behl",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 424,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UNNHQ7500D",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6590 9946 0702",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 462,
+        "end": 476
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/03/1986",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 492,
+        "end": 502
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "946843",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 548,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 70258 71487",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 562,
+        "end": 576
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "dixitekta@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 605
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Janya Keer",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 642,
+        "end": 652
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 91301 36996",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 660,
+        "end": 675
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tanmayi25@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 683,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "28154254427572",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Viswanathan Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 518,
+        "end": 534
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "New Delhi",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 536,
+        "end": 545
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1017,
+        "end": 1022
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1027,
+        "end": 1037
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1050,
+        "end": 1058
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1320,
+        "end": 1328
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1419,
+        "end": 1425
+      }
+    }
+  ]
+}

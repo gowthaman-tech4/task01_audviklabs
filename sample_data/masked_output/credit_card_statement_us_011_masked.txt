@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_008]
+Card Number:        [AADHAAR_001]-9934
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   42,987.23
+Previous Balance:   $    4,098.59
+Payments Received:  $      998.19
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/04/2026     [ORGANIZATION_003]                       $    208.72
+05/15/2026     Burgess, [PERSON_NAME_007] and [PERSON_NAME_006]        $    967.37
+06/04/2026     Evans, [PERSON_NAME_005] and [ORGANIZATION_002]$     91.16
+[ORGANIZATION_001]                          $    622.31
+05/10/2026     Johnson Ltd                         $  1,861.99
+05/21/2026     Hall LLC                            $    753.40
+05/10/2026     [PERSON_NAME_004], [PERSON_NAME_003] and [PERSON_NAME_002]             $  1,650.63
+05/15/2026     Cummings, Barnes and Cruz           $  1,114.56
+05/10/2026     Walker, [PERSON_NAME_001] and Coleman         $  1,285.12
+
+-------------------------------------------------------------
+Total Charges:      $    8,555.26
+New Balance:        $   11,655.66
+Minimum Payment:    $      233.11
+
+============================================================

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_007.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Zarna Rajagopalan",
+      "start": 219,
+      "end": 236
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4832-9179-9414-4088",
+      "start": 257,
+      "end": 276
+    },
+    {
+      "type": "ADDRESS",
+      "value": "72/49, Krishnan Road, Ambattur 231639",
+      "start": 297,
+      "end": 334
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 96551 74752",
+      "start": 355,
+      "end": 370
+    },
+    {
+      "type": "EMAIL",
+      "value": "avishankar@example.com",
+      "start": 391,
+      "end": 413
+    }
+  ]
+}

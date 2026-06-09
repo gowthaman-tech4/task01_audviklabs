@@ -1,0 +1,59 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 05, 2026 to May 30, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_006]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_003]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            [ADDRESS_002]Opening Balance:   $10,667.04
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/05/2026     POS [ORGANIZATION_004], [ORGANIZATION_003] and [PERSON_NAME_005]      11,787.43
+[ADDRESS_001]     UPI Transfer                              885.07                   10,902.36
+05/15/2026     NEFT Transfer                           1,396.68                    9,505.68
+05/12/2026     Bill Payment - Utility                  1,130.89                    8,374.79
+05/20/2026     POS Purchase - Morgan, [PERSON_NAME_004] and [PERSON_NAME_003]     2,457.17                    5,917.62
+06/06/2026     Check #5773                             2,471.93                    3,445.69
+05/26/2026     Service Charge                                       1,782.53       5,228.22
+05/23/2026     Service Charge                                         215.38       5,443.60
+06/01/2026     Check #6548                             4,247.37                    1,196.23
+05/30/2026     Direct Deposit - CJC Corp                            4,241.64       5,437.87
+05/23/2026     Service Charge                          2,103.96                    3,333.91
+06/04/2026     NEFT Transfer                           1,070.35                    2,263.56
+05/16/2026     POS Purchase - Mccormick LLC            3,741.65                   -1,478.09
+05/11/2026     POS [ORGANIZATION_002]            4,883.35                   -6,361.44
+[ORGANIZATION_001] Charge                          4,574.15                  -10,935.59
+06/06/2026     UPI Transfer                            3,099.81                  -14,035.40
+05/10/2026     ATM Withdrawal - West Erik              2,254.17                  -16,289.57
+05/25/2026     NEFT Transfer                                        2,084.80     -14,204.77
+05/16/2026     POS [PERSON_NAME_002], [PERSON_NAME_001] and Eva     2,300.47                  -16,505.24
+05/18/2026     UPI Transfer                                            26.61     -16,478.63
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $-16,478.63
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

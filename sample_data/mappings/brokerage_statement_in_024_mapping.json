@@ -1,0 +1,191 @@
+{
+  "document": "brokerage_statement_in_024.txt",
+  "timestamp": "2026-06-09T07:54:47.475308",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Oliver Nagarajan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 299
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "8106157736",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 324,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "NDTCP5174U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 359,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "1776875860652944",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 394,
+        "end": 410
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tiwaripranit@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 435,
+        "end": 459
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 72858 84022",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 484,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "782107",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 560,
+        "end": 566
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ramakrishnan Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 516,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 802
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 884,
+        "end": 899
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 978,
+        "end": 1007
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1157,
+        "end": 1185
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1685,
+        "end": 1689
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1817,
+        "end": 1821
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1883,
+        "end": 1887
+      }
+    }
+  ]
+}

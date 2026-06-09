@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   64-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   42,315.91
+2  Federal income tax withheld         $    6,801.44
+3  [ORGANIZATION_005] wages               $   42,315.91
+4  [ORGANIZATION_004] tax withheld        $    2,623.59
+5  [ORGANIZATION_003] wages and tips             $   42,315.91
+6  [ORGANIZATION_002] tax withheld               $      613.58
+
+12a Code DD - Health Insurance          $   10,548.50
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: GA
+16 State wages                         $   42,315.91
+17 State income tax                    $    1,556.35
+
+============================================================

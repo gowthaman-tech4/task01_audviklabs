@@ -1,0 +1,43 @@
+============================================================
+          [ORGANIZATION_004].
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 647, Vig Path, Malda-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     [ORGANIZATION_003]                   154 $    203.88 $    269.35 $   41,479.15 $   10,081.63
+[ORGANIZATION_002]                 77 $    113.15 $    157.92 $   12,160.20 $    3,447.65
+JPM      [ORGANIZATION_001]245 $    143.14 $    187.85 $   46,022.08 $   10,952.78
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $   99,661.43
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/12/2026     BUY      GOOGL        51 $     90.15 $    4,597.65
+03/16/2026     BUY      TSLA         87 $    102.90 $    8,952.30
+05/22/2026     SELL     TSLA         28 $    264.92 $    7,417.76
+03/19/2026     SELL     GOOGL        67 $    464.27 $   31,106.09
+06/07/2026     SELL     TSLA         17 $    269.87 $    4,587.79
+06/04/2026     DIV      GOOGL        48 $    478.54 $   22,969.92
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

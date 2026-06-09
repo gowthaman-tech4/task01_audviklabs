@@ -1,0 +1,37 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Michael White
+Card Number:        4241-0193-1811-6291
+Billing Address:    03019 Adam Cove, Triciaburgh, VT 56563
+Phone:              923-238-6118
+Email:              mcmillanjoseph@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 11, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   13,145.43
+Previous Balance:   $    4,868.93
+Payments Received:  $    3,449.67
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/17/2026     Martinez Ltd                        $    297.75
+05/21/2026     Scott Group                         $    223.59
+05/17/2026     Clark-Baker                         $  1,534.80
+05/31/2026     Smith, Hill and Parker              $    230.79
+05/23/2026     Williams-Sanchez                    $  1,249.94
+05/30/2026     Holmes and Sons                     $  1,301.89
+
+-------------------------------------------------------------
+Total Charges:      $    4,838.76
+New Balance:        $    6,258.02
+Minimum Payment:    $      125.16
+
+============================================================

@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_005.txt",
+  "timestamp": "2026-06-09T07:57:04.748756",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Ratti-Karnik",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "515502",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 454,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Janani Savant",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 512,
+        "end": 525
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "WZJGW3183R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 550,
+        "end": 560
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2731 2961 7310",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 585,
+        "end": 599
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "16/08/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 624,
+        "end": 634
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "613023",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 687,
+        "end": 693
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "omdayamai@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 718,
+        "end": 739
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 70325 05333",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 764,
+        "end": 778
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 791,
+        "end": 802
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 807,
+        "end": 819
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Rajagopal Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Dugar Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 701,
+        "end": 712
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1079,
+        "end": 1113
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1192,
+        "end": 1220
+      }
+    }
+  ]
+}

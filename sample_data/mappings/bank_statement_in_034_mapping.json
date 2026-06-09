@@ -1,0 +1,171 @@
+{
+  "document": "bank_statement_in_034.txt",
+  "timestamp": "2026-06-09T07:53:51.887320",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 4,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Udarsh Palan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 351
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_004]",
+      "original": "23548387488752",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 371,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0550849",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 405,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "OAXTK3706S",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 446
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 87766 02712",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 466,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "zaitrasundaram@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 501,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "04/15/1978",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 557
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "810206",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 602,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "22007647",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1806,
+        "end": 1814
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "93398501",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2174,
+        "end": 2182
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "66850519",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2726,
+        "end": 2734
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kala Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 585,
+        "end": 595
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/26/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1047,
+        "end": 1062
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/24/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1415,
+        "end": 1437
+      }
+    }
+  ]
+}

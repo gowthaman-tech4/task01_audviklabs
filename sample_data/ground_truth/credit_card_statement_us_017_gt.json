@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_017.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mrs. Sarah Davis",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4212-0071-2356-7332",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "131 Daniel Wells, Lake Julian, NJ 12078",
+      "start": 296,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "5778741792",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "EMAIL",
+      "value": "conwayamy@example.com",
+      "start": 387,
+      "end": 408
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_011.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Felicia Ortiz",
+      "start": 313,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Patty Ross",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/16/1990",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4947 Washington Pines Suite 145, Lake Michaelside, MN 72947",
+      "start": 545,
+      "end": 604
+    },
+    {
+      "type": "PHONE",
+      "value": "001-432-565-5635",
+      "start": 625,
+      "end": 641
+    },
+    {
+      "type": "EMAIL",
+      "value": "dominic69@example.net",
+      "start": 662,
+      "end": 683
+    },
+    {
+      "type": "SSN",
+      "value": "484-57-7530",
+      "start": 704,
+      "end": 715
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Susan Sanchez",
+      "start": 762,
+      "end": 775
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/13/1966",
+      "start": 825,
+      "end": 835
+    }
+  ]
+}

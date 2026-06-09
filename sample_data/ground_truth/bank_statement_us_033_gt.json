@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_033.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dan Bolton",
+      "start": 346,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "442546872277",
+      "start": 376,
+      "end": 388
+    },
+    {
+      "type": "SSN",
+      "value": "588-86-3146",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PHONE",
+      "value": "707.784.4498x973",
+      "start": 439,
+      "end": 455
+    },
+    {
+      "type": "EMAIL",
+      "value": "thompsonryan@example.org",
+      "start": 475,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/24/1962",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "24793 Smith Crossing Apt. 407, Joneston, MI 98687",
+      "start": 549,
+      "end": 598
+    }
+  ]
+}

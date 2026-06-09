@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_010.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Charita Saran",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4453-9294-9717-4759",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 367, Dube Ganj, Pali 392797",
+      "start": 293,
+      "end": 326
+    },
+    {
+      "type": "PHONE",
+      "value": "91 84239 16666",
+      "start": 347,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "pratyush62@example.com",
+      "start": 382,
+      "end": 404
+    }
+  ]
+}

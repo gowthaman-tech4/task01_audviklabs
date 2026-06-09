@@ -1,0 +1,182 @@
+{
+  "document": "bank_statement_in_007.txt",
+  "timestamp": "2026-06-09T07:53:44.953292",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Amara Nayak",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "848258418699012",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 397
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "PUNB0184745",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 417,
+        "end": 428
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "QNVFV2073N",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 448,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 88701 94597",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 492
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "scomar@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 512,
+        "end": 530
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/02/1995",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 560
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "35, Chhabra Road, Tirupati 070809",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 580,
+        "end": 613
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Purchase - Borra",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1061,
+        "end": 1077
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "48545552",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1537,
+        "end": 1545
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 110
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Purchase - Rau Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1148,
+        "end": 1168
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Purchase - Ratta",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2267,
+        "end": 2283
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Khalsa",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2285,
+        "end": 2291
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2716,
+        "end": 2745
+      }
+    }
+  ]
+}

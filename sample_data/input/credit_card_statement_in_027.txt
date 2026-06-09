@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Joshua Ravel
+Card Number:        4037-1972-5438-2610
+Billing Address:    H.No. 53, Solanki Ganj, Mango-809835
+Phone:              +91 78670 84071
+Email:              fkanda@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 30, 2026
+Credit Limit:       $   23,206.42
+Previous Balance:   $    4,529.94
+Payments Received:  $    2,577.14
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/14/2026     Amble-Chadha                        $     88.93
+06/03/2026     Konda-Tella                         $  1,641.46
+05/24/2026     Dass-Rout                           $  1,761.03
+05/25/2026     Taneja-Aggarwal                     $    731.25
+06/04/2026     Mammen-Sanghvi                      $    490.06
+06/04/2026     Shukla, Kalita and Dhawan           $  1,689.19
+06/02/2026     Borah, Iyengar and Goda             $    437.52
+05/13/2026     Mody-Devan                          $  1,804.69
+05/23/2026     Dutt, Natarajan and Iyengar         $  1,847.17
+06/06/2026     Mammen-Bhat                         $  1,079.47
+05/29/2026     Cherian Group                       $  1,423.55
+05/22/2026     Khalsa and Sons                     $     93.24
+
+-------------------------------------------------------------
+Total Charges:      $   13,087.56
+New Balance:        $   15,040.36
+Minimum Payment:    $      300.81
+
+============================================================

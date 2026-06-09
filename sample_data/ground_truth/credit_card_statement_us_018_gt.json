@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_018.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Olivia Fields",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4818-1326-1802-8679",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "13662 Jennifer Ridge, Gillport, WV 60566",
+      "start": 293,
+      "end": 333
+    },
+    {
+      "type": "PHONE",
+      "value": "566.290.3279",
+      "start": 354,
+      "end": 366
+    },
+    {
+      "type": "EMAIL",
+      "value": "elizabeth05@example.org",
+      "start": 387,
+      "end": 410
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_018.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Edgar Miller",
+      "start": 315,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Andrew Bell",
+      "start": 484,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/12/1984",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "822 Estrada Summit, West Zacharyside, MT 03573",
+      "start": 547,
+      "end": 593
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-744-426-6717x7349",
+      "start": 614,
+      "end": 634
+    },
+    {
+      "type": "EMAIL",
+      "value": "abigail44@example.com",
+      "start": 655,
+      "end": 676
+    },
+    {
+      "type": "SSN",
+      "value": "189-43-7716",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Andrea Jones",
+      "start": 755,
+      "end": 767
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/13/2022",
+      "start": 817,
+      "end": 827
+    }
+  ]
+}

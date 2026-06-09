@@ -1,0 +1,58 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-980596
+Date of Agreement: April 28, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 77/644, Contractor, Guntur-426855
+
+BORROWER:
+Name: Oviya Chahal
+PAN: TKHTD6419E
+Aadhaar: 8588 3498 6881
+Date of Birth: 01/29/1980
+Address: 915, Sathe Circle, New Delhi-007959
+Phone: 91 85395 30907
+Email: ekalinga57@example.com
+
+CO-BORROWER (if applicable):
+Name: Rishi Khare
+Phone: +91 63398 64411
+Email: dkarpe@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    260,928.85
+Interest Rate:              15.51% per annum
+Loan Tenure:                120 months
+EMI Amount:                 $      4,291.56
+Disbursement Account No:    33796413577697
+Disbursement Date:          May 15, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 120 equal monthly installments of $4,291.56.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

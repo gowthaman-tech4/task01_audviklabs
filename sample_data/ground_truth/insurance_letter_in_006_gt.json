@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_006.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Joshua Hora",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nathan Memon",
+      "start": 483,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/12/1981",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 305, Behl Street, Mau 085887",
+      "start": 547,
+      "end": 581
+    },
+    {
+      "type": "PHONE",
+      "value": "91 74712 64279",
+      "start": 602,
+      "end": 616
+    },
+    {
+      "type": "EMAIL",
+      "value": "abhiram62@example.com",
+      "start": 637,
+      "end": 658
+    },
+    {
+      "type": "PAN",
+      "value": "DBWGV4577R",
+      "start": 679,
+      "end": 689
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9784 1456 4713",
+      "start": 710,
+      "end": 724
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Unni D’Alia",
+      "start": 771,
+      "end": 782
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/18/1956",
+      "start": 830,
+      "end": 840
+    }
+  ]
+}

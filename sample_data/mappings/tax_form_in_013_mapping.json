@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_013.txt",
+  "timestamp": "2026-06-09T07:59:05.105353",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Dutt-Karan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "338294",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 442,
+        "end": 448
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 463,
+        "end": 474
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bhavna Morar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 500,
+        "end": 512
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "KBSAG9852U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 537,
+        "end": 547
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6636 9223 7728",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 572,
+        "end": 586
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "21/08/1979",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 611,
+        "end": 621
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "885292",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 671,
+        "end": 677
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kde@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 702,
+        "end": 717
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 76495 13272",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 742,
+        "end": 757
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 770,
+        "end": 781
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 786,
+        "end": 798
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Wali Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 445
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Silchar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 447,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Bala Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 689,
+        "end": 698
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1066,
+        "end": 1100
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1179,
+        "end": 1207
+      }
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "document": "bank_statement_us_007.txt",
+  "timestamp": "2026-06-09T07:53:55.724467",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 4
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Michael Hernandez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "906160382316",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 389,
+        "end": 401
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "388-26-9007",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 421,
+        "end": 432
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-610-525-9446x9219",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 452,
+        "end": 472
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "karensmith@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 492,
+        "end": 514
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/15/1987",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 534,
+        "end": 544
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "859 Jeffrey Ridges Apt. 125, Edwardland, GU 89435",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 564,
+        "end": 613
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Brow",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1003,
+        "end": 1007
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_004]",
+      "original": "88250292",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1175,
+        "end": 1183
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "26970423",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1359,
+        "end": 1367
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "00557329",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1727,
+        "end": 1735
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "85703166",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2095,
+        "end": 2103
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Hudson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2540,
+        "end": 2557
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Miller",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2559,
+        "end": 2565
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Aguilar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 943,
+        "end": 950
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Purchase - Carson Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1805,
+        "end": 1826
+      }
+    }
+  ]
+}

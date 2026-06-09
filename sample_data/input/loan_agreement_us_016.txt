@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-376706
+Date of Agreement: May 18, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: 1776 Justin Views Apt. 327, Susanside, NJ 36994
+
+BORROWER:
+Name: Douglas Hernandez
+SSN: 611-61-6185
+Date of Birth: 03/15/1995
+Address: 5616 Perez Tunnel Suite 187, Rayville, ID 23129
+Phone: 9268742809
+Email: dustin20@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    360,382.85
+Interest Rate:              15.26% per annum
+Loan Tenure:                72 months
+EMI Amount:                 $      7,671.28
+Disbursement Account No:    55149334021505
+Disbursement Date:          June 02, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 72 equal monthly installments of $7,671.28.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

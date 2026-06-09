@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Olivia Fields
+Card Number:        4818-1326-1802-8679
+Billing Address:    13662 Jennifer Ridge, Gillport, WV 60566
+Phone:              566.290.3279
+Email:              elizabeth05@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 15, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   33,625.61
+Previous Balance:   $   14,506.72
+Payments Received:  $   11,047.78
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/26/2026     Hanna and Sons                      $  1,038.49
+05/14/2026     Arnold-Jones                        $  1,106.35
+05/30/2026     Mccarty Group                       $  1,661.47
+05/12/2026     Armstrong, Ewing and Hubbard        $  1,646.36
+05/25/2026     Mendez, Mendoza and Garcia          $    797.82
+06/03/2026     Garza Group                         $  1,258.40
+06/02/2026     Freeman-Simon                       $     10.54
+05/10/2026     Goodwin and Sons                    $  1,901.50
+05/27/2026     Mccall-Wade                         $  1,298.35
+05/23/2026     Harrison Ltd                        $  1,932.99
+05/29/2026     Armstrong, Booth and Martin         $    878.70
+05/23/2026     Mooney Inc                          $    814.24
+
+-------------------------------------------------------------
+Total Charges:      $   14,345.21
+New Balance:        $   17,804.15
+Minimum Payment:    $      356.08
+
+============================================================

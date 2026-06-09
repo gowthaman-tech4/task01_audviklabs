@@ -1,0 +1,245 @@
+{
+  "document": "credit_card_statement_in_013.txt",
+  "timestamp": "2026-06-09T07:55:03.752813",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Falguni Das",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "415725553314",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "557506",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 318,
+        "end": 324
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 81143 62285",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "vritti56@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 381,
+        "end": 401
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Mannan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1013,
+        "end": 1019
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Karan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1335,
+        "end": 1340
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Dhawan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1460,
+        "end": 1466
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Patil              ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1471,
+        "end": 1490
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Basak",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1588,
+        "end": 1593
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Krish Nagar",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 304,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Latur",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 317,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "Batra Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 823,
+        "end": 834
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Prasad PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 896
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "05/13/2026     Bose Ltd                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 934,
+        "end": 985
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "06/01/2026     Mane Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1071,
+        "end": 1096
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Mannan",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1156,
+        "end": 1162
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "06/01/2026     Gulati Group                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1197,
+        "end": 1248
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/09/2026     Ranganathan Inc                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1260,
+        "end": 1311
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "06/04/2026     Kuruvilla Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1533,
+        "end": 1563
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Handa",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1641,
+        "end": 1646
+      }
+    }
+  ]
+}

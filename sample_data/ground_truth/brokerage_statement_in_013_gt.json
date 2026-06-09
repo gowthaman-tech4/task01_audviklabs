@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_013.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kiaan Pandya",
+      "start": 283,
+      "end": 295
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1761942384",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "type": "PAN",
+      "value": "OOUTK0118H",
+      "start": 355,
+      "end": 365
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8145815672567133",
+      "start": 390,
+      "end": 406
+    },
+    {
+      "type": "EMAIL",
+      "value": "saraftara@example.com",
+      "start": 431,
+      "end": 452
+    },
+    {
+      "type": "PHONE",
+      "value": "91 71530 34724",
+      "start": 477,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 66, Menon Path, Madurai 212963",
+      "start": 516,
+      "end": 552
+    }
+  ]
+}

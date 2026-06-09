@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   207-34-8582
+
+b  Employer Identification Number (EIN)
+   96-4248337
+
+c  Employer's Name, Address, and ZIP Code
+   Scott PLC
+   69879 John Prairie, New Jessicaview, UT 26991
+
+e  Employee's Name
+   Felicia West
+
+f  Employee's Address and ZIP Code
+   330 Jeremy Radial, New Cynthiaside, MI 91932
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   69,214.96
+2  Federal income tax withheld         $   14,515.47
+3  Social Security wages               $   69,214.96
+4  Social Security tax withheld        $    4,291.33
+5  Medicare wages and tips             $   69,214.96
+6  Medicare tax withheld               $    1,003.62
+
+12a Code DD - Health Insurance          $   13,144.12
+
+--- STATE TAX INFORMATION ---
+
+15 State: TN
+16 State wages                         $   69,214.96
+17 State income tax                    $    4,403.43
+
+============================================================

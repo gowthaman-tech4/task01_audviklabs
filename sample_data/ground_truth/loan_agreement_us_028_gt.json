@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_028.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9457 Vang Ferry Apt. 727, Alexisville, RI 69156",
+      "start": 378,
+      "end": 425
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Heather Johnson",
+      "start": 443,
+      "end": 458
+    },
+    {
+      "type": "SSN",
+      "value": "571-76-4831",
+      "start": 464,
+      "end": 475
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/19/1995",
+      "start": 491,
+      "end": 501
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4929 Ortiz Plains Suite 851, Millerland, MT 05997",
+      "start": 511,
+      "end": 560
+    },
+    {
+      "type": "PHONE",
+      "value": "433.713.4399x7482",
+      "start": 568,
+      "end": 585
+    },
+    {
+      "type": "EMAIL",
+      "value": "brandon70@example.com",
+      "start": 593,
+      "end": 614
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "85459443665309",
+      "start": 875,
+      "end": 889
+    }
+  ]
+}

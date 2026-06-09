@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   221-06-8538
+
+b  Employer Identification Number (EIN)
+   99-4328745
+
+c  Employer's Name, Address, and ZIP Code
+   Williams PLC
+   13459 Debra Pike, Millerstad, TN 13553
+
+e  Employee's Name
+   Victor Hoover
+
+f  Employee's Address and ZIP Code
+   5970 Roth Viaduct Suite 369, West Rhondatown, RI 30385
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   36,844.35
+2  Federal income tax withheld         $    6,883.34
+3  Social Security wages               $   36,844.35
+4  Social Security tax withheld        $    2,284.35
+5  Medicare wages and tips             $   36,844.35
+6  Medicare tax withheld               $      534.24
+
+12a Code DD - Health Insurance          $   13,279.56
+
+--- STATE TAX INFORMATION ---
+
+15 State: IA
+16 State wages                         $   36,844.35
+17 State income tax                    $    1,754.37
+
+============================================================

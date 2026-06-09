@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_003.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Anthony Galvan",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4924-3098-1232-9605",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "84705 Samantha Streets, New James, IN 32599",
+      "start": 294,
+      "end": 337
+    },
+    {
+      "type": "PHONE",
+      "value": "001-594-552-7236x89852",
+      "start": 358,
+      "end": 380
+    },
+    {
+      "type": "EMAIL",
+      "value": "leroy67@example.org",
+      "start": 401,
+      "end": 420
+    }
+  ]
+}

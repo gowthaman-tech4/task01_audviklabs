@@ -1,0 +1,167 @@
+{
+  "document": "tax_form_us_001.txt",
+  "timestamp": "2026-06-09T08:05:55.900586",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "SSN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "'s Social Security Number",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 211,
+        "end": 236
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "125-07-8825",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 240,
+        "end": 251
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "7693835",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 299,
+        "end": 306
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": ", and ZIP Code,    Galloway PLC,    528 Nguyen Manor Apt. 290, East Julie, IA 50172",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 335,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "'s Name",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 429,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Mackenzie Pierce",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 440,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "'s Address and ZIP Code",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 469,
+        "end": 492
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "28003 Zimmerman Fields Apt. 148, Shaunshire, AR 33692",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 496,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 640,
+        "end": 655
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 693,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 746,
+        "end": 754
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Code DD - Health Insurance          $    7,161.22",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 801,
+        "end": 850
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "State",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 891
+      }
+    }
+  ]
+}

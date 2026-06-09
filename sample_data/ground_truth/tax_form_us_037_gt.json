@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_037.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "481-27-2934",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "12-3702721",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Watson, White and Martin",
+      "start": 353,
+      "end": 377
+    },
+    {
+      "type": "ADDRESS",
+      "value": "25082 Thompson Trail Apt. 287, Powellshire, VI 19626",
+      "start": 381,
+      "end": 433
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Adam Lambert",
+      "start": 457,
+      "end": 469
+    },
+    {
+      "type": "ADDRESS",
+      "value": "37418 Atkins Burgs, North Andrew, MI 89924",
+      "start": 509,
+      "end": 551
+    }
+  ]
+}

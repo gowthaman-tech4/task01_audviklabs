@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_022.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Wakeeta Khatri",
+      "start": 313,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Vedhika Desai",
+      "start": 484,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/02/1991",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "84/18, Dhaliwal, Thiruvananthapuram 496843",
+      "start": 549,
+      "end": 591
+    },
+    {
+      "type": "PHONE",
+      "value": "91 64165 77774",
+      "start": 612,
+      "end": 626
+    },
+    {
+      "type": "EMAIL",
+      "value": "jalsatata@example.com",
+      "start": 647,
+      "end": 668
+    },
+    {
+      "type": "PAN",
+      "value": "TSNCX5891X",
+      "start": 689,
+      "end": 699
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6237 2174 2141",
+      "start": 720,
+      "end": 734
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Krishna Mane",
+      "start": 781,
+      "end": 793
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/12/2007",
+      "start": 838,
+      "end": 848
+    }
+  ]
+}

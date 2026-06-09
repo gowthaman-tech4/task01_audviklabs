@@ -1,0 +1,270 @@
+{
+  "document": "loan_agreement_in_008.txt",
+  "timestamp": "2026-06-09T07:55:33.156475",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 3,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "773977",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "977130",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 402,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Ekalinga Saran",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 426,
+        "end": 440
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "BWBGW5646H",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 446,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 457,
+        "end": 464
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2041 0042 3265",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 466,
+        "end": 480
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/25/1994",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 496,
+        "end": 506
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "442858",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 83119 11336",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 564,
+        "end": 579
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "tlalla@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 605
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Krish Banerjee",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 642,
+        "end": 656
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 75989 97642",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 664,
+        "end": 679
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "amritadoshi@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 687,
+        "end": 710
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "75553628174953",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 969,
+        "end": 983
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Prabhu Nagar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 399
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Katihar",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 401,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Saxena Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 561,
+        "end": 572
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1053,
+        "end": 1058
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1063,
+        "end": 1073
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1086,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1357,
+        "end": 1365
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1456,
+        "end": 1462
+      }
+    }
+  ]
+}

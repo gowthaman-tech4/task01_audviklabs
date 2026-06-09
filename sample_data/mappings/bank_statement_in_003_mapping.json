@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_in_003.txt",
+  "timestamp": "2026-06-09T07:53:43.972333",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Imaran Nayar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "9179618942",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 380,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "CNRB0045850",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 410,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "MBIFL5441B",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 441,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 64041 81078",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 471,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "michael42@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 506,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/02/1974",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 557
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "916585",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 608,
+        "end": 614
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "30605633",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1723,
+        "end": 1731
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Chandra Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 585,
+        "end": 599
+      }
+    }
+  ]
+}

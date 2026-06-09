@@ -1,0 +1,55 @@
+============================================================
+                    Southern Trust Bank Ltd
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 03, 2026 to May 29, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Anjali Halder
+Account Number:    66321563744003
+IFSC Code:         HDFC0730911
+PAN:               JGYHR6084R
+Phone:             +91 72006 79040
+Email:             vrishti37@example.org
+Date of Birth:     05/15/1960
+Address:           16, Baral Marg, Gorakhpur 051328
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Patna Branch
+Opening Balance:   $140,375.73
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/30/2026     Check #9280                                          3,452.43     143,828.16
+05/11/2026     NEFT Transfer                                        3,959.73     147,787.89
+05/10/2026     POS Purchase - Amble-Basak                563.86                  147,224.03
+05/15/2026     UPI Transfer                            2,333.42                  144,890.61
+05/25/2026     Direct Deposit - JQQ Corp               3,118.10                  141,772.51
+05/11/2026     Bill Payment - Utility                  3,269.13                  138,503.38
+05/21/2026     Service Charge                          3,124.92                  135,378.46
+05/24/2026     UPI Transfer                            3,462.40                  131,916.06
+05/23/2026     ATM Withdrawal - Tiruppur                              105.17     132,021.23
+05/24/2026     NEFT Transfer                             423.26                  131,597.97
+05/22/2026     Online Transfer to 67788382             1,420.41                  130,177.56
+05/09/2026     UPI Transfer                            2,306.49                  127,871.07
+05/28/2026     NEFT Transfer                             483.02                  127,388.05
+05/20/2026     Online Transfer to 09602750               393.96                  126,994.09
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $126,994.09
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Southern Trust Bank Ltd
+FDIC Insured | Equal Opportunity Lender
+============================================================

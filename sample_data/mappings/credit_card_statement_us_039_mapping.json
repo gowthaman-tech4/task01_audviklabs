@@ -1,0 +1,245 @@
+{
+  "document": "credit_card_statement_us_039.txt",
+  "timestamp": "2026-06-09T07:55:15.920157",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 10,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_010]",
+      "original": "Peter Bond",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 229
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "400621510872",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 250,
+        "end": 264
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "434 Justin Trail, Port Erik, PR 05297",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 290,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(774)203-8401x0050",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "karenstanley@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Wilson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 897,
+        "end": 903
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Neal",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 905,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Miller",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 914,
+        "end": 920
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Berry",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1158,
+        "end": 1163
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1344,
+        "end": 1352
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Clark",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1357,
+        "end": 1362
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Leonard",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1407,
+        "end": 1414
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Scott",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1473,
+        "end": 1478
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Collins",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1483,
+        "end": 1490
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Green-Hernandez                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 769
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "06/07/2026     Conley Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 808
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Wagner",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 970
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Dyer-Hale                           ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1119
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Holland",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1146,
+        "end": 1153
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Ford",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1347,
+        "end": 1351
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_011]",
+      "original": "Solomon",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1504,
+        "end": 1511
+      }
+    }
+  ]
+}

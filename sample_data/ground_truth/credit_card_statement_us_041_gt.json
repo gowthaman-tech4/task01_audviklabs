@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_041.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Nancy Garcia",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4640-6009-9795-0733",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "050 Jordan Harbors Suite 420, East Robert, OR 15920",
+      "start": 292,
+      "end": 343
+    },
+    {
+      "type": "PHONE",
+      "value": "395.444.8754x8534",
+      "start": 364,
+      "end": 381
+    },
+    {
+      "type": "EMAIL",
+      "value": "miranda65@example.org",
+      "start": 402,
+      "end": 423
+    }
+  ]
+}

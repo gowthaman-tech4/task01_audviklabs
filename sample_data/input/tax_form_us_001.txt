@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   125-07-8825
+
+b  Employer Identification Number (EIN)
+   72-7693835
+
+c  Employer's Name, Address, and ZIP Code
+   Galloway PLC
+   528 Nguyen Manor Apt. 290, East Julie, IA 50172
+
+e  Employee's Name
+   Mackenzie Pierce
+
+f  Employee's Address and ZIP Code
+   28003 Zimmerman Fields Apt. 148, Shaunshire, AR 33692
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  126,098.43
+2  Federal income tax withheld         $   32,803.05
+3  Social Security wages               $  126,098.43
+4  Social Security tax withheld        $    7,818.10
+5  Medicare wages and tips             $  126,098.43
+6  Medicare tax withheld               $    1,828.43
+
+12a Code DD - Health Insurance          $    7,161.22
+
+--- STATE TAX INFORMATION ---
+
+15 State: NV
+16 State wages                         $  126,098.43
+17 State income tax                    $    4,931.10
+
+============================================================

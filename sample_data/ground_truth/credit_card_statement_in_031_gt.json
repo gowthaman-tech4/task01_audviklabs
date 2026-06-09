@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_031.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Chameli Pillai",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4074-4739-8578-1535",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "41/34, Tata Zila, Ongole-689642",
+      "start": 294,
+      "end": 325
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 83082 42837",
+      "start": 346,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "bhardwajxiti@example.org",
+      "start": 382,
+      "end": 406
+    }
+  ]
+}

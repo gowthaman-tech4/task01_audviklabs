@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_002.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "958 Lynn Oval Suite 804, South Brandonport, SD 21427",
+      "start": 376,
+      "end": 428
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Eric Chang",
+      "start": 446,
+      "end": 456
+    },
+    {
+      "type": "SSN",
+      "value": "439-69-8533",
+      "start": 462,
+      "end": 473
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/21/1982",
+      "start": 489,
+      "end": 499
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2837 Eric Villages, Stacieshire, CT 15538",
+      "start": 509,
+      "end": 550
+    },
+    {
+      "type": "PHONE",
+      "value": "959-512-7966",
+      "start": 558,
+      "end": 570
+    },
+    {
+      "type": "EMAIL",
+      "value": "deanna19@example.org",
+      "start": 578,
+      "end": 598
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "39502003923730",
+      "start": 860,
+      "end": 874
+    }
+  ]
+}

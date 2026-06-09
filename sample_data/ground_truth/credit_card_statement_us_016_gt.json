@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_016.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Edwin Rodriguez",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4401-3743-0782-9099",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "1635 Robert Ford, Tapiaborough, AL 54349",
+      "start": 295,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "487-520-2934x1026",
+      "start": 356,
+      "end": 373
+    },
+    {
+      "type": "EMAIL",
+      "value": "nicholasrobinson@example.org",
+      "start": 394,
+      "end": 422
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+============================================================
+          [ORGANIZATION_004]
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_003]451 $    168.97 $    200.10 $   90,245.77 $   14,040.30
+AAPL     Apple Inc.                    93 $    162.18 $    186.89 $   17,380.80 $    2,298.06
+AMZN     [ORGANIZATION_002]               28 $    133.97 $    156.96 $    4,394.97 $      643.81
+MSFT     [ORGANIZATION_001]              305 $    338.88 $    417.88 $  127,452.94 $   24,094.54
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  239,474.48
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/16/2026     DIV      AMZN         66 $    413.59 $   27,296.94
+03/15/2026     SELL     AMZN         69 $    483.94 $   33,391.86
+05/05/2026     DIV      AAPL         63 $    115.37 $    7,268.31
+04/05/2026     SELL     AAPL         10 $    189.14 $    1,891.40
+04/18/2026     BUY      AMZN         63 $    231.69 $   14,596.47
+05/31/2026     BUY      JPM          91 $    436.82 $   39,750.62
+05/20/2026     DIV      MSFT         65 $    376.75 $   24,488.75
+04/05/2026     DIV      MSFT         65 $    300.37 $   19,524.05
+04/28/2026     BUY      AMZN         82 $    476.96 $   39,110.72
+05/27/2026     DIV      MSFT         32 $    249.02 $    7,968.64
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

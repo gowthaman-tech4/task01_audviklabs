@@ -1,0 +1,204 @@
+{
+  "document": "bank_statement_in_009.txt",
+  "timestamp": "2026-06-09T07:53:45.444231",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "ACCOUNT_NUMBER": 4,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Dipta Luthra",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_004]",
+      "original": "7638694428300654",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 376,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "UBIN0876107",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 412,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "FDYLK9878R",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 443,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 63917 50901",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tsen@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 507,
+        "end": 523
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/14/1967",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 543,
+        "end": 553
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "193107",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 608,
+        "end": 614
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Divan-Mandal",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1065,
+        "end": 1088
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "90577356",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1356,
+        "end": 1364
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "93280336",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1632,
+        "end": 1640
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "53576787",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2460,
+        "end": 2468
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "6,548.96",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2627,
+        "end": 2635
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Nair Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 597,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Berhampore",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 610,
+        "end": 620
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/15/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1820,
+        "end": 1842
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2948,
+        "end": 2982
+      }
+    }
+  ]
+}

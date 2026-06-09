@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_035.txt",
+  "timestamp": "2026-06-09T07:55:48.684170",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "848587",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "4144 Farley Roads Suite 525, Christophermouth, VI 07585",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 372,
+        "end": 427
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Christine Salinas",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 445,
+        "end": 462
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "590-33-1324",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 468,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/08/1988",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 495,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "7818 Rojas Stream, West Mariaport, MT 00878",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 515,
+        "end": 558
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+1-804-205-3151x594",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 566,
+        "end": 585
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "christopherhart@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 593,
+        "end": 620
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Craig Taylor MD",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 657,
+        "end": 672
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-913-678-8143x10143",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 680,
+        "end": 702
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "zgonzalez@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 710,
+        "end": 731
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "29633048028188",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 992,
+        "end": 1006
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 958,
+        "end": 963
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 968,
+        "end": 978
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 991,
+        "end": 999
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1262,
+        "end": 1270
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1361,
+        "end": 1367
+      }
+    }
+  ]
+}

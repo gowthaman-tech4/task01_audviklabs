@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_015.txt",
+  "timestamp": "2026-06-09T07:59:33.950326",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "126330",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 441,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 462,
+        "end": 473
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Chandani Pandit",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 499,
+        "end": 514
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "WEBJY6900J",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 539,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "7484 5171 6474",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 574,
+        "end": 588
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/09/1998",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 613,
+        "end": 623
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "795773",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 679,
+        "end": 685
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bhatnagarnakul@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 710,
+        "end": 736
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 94341 55102",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 761,
+        "end": 775
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 788,
+        "end": 799
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 804,
+        "end": 816
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Bajaj LLC",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Wable Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 427,
+        "end": 437
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Acharya Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 683,
+        "end": 696
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Guwahati",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 698,
+        "end": 706
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1098
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1177,
+        "end": 1205
+      }
+    }
+  ]
+}

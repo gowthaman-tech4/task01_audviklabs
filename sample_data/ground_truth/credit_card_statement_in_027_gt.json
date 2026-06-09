@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_027.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Joshua Ravel",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4037-1972-5438-2610",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 53, Solanki Ganj, Mango-809835",
+      "start": 292,
+      "end": 328
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 78670 84071",
+      "start": 349,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "fkanda@example.net",
+      "start": 385,
+      "end": 403
+    }
+  ]
+}

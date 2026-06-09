@@ -1,0 +1,190 @@
+{
+  "document": "brokerage_statement_us_030.txt",
+  "timestamp": "2026-06-09T07:54:58.670345",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Todd Cabrera",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 292
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "3816531453",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 317,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "274-21-9419",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "donnacarlson@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 412
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(427)938-1542",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 437,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "USNV Martin, FPO AA 00763",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 500
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_010]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_009]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 735
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 885,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 979,
+        "end": 1007
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1073,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1601,
+        "end": 1605
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1667,
+        "end": 1671
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1799,
+        "end": 1803
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1997,
+        "end": 2001
+      }
+    }
+  ]
+}

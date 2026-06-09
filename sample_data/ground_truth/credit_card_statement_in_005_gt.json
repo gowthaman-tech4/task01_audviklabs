@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_005.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tanveer Shanker",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4400-3442-6328-8243",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 68, Karnik Street, South Dumdum 679998",
+      "start": 295,
+      "end": 339
+    },
+    {
+      "type": "PHONE",
+      "value": "91 74798 22131",
+      "start": 360,
+      "end": 374
+    },
+    {
+      "type": "EMAIL",
+      "value": "shayamini@example.org",
+      "start": 395,
+      "end": 416
+    }
+  ]
+}

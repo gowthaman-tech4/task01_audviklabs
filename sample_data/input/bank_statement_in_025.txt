@@ -1,0 +1,60 @@
+============================================================
+                    Saraswat Cooperative Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 20, 2026 to May 11, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Saanvi Prashad
+Account Number:    1967591666
+IFSC Code:         ICIC0372902
+PAN:               DFJAL9276J
+Phone:             91 85519 74592
+Email:             devanvarenya@example.net
+Date of Birth:     03/12/1999
+Address:           H.No. 43, Krishnamurthy Nagar, Saharanpur-953534
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Jalna Branch
+Opening Balance:   $63,735.16
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/13/2026     Online Transfer to 89007358               283.02                   63,452.14
+05/17/2026     Interest Credit                                        806.60      64,258.74
+05/28/2026     Interest Credit                           382.54                   63,876.20
+05/20/2026     ATM Withdrawal - Nangloi Jat            1,061.13                   62,815.07
+06/04/2026     Direct Deposit - CAI Corp               2,557.60                   60,257.47
+05/21/2026     UPI Transfer                            2,004.45                   58,253.02
+05/16/2026     Check #3716                             2,931.85                   55,321.17
+05/20/2026     Online Transfer to 36237772                          4,633.14      59,954.31
+05/11/2026     Service Charge                                       3,400.82      63,355.13
+05/17/2026     NEFT Transfer                                        1,175.66      64,530.79
+05/24/2026     ATM Withdrawal - Lucknow                  886.01                   63,644.78
+05/30/2026     ATM Withdrawal - Saharsa                1,518.68                   62,126.10
+05/29/2026     ATM Withdrawal - Bhagalpur                           1,387.28      63,513.38
+05/17/2026     Interest Credit                         4,865.59                   58,647.79
+05/19/2026     ATM Withdrawal - Noida                  3,608.90                   55,038.89
+05/09/2026     Bill Payment - Utility                  2,674.51                   52,364.38
+06/01/2026     Bill Payment - Utility                  1,198.47                   51,165.91
+05/10/2026     Online Transfer to 33064231             3,450.06                   47,715.85
+05/28/2026     Service Charge                          4,741.88                   42,973.97
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $42,973.97
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Saraswat Cooperative Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_037.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Prisha Nadkarni",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4920-4522-5657-0534",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "97, Kar Nagar, Suryapet 061483",
+      "start": 295,
+      "end": 325
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 99970 18281",
+      "start": 346,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "oshanker@example.org",
+      "start": 382,
+      "end": 402
+    }
+  ]
+}

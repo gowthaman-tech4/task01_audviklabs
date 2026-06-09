@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_034.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "469-96-8018",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "53-9776127",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Kent-Burns",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3769 Michael Park, Terrytown, MH 34358",
+      "start": 367,
+      "end": 405
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Crystal Ortiz",
+      "start": 429,
+      "end": 442
+    },
+    {
+      "type": "ADDRESS",
+      "value": "953 Hall Divide, East Amyton, TN 18499",
+      "start": 482,
+      "end": 520
+    }
+  ]
+}

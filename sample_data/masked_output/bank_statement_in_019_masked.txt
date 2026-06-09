@@ -1,0 +1,56 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 12, 2026 to May 28, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           H.No. [DATE_OF_BIRTH_002], [PERSON_NAME_003], [PERSON_NAME_002] [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Tadipatri Branch
+Opening Balance:   $70,636.60
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/29/2026     Service Charge                                         854.51      71,491.11
+05/31/2026     UPI Transfer                            1,263.11                   70,228.00
+05/16/2026     Interest Credit                                        584.32      70,812.32
+[ORGANIZATION_002] Charge                                       2,509.51      73,321.83
+05/31/2026     Direct Deposit - PCX Corp               4,437.98                   68,883.85
+06/05/2026     Interest Credit                                        647.35      69,531.20
+05/21/2026     Interest Credit                         2,235.05                   67,296.15
+05/24/2026     NEFT Transfer                             436.34                   66,859.81
+05/26/2026     Interest Credit                           847.57                   66,012.24
+06/03/2026     UPI Transfer                            4,608.41                   61,403.83
+05/11/2026     Service Charge                          1,826.53                   59,577.30
+06/03/2026     UPI Transfer                            3,323.30                   56,254.00
+06/06/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,770.33                   51,483.67
+06/02/2026     Interest Credit                                      4,598.37      56,082.04
+06/03/2026     Check #1467                             1,471.92                   54,610.12
+06/05/2026     Bill Payment - Utility                  1,080.29                   53,529.83
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $53,529.83
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001] | Equal Opportunity Lender
+============================================================

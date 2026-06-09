@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Jason Whitaker
+Card Number:        4364-1645-5993-8523
+Billing Address:    14802 Bradley Inlet Apt. 535, Nelsonside, CA 92029
+Phone:              (896)444-0677x4364
+Email:              connorjackson@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 23, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   42,499.32
+Previous Balance:   $    4,383.60
+Payments Received:  $    1,951.63
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/15/2026     Kelly, Cantrell and Mcgee           $  1,455.33
+05/10/2026     Scott Inc                           $    449.70
+05/11/2026     Johnson-Rivera                      $  1,700.79
+05/29/2026     Johnson, Riley and Miller           $    572.30
+05/09/2026     Lynch, Richardson and Ruiz          $    828.11
+06/02/2026     Cook, Wells and Torres              $  1,888.83
+05/29/2026     Simmons, Moreno and Mathews         $    732.46
+06/01/2026     Owens, Jackson and Blair            $  1,525.81
+05/28/2026     Reilly-Wallace                      $  1,969.56
+05/18/2026     Larson, Wang and Bailey             $  1,051.44
+
+-------------------------------------------------------------
+Total Charges:      $   12,174.33
+New Balance:        $   14,606.30
+Minimum Payment:    $      292.13
+
+============================================================

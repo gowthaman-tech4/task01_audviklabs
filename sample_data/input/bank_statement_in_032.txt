@@ -1,0 +1,61 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 13, 2026 to May 25, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Priya Mallick
+Account Number:    125498291055
+IFSC Code:         AXIS0537912
+PAN:               NEGCG8611L
+Phone:             91 71489 85287
+Email:             yadavi76@example.net
+Date of Birth:     11/02/1970
+Address:           418, Devan Circle, Ramgarh 423448
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Farrukhabad Branch
+Opening Balance:   $51,327.14
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/21/2026     Bill Payment - Utility                               1,974.87      53,302.01
+05/16/2026     Service Charge                             72.35                   53,229.66
+05/16/2026     UPI Transfer                                         3,135.85      56,365.51
+05/26/2026     POS Purchase - Nagarajan-Biswas                      3,644.92      60,010.43
+06/01/2026     Online Transfer to 61966083                          3,543.68      63,554.11
+05/16/2026     Service Charge                          4,092.31                   59,461.80
+05/24/2026     Interest Credit                                      4,370.69      63,832.49
+06/04/2026     Direct Deposit - QHV Corp                            4,610.89      68,443.38
+05/09/2026     Service Charge                            507.94                   67,935.44
+05/26/2026     Check #9736                             4,445.46                   63,489.98
+06/06/2026     POS Purchase - Basu-Kibe                4,324.49                   59,165.49
+06/07/2026     Online Transfer to 60299990               692.83                   58,472.66
+05/14/2026     NEFT Transfer                                        2,829.73      61,302.39
+05/10/2026     Interest Credit                                        888.75      62,191.14
+05/20/2026     ATM Withdrawal - Bhilwara               3,461.74                   58,729.40
+05/14/2026     Interest Credit                                      1,773.31      60,502.71
+05/23/2026     NEFT Transfer                           4,106.15                   56,396.56
+05/10/2026     Service Charge                          1,726.16                   54,670.40
+05/10/2026     Direct Deposit - VGM Corp               3,199.33                   51,471.07
+05/29/2026     Check #7007                             3,996.10                   47,474.97
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $47,474.97
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Bharath National Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   374-42-9802
+
+b  Employer Identification Number (EIN)
+   87-4214745
+
+c  Employer's Name, Address, and ZIP Code
+   Soto, Morris and Obrien
+   911 Ford Locks Suite 721, Kellystad, MH 59564
+
+e  Employee's Name
+   Ashley Nash
+
+f  Employee's Address and ZIP Code
+   50756 Gonzalez Trail Suite 021, West Saraside, LA 68347
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   79,573.89
+2  Federal income tax withheld         $   22,229.72
+3  Social Security wages               $   79,573.89
+4  Social Security tax withheld        $    4,933.58
+5  Medicare wages and tips             $   79,573.89
+6  Medicare tax withheld               $    1,153.82
+
+12a Code DD - Health Insurance          $   14,892.98
+
+--- STATE TAX INFORMATION ---
+
+15 State: AL
+16 State wages                         $   79,573.89
+17 State income tax                    $    5,340.85
+
+============================================================

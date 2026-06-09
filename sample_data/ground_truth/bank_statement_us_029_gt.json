@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_029.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ricky Henderson",
+      "start": 348,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "707421727845",
+      "start": 383,
+      "end": 395
+    },
+    {
+      "type": "SSN",
+      "value": "268-10-6120",
+      "start": 415,
+      "end": 426
+    },
+    {
+      "type": "PHONE",
+      "value": "342.404.1178",
+      "start": 446,
+      "end": 458
+    },
+    {
+      "type": "EMAIL",
+      "value": "brookschristina@example.net",
+      "start": 478,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/19/1995",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "type": "ADDRESS",
+      "value": "74483 Terry Shores Suite 580, Port Geraldton, LA 08331",
+      "start": 555,
+      "end": 609
+    }
+  ]
+}

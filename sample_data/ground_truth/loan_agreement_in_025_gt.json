@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_025.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "75/51, Ganesh Street, Ratlam 147298",
+      "start": 376,
+      "end": 411
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Gunbir Varty",
+      "start": 429,
+      "end": 441
+    },
+    {
+      "type": "PAN",
+      "value": "XVEGY4146R",
+      "start": 447,
+      "end": 457
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5909 4579 8679",
+      "start": 467,
+      "end": 481
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/08/1990",
+      "start": 497,
+      "end": 507
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 24, Kalita Road, Hajipur 875846",
+      "start": 517,
+      "end": 554
+    },
+    {
+      "type": "PHONE",
+      "value": "91 69759 46648",
+      "start": 562,
+      "end": 576
+    },
+    {
+      "type": "EMAIL",
+      "value": "januja69@example.com",
+      "start": 584,
+      "end": 604
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "96600437130898",
+      "start": 866,
+      "end": 880
+    }
+  ]
+}

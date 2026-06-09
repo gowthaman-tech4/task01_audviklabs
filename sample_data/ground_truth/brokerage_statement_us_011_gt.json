@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_011.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Raven Luna DDS",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7773488933",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "577-76-2100",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "njohnson@example.com",
+      "start": 390,
+      "end": 410
+    },
+    {
+      "type": "PHONE",
+      "value": "753.957.9220x289",
+      "start": 435,
+      "end": 451
+    },
+    {
+      "type": "ADDRESS",
+      "value": "222 Troy Court Suite 512, Colemanhaven, SC 04474",
+      "start": 476,
+      "end": 524
+    }
+  ]
+}

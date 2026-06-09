@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Krisha Buch
+Card Number:        4650-7866-4636-0700
+Billing Address:    18/181, Badami Street, Satara-909661
+Phone:              91 90643 90453
+Email:              munijhalak@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 23, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   22,065.72
+Previous Balance:   $    4,801.70
+Payments Received:  $    4,083.37
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/23/2026     Nadig, Mangat and Raghavan          $     48.11
+05/22/2026     Hayre, Bhatnagar and Nagy           $    975.72
+05/11/2026     Sharma LLC                          $    999.45
+05/12/2026     Taneja, Kota and Lad                $  1,512.16
+05/24/2026     Basu Group                          $    151.34
+05/26/2026     Shankar-Chacko                      $  1,476.14
+06/04/2026     Bera PLC                            $  1,080.48
+05/11/2026     Vala Ltd                            $  1,310.50
+05/11/2026     De-Sachar                           $  1,076.99
+05/14/2026     Anne and Sons                       $  1,668.71
+05/27/2026     Tailor, Lall and Jha                $  1,615.78
+05/25/2026     Desai LLC                           $  1,666.33
+06/06/2026     Sen Group                           $    155.81
+
+-------------------------------------------------------------
+Total Charges:      $   13,737.52
+New Balance:        $   14,455.85
+Minimum Payment:    $      289.12
+
+============================================================

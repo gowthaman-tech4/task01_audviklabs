@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_010.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Suzanne Harvey",
+      "start": 339,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "767796358428",
+      "start": 373,
+      "end": 385
+    },
+    {
+      "type": "SSN",
+      "value": "366-88-1232",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "488-515-7480x41704",
+      "start": 436,
+      "end": 454
+    },
+    {
+      "type": "EMAIL",
+      "value": "wcollins@example.com",
+      "start": 474,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/18/1959",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "83712 Roberson Prairie Suite 911, Lake Michaelland, DC 58229",
+      "start": 544,
+      "end": 604
+    }
+  ]
+}

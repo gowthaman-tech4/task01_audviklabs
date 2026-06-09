@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_007].
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 593, [ORGANIZATION_006], Morena [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_005]                 39 $    156.09 $    143.33 $    5,589.95 $     -497.56
+[ORGANIZATION_004]                   108 $    165.11 $    158.47 $   17,115.19 $     -716.69
+[ORGANIZATION_003]          461 $    423.14 $    492.04 $  226,829.00 $   31,761.46
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  249,534.14
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/06/2026     DIV      [ORGANIZATION_002]         71 $     50.58 $    3,591.18
+04/29/2026     BUY      [ORGANIZATION_001]         64 $    376.26 $   24,080.64
+05/28/2026     BUY      AAPL         10 $    418.14 $    4,181.40
+03/24/2026     BUY      AAPL         17 $    466.50 $    7,930.50
+05/17/2026     SELL     AAPL         17 $    295.23 $    5,018.91
+04/16/2026     DIV      GOOGL        87 $    118.71 $   10,327.77
+04/23/2026     SELL     GOOGL        73 $    469.28 $   34,257.44
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

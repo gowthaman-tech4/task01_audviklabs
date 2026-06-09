@@ -1,0 +1,47 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Tripti Sawhney
+Account Number:         4457813205
+PAN:                    FUMPI4471Y
+Demat Account:          7542737218701288
+Email:                  bhavnamanne@example.net
+Phone:                  91 92097 43870
+Correspondence Address: 44, Raghavan Nagar, Muzaffarnagar-704657
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+NVDA     NVIDIA Corp.                 191 $    557.42 $    702.68 $  134,211.50 $   27,744.28
+AMZN     Amazon.com Inc.              116 $    128.88 $    161.34 $   18,715.47 $    3,765.39
+MSFT     Microsoft Corp.               16 $    296.21 $    364.12 $    5,825.85 $    1,086.49
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  158,752.82
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/18/2026     SELL     NVDA          4 $     95.94 $      383.76
+05/25/2026     DIV      NVDA        100 $     51.65 $    5,165.00
+03/14/2026     BUY      NVDA          6 $    412.92 $    2,477.52
+03/27/2026     SELL     AMZN          9 $    325.06 $    2,925.54
+05/10/2026     SELL     NVDA         93 $    254.10 $   23,631.30
+05/29/2026     BUY      NVDA          3 $    279.25 $      837.75
+05/23/2026     BUY      AMZN         93 $    118.70 $   11,039.10
+05/23/2026     SELL     AMZN         93 $    154.31 $   14,350.83
+04/05/2026     BUY      NVDA         44 $    325.24 $   14,310.56
+04/28/2026     DIV      AMZN         19 $    333.02 $    6,327.38
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

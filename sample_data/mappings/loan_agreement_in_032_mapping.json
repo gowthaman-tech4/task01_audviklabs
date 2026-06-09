@@ -1,0 +1,215 @@
+{
+  "document": "loan_agreement_in_032.txt",
+  "timestamp": "2026-06-09T07:55:38.570825",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 1,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "975718",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "468838",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 402,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gagan Rajagopalan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 426,
+        "end": 443
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "NHRPT2259G",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 449,
+        "end": 459
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6358 8893 8316",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 469,
+        "end": 483
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/29/1968",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 499,
+        "end": 509
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "983536",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 62623 21567",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 567,
+        "end": 582
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "xkant@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 590,
+        "end": 607
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "29278920360771",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 868,
+        "end": 882
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kurian Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 397
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Morar Ganj",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 551,
+        "end": 561
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 954,
+        "end": 959
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 974
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 987,
+        "end": 995
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1257,
+        "end": 1265
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1356,
+        "end": 1362
+      }
+    }
+  ]
+}

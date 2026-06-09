@@ -1,0 +1,41 @@
+============================================================
+          [ORGANIZATION_005].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 04/55, [PERSON_NAME_003], [PERSON_NAME_002] [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                    19 $    253.04 $    245.62 $    4,666.75 $     -141.01
+[ORGANIZATION_004]          159 $    413.50 $    498.96 $   79,333.94 $   13,587.44
+[ORGANIZATION_003]                   397 $    162.90 $    151.47 $   60,134.46 $   -4,536.84
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  144,135.15
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+06/01/2026     DIV      TSLA         43 $    122.38 $    5,262.34
+05/12/2026     SELL     [ORGANIZATION_002]         76 $    181.64 $   13,804.64
+03/23/2026     BUY      [ORGANIZATION_001]         74 $    405.72 $   30,023.28
+04/24/2026     BUY      AAPL         12 $    368.86 $    4,426.32
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

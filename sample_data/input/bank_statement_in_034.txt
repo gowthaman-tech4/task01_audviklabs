@@ -1,0 +1,61 @@
+============================================================
+                    Kaveri State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 01, 2026 to June 06, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Udarsh Palan
+Account Number:    23548387488752
+IFSC Code:         AXIS0550849
+PAN:               OAXTK3706S
+Phone:             +91 87766 02712
+Email:             zaitrasundaram@example.net
+Date of Birth:     04/15/1978
+Address:           69, Kala Chowk, Tiruppur-810206
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Rampur Branch
+Opening Balance:   $149,383.62
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/05/2026     Check #4087                             2,326.47                  147,057.15
+05/26/2026     Service Charge                                       2,631.29     149,688.44
+06/07/2026     Check #6141                             1,121.01                  148,567.43
+05/15/2026     Service Charge                          2,936.15                  145,631.28
+05/22/2026     Interest Credit                         1,677.17                  143,954.11
+05/24/2026     Service Charge                          1,109.92                  142,844.19
+05/22/2026     Bill Payment - Utility                               2,240.78     145,084.97
+06/01/2026     Check #7042                             3,889.46                  141,195.51
+05/29/2026     Service Charge                          1,068.37                  140,127.14
+06/02/2026     Online Transfer to 22007647             3,757.86                  136,369.28
+05/11/2026     Service Charge                                         472.55     136,841.83
+05/30/2026     Service Charge                          1,369.29                  135,472.54
+05/16/2026     Check #6808                             3,719.13                  131,753.41
+06/06/2026     Online Transfer to 93398501                          3,510.77     135,264.18
+05/25/2026     Bill Payment - Utility                    897.05                  134,367.13
+06/04/2026     Service Charge                          3,292.49                  131,074.64
+05/21/2026     NEFT Transfer                                        2,400.32     133,474.96
+05/15/2026     Interest Credit                         1,150.62                  132,324.34
+05/25/2026     Direct Deposit - GCV Corp                 330.61                  131,993.73
+05/22/2026     Online Transfer to 66850519             1,952.51                  130,041.22
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $130,041.22
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Kaveri State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

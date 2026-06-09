@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_020.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Farhan Khurana",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Om Krishna",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/12/1988",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "242, Narang Path, Panchkula-125845",
+      "start": 545,
+      "end": 579
+    },
+    {
+      "type": "PHONE",
+      "value": "91 72588 93411",
+      "start": 600,
+      "end": 614
+    },
+    {
+      "type": "EMAIL",
+      "value": "ysule@example.com",
+      "start": 635,
+      "end": 652
+    },
+    {
+      "type": "PAN",
+      "value": "EJTTK2466L",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6349 5223 7862",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Amara Kumar",
+      "start": 765,
+      "end": 776
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/20/1967",
+      "start": 826,
+      "end": 836
+    }
+  ]
+}

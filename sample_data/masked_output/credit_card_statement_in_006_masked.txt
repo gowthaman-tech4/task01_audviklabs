@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-9001
+Billing Address:    H.No. 482, [PERSON_NAME_004], Sasaram-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 31, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   25,592.49
+Previous Balance:   $    9,081.09
+Payments Received:  $      420.26
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/25/2026     Hans-Rajagopal                      $    185.41
+06/06/2026     Prasad Ltd                          $  1,098.50
+05/27/2026     [PERSON_NAME_002]                         $  1,665.16
+[ORGANIZATION_005][ORGANIZATION_004]$    745.30
+05/29/2026     Vig LLC                             $    501.32
+05/29/2026     Krishnan-Bir                        $  1,382.22
+05/17/2026     Desai, [PERSON_NAME_001] and Badami              $     99.49
+[ORGANIZATION_003] and Sons                    $    786.68
+05/27/2026     [ORGANIZATION_002]                      $    381.28
+05/31/2026     Kala, Varughese and [ORGANIZATION_001]            $  1,933.49
+06/06/2026     Pai-Mandal                          $  1,656.20
+05/20/2026     Patla Inc                           $    105.46
+06/06/2026     Karnik PLC                          $     98.03
+
+-------------------------------------------------------------
+Total Charges:      $   10,638.54
+[ADDRESS_002]:        $   19,299.37
+Minimum Payment:    $      385.99
+
+============================================================

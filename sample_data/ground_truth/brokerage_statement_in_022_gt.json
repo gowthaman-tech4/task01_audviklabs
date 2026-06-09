@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_022.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gaurika Maharaj",
+      "start": 283,
+      "end": 298
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7921469267",
+      "start": 323,
+      "end": 333
+    },
+    {
+      "type": "PAN",
+      "value": "ANIPX1319P",
+      "start": 358,
+      "end": 368
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0217878795924203",
+      "start": 393,
+      "end": 409
+    },
+    {
+      "type": "EMAIL",
+      "value": "gabaunni@example.com",
+      "start": 434,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 75321 03817",
+      "start": 479,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "099, Varma Nagar, Tiruvottiyur 025626",
+      "start": 519,
+      "end": 556
+    }
+  ]
+}

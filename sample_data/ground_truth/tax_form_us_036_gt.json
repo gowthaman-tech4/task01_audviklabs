@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_036.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "378-40-0127",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "71-8575303",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Parker-Castillo",
+      "start": 353,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4705 Patterson View, South Patricia, ID 68458",
+      "start": 372,
+      "end": 417
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Zachary Torres",
+      "start": 441,
+      "end": 455
+    },
+    {
+      "type": "ADDRESS",
+      "value": "6334 Griffin Lane, Fitzpatrickview, MN 85592",
+      "start": 495,
+      "end": 539
+    }
+  ]
+}

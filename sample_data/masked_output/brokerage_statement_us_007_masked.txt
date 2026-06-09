@@ -1,0 +1,41 @@
+============================================================
+          [ORGANIZATION_004]
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     [ORGANIZATION_003]                   167 $    215.48 $    232.50 $   38,828.32 $    2,843.16
+AAPL     [ORGANIZATION_002]                   152 $    177.74 $    178.22 $   27,089.89 $       73.41
+[ORGANIZATION_001]                473 $    150.95 $    144.86 $   68,519.16 $   -2,880.19
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  134,437.37
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/26/2026     BUY      GOOGL        37 $    129.64 $    4,796.68
+05/16/2026     DIV      AAPL         39 $    267.65 $   10,438.35
+05/29/2026     SELL     TSLA         79 $    191.37 $   15,118.23
+04/07/2026     DIV      TSLA         16 $    346.37 $    5,541.92
+03/27/2026     SELL     TSLA          3 $    196.14 $      588.42
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

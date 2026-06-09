@@ -1,0 +1,149 @@
+{
+  "document": "bank_statement_us_040.txt",
+  "timestamp": "2026-06-09T07:54:28.871680",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Christopher Rodriguez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "120677233641",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 380,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "511-23-3442",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 412,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-833-225-9561x1623",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 443,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bperkins@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 483,
+        "end": 503
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/26/1979",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 523,
+        "end": 533
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "303 Melanie Loop, Port Robert, KY 47392",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 592
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Reed",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1340,
+        "end": 1344
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Miller",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1349,
+        "end": 1355
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "62050406",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1615,
+        "end": 1623
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "01121596",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2535,
+        "end": 2543
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Purchase - Wilson",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1281,
+        "end": 1298
+      }
+    }
+  ]
+}

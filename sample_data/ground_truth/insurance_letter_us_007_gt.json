@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_007.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Adam Kelly",
+      "start": 314,
+      "end": 324
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brett White",
+      "start": 481,
+      "end": 492
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/08/1997",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "347 Rush Springs Apt. 169, Patriciaside, TX 93735",
+      "start": 544,
+      "end": 593
+    },
+    {
+      "type": "PHONE",
+      "value": "(692)739-9149",
+      "start": 614,
+      "end": 627
+    },
+    {
+      "type": "EMAIL",
+      "value": "brownadam@example.com",
+      "start": 648,
+      "end": 669
+    },
+    {
+      "type": "SSN",
+      "value": "477-46-3962",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Shannon Ponce",
+      "start": 748,
+      "end": 761
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/15/2020",
+      "start": 811,
+      "end": 821
+    }
+  ]
+}

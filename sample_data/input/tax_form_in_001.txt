@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sood-Balan
+TAN of the Deductor:    HMJF70168J
+Address:                102, Magar Path, Munger 194388
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Jeremiah Bahl
+PAN of the Employee:    KEPBG9757A
+Aadhaar Number:         5346 5637 1766
+Date of Birth:          22/04/1982
+Address:                H.No. 84, Trivedi, Adoni 392125
+Email:                  mason61@example.net
+Mobile:                 91 73188 91248
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,015,348.32
+   (b) Value of perquisites u/s 17(2)  Rs.      31,603.27
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     121,841.80
+   (b) LTA Exemption                   Rs.       1,279.93
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     843,506.52
+5. Tax on Total Income                 Rs.     168,701.30
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       6,748.05
+8. Total Tax Payable                   Rs.     175,449.36
+
+============================================================

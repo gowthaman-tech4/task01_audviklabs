@@ -1,0 +1,259 @@
+{
+  "document": "loan_agreement_in_003.txt",
+  "timestamp": "2026-06-09T07:55:31.959873",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 3,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "778082",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "161075",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 407,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Om Patla",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 431,
+        "end": 439
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "PBDCT4387W",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 445,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 456,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "3600 3818 3469",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 465,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/19/1999",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 495,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "822120",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 538,
+        "end": 544
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 77258 66015",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 552,
+        "end": 567
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "hemanginimand@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 575,
+        "end": 600
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Chatura Singh",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 637,
+        "end": 650
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 60650 43117",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 658,
+        "end": 673
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "anay78@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 681,
+        "end": 699
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "39617417175270",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 961,
+        "end": 975
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Sabharwal Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 402
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Tandon Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 559,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1050,
+        "end": 1055
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1060,
+        "end": 1070
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1091
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1354,
+        "end": 1362
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1453,
+        "end": 1459
+      }
+    }
+  ]
+}

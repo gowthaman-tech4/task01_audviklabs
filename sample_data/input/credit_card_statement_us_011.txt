@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Daniel Richard
+Card Number:        4174-0426-2881-9934
+Billing Address:    8367 Christopher Knoll Suite 986, West Joshua, AZ 50646
+Phone:              802-523-5002x7929
+Email:              abaxter@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   42,987.23
+Previous Balance:   $    4,098.59
+Payments Received:  $      998.19
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/04/2026     Reeves-Gentry                       $    208.72
+05/15/2026     Burgess, Roberts and Santana        $    967.37
+06/04/2026     Evans, Walsh and Hill               $     91.16
+05/28/2026     Cruz Group                          $    622.31
+05/10/2026     Johnson Ltd                         $  1,861.99
+05/21/2026     Hall LLC                            $    753.40
+05/10/2026     Ross, Moreno and Wright             $  1,650.63
+05/15/2026     Cummings, Barnes and Cruz           $  1,114.56
+05/10/2026     Walker, Johnson and Coleman         $  1,285.12
+
+-------------------------------------------------------------
+Total Charges:      $    8,555.26
+New Balance:        $   11,655.66
+Minimum Payment:    $      233.11
+
+============================================================

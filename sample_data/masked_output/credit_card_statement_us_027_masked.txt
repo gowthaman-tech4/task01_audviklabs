@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-7815
+[ORGANIZATION_004]:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 20, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $    8,178.76
+Previous Balance:   $    3,990.16
+Payments Received:  $    1,119.68
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Bishop Ltd                          $  1,308.32
+[ORGANIZATION_003]                     $  1,243.51
+05/22/2026     [ORGANIZATION_002]                    $    272.10
+05/29/2026     Espinoza LLC                        $  1,113.39
+05/31/2026     [PERSON_NAME_004], Lee and [PERSON_NAME_003]            $    394.32
+05/28/2026     Mathis, [PERSON_NAME_002] and [PERSON_NAME_001]          $  1,662.46
+06/03/2026     [ORGANIZATION_001]$  1,733.89
+06/07/2026     Powers-Eaton                        $    235.59
+05/21/2026     Weber LLC                           $  1,012.17
+
+-------------------------------------------------------------
+Total Charges:      $    8,975.75
+New Balance:        $   11,846.23
+Minimum Payment:    $      236.92
+
+============================================================

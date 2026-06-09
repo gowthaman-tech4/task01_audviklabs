@@ -1,0 +1,54 @@
+============================================================
+                    Southern Trust Bank Ltd
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 11, 2026 to June 01, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Abhimanyu Chanda
+Account Number:    4059694100
+IFSC Code:         HDFC0096861
+PAN:               DIYAA7488V
+Phone:             +91 90535 03450
+Email:             gangavohra@example.com
+Date of Birth:     11/30/1986
+Address:           10, Chauhan Street, Malegaon 042257
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Bhopal Branch
+Opening Balance:   $137,653.95
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/09/2026     Online Transfer to 93199393                          2,012.87     139,666.82
+06/05/2026     Service Charge                          4,284.67                  135,382.15
+05/25/2026     NEFT Transfer                                        3,178.95     138,561.10
+05/27/2026     Interest Credit                                      2,077.43     140,638.53
+06/06/2026     Interest Credit                                      3,147.61     143,786.14
+06/06/2026     Bill Payment - Utility                               1,589.66     145,375.80
+05/18/2026     Online Transfer to 86850360             4,891.55                  140,484.25
+05/20/2026     POS Purchase - Banik, Nadkarni and Bera                  1,975.65     142,459.90
+05/16/2026     Check #4379                             1,656.39                  140,803.51
+06/05/2026     UPI Transfer                              693.46                  140,110.05
+06/04/2026     Online Transfer to 09631183                          1,489.47     141,599.52
+05/28/2026     Bill Payment - Utility                               3,403.12     145,002.64
+05/27/2026     UPI Transfer                                         3,840.43     148,843.07
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $148,843.07
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Southern Trust Bank Ltd
+FDIC Insured | Equal Opportunity Lender
+============================================================

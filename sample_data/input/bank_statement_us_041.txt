@@ -1,0 +1,52 @@
+============================================================
+                    Pacific Union Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 08, 2026 to June 01, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Mrs. Latoya Phelps
+Account Number:    693581226646
+SSN:               470-10-2424
+Phone:             (340)449-9965
+Email:             ymorris@example.net
+Date of Birth:     12/23/1985
+Address:           44859 Wright Locks Suite 673, North Kristin, NY 55298
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            South Michaelmouth Branch
+Opening Balance:   $71,865.09
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/09/2026     ATM Withdrawal - Curryport              2,865.12                   68,999.97
+05/25/2026     NEFT Transfer                           2,538.70                   66,461.27
+05/13/2026     ATM Withdrawal - Bennettfort            2,434.62                   64,026.65
+05/22/2026     Service Charge                          2,565.69                   61,460.96
+05/09/2026     Interest Credit                                      1,152.06      62,613.02
+05/21/2026     Check #1857                             4,620.37                   57,992.65
+05/22/2026     Interest Credit                         3,241.23                   54,751.42
+05/24/2026     Interest Credit                                        383.46      55,134.88
+06/06/2026     Bill Payment - Utility                    297.87                   54,837.01
+05/13/2026     NEFT Transfer                                        1,986.82      56,823.83
+05/10/2026     Direct Deposit - HAJ Corp                            1,843.07      58,666.90
+05/23/2026     UPI Transfer                              485.18                   58,181.72
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $58,181.72
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Pacific Union Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

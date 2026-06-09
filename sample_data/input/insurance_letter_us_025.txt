@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-7739480
+Policy Type: Term Insurance
+Date of Issue: February 06, 2026
+
+Dear Jacqueline Saunders,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          James Harding
+Date of Birth:      02/15/1977
+Address:            035 Hawkins Drive Suite 740, South Carrie, OR 17553
+Phone:              337.621.1108x09882
+Email:              asmall@example.com
+SSN:                189-39-6200
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       John Fisher
+Relationship:       Son
+Nominee DOB:        03/19/1999
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    534,794.97
+Annual Premium:     $     12,294.66
+Policy Term:        25 years
+Premium Payment:    Annual
+Risk Commencement:  February 25, 2026
+Maturity Date:      May 24, 2039
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

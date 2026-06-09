@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_038.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Hemang Jhaveri",
+      "start": 346,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4657878916144458",
+      "start": 380,
+      "end": 396
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0861611",
+      "start": 416,
+      "end": 427
+    },
+    {
+      "type": "PAN",
+      "value": "FWNFH9204J",
+      "start": 447,
+      "end": 457
+    },
+    {
+      "type": "PHONE",
+      "value": "91 93983 39448",
+      "start": 477,
+      "end": 491
+    },
+    {
+      "type": "EMAIL",
+      "value": "ronithdass@example.com",
+      "start": 511,
+      "end": 533
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/28/1985",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "type": "ADDRESS",
+      "value": "78, Andra Marg, Rampur-281239",
+      "start": 583,
+      "end": 612
+    }
+  ]
+}

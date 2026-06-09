@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_022.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mark Warner",
+      "start": 280,
+      "end": 291
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0445534062",
+      "start": 316,
+      "end": 326
+    },
+    {
+      "type": "SSN",
+      "value": "497-18-4686",
+      "start": 351,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "edward40@example.com",
+      "start": 387,
+      "end": 407
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-813-362-4037x62801",
+      "start": 432,
+      "end": 453
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3225 Fuller Keys, Amandachester, MH 95610",
+      "start": 478,
+      "end": 519
+    }
+  ]
+}

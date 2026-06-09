@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_001.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Johnathan Pittman",
+      "start": 316,
+      "end": 333
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Olivia Wright",
+      "start": 490,
+      "end": 503
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/03/1971",
+      "start": 524,
+      "end": 534
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8714 Pierce Dale, North Leonard, NH 90209",
+      "start": 555,
+      "end": 596
+    },
+    {
+      "type": "PHONE",
+      "value": "001-752-827-3592x942",
+      "start": 617,
+      "end": 637
+    },
+    {
+      "type": "EMAIL",
+      "value": "richardsjustin@example.org",
+      "start": 658,
+      "end": 684
+    },
+    {
+      "type": "SSN",
+      "value": "372-57-9453",
+      "start": 705,
+      "end": 716
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tammy Norris",
+      "start": 763,
+      "end": 775
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/22/2015",
+      "start": 823,
+      "end": 833
+    }
+  ]
+}

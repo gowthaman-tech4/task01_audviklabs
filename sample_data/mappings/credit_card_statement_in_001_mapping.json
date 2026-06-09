@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_in_001.txt",
+  "timestamp": "2026-06-09T07:55:01.580873",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Ekalinga Brahmbhatt",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 238
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "486407282847",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 259,
+        "end": 273
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "289375",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 329,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 60529 45154",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "georgekrishna@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 417
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Hans",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 785,
+        "end": 789
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Sheth",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 794,
+        "end": 799
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kakar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 966,
+        "end": 971
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Radhakrishnan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 973,
+        "end": 986
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ravi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1099,
+        "end": 1103
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Bhatti Zila",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 304,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Bhagat-Bansal                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 851,
+        "end": 887
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Bali",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1018,
+        "end": 1022
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Mani Inc                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1056,
+        "end": 1092
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Kaur-Rao                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1258,
+        "end": 1294
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_013.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "00641 Scott Cliffs, South Joshuaburgh, IL 01363",
+      "start": 373,
+      "end": 420
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Lisa Yates",
+      "start": 438,
+      "end": 448
+    },
+    {
+      "type": "SSN",
+      "value": "112-52-5008",
+      "start": 454,
+      "end": 465
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/16/1960",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3648 Jorge Hollow, East Rebeccahaven, PR 84353",
+      "start": 501,
+      "end": 547
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-689-821-3371",
+      "start": 555,
+      "end": 570
+    },
+    {
+      "type": "EMAIL",
+      "value": "ophelps@example.net",
+      "start": 578,
+      "end": 597
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "40602718097950",
+      "start": 857,
+      "end": 871
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_004.txt",
+  "timestamp": "2026-06-09T07:56:48.579600",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "376906",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 455,
+        "end": 461
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 476,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Ansh Subramaniam",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 513,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "TBZLM8899N",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 554,
+        "end": 564
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "9944 5881 9932",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 589,
+        "end": 603
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/08/1996",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 628,
+        "end": 638
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "64/00, Palla Circle, Aurangabad 086286",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 663,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "sharafjeet@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 726,
+        "end": 748
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 80670 45497",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 773,
+        "end": 787
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 800,
+        "end": 811
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 816,
+        "end": 828
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sinha PLC",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Gupta Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 434,
+        "end": 445
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Machilipatnam",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 447,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1047,
+        "end": 1081
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1160,
+        "end": 1188
+      }
+    }
+  ]
+}

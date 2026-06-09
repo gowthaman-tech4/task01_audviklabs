@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    David Jones
+Card Number:        4982-0813-5471-7815
+Billing Address:    665 Flores Spur Apt. 212, West Genehaven, TN 19773
+Phone:              6933233070
+Email:              michaelcohen@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 20, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $    8,178.76
+Previous Balance:   $    3,990.16
+Payments Received:  $    1,119.68
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Bishop Ltd                          $  1,308.32
+05/28/2026     Barnes and Sons                     $  1,243.51
+05/22/2026     Salinas-Alvarado                    $    272.10
+05/29/2026     Espinoza LLC                        $  1,113.39
+05/31/2026     Becker, Lee and Benjamin            $    394.32
+05/28/2026     Mathis, Skinner and Snyder          $  1,662.46
+06/03/2026     Watson-Morgan                       $  1,733.89
+06/07/2026     Powers-Eaton                        $    235.59
+05/21/2026     Weber LLC                           $  1,012.17
+
+-------------------------------------------------------------
+Total Charges:      $    8,975.75
+New Balance:        $   11,846.23
+Minimum Payment:    $      236.92
+
+============================================================

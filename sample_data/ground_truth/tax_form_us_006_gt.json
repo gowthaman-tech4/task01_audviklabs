@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_006.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "207-34-8582",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "96-4248337",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Scott PLC",
+      "start": 353,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "69879 John Prairie, New Jessicaview, UT 26991",
+      "start": 366,
+      "end": 411
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Felicia West",
+      "start": 435,
+      "end": 447
+    },
+    {
+      "type": "ADDRESS",
+      "value": "330 Jeremy Radial, New Cynthiaside, MI 91932",
+      "start": 487,
+      "end": 531
+    }
+  ]
+}

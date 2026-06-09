@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_036.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ikbal Nazareth",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4541-5229-6662-7409",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "13/06, Ghosh Circle, Avadi 210349",
+      "start": 294,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 66796 38390",
+      "start": 348,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "mannprisha@example.org",
+      "start": 384,
+      "end": 406
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Cindy Moore
+Card Number:        4484-6512-8614-3570
+Billing Address:    8667 Orozco Radial, Contrerasmouth, CA 13239
+Phone:              001-291-600-2295x535
+Email:              tranjeremy@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 31, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   12,142.02
+Previous Balance:   $    8,378.54
+Payments Received:  $    1,957.12
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Morris, Hicks and Wilson            $    827.80
+05/10/2026     Phillips Group                      $  1,593.96
+05/17/2026     Harris Inc                          $  1,039.42
+05/13/2026     Rose, Tucker and Stevenson          $    835.14
+06/06/2026     Higgins Group                       $    169.36
+05/23/2026     Pham-Wilson                         $    311.01
+05/26/2026     Wilson LLC                          $    862.90
+05/14/2026     Keller-Greene                       $  1,683.84
+06/01/2026     Simpson, Diaz and Brooks            $  1,967.41
+05/11/2026     Davis-Henderson                     $    496.13
+05/23/2026     Douglas LLC                         $  1,877.65
+05/30/2026     Cowan, White and Hernandez          $  1,798.28
+05/24/2026     Davis Ltd                           $      6.55
+05/23/2026     Young-Harmon                        $  1,915.62
+
+-------------------------------------------------------------
+Total Charges:      $   15,385.07
+New Balance:        $   21,806.49
+Minimum Payment:    $      436.13
+
+============================================================

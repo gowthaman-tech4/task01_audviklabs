@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2768615
+Policy Type: Term Insurance
+Date of Issue: February 03, 2026
+
+Dear Brian Ellis,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Clifford Sanchez
+Date of Birth:      09/01/1966
+Address:            8601 Hernandez Coves, North Michael, SC 41349
+Phone:              741-972-2676
+Email:              osmith@example.com
+SSN:                519-59-7576
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Tina Garza
+Relationship:       Spouse
+Nominee DOB:        06/02/1967
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,454,791.35
+Annual Premium:     $      2,009.11
+Policy Term:        25 years
+Premium Payment:    Monthly
+Risk Commencement:  January 04, 2026
+Maturity Date:      February 13, 2040
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

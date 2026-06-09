@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_us_020.txt",
+  "timestamp": "2026-06-09T07:55:12.534849",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 10,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_010]",
+      "original": "Jonathan Dunn",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "410887473074",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "347 Santiago Stravenue, Port Jonburgh, IN 62366",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 340
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-902-976-8403x1132",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 361,
+        "end": 381
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "waresara@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Bryan-Nelson                        ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 908,
+        "end": 944
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Jackson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1167,
+        "end": 1174
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sanders",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1179,
+        "end": 1186
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Stewart",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1223,
+        "end": 1230
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Manning",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1232,
+        "end": 1239
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Bolton",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1244,
+        "end": 1250
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1286,
+        "end": 1294
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Martinez",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1296,
+        "end": 1304
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Rodrigu      ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1309,
+        "end": 1322
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Robinson-Richmond                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1354,
+        "end": 1390
+      }
+    }
+  ]
+}

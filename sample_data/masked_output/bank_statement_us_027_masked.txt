@@ -1,0 +1,54 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 04, 2026 to May 28, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Daleberg Branch
+Opening Balance:   $79,700.65
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/03/2026     Interest Credit                                      2,898.19      82,598.84
+05/22/2026     ATM Withdrawal - Port James             2,764.38                   79,834.46
+05/14/2026     NEFT Transfer                                        4,257.31      84,091.77
+05/15/2026     Interest Credit                                        200.65      84,292.42
+05/31/2026     ATM Withdrawal - Andreahaven                         3,645.72      87,938.14
+05/29/2026     Service Charge                             43.83                   87,894.31
+05/14/2026     NEFT Transfer                                        1,768.60      89,662.91
+05/24/2026     Bill Payment - Utility                               3,618.63      93,281.54
+06/06/2026     Bill Payment - Utility                  3,237.99                   90,043.55
+05/30/2026     NEFT Transfer                                        2,497.14      92,540.69
+05/20/2026     NEFT Transfer                           2,125.34                   90,415.35
+06/02/2026     ATM Withdrawal - Bridgetton                          1,606.65      92,022.00
+06/02/2026     NEFT Transfer                                           50.06      92,072.06
+05/14/2026     POS Purchase - Sharp-Jenkins                           900.59      92,972.65
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $92,972.65
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

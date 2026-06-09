@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_032.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Yatan Chander",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4246-8522-4048-5185",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "20, Kaur Circle, Hapur-454931",
+      "start": 293,
+      "end": 322
+    },
+    {
+      "type": "PHONE",
+      "value": "91 70985 11251",
+      "start": 343,
+      "end": 357
+    },
+    {
+      "type": "EMAIL",
+      "value": "tamannakrishnan@example.com",
+      "start": 378,
+      "end": 405
+    }
+  ]
+}

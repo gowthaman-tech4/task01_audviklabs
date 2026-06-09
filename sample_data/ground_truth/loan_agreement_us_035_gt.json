@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_035.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4144 Farley Roads Suite 525, Christophermouth, VI 07585",
+      "start": 372,
+      "end": 427
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christine Salinas",
+      "start": 445,
+      "end": 462
+    },
+    {
+      "type": "SSN",
+      "value": "590-33-1324",
+      "start": 468,
+      "end": 479
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/08/1988",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7818 Rojas Stream, West Mariaport, MT 00878",
+      "start": 515,
+      "end": 558
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-804-205-3151x594",
+      "start": 566,
+      "end": 585
+    },
+    {
+      "type": "EMAIL",
+      "value": "christopherhart@example.com",
+      "start": 593,
+      "end": 620
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Craig Taylor MD",
+      "start": 657,
+      "end": 672
+    },
+    {
+      "type": "PHONE",
+      "value": "001-913-678-8143x10143",
+      "start": 680,
+      "end": 702
+    },
+    {
+      "type": "EMAIL",
+      "value": "zgonzalez@example.org",
+      "start": 710,
+      "end": 731
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "29633048028188",
+      "start": 992,
+      "end": 1006
+    }
+  ]
+}

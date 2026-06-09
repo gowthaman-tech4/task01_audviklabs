@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_in_027.txt",
+  "timestamp": "2026-06-09T07:55:06.373483",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Joshua Ravel",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "403719725438",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "809835",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 322,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 78670 84071",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 349,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "fkanda@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 385,
+        "end": 403
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kalita",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1086,
+        "end": 1092
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Dhawan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1097,
+        "end": 1103
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Natarajan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1273,
+        "end": 1282
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Solanki Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 306,
+        "end": 318
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Taneja-Aggarwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 952,
+        "end": 967
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Cherian Group                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1423,
+        "end": 1459
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1631,
+        "end": 1642
+      }
+    }
+  ]
+}

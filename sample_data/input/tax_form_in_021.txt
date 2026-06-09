@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Contractor, Ghose and Mohan
+TAN of the Deductor:    SZEK32797Q
+Address:                881, Kadakia Marg, Davanagere-029749
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Laksh Sengupta
+PAN of the Employee:    ZYFTG7818I
+Aadhaar Number:         5179 0943 6903
+Date of Birth:          16/11/1998
+Address:                51, Murty, Chandigarh 069065
+Email:                  ladli87@example.net
+Mobile:                 +91 61459 45535
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,407,259.07
+   (b) Value of perquisites u/s 17(2)  Rs.      13,348.31
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     168,871.09
+   (b) LTA Exemption                   Rs.      27,550.43
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,188,387.98
+5. Tax on Total Income                 Rs.     237,677.60
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       9,507.10
+8. Total Tax Payable                   Rs.     247,184.70
+
+============================================================

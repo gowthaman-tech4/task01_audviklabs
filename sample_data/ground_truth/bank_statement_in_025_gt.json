@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_025.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Saanvi Prashad",
+      "start": 348,
+      "end": 362
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1967591666",
+      "start": 382,
+      "end": 392
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "ICIC0372902",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PAN",
+      "value": "DFJAL9276J",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "91 85519 74592",
+      "start": 473,
+      "end": 487
+    },
+    {
+      "type": "EMAIL",
+      "value": "devanvarenya@example.net",
+      "start": 507,
+      "end": 531
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/12/1999",
+      "start": 551,
+      "end": 561
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 43, Krishnamurthy Nagar, Saharanpur-953534",
+      "start": 581,
+      "end": 629
+    }
+  ]
+}

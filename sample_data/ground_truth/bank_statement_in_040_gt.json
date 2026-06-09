@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_040.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Guneet Patel",
+      "start": 344,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "483506488653",
+      "start": 376,
+      "end": 388
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0248151",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PAN",
+      "value": "CFXAJ5147C",
+      "start": 439,
+      "end": 449
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 64383 74810",
+      "start": 469,
+      "end": 484
+    },
+    {
+      "type": "EMAIL",
+      "value": "ayaansahota@example.net",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/30/1983",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "type": "ADDRESS",
+      "value": "88/661, Shukla Ganj, Bhubaneswar 216344",
+      "start": 577,
+      "end": 616
+    }
+  ]
+}

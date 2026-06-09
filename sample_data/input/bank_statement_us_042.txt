@@ -1,0 +1,49 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 23, 2026 to May 18, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Caitlin Galloway
+Account Number:    159853065111
+SSN:               646-05-7225
+Phone:             296.916.8427x3922
+Email:             amanda20@example.com
+Date of Birth:     07/10/1964
+Address:           274 Mora Square, Reidberg, NE 11022
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Trevorburgh Branch
+Opening Balance:   $56,959.90
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/03/2026     Online Transfer to 09769439             3,677.64                   53,282.26
+05/17/2026     Check #1295                                          3,400.47      56,682.73
+06/02/2026     NEFT Transfer                           3,938.57                   52,744.16
+05/28/2026     Service Charge                             63.06                   52,681.10
+06/02/2026     Direct Deposit - MTG Corp               3,991.27                   48,689.83
+05/16/2026     NEFT Transfer                              32.35                   48,657.48
+05/09/2026     UPI Transfer                            4,590.45                   44,067.03
+05/24/2026     Check #2822                                          4,453.23      48,520.26
+05/28/2026     UPI Transfer                                         4,835.18      53,355.44
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $53,355.44
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

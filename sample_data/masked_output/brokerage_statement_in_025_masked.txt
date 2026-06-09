@@ -1,0 +1,47 @@
+============================================================
+          [ORGANIZATION_007].
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [ACCOUNT_NUMBER_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 21, Bains Street, Chittoor-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_006]                   107 $    152.80 $    169.12 $   18,096.25 $    1,746.65
+MSFT     [ORGANIZATION_005]              416 $    298.19 $    388.69 $  161,695.58 $   37,648.54
+[ORGANIZATION_004]                 414 $    592.89 $    701.59 $  290,460.26 $   45,003.80
+[ORGANIZATION_003]                216 $    157.75 $    163.12 $   35,233.67 $    1,159.67
+JPM      [ORGANIZATION_002]          84 $    132.62 $    183.22 $   15,390.86 $    4,250.78
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  520,876.62
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/30/2026     SELL     JPM          89 $     87.57 $    7,793.73
+04/19/2026     DIV      [ORGANIZATION_001]          3 $     60.31 $      180.93
+04/30/2026     DIV      GOOGL        67 $    142.56 $    9,551.52
+03/18/2026     DIV      JPM           4 $    289.84 $    1,159.36
+04/03/2026     SELL     AAPL         71 $    110.28 $    7,829.88
+05/17/2026     DIV      MSFT         59 $    272.81 $   16,095.79
+03/10/2026     DIV      NVDA         73 $    462.59 $   33,769.07
+04/02/2026     SELL     MSFT         28 $     97.32 $    2,724.96
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

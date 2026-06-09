@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_030.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Sarah Lane",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4407-6683-9932-0493",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "97873 Hickman Spurs Apt. 296, West Katrina, TN 17376",
+      "start": 290,
+      "end": 342
+    },
+    {
+      "type": "PHONE",
+      "value": "441.765.0988x4787",
+      "start": 363,
+      "end": 380
+    },
+    {
+      "type": "EMAIL",
+      "value": "jameslarson@example.com",
+      "start": 401,
+      "end": 424
+    }
+  ]
+}

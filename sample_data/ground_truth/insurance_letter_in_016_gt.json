@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_016.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Om Chauhan",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekaja Nath",
+      "start": 485,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/03/1988",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "56/48, Ahuja Nagar, Bettiah-175048",
+      "start": 547,
+      "end": 581
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 83467 30317",
+      "start": 602,
+      "end": 617
+    },
+    {
+      "type": "EMAIL",
+      "value": "wgaba@example.com",
+      "start": 638,
+      "end": 655
+    },
+    {
+      "type": "PAN",
+      "value": "XIZBW5879I",
+      "start": 676,
+      "end": 686
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8177 0614 0033",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Pavani Chhabra",
+      "start": 768,
+      "end": 782
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/19/1945",
+      "start": 830,
+      "end": 840
+    }
+  ]
+}

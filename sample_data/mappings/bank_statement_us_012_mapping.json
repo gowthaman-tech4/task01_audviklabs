@@ -1,0 +1,138 @@
+{
+  "document": "bank_statement_us_012.txt",
+  "timestamp": "2026-06-09T07:53:57.061523",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Richard Ryan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 340,
+        "end": 352
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "717551450864",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 372,
+        "end": 384
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "310-50-6441",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 404,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-827-790-0576",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 435,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "paulbanks@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 470,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/28/1960",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 511,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "21405 Sanchez Center Suite 513, Sarahfort, MD 87236",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 541,
+        "end": 592
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "68028152",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2254,
+        "end": 2262
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "44206560",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2530,
+        "end": 2538
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "POS Purchase - Gaines",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1552,
+        "end": 1573
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/13/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1813,
+        "end": 1835
+      }
+    }
+  ]
+}

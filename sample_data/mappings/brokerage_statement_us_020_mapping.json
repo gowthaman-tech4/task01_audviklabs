@@ -1,0 +1,168 @@
+{
+  "document": "brokerage_statement_us_020.txt",
+  "timestamp": "2026-06-09T07:54:56.176264",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Amber Lang",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 290
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "7585162556",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 315,
+        "end": 325
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "549-45-6243",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 350,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ohernandez@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "894-499-8756x259",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 433,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "9961 Franco Stravenue, Susanview, PA 60127",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 474,
+        "end": 516
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "36,583.96",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1182,
+        "end": 1191
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 719
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 819
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 988,
+        "end": 1003
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1082,
+        "end": 1111
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1184,
+        "end": 1194
+      }
+    }
+  ]
+}

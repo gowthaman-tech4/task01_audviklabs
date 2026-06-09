@@ -1,0 +1,59 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 12, 2026 to May 30, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Ladli Dewan
+Account Number:    2940049294415
+IFSC Code:         PUNB0951331
+PAN:               PGDHK0590Y
+Phone:             +91 80517 93727
+Email:             ubali@example.org
+Date of Birth:     11/09/1995
+Address:           H.No. 72, Dhingra Chowk, Dewas-982562
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Anantapur Branch
+Opening Balance:   $122,370.51
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/07/2026     Check #2196                                          1,159.69     123,530.20
+05/10/2026     Interest Credit                                      1,157.22     124,687.42
+05/24/2026     Online Transfer to 73160524             3,830.48                  120,856.94
+06/07/2026     ATM Withdrawal - Nellore                  335.06                  120,521.88
+05/13/2026     Service Charge                                         979.58     121,501.46
+05/15/2026     POS Purchase - Purohit-Sekhon             833.27                  120,668.19
+06/05/2026     NEFT Transfer                           4,520.34                  116,147.85
+05/20/2026     Bill Payment - Utility                               1,612.57     117,760.42
+06/02/2026     Online Transfer to 46882749                          1,381.16     119,141.58
+06/02/2026     ATM Withdrawal - Bijapur                3,875.41                  115,266.17
+06/04/2026     UPI Transfer                                         1,050.88     116,317.05
+05/18/2026     Bill Payment - Utility                  3,381.68                  112,935.37
+05/10/2026     POS Purchase - Chhabra, Dhillon and Bhat                    151.29     113,086.66
+05/27/2026     NEFT Transfer                           4,145.29                  108,941.37
+05/27/2026     Interest Credit                         2,933.57                  106,007.80
+05/14/2026     Check #2248                             4,617.93                  101,389.87
+05/12/2026     UPI Transfer                            2,770.94                   98,618.93
+05/19/2026     Direct Deposit - AHW Corp               3,696.60                   94,922.33
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $94,922.33
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Bharath National Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

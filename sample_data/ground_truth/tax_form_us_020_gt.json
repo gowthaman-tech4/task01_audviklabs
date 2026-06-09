@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_020.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "246-17-8143",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "71-6596030",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Larson, Ewing and Holland",
+      "start": 353,
+      "end": 378
+    },
+    {
+      "type": "ADDRESS",
+      "value": "77795 Rachel Brooks Apt. 704, Garciaville, WI 62716",
+      "start": 382,
+      "end": 433
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Daniel Salas",
+      "start": 457,
+      "end": 469
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7228 Baker Port Apt. 472, North Alexander, WI 01964",
+      "start": 509,
+      "end": 560
+    }
+  ]
+}

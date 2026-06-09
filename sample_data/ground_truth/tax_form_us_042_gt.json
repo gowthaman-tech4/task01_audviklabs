@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_042.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "609-60-8922",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "34-8414056",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Gay, Livingston and Murray",
+      "start": 353,
+      "end": 379
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7978 Thompson Village Apt. 569, Piercefort, OR 84081",
+      "start": 383,
+      "end": 435
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Cindy Norman",
+      "start": 459,
+      "end": 471
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8343 Huff Square Apt. 182, East Johnfort, AR 21804",
+      "start": 511,
+      "end": 561
+    }
+  ]
+}

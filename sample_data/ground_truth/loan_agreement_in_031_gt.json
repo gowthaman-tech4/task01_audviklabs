@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_031.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "95/36, Virk, Mathura 217330",
+      "start": 378,
+      "end": 405
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tara Palla",
+      "start": 423,
+      "end": 433
+    },
+    {
+      "type": "PAN",
+      "value": "UKUFQ0871C",
+      "start": 439,
+      "end": 449
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9202 5524 3076",
+      "start": 459,
+      "end": 473
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/24/1997",
+      "start": 489,
+      "end": 499
+    },
+    {
+      "type": "ADDRESS",
+      "value": "50, Shah Street, Madhyamgram 297282",
+      "start": 509,
+      "end": 544
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 74951 12737",
+      "start": 552,
+      "end": 567
+    },
+    {
+      "type": "EMAIL",
+      "value": "anvi55@example.org",
+      "start": 575,
+      "end": 593
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "15147639274852",
+      "start": 853,
+      "end": 867
+    }
+  ]
+}

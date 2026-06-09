@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_009.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gautami Wadhwa",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3991869810",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "PAN",
+      "value": "KYIGZ1587W",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0254664977822727",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "type": "EMAIL",
+      "value": "bhavinimody@example.com",
+      "start": 433,
+      "end": 456
+    },
+    {
+      "type": "PHONE",
+      "value": "91 65433 27078",
+      "start": 481,
+      "end": 495
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 05, Chanda Marg, Ratlam 339440",
+      "start": 520,
+      "end": 556
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "document": "brokerage_statement_us_012.txt",
+  "timestamp": "2026-06-09T07:54:54.302859",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Brett Nichols",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "0263258799",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "195-79-6553",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 353,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "michaelgreen@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "877.761.9682",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "17872 Medina Run Apt. 711, Williamston, MH 71715",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 523
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 735
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "AMZN",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1347,
+        "end": 1351
+      }
+    }
+  ]
+}

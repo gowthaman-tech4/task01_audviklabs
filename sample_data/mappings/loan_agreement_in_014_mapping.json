@@ -1,0 +1,226 @@
+{
+  "document": "loan_agreement_in_014.txt",
+  "timestamp": "2026-06-09T07:55:34.553481",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "546003",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "114832",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 397,
+        "end": 403
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ayushman Bajaj",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 421,
+        "end": 435
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "YWMLQ4606D",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 441,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 452,
+        "end": 459
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6510 1623 8177",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 461,
+        "end": 475
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/17/1971",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 491,
+        "end": 501
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "845518",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 543,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 94977 53353",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 557,
+        "end": 571
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "zlata@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 579,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "73851502722227",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 856,
+        "end": 870
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Vasa Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kothari Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 552,
+        "end": 566
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 955,
+        "end": 960
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 975
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 988,
+        "end": 996
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1258,
+        "end": 1266
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1357,
+        "end": 1363
+      }
+    }
+  ]
+}

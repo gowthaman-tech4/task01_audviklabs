@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_041.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Vrishti Sundaram",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4392-3240-4084-5077",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 631, Kumer Nagar, Junagadh 524574",
+      "start": 296,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "91 97746 23003",
+      "start": 356,
+      "end": 370
+    },
+    {
+      "type": "EMAIL",
+      "value": "sainifaraj@example.net",
+      "start": 391,
+      "end": 413
+    }
+  ]
+}

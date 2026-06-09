@@ -1,0 +1,57 @@
+============================================================
+                    Global Trust Banking Corp
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 18, 2026 to May 16, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Amy Black
+Account Number:    109385828234
+SSN:               231-43-2680
+Phone:             709.443.9345x872
+Email:             gabriel31@example.com
+Date of Birth:     06/16/1957
+Address:           08980 Jones Point Apt. 189, Geraldbury, VI 19441
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            New Zacharyville Branch
+Opening Balance:   $91,556.92
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/07/2026     Online Transfer to 00487556                            413.68      91,970.60
+05/26/2026     Check #1591                             1,276.46                   90,694.14
+05/09/2026     Online Transfer to 36684091             2,769.72                   87,924.42
+05/14/2026     Interest Credit                                      1,125.83      89,050.25
+05/16/2026     Service Charge                                       1,075.90      90,126.15
+05/24/2026     ATM Withdrawal - Port Jason                            340.17      90,466.32
+06/06/2026     NEFT Transfer                                        1,714.28      92,180.60
+05/09/2026     Service Charge                            935.56                   91,245.04
+06/02/2026     UPI Transfer                                         4,454.52      95,699.56
+05/20/2026     Check #4553                             2,384.24                   93,315.32
+05/09/2026     NEFT Transfer                             755.95                   92,559.37
+05/29/2026     UPI Transfer                            2,024.63                   90,534.74
+05/29/2026     Bill Payment - Utility                  3,521.25                   87,013.49
+05/31/2026     Direct Deposit - JOE Corp                            1,865.30      88,878.79
+05/24/2026     Interest Credit                           522.79                   88,356.00
+06/04/2026     Check #5195                                          2,809.96      91,165.96
+05/14/2026     Direct Deposit - ZWY Corp               1,630.89                   89,535.07
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $89,535.07
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Global Trust Banking Corp
+FDIC Insured | Equal Opportunity Lender
+============================================================

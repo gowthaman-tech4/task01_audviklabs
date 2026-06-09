@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   574-28-2004
+
+b  Employer Identification Number (EIN)
+   64-6402691
+
+c  Employer's Name, Address, and ZIP Code
+   Lewis-Oconnell
+   2175 Smith Branch, Johnstad, RI 63110
+
+e  Employee's Name
+   Brandon Marshall
+
+f  Employee's Address and ZIP Code
+   5636 Maureen Ridges, Lake Anneside, FM 09462
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   42,315.91
+2  Federal income tax withheld         $    6,801.44
+3  Social Security wages               $   42,315.91
+4  Social Security tax withheld        $    2,623.59
+5  Medicare wages and tips             $   42,315.91
+6  Medicare tax withheld               $      613.58
+
+12a Code DD - Health Insurance          $   10,548.50
+
+--- STATE TAX INFORMATION ---
+
+15 State: GA
+16 State wages                         $   42,315.91
+17 State income tax                    $    1,556.35
+
+============================================================

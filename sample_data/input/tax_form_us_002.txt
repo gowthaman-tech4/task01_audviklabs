@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   640-22-8503
+
+b  Employer Identification Number (EIN)
+   17-8890136
+
+c  Employer's Name, Address, and ZIP Code
+   Sampson, Stone and Dominguez
+   PSC 2981, Box 4523, APO AE 81652
+
+e  Employee's Name
+   Barbara Jackson
+
+f  Employee's Address and ZIP Code
+   Unit 9200 Box 8425, DPO AA 96314
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   69,042.56
+2  Federal income tax withheld         $   16,666.99
+3  Social Security wages               $   69,042.56
+4  Social Security tax withheld        $    4,280.64
+5  Medicare wages and tips             $   69,042.56
+6  Medicare tax withheld               $    1,001.12
+
+12a Code DD - Health Insurance          $    3,759.82
+
+--- STATE TAX INFORMATION ---
+
+15 State: KY
+16 State wages                         $   69,042.56
+17 State income tax                    $    6,095.05
+
+============================================================

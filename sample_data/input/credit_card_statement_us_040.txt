@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Michael Jensen
+Card Number:        4414-3141-3889-7563
+Billing Address:    3991 Williams Dale, New Michaelfort, WI 23382
+Phone:              2468570659
+Email:              tracymarshall@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   June 28, 2026
+Credit Limit:       $   32,733.32
+Previous Balance:   $    3,085.43
+Payments Received:  $    2,242.58
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/06/2026     Scott Group                         $    418.24
+05/09/2026     Butler Inc                          $    142.62
+06/02/2026     Rogers-Rogers                       $    421.15
+05/26/2026     Dawson, Williams and Blevins        $    556.97
+06/07/2026     King Inc                            $    480.09
+05/24/2026     Campos Group                        $  1,367.29
+05/26/2026     Meadows LLC                         $  1,140.79
+05/20/2026     Griffin Inc                         $  1,723.59
+05/31/2026     Thompson-Robinson                   $  1,738.60
+05/26/2026     Ward, Turner and Obrien             $    656.99
+06/03/2026     Grimes PLC                          $  1,192.28
+05/15/2026     French, Santos and Decker           $    943.61
+05/31/2026     Guerra LLC                          $  1,257.43
+05/31/2026     Johnson, Smith and Miller           $  1,739.13
+
+-------------------------------------------------------------
+Total Charges:      $   13,778.78
+New Balance:        $   14,621.63
+Minimum Payment:    $      292.43
+
+============================================================

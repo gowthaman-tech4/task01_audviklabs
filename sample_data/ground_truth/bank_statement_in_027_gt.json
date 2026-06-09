@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_027.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Krishna Ranganathan",
+      "start": 347,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5541793707",
+      "start": 386,
+      "end": 396
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0493079",
+      "start": 416,
+      "end": 427
+    },
+    {
+      "type": "PAN",
+      "value": "ZHTCU4053V",
+      "start": 447,
+      "end": 457
+    },
+    {
+      "type": "PHONE",
+      "value": "91 84563 88768",
+      "start": 477,
+      "end": 491
+    },
+    {
+      "type": "EMAIL",
+      "value": "modiayushman@example.org",
+      "start": 511,
+      "end": 535
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/12/1984",
+      "start": 555,
+      "end": 565
+    },
+    {
+      "type": "ADDRESS",
+      "value": "52/00, Khurana Road, Vasai-Virar-088243",
+      "start": 585,
+      "end": 624
+    }
+  ]
+}

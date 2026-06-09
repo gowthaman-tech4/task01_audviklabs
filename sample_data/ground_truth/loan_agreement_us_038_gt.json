@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_038.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2240 Ho Islands Apt. 007, Lisaview, MP 20671",
+      "start": 372,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Johnson",
+      "start": 434,
+      "end": 453
+    },
+    {
+      "type": "SSN",
+      "value": "251-33-0668",
+      "start": 459,
+      "end": 470
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/05/2005",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9315 Samuel Rest Suite 107, Andrewchester, PR 24844",
+      "start": 506,
+      "end": 557
+    },
+    {
+      "type": "PHONE",
+      "value": "471.734.7310x03675",
+      "start": 565,
+      "end": 583
+    },
+    {
+      "type": "EMAIL",
+      "value": "leonard58@example.org",
+      "start": 591,
+      "end": 612
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "77680048216043",
+      "start": 871,
+      "end": 885
+    }
+  ]
+}

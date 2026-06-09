@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_037.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jose Hendrix",
+      "start": 341,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "979772593431",
+      "start": 373,
+      "end": 385
+    },
+    {
+      "type": "SSN",
+      "value": "157-36-5938",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "(261)753-1004x5746",
+      "start": 436,
+      "end": 454
+    },
+    {
+      "type": "EMAIL",
+      "value": "monicaevans@example.com",
+      "start": 474,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/17/1975",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "41182 Kenneth Island, Samanthaberg, ID 03048",
+      "start": 547,
+      "end": 591
+    }
+  ]
+}

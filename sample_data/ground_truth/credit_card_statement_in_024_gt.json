@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_024.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dhruv Ramachandran",
+      "start": 219,
+      "end": 237
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4950-1442-1671-0507",
+      "start": 258,
+      "end": 277
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 903, Bala Path, Ghaziabad-028712",
+      "start": 298,
+      "end": 336
+    },
+    {
+      "type": "PHONE",
+      "value": "91 66130 69104",
+      "start": 357,
+      "end": 371
+    },
+    {
+      "type": "EMAIL",
+      "value": "joshuagolla@example.net",
+      "start": 392,
+      "end": 415
+    }
+  ]
+}

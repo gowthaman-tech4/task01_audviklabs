@@ -1,0 +1,237 @@
+{
+  "document": "loan_agreement_in_041.txt",
+  "timestamp": "2026-06-09T07:55:40.571778",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "680674",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "470661",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 404,
+        "end": 410
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nandini Bhatia",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 428,
+        "end": 442
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "RPTJO7888C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 448,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2208 8363 4314",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 468,
+        "end": 482
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/07/1982",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 498,
+        "end": 508
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "791, Natt Road, Mango 055276",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 518,
+        "end": 546
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 86347 93427",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 554,
+        "end": 568
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "jacksondeol@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 576,
+        "end": 599
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Fariq Gaba",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 636,
+        "end": 646
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 66848 05257",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 654,
+        "end": 669
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "imurty@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 677,
+        "end": 695
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "48135998992828",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 956,
+        "end": 970
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 372
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Sarraf Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1014,
+        "end": 1019
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1024,
+        "end": 1034
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1047,
+        "end": 1055
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1317,
+        "end": 1325
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1416,
+        "end": 1422
+      }
+    }
+  ]
+}

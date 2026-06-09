@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_033.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekta Behl",
+      "start": 347,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0365842238815718",
+      "start": 376,
+      "end": 392
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "UBIN0492246",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PAN",
+      "value": "ZRPFM3419N",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 76363 81482",
+      "start": 473,
+      "end": 488
+    },
+    {
+      "type": "EMAIL",
+      "value": "tarasalvi@example.org",
+      "start": 508,
+      "end": 529
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/24/1959",
+      "start": 549,
+      "end": 559
+    },
+    {
+      "type": "ADDRESS",
+      "value": "37, Dubey Road, Malda 436636",
+      "start": 579,
+      "end": 607
+    }
+  ]
+}

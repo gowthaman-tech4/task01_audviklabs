@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_021.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Yashvi Naidu",
+      "start": 315,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Girish Mani",
+      "start": 484,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/06/1966",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "642, Chandran Street, Bhiwandi 338278",
+      "start": 547,
+      "end": 584
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 65260 19631",
+      "start": 605,
+      "end": 620
+    },
+    {
+      "type": "EMAIL",
+      "value": "nitara91@example.net",
+      "start": 641,
+      "end": 661
+    },
+    {
+      "type": "PAN",
+      "value": "XCDAG5425S",
+      "start": 682,
+      "end": 692
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2706 1772 6358",
+      "start": 713,
+      "end": 727
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Amruta Borah",
+      "start": 774,
+      "end": 786
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/04/1959",
+      "start": 836,
+      "end": 846
+    }
+  ]
+}

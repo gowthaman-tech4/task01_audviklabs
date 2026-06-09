@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sarraf Ltd
+TAN of the Deductor:    ASRP58719K
+Address:                45/24, Nath Circle, Panipat 775264
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Gaurav Sunder
+PAN of the Employee:    IGLHM2810F
+Aadhaar Number:         2538 5920 7597
+Date of Birth:          15/02/1976
+Address:                H.No. 963, Korpal Nagar, Alwar 805326
+Email:                  logan27@example.com
+Mobile:                 91 63141 64606
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.     630,093.78
+   (b) Value of perquisites u/s 17(2)  Rs.      12,065.63
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.      75,611.25
+   (b) LTA Exemption                   Rs.      21,926.83
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     504,482.53
+5. Tax on Total Income                 Rs.     100,896.51
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       4,035.86
+8. Total Tax Payable                   Rs.     104,932.37
+
+============================================================

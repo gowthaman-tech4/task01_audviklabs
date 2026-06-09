@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_024.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "80264 Cunningham Way Suite 364, Brittanyhaven, MH 21182",
+      "start": 373,
+      "end": 428
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Eric Lee",
+      "start": 446,
+      "end": 454
+    },
+    {
+      "type": "SSN",
+      "value": "234-50-4164",
+      "start": 460,
+      "end": 471
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/04/1962",
+      "start": 487,
+      "end": 497
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3426 Tamara Drive Apt. 426, Darrellton, IN 37952",
+      "start": 507,
+      "end": 555
+    },
+    {
+      "type": "PHONE",
+      "value": "(553)800-4116x179",
+      "start": 563,
+      "end": 580
+    },
+    {
+      "type": "EMAIL",
+      "value": "paularnold@example.net",
+      "start": 588,
+      "end": 610
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Duncan",
+      "start": 647,
+      "end": 665
+    },
+    {
+      "type": "PHONE",
+      "value": "001-594-289-4208",
+      "start": 673,
+      "end": 689
+    },
+    {
+      "type": "EMAIL",
+      "value": "william66@example.org",
+      "start": 697,
+      "end": 718
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "39476623089431",
+      "start": 978,
+      "end": 992
+    }
+  ]
+}

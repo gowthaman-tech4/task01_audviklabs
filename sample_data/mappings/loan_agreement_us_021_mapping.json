@@ -1,0 +1,181 @@
+{
+  "document": "loan_agreement_us_021.txt",
+  "timestamp": "2026-06-09T07:55:45.642142",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PHONE": 2,
+    "ADDRESS": 2,
+    "PERSON_NAME": 1,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "164843",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "83417 Greg Neck Apt. 645, Lake Wendy, HI 81186",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 372,
+        "end": 418
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Olivia Jenkins",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 436,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "400-97-1256",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 456,
+        "end": 467
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/03/2003",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 483,
+        "end": 493
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "USNV Lutz, FPO AE 46982",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 503,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "2285398971",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 534,
+        "end": 544
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ewyatt@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 552,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "04928239719197",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 835,
+        "end": 849
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 868,
+        "end": 873
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 878,
+        "end": 888
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 901,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1171,
+        "end": 1179
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1270,
+        "end": 1276
+      }
+    }
+  ]
+}

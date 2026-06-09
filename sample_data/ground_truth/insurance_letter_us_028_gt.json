@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_028.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kellie Waters",
+      "start": 312,
+      "end": 325
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Lisa Barber",
+      "start": 482,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/01/1991",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "81120 Christopher Trail, Taylorview, KY 92060",
+      "start": 545,
+      "end": 590
+    },
+    {
+      "type": "PHONE",
+      "value": "843-720-4511",
+      "start": 611,
+      "end": 623
+    },
+    {
+      "type": "EMAIL",
+      "value": "donald54@example.net",
+      "start": 644,
+      "end": 664
+    },
+    {
+      "type": "SSN",
+      "value": "545-93-1713",
+      "start": 685,
+      "end": 696
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Darren Garcia",
+      "start": 743,
+      "end": 756
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/12/1989",
+      "start": 804,
+      "end": 814
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_us_035.txt",
+  "timestamp": "2026-06-09T07:54:27.498487",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Paige Jones",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "231646738783",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 376,
+        "end": 388
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "132-95-0249",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 408,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "572-336-3375x002",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 439,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "xmassey@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 475,
+        "end": 494
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/11/2000",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 514,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "5977 Robertson Lock, West David, PR 54025",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 585
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "87342874",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1519,
+        "end": 1527
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Purchase - Allen PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1385,
+        "end": 1405
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "3,193.44",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1421,
+        "end": 1429
+      }
+    }
+  ]
+}

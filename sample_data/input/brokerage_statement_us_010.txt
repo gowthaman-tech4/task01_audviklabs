@@ -1,0 +1,40 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Melissa Moore
+Account Number:         6166274387
+SSN:                    345-18-0137
+Email:                  helenandrews@example.net
+Phone:                  (297)232-0416x058
+Correspondence Address: 18016 Debra Trafficway, West Alexandria, CT 49245
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              263 $    248.49 $    353.35 $   92,932.32 $   27,579.45
+AAPL     Apple Inc.                   463 $    159.22 $    163.38 $   75,643.31 $    1,924.45
+META     Meta Platforms Inc.          315 $    554.04 $    510.94 $  160,945.46 $  -13,577.14
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  329,521.09
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/31/2026     DIV      AAPL         99 $    471.45 $   46,673.55
+05/21/2026     SELL     META         24 $     95.73 $    2,297.52
+04/01/2026     DIV      MSFT         32 $    270.77 $    8,664.64
+04/03/2026     BUY      AAPL         97 $    369.17 $   35,809.49
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

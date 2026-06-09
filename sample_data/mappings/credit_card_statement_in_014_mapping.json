@@ -1,0 +1,190 @@
+{
+  "document": "credit_card_statement_in_014.txt",
+  "timestamp": "2026-06-09T07:55:03.946349",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Vrinda Shanker",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "499061214592",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "980788",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 323,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 99176 90669",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 350,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mayaahuja@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Verma",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 845,
+        "end": 850
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Chandra",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 972
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "06/06/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 811,
+        "end": 826
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "06/07/2026     Naik",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 905
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Kashyap",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 907,
+        "end": 914
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Chawla",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 970
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "06/06/2026     Mangat Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1022,
+        "end": 1047
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Chaudhuri",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1421,
+        "end": 1430
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Srinivas        $  1,594.53",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1435,
+        "end": 1462
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Sabharwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1478,
+        "end": 1487
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1812,
+        "end": 1823
+      }
+    }
+  ]
+}

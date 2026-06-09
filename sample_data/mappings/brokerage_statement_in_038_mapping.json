@@ -1,0 +1,158 @@
+{
+  "document": "brokerage_statement_in_038.txt",
+  "timestamp": "2026-06-09T07:54:50.854496",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Nidhi Muni",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 293
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "4517216387",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 318,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ZBCBZ3524V",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 353,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "0872997163286473",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "nicholaskumer@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 429,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 98057 02443",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 479,
+        "end": 494
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "611723",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 542,
+        "end": 548
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nadig Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 517,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 768,
+        "end": 792
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 871,
+        "end": 900
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 980
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1050,
+        "end": 1072
+      }
+    }
+  ]
+}

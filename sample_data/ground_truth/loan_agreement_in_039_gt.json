@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_039.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "24/973, Saha Street, Kottayam 928424",
+      "start": 372,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Radha Chhabra",
+      "start": 426,
+      "end": 439
+    },
+    {
+      "type": "PAN",
+      "value": "GVOAF4578E",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6179 4840 3258",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/29/1992",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 74, Bhattacharyya Circle, Gandhidham 514854",
+      "start": 515,
+      "end": 564
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 98312 52306",
+      "start": 572,
+      "end": 587
+    },
+    {
+      "type": "EMAIL",
+      "value": "rayaan10@example.org",
+      "start": 595,
+      "end": 615
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yashodhara Nazareth",
+      "start": 652,
+      "end": 671
+    },
+    {
+      "type": "PHONE",
+      "value": "91 95316 67832",
+      "start": 679,
+      "end": 693
+    },
+    {
+      "type": "EMAIL",
+      "value": "dugarlipika@example.org",
+      "start": 701,
+      "end": 724
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "77639447548204",
+      "start": 984,
+      "end": 998
+    }
+  ]
+}

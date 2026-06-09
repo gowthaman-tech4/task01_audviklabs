@@ -1,0 +1,47 @@
+============================================================
+          [ORGANIZATION_011].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 53, [ORGANIZATION_010], Sasaram [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     [ORGANIZATION_009]              384 $    283.19 $    354.10 $  135,973.85 $   27,228.89
+[ORGANIZATION_008]                 176 $    712.53 $    849.55 $  149,520.87 $   24,115.59
+[ORGANIZATION_007]          238 $    415.23 $    520.23 $  123,814.30 $   24,989.56
+JPM      [ORGANIZATION_006]          57 $    194.19 $    206.86 $   11,791.19 $      722.36
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  421,100.21
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/27/2026     DIV      MSFT         80 $    480.18 $   38,414.40
+04/13/2026     DIV      [ORGANIZATION_005]         23 $    330.49 $    7,601.27
+03/24/2026     BUY      [ORGANIZATION_004]         35 $    440.21 $   15,407.35
+05/27/2026     SELL     [ORGANIZATION_003]         11 $    385.91 $    4,245.01
+05/09/2026     BUY      JPM          64 $    302.83 $   19,381.12
+04/03/2026     SELL     [ORGANIZATION_002]         73 $    467.04 $   34,093.92
+03/22/2026     SELL     MSFT         44 $    171.53 $    7,547.32
+03/12/2026     DIV      JPM          88 $     83.13 $    7,315.44
+04/12/2026     SELL     [ORGANIZATION_001]         98 $    113.97 $   11,169.06
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

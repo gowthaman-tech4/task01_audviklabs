@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_003.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kala Varghese",
+      "start": 315,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kamala Bala",
+      "start": 485,
+      "end": 496
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/07/1971",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "49, Misra Road, Gangtok-604289",
+      "start": 548,
+      "end": 578
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 80214 62542",
+      "start": 599,
+      "end": 614
+    },
+    {
+      "type": "EMAIL",
+      "value": "ssane@example.net",
+      "start": 635,
+      "end": 652
+    },
+    {
+      "type": "PAN",
+      "value": "OMHBG1500E",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "type": "AADHAAR",
+      "value": "3448 0552 4327",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Saksham Dave",
+      "start": 765,
+      "end": 777
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/07/1993",
+      "start": 825,
+      "end": 835
+    }
+  ]
+}

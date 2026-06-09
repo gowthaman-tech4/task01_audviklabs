@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_008.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Deborah Smith",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4705-6732-2830-1788",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "510 Sandra Turnpike Apt. 134, Johnsonton, WA 40873",
+      "start": 293,
+      "end": 343
+    },
+    {
+      "type": "PHONE",
+      "value": "900.690.5886x58979",
+      "start": 364,
+      "end": 382
+    },
+    {
+      "type": "EMAIL",
+      "value": "michael85@example.net",
+      "start": 403,
+      "end": 424
+    }
+  ]
+}

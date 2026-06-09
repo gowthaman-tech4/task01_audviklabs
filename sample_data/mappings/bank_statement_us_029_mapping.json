@@ -1,0 +1,149 @@
+{
+  "document": "bank_statement_us_029.txt",
+  "timestamp": "2026-06-09T07:54:13.478969",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ricky Henderson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "707421727845",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 383,
+        "end": 395
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "268-10-6120",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 415,
+        "end": 426
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "342.404.1178",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 446,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "brookschristina@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 478,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/19/1995",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 525,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "74483 Terry Shores Suite 580, Port Geraldton, LA 08331",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 609
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "27678361",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1725,
+        "end": 1733
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 106
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "POS Purchase - Sandoval PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1382,
+        "end": 1409
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "POS Purchase - Lopez PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2130,
+        "end": 2154
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2947,
+        "end": 2972
+      }
+    }
+  ]
+}

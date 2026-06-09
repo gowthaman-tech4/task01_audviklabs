@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Christopher Bailey
+Card Number:        4917-5494-4430-8142
+Billing Address:    969 Rodriguez Crossroad, Kingmouth, VI 30498
+Phone:              001-621-951-8068
+Email:              edward60@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   20,738.27
+Previous Balance:   $    5,598.05
+Payments Received:  $    1,103.41
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/10/2026     Brown and Sons                      $  1,132.48
+05/14/2026     Allen-Sloan                         $    242.64
+05/27/2026     Rivera Group                        $  1,936.21
+05/23/2026     Brown, Lee and Estrada              $    615.60
+05/23/2026     Snow Inc                            $  1,461.17
+06/06/2026     Spears-Johnson                      $  1,224.91
+05/10/2026     Ramirez-Robinson                    $  1,929.73
+05/17/2026     Velazquez PLC                       $    545.07
+
+-------------------------------------------------------------
+Total Charges:      $    9,087.81
+New Balance:        $   13,582.45
+Minimum Payment:    $      271.65
+
+============================================================

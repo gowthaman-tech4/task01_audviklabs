@@ -1,0 +1,53 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-379359
+Date of Agreement: April 28, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 70, Ramanathan Road, Gandhinagar-550894
+
+BORROWER:
+Name: Anay Balakrishnan
+PAN: RQWBM4723B
+Aadhaar: 6540 9999 6261
+Date of Birth: 04/08/1962
+Address: 48/22, Om Street, Sagar-888002
+Phone: 91 86278 50199
+Email: elala@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    260,533.68
+Interest Rate:              11.43% per annum
+Loan Tenure:                120 months
+EMI Amount:                 $      3,652.56
+Disbursement Account No:    36323843264567
+Disbursement Date:          May 09, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 120 equal monthly installments of $3,652.56.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

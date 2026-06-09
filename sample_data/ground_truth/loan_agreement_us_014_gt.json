@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_014.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9873 Soto Valleys Apt. 819, West Juanton, GU 98622",
+      "start": 374,
+      "end": 424
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Debbie Ross",
+      "start": 442,
+      "end": 453
+    },
+    {
+      "type": "SSN",
+      "value": "293-46-3607",
+      "start": 459,
+      "end": 470
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/28/1961",
+      "start": 486,
+      "end": 496
+    },
+    {
+      "type": "ADDRESS",
+      "value": "024 Baker Plaza, Erikhaven, NJ 29706",
+      "start": 506,
+      "end": 542
+    },
+    {
+      "type": "PHONE",
+      "value": "6699698209",
+      "start": 550,
+      "end": 560
+    },
+    {
+      "type": "EMAIL",
+      "value": "ccaldwell@example.org",
+      "start": 568,
+      "end": 589
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jose Cortez",
+      "start": 626,
+      "end": 637
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-242-816-7195x195",
+      "start": 645,
+      "end": 664
+    },
+    {
+      "type": "EMAIL",
+      "value": "tallen@example.com",
+      "start": 672,
+      "end": 690
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "70672087453915",
+      "start": 952,
+      "end": 966
+    }
+  ]
+}

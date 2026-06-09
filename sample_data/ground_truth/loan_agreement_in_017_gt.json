@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_017.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "82/43, Kari Road, Bijapur-086762",
+      "start": 378,
+      "end": 410
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yashasvi Dubey",
+      "start": 428,
+      "end": 442
+    },
+    {
+      "type": "PAN",
+      "value": "WOZAI9913X",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2576 4131 2408",
+      "start": 468,
+      "end": 482
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/11/2002",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "type": "ADDRESS",
+      "value": "14/13, Bhatia Path, Ratlam-464678",
+      "start": 518,
+      "end": 551
+    },
+    {
+      "type": "PHONE",
+      "value": "91 76980 34673",
+      "start": 559,
+      "end": 573
+    },
+    {
+      "type": "EMAIL",
+      "value": "balasubramanianchakradev@example.com",
+      "start": 581,
+      "end": 617
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Barkha Sethi",
+      "start": 654,
+      "end": 666
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 98570 03230",
+      "start": 674,
+      "end": 689
+    },
+    {
+      "type": "EMAIL",
+      "value": "siddharth16@example.com",
+      "start": 697,
+      "end": 720
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "34371867761630",
+      "start": 986,
+      "end": 1000
+    }
+  ]
+}

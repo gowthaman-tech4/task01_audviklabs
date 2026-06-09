@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_010.txt",
+  "timestamp": "2026-06-09T07:58:18.763739",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Hari Group",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "344051",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 448,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 469,
+        "end": 480
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Eta Nanda",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 506,
+        "end": 515
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "MGHGY0638H",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 540,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "7649 0108 2834",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 575,
+        "end": 589
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "21/05/1981",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 614,
+        "end": 624
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "147576",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 681,
+        "end": 687
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "andradaksha@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 712,
+        "end": 735
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 69376 25927",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 760,
+        "end": 775
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 788,
+        "end": 799
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 804,
+        "end": 816
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Thaker Ganj",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Hayer Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 694,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1079,
+        "end": 1113
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1192,
+        "end": 1220
+      }
+    }
+  ]
+}

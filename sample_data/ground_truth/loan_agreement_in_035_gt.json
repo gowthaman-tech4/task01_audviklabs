@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_035.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "46, Kunda Zila, Barasat 765702",
+      "start": 374,
+      "end": 404
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Mohammed Bawa",
+      "start": 422,
+      "end": 435
+    },
+    {
+      "type": "PAN",
+      "value": "CQDBX2441E",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2521 8534 8048",
+      "start": 461,
+      "end": 475
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/08/2000",
+      "start": 491,
+      "end": 501
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 088, Jain Path, Bhilai 966700",
+      "start": 511,
+      "end": 546
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 60245 47498",
+      "start": 554,
+      "end": 569
+    },
+    {
+      "type": "EMAIL",
+      "value": "qkrish@example.com",
+      "start": 577,
+      "end": 595
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Balvan Raja",
+      "start": 632,
+      "end": 643
+    },
+    {
+      "type": "PHONE",
+      "value": "91 77228 52099",
+      "start": 651,
+      "end": 665
+    },
+    {
+      "type": "EMAIL",
+      "value": "gbandi@example.org",
+      "start": 673,
+      "end": 691
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "49141909201755",
+      "start": 957,
+      "end": 971
+    }
+  ]
+}

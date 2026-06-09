@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_022.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kathryn Giles",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4078-5942-6276-1449",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "919 Holly Track Suite 189, Port Kellystad, WY 13521",
+      "start": 293,
+      "end": 344
+    },
+    {
+      "type": "PHONE",
+      "value": "368.747.7393",
+      "start": 365,
+      "end": 377
+    },
+    {
+      "type": "EMAIL",
+      "value": "ymcknight@example.org",
+      "start": 398,
+      "end": 419
+    }
+  ]
+}

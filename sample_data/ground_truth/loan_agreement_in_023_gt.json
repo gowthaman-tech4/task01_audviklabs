@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_023.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "50/96, Jha Nagar, Satara 534558",
+      "start": 378,
+      "end": 409
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Mugdha Shere",
+      "start": 427,
+      "end": 439
+    },
+    {
+      "type": "PAN",
+      "value": "RROPG2312J",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7931 9275 1186",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/05/1980",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 787, Kapur Nagar, Kollam 935241",
+      "start": 515,
+      "end": 552
+    },
+    {
+      "type": "PHONE",
+      "value": "91 77958 58370",
+      "start": 560,
+      "end": 574
+    },
+    {
+      "type": "EMAIL",
+      "value": "kamala60@example.com",
+      "start": 582,
+      "end": 602
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nilima Sachdev",
+      "start": 639,
+      "end": 653
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63461 01193",
+      "start": 661,
+      "end": 676
+    },
+    {
+      "type": "EMAIL",
+      "value": "bobalmaanav@example.com",
+      "start": 684,
+      "end": 707
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "99905332493766",
+      "start": 973,
+      "end": 987
+    }
+  ]
+}

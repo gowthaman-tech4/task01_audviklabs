@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   54-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  209,766.28
+2  Federal income tax withheld         $   54,023.82
+3  [ORGANIZATION_005] wages               $  160,200.00
+4  [ORGANIZATION_004] tax withheld        $    9,932.40
+5  [ORGANIZATION_003] wages and tips             $  209,766.28
+6  [ORGANIZATION_002] tax withheld               $    3,041.61
+
+12a [ORGANIZATION_001]
+
+--- STATE TAX INFORMATION ---
+
+15 State: MI
+16 State wages                         $  209,766.28
+17 State income tax                    $   17,707.99
+
+============================================================

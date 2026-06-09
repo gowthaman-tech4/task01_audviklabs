@@ -1,0 +1,126 @@
+{
+  "document": "bank_statement_us_038.txt",
+  "timestamp": "2026-06-09T07:54:28.353829",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Christopher Mcintyre",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "025632509374",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "183-41-1203",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 420,
+        "end": 431
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "353.848.7164x7015",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 451,
+        "end": 468
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "rodrigueznathan@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 488,
+        "end": 515
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/07/1979",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 535,
+        "end": 545
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "37715 Jessica Prairie Apt. 504, Grantburgh, VT 36702",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 565,
+        "end": 617
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "52527386",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1452,
+        "end": 1460
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 106
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2020,
+        "end": 2045
+      }
+    }
+  ]
+}

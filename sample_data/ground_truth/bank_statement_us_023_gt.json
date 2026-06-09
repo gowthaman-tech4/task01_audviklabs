@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_023.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Justin Mitchell",
+      "start": 351,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "044801983747",
+      "start": 386,
+      "end": 398
+    },
+    {
+      "type": "SSN",
+      "value": "244-91-6406",
+      "start": 418,
+      "end": 429
+    },
+    {
+      "type": "PHONE",
+      "value": "9725828479",
+      "start": 449,
+      "end": 459
+    },
+    {
+      "type": "EMAIL",
+      "value": "chelseathomas@example.com",
+      "start": 479,
+      "end": 504
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/01/1982",
+      "start": 524,
+      "end": 534
+    },
+    {
+      "type": "ADDRESS",
+      "value": "10932 Timothy Road, Port Christopher, AZ 34295",
+      "start": 554,
+      "end": 600
+    }
+  ]
+}

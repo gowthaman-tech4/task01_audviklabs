@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_020.txt",
+  "timestamp": "2026-06-09T07:55:45.425721",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "855414",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "880 April Road, South Jamesland, NY 17074",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 375,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Brent Townsend",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 434,
+        "end": 448
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "231-67-8246",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 454,
+        "end": 465
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "04/22/1999",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "7119 Duarte Groves, Lake Brandy, WA 13665",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 501,
+        "end": 542
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "001-787-755-4588",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 566
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "sharonpatterson@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 574,
+        "end": 601
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jessica Gonzalez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 638,
+        "end": 654
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "642-327-5290x762",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 662,
+        "end": 678
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "andrewdavis@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 686,
+        "end": 709
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "01011056141141",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 970,
+        "end": 984
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 372
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 961,
+        "end": 966
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 971,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 994,
+        "end": 1002
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1264,
+        "end": 1272
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1363,
+        "end": 1369
+      }
+    }
+  ]
+}

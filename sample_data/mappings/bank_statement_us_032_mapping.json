@@ -1,0 +1,115 @@
+{
+  "document": "bank_statement_us_032.txt",
+  "timestamp": "2026-06-09T07:54:26.423136",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Karla Young",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 350
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "486425986799",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 370,
+        "end": 382
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "340-85-5920",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 402,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-618-795-7356x389",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 433,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kevin31@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 472,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/27/1982",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 511,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "4946 Ortiz Circles, South Daniel, MS 31955",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 541,
+        "end": 583
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "West Kristinaside Branch\nOpening Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 664,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/20/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 871,
+        "end": 893
+      }
+    }
+  ]
+}

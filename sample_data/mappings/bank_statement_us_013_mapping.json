@@ -1,0 +1,147 @@
+{
+  "document": "bank_statement_us_013.txt",
+  "timestamp": "2026-06-09T07:53:57.328837",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Derek Wallace",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "048572978168",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 381,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "609-10-4125",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 413,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-333-613-2587",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 444,
+        "end": 459
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "andrea22@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 479,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/31/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 519,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "27359 Carol Dale Suite 699, New Zacharytown, WV 08282",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 549,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Mitchell",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1164,
+        "end": 1172
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 106
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "4,374.17                   41,616.92",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1426,
+        "end": 1462
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "POS Purchase - Martinez-Martin          3,930.38",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1478,
+        "end": 1526
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2387,
+        "end": 2412
+      }
+    }
+  ]
+}

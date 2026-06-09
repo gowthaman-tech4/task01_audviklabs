@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Angelica Coleman
+Card Number:        4230-4508-9773-0637
+Billing Address:    1083 Warren Mount, Jaredview, VI 24634
+Phone:              448-919-5410
+Email:              kevin35@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 10, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   24,083.67
+Previous Balance:   $    9,033.50
+Payments Received:  $      964.13
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/23/2026     Cochran, Murphy and Howard          $    398.06
+06/04/2026     Johnson, Frank and Russo            $    489.91
+05/21/2026     Wyatt LLC                           $    523.20
+05/12/2026     Wilkins LLC                         $     62.79
+05/23/2026     Sampson-Lopez                       $  1,177.09
+05/14/2026     Morales, Bell and Gallagher         $  1,932.49
+05/30/2026     Keith-Garcia                        $    963.21
+06/03/2026     Werner, Smith and Russell           $  1,252.20
+05/21/2026     Chase Inc                           $     30.57
+05/12/2026     Thomas-Randall                      $    788.51
+05/09/2026     Howard PLC                          $    457.09
+05/31/2026     Walton PLC                          $  1,970.04
+05/19/2026     Lopez Ltd                           $    506.23
+05/18/2026     Burton-Jones                        $  1,971.80
+06/03/2026     Martinez-Rogers                     $    137.62
+
+-------------------------------------------------------------
+Total Charges:      $   12,660.81
+New Balance:        $   20,730.18
+Minimum Payment:    $      414.60
+
+============================================================

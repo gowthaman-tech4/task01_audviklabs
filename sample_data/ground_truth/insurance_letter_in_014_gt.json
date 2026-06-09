@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_014.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Aadi Kakar",
+      "start": 316,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ijaya Tiwari",
+      "start": 483,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/01/1988",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "26/72, Das Marg, Imphal 084424",
+      "start": 547,
+      "end": 577
+    },
+    {
+      "type": "PHONE",
+      "value": "91 65587 73544",
+      "start": 598,
+      "end": 612
+    },
+    {
+      "type": "EMAIL",
+      "value": "basakisaac@example.org",
+      "start": 633,
+      "end": 655
+    },
+    {
+      "type": "PAN",
+      "value": "KDRJX9860X",
+      "start": 676,
+      "end": 686
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2528 2080 1108",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Aarnav Datta",
+      "start": 768,
+      "end": 780
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/11/2006",
+      "start": 828,
+      "end": 838
+    }
+  ]
+}

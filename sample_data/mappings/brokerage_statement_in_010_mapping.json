@@ -1,0 +1,180 @@
+{
+  "document": "brokerage_statement_in_010.txt",
+  "timestamp": "2026-06-09T07:54:44.232494",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Shivani Doctor",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 297
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "4763105870",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 322,
+        "end": 332
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "MUQHA8953B",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 357,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "0711049772271368",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "saumya21@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 433,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 81030 58726",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 492
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "236061",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Pathak Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 516,
+        "end": 528
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ludhiana",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 530,
+        "end": 538
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 796
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 960,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1054,
+        "end": 1073
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1516,
+        "end": 1520
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1714,
+        "end": 1718
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_032.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Karla Young",
+      "start": 339,
+      "end": 350
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "486425986799",
+      "start": 370,
+      "end": 382
+    },
+    {
+      "type": "SSN",
+      "value": "340-85-5920",
+      "start": 402,
+      "end": 413
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-618-795-7356x389",
+      "start": 433,
+      "end": 452
+    },
+    {
+      "type": "EMAIL",
+      "value": "kevin31@example.com",
+      "start": 472,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/27/1982",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4946 Ortiz Circles, South Daniel, MS 31955",
+      "start": 541,
+      "end": 583
+    }
+  ]
+}

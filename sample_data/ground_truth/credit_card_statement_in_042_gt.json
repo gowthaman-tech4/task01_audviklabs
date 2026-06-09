@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_042.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ira Basak",
+      "start": 219,
+      "end": 228
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4233-1153-5335-9729",
+      "start": 249,
+      "end": 268
+    },
+    {
+      "type": "ADDRESS",
+      "value": "817, Gulati Chowk, Vijayanagaram 439367",
+      "start": 289,
+      "end": 328
+    },
+    {
+      "type": "PHONE",
+      "value": "91 87891 90391",
+      "start": 349,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "joshironith@example.org",
+      "start": 384,
+      "end": 407
+    }
+  ]
+}

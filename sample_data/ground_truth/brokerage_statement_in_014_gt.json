@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_014.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gayathri Anne",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5661180873",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "EDIFF9330O",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4705668239692937",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "banikrushil@example.com",
+      "start": 432,
+      "end": 455
+    },
+    {
+      "type": "PHONE",
+      "value": "91 98975 09104",
+      "start": 480,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 60, Dada Ganj, Ozhukarai 829575",
+      "start": 519,
+      "end": 556
+    }
+  ]
+}

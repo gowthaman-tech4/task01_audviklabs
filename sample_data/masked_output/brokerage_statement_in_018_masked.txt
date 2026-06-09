@@ -1,0 +1,50 @@
+============================================================
+          [ORGANIZATION_009].
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 16, Som Circle, Medininagar-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_008]                 63 $    134.77 $    144.21 $    9,085.02 $      594.51
+MSFT     [ORGANIZATION_007]              191 $    278.99 $    375.60 $   71,739.57 $   18,452.48
+JPM      [ORGANIZATION_006]238 $    157.74 $    208.85 $   49,707.36 $   12,165.24
+TSLA     [ORGANIZATION_005]                   275 $    211.21 $    203.81 $   56,048.84 $   -2,033.91
+[ORGANIZATION_004]                   402 $    166.39 $    154.35 $   62,050.00 $   -4,838.78
+[ORGANIZATION_003]          159 $    417.76 $    538.61 $   85,638.40 $   19,214.56
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  334,269.19
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/14/2026     SELL     GOOGL        99 $    316.31 $   31,314.69
+04/08/2026     DIV      TSLA         84 $     98.51 $    8,274.84
+03/16/2026     SELL     AAPL         41 $    278.37 $   11,413.17
+04/16/2026     SELL     JPM          10 $    499.17 $    4,991.70
+05/24/2026     BUY      JPM          26 $    142.26 $    3,698.76
+03/26/2026     DIV      JPM          36 $    343.70 $   12,373.20
+04/07/2026     [ORGANIZATION_002]     [ORGANIZATION_001]         72 $    394.15 $   28,378.80
+04/06/2026     SELL     AAPL         41 $    257.33 $   10,550.53
+05/30/2026     SELL     GOOGL        34 $    141.93 $    4,825.62
+04/12/2026     SELL     TSLA         71 $    440.28 $   31,259.88
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

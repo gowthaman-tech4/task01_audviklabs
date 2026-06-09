@@ -1,0 +1,46 @@
+============================================================
+          [ORGANIZATION_010].
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 182, [PERSON_NAME_002], Gaya-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_009]          396 $    364.74 $    479.01 $  189,689.33 $   45,252.29
+MSFT     [ORGANIZATION_008]               33 $    339.15 $    366.72 $   12,101.89 $      909.94
+[ORGANIZATION_007]                 310 $    761.15 $    888.62 $  275,472.11 $   39,515.61
+GOOGL    Alphabet Inc.                302 $    158.20 $    153.34 $   46,307.77 $   -1,468.63
+JPM      [ORGANIZATION_006]254 $    198.24 $    204.83 $   52,025.97 $    1,673.01
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  575,597.07
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/16/2026     SELL     [ORGANIZATION_005]         33 $    278.86 $    9,202.38
+06/03/2026     DIV      [ORGANIZATION_004]         93 $    150.76 $   14,020.68
+06/04/2026     BUY      JPM          42 $    489.49 $   20,558.58
+04/06/2026     DIV      [ORGANIZATION_003]         95 $    275.69 $   26,190.55
+04/09/2026     SELL     [ORGANIZATION_002]         94 $    107.03 $   10,060.82
+05/01/2026     SELL     [ORGANIZATION_001]          6 $    329.42 $    1,976.52
+03/11/2026     SELL     GOOGL        17 $    114.90 $    1,953.30
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

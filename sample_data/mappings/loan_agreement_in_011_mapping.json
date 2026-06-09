@@ -1,0 +1,259 @@
+{
+  "document": "loan_agreement_in_011.txt",
+  "timestamp": "2026-06-09T07:55:33.885150",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "899230",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "270902",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 398,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Theodore Mohan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 422,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "SWYBE5549E",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "9002 9733 9042",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 462,
+        "end": 476
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/05/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 492,
+        "end": 502
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "494470",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 542,
+        "end": 548
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 73852 03786",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 556,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "harshil98@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 578,
+        "end": 599
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Yashawini Bora",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 636,
+        "end": 650
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 66836 24250",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 658,
+        "end": 672
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "pandeyanay@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 680,
+        "end": 702
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "78697738982721",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 962,
+        "end": 976
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_005]",
+      "original": "Nayar",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Sambalpur",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 395,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kade Ganj,",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 543,
+        "end": 553
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1037,
+        "end": 1042
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1047,
+        "end": 1057
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1070,
+        "end": 1078
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1341,
+        "end": 1349
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1440,
+        "end": 1446
+      }
+    }
+  ]
+}

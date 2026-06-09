@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_022.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Samantha Rodriguez",
+      "start": 316,
+      "end": 334
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "David Faulkner",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/23/1973",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "type": "ADDRESS",
+      "value": "34905 Sheri Lane Suite 486, South Michaelmouth, OR 60169",
+      "start": 557,
+      "end": 613
+    },
+    {
+      "type": "PHONE",
+      "value": "(584)799-0125x707",
+      "start": 634,
+      "end": 651
+    },
+    {
+      "type": "EMAIL",
+      "value": "debralee@example.org",
+      "start": 672,
+      "end": 692
+    },
+    {
+      "type": "SSN",
+      "value": "190-31-2690",
+      "start": 713,
+      "end": 724
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Dr. Mary Meza",
+      "start": 771,
+      "end": 784
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/28/2013",
+      "start": 832,
+      "end": 842
+    }
+  ]
+}

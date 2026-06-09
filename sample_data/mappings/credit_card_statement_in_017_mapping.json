@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_in_017.txt",
+  "timestamp": "2026-06-09T07:55:04.462151",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Tara Manne",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 229
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "429380387111",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 250,
+        "end": 264
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "710620",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 319,
+        "end": 325
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 92165 05476",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 346,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "hegdeyauvani@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Wadhwa",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1086,
+        "end": 1092
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Mohanty",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1159,
+        "end": 1166
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Ramesh Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 301,
+        "end": 313
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "06/07/2026     Lala Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 873,
+        "end": 898
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Dara-Misra",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1014,
+        "end": 1024
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/23/2026     Dar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1062,
+        "end": 1080
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Chand",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1224,
+        "end": 1229
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Parsa",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1231,
+        "end": 1236
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1369,
+        "end": 1380
+      }
+    }
+  ]
+}

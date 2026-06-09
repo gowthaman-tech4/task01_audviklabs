@@ -1,0 +1,58 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-977082
+Date of Agreement: March 26, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Premier Home Finance Ltd
+Address: 35, Prabhu Path, Suryapet-113660
+
+BORROWER:
+Name: Nicholas Kuruvilla
+PAN: IJSCC0407F
+Aadhaar: 6862 7327 0852
+Date of Birth: 09/27/2004
+Address: 55/41, Prabhakar Nagar, Phusro 835707
+Phone: 91 84497 47806
+Email: william76@example.net
+
+CO-BORROWER (if applicable):
+Name: Avi Parekh
+Phone: +91 96755 52704
+Email: ftiwari@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Personal Loan
+Loan Amount:                $     94,119.35
+Interest Rate:              11.13% per annum
+Loan Tenure:                120 months
+EMI Amount:                 $      1,303.43
+Disbursement Account No:    61693598145734
+Disbursement Date:          May 29, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 120 equal monthly installments of $1,303.43.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_034.txt",
+  "timestamp": "2026-06-09T07:55:48.454502",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "428363",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Unit 6574 Box 1738, DPO AP 26469",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 374,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Jordan Ponce",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 424,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "358-96-1533",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 442,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "04/12/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 469,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "8944 Davis Crossroad, North Kayla, VA 90682",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 489,
+        "end": 532
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "001-570-241-6959x551",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 540,
+        "end": 560
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "patrickkennedy@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 568,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Michael Hill",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 631,
+        "end": 643
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "6806178271",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 651,
+        "end": 661
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "nicolehowe@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 669,
+        "end": 691
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "17459601252730",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 952,
+        "end": 966
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 960,
+        "end": 965
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 970,
+        "end": 980
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 993,
+        "end": 1001
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1263,
+        "end": 1271
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1362,
+        "end": 1368
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_039.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "460-77-5499",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "87-2622717",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Bell, Houston and Burke",
+      "start": 353,
+      "end": 376
+    },
+    {
+      "type": "ADDRESS",
+      "value": "667 Erin Ports Apt. 230, Nealfort, DE 86561",
+      "start": 380,
+      "end": 423
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "April Reed",
+      "start": 447,
+      "end": 457
+    },
+    {
+      "type": "ADDRESS",
+      "value": "325 Williams Land, Heatherton, VI 65159",
+      "start": 497,
+      "end": 536
+    }
+  ]
+}

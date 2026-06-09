@@ -1,0 +1,41 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Janya Shah
+Account Number:         9344422454
+PAN:                    QFLHP9982D
+Demat Account:          4706763087729168
+Email:                  nishabobal@example.com
+Phone:                  91 67077 45857
+Correspondence Address: H.No. 86, Varma Circle, Vijayanagaram-572765
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.           21 $    380.89 $    518.35 $   10,885.42 $    2,886.73
+TSLA     Tesla Inc.                   160 $    217.32 $    259.84 $   41,574.56 $    6,803.36
+AAPL     Apple Inc.                   387 $    152.49 $    165.71 $   64,129.12 $    5,115.49
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  116,589.10
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/05/2026     BUY      AAPL         90 $    358.88 $   32,299.20
+05/29/2026     DIV      META         94 $    185.49 $   17,436.06
+03/21/2026     BUY      META         54 $    158.36 $    8,551.44
+04/26/2026     BUY      AAPL         94 $    441.93 $   41,541.42
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

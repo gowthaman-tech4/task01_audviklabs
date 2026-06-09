@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_031.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Hredhaan Trivedi",
+      "start": 312,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Vasana Borra",
+      "start": 485,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/04/1975",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "07/05, Mahal Ganj, Chandigarh 097585",
+      "start": 549,
+      "end": 585
+    },
+    {
+      "type": "PHONE",
+      "value": "91 94196 60098",
+      "start": 606,
+      "end": 620
+    },
+    {
+      "type": "EMAIL",
+      "value": "cchawla@example.net",
+      "start": 641,
+      "end": 660
+    },
+    {
+      "type": "PAN",
+      "value": "FXYCQ5204R",
+      "start": 681,
+      "end": 691
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7740 9528 4243",
+      "start": 712,
+      "end": 726
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Bhavini Savant",
+      "start": 773,
+      "end": 787
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/27/2003",
+      "start": 835,
+      "end": 845
+    }
+  ]
+}

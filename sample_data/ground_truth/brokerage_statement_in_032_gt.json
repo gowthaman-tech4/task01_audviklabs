@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_032.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dipta Krishna",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3236657669",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "DHQCW1340Q",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9364824894501046",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "padmanabhanmaanas@example.net",
+      "start": 432,
+      "end": 461
+    },
+    {
+      "type": "PHONE",
+      "value": "91 66134 04519",
+      "start": 486,
+      "end": 500
+    },
+    {
+      "type": "ADDRESS",
+      "value": "93/234, Balakrishnan Chowk, Aligarh 971128",
+      "start": 525,
+      "end": 567
+    }
+  ]
+}

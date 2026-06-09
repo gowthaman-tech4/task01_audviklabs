@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_040.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Thomas Hart",
+      "start": 280,
+      "end": 291
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8606720412",
+      "start": 316,
+      "end": 326
+    },
+    {
+      "type": "SSN",
+      "value": "451-95-2194",
+      "start": 351,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "kristenphillips@example.org",
+      "start": 387,
+      "end": 414
+    },
+    {
+      "type": "PHONE",
+      "value": "471-654-6521x563",
+      "start": 439,
+      "end": 455
+    },
+    {
+      "type": "ADDRESS",
+      "value": "78321 Scott Ports, Port Aimee, KY 79636",
+      "start": 480,
+      "end": 519
+    }
+  ]
+}

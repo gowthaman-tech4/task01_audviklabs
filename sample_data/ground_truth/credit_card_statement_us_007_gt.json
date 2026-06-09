@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_007.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Angelica Coleman",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4230-4508-9773-0637",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "1083 Warren Mount, Jaredview, VI 24634",
+      "start": 296,
+      "end": 334
+    },
+    {
+      "type": "PHONE",
+      "value": "448-919-5410",
+      "start": 355,
+      "end": 367
+    },
+    {
+      "type": "EMAIL",
+      "value": "kevin35@example.org",
+      "start": 388,
+      "end": 407
+    }
+  ]
+}

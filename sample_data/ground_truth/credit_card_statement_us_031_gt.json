@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_031.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jason Whitaker",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4364-1645-5993-8523",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "14802 Bradley Inlet Apt. 535, Nelsonside, CA 92029",
+      "start": 294,
+      "end": 344
+    },
+    {
+      "type": "PHONE",
+      "value": "(896)444-0677x4364",
+      "start": 365,
+      "end": 383
+    },
+    {
+      "type": "EMAIL",
+      "value": "connorjackson@example.org",
+      "start": 404,
+      "end": 429
+    }
+  ]
+}

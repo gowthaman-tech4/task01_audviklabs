@@ -1,0 +1,138 @@
+{
+  "document": "bank_statement_us_015.txt",
+  "timestamp": "2026-06-09T07:53:57.778941",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Gina Chavez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "763445479229",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 382,
+        "end": 394
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "128-22-1184",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 414,
+        "end": 425
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "398.366.5393x9402",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 445,
+        "end": 462
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "paige04@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 482,
+        "end": 501
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/14/1959",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 521,
+        "end": 531
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "6505 Becker Via, Edwardborough, FL 09076",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 551,
+        "end": 591
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gallagher",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 979,
+        "end": 988
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "De                  4,902.94",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 993,
+        "end": 1021
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "71112132",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1533,
+        "end": 1541
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Purchase - Stevens-Patton                        3,363.09",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1610,
+        "end": 1667
+      }
+    }
+  ]
+}

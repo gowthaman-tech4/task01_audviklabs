@@ -1,0 +1,60 @@
+============================================================
+                    Saraswat Cooperative Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 19, 2026 to May 14, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           56/79, [PERSON_NAME_002], Latur [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Serampore Branch
+Opening Balance:   $35,457.77
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/29/2026     NEFT Transfer                           4,539.24                   30,918.53
+06/04/2026     ATM Withdrawal - Hubli–Dharwad                         477.43      31,395.96
+05/28/2026     NEFT Transfer                           2,258.37                   29,137.59
+06/04/2026     UPI Transfer                            1,810.66                   27,326.93
+05/27/2026     UPI Transfer                            3,222.64                   24,104.29
+05/29/2026     UPI Transfer                            2,134.72                   21,969.57
+06/07/2026     UPI Transfer                                         4,426.69      26,396.26
+05/23/2026     Service Charge                          1,459.24                   24,937.02
+05/30/2026     Bill Payment - Utility                  2,565.33                   22,371.69
+05/16/2026     NEFT Transfer                                          373.33      22,745.02
+05/29/2026     Direct Deposit - TGV Corp                 122.45                   22,622.57
+05/22/2026     ATM Withdrawal - Salem                     43.77                   22,578.80
+05/17/2026     NEFT Transfer                           2,670.29                   19,908.51
+06/01/2026     NEFT Transfer                                          663.95      20,572.46
+05/14/2026     POS Purchase - Sandhu-Luthra            4,145.43                   16,427.03
+06/06/2026     ATM Withdrawal - Jabalpur               1,453.17                   14,973.86
+06/03/2026     Interest Credit                         4,282.78                   10,691.08
+05/14/2026     NEFT Transfer                           4,261.63                    6,429.45
+05/22/2026     ATM Withdrawal - Panchkula                593.13                    5,836.32
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $5,836.32
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Saraswat Cooperative Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

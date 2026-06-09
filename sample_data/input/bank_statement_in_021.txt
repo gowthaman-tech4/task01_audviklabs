@@ -1,0 +1,50 @@
+============================================================
+                    Saraswat Cooperative Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 18, 2026 to June 04, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Hema Bhandari
+Account Number:    753978912771161
+IFSC Code:         SBIN0038701
+PAN:               DRMJB1317E
+Phone:             +91 64099 15680
+Email:             ronith33@example.org
+Date of Birth:     08/07/1966
+Address:           10/001, Guha Road, Surat 728873
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Pimpri-Chinchwad Branch
+Opening Balance:   $145,379.50
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/14/2026     Service Charge                                         753.60     146,133.10
+05/16/2026     ATM Withdrawal - Ranchi                 1,036.55                  145,096.55
+05/15/2026     Service Charge                                       3,183.16     148,279.71
+06/01/2026     UPI Transfer                            1,992.34                  146,287.37
+05/19/2026     Interest Credit                         2,919.01                  143,368.36
+06/01/2026     Interest Credit                         1,041.27                  142,327.09
+05/30/2026     NEFT Transfer                           3,823.56                  138,503.53
+05/28/2026     ATM Withdrawal - Tiruppur                            3,820.97     142,324.50
+05/13/2026     Service Charge                            321.21                  142,003.29
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $142,003.29
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Saraswat Cooperative Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

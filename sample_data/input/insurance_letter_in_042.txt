@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9123860
+Policy Type: Term Insurance
+Date of Issue: January 06, 2026
+
+Dear Timothy Sule,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Pratyush Sama
+Date of Birth:      11/06/1966
+Address:            359, Sachar, Bilaspur-070727
+Phone:              91 76486 51396
+Email:              kkrishnan@example.com
+PAN:                QPRBX1449S
+Aadhaar:            8236 1021 4114
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Krishna Chaudry
+Relationship:       Daughter
+Nominee DOB:        09/08/1954
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,024,743.60
+Annual Premium:     $     12,025.15
+Policy Term:        20 years
+Premium Payment:    Annual
+Risk Commencement:  April 21, 2026
+Maturity Date:      April 27, 2046
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,124 @@
+{
+  "document": "brokerage_statement_us_035.txt",
+  "timestamp": "2026-06-09T07:54:59.796108",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Shannon Garcia",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 294
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "6197338316",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 319,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "610-67-6888",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "larrystewart@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 414
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(414)297-8624x2594",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 439,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "37482 Luis Ports, Annettetown, NJ 18862",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 482,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 721
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 813
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 885,
+        "end": 909
+      }
+    }
+  ]
+}

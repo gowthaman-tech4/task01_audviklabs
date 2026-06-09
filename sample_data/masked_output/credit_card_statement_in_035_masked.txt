@@ -1,0 +1,42 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-7386
+Billing Address:    70/83, [ORGANIZATION_002], Chandigarh [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   45,177.63
+Previous Balance:   $    7,578.32
+Payments Received:  $    6,739.45
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/28/2026     Sehgal, [PERSON_NAME_002] and Barman         $  1,091.40
+05/18/2026     Bath LLC                            $  1,734.70
+06/06/2026     Sankar-Sampath                      $  1,708.03
+05/25/2026     [PERSON_NAME_001], Sandal and Sharaf            $  1,456.66
+06/07/2026     [ORGANIZATION_001]                          $  1,567.24
+06/06/2026     Din Inc                             $    199.94
+05/13/2026     Karpe and Sons                      $    908.11
+05/12/2026     Kamdar-Bali                         $  1,097.29
+05/10/2026     [PERSON_NAME_004]$  1,249.44
+05/27/2026     Shere PLC                           $    298.87
+05/28/2026     Rao-Master                          $    178.37
+
+-------------------------------------------------------------
+Total Charges:      $   11,490.05
+New Balance:        $   12,328.92
+Minimum Payment:    $      246.58
+
+============================================================

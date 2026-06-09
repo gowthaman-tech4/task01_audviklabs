@@ -1,0 +1,55 @@
+============================================================
+                    Pacific Union Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 14, 2026 to May 11, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Herrerafurt Branch
+Opening Balance:   $65,830.37
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/12/2026     Interest Credit                            42.43                   65,787.94
+05/23/2026     NEFT Transfer                                        4,612.25      70,400.19
+05/26/2026     UPI Transfer                                         3,182.07      73,582.26
+06/07/2026     POS Purchase - Ford LLC                 3,882.24                   69,700.02
+06/05/2026     NEFT Transfer                                        1,240.67      70,940.69
+05/24/2026     NEFT Transfer                           1,929.99                   69,010.70
+05/28/2026     Interest Credit                                         26.19      69,036.89
+05/21/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,612.95                   64,423.94
+06/02/2026     UPI Transfer                            2,668.20                   61,755.74
+05/29/2026     Interest Credit                         2,592.70                   59,163.04
+05/14/2026     ATM Withdrawal - Kaylamouth                          3,348.20      62,511.24
+05/31/2026     Interest Credit                         4,920.98                   57,590.26
+05/23/2026     Bill Payment - Utility                               3,264.20      60,854.46
+05/09/2026     ATM Withdrawal - Tracyville             3,927.80                   56,926.66
+05/23/2026     Service Charge                                       2,389.17      59,315.83
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $59,315.83
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Pacific Union Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

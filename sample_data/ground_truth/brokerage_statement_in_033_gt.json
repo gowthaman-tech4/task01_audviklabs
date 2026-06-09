@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_033.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Zinal Chawla",
+      "start": 283,
+      "end": 295
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8912522301",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "type": "PAN",
+      "value": "SQRBY1491F",
+      "start": 355,
+      "end": 365
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6786477709239233",
+      "start": 390,
+      "end": 406
+    },
+    {
+      "type": "EMAIL",
+      "value": "hiralkamdar@example.org",
+      "start": 431,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 66025 75359",
+      "start": 479,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 271, Mand Circle, Ongole 910296",
+      "start": 519,
+      "end": 556
+    }
+  ]
+}

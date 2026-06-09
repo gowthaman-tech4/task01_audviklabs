@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sethi, Prasad and Bir
+TAN of the Deductor:    QQBG04829L
+Address:                H.No. 662, Bhatia Road, Dhanbad-598162
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Michael Lalla
+PAN of the Employee:    BTSFC8162H
+Aadhaar Number:         9289 3195 0234
+Date of Birth:          31/03/1978
+Address:                254, Din Path, Tenali-174547
+Email:                  gnori@example.com
+Mobile:                 +91 85918 26697
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,473,819.23
+   (b) Value of perquisites u/s 17(2)  Rs.      41,483.11
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     296,858.31
+   (b) LTA Exemption                   Rs.      18,452.06
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   2,126,960.92
+5. Tax on Total Income                 Rs.     425,392.18
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      17,015.69
+8. Total Tax Payable                   Rs.     442,407.87
+
+============================================================

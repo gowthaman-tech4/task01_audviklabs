@@ -1,0 +1,55 @@
+============================================================
+                    [ORGANIZATION_003]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 16, 2026 to May 10, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Markstad Branch
+Opening Balance:   $64,013.43
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/10/2026     Service Charge                          3,691.04                   60,322.39
+06/03/2026     Check #4814                                          2,112.47      62,434.86
+06/07/2026     Bill Payment - Utility                    179.11                   62,255.75
+06/02/2026     Online Transfer to [ACCOUNT_NUMBER_003]               432.04                   61,823.71
+05/31/2026     Service Charge                          3,009.85                   58,813.86
+05/18/2026     Check #8908                             3,987.48                   54,826.38
+05/24/2026     Online Transfer to [ACCOUNT_NUMBER_002]             3,985.62                   50,840.76
+05/09/2026     Service Charge                                         259.85      51,100.61
+05/21/2026     ATM Withdrawal - Aliciastad                          3,170.14      54,270.75
+05/21/2026     Check #4310                             3,353.09                   50,917.66
+05/31/2026     UPI Transfer                                         3,649.14      54,566.80
+05/18/2026     Service Charge                                       2,094.42      56,661.22
+05/10/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          2,426.20      59,087.42
+05/13/2026     NEFT Transfer                                        1,456.80      60,544.22
+[ORGANIZATION_002] Charge                                       2,423.89      62,968.11
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $62,968.11
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_027.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekansh Keer",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Bhavini Bahl",
+      "start": 484,
+      "end": 496
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/07/1980",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 816, Ramesh Zila, Nanded-079685",
+      "start": 548,
+      "end": 585
+    },
+    {
+      "type": "PHONE",
+      "value": "91 82644 53018",
+      "start": 606,
+      "end": 620
+    },
+    {
+      "type": "EMAIL",
+      "value": "rkrish@example.com",
+      "start": 641,
+      "end": 659
+    },
+    {
+      "type": "PAN",
+      "value": "AXQTM7536Z",
+      "start": 680,
+      "end": 690
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9173 6863 5175",
+      "start": 711,
+      "end": 725
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jagdish Gole",
+      "start": 772,
+      "end": 784
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/08/1996",
+      "start": 832,
+      "end": 842
+    }
+  ]
+}

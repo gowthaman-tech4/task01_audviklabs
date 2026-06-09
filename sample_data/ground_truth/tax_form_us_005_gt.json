@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_005.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "125-90-0128",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "21-1628316",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Hale Ltd",
+      "start": 353,
+      "end": 361
+    },
+    {
+      "type": "ADDRESS",
+      "value": "076 Edward Ville, Pamelaberg, WA 83607",
+      "start": 365,
+      "end": 403
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jesus Davis",
+      "start": 427,
+      "end": 438
+    },
+    {
+      "type": "ADDRESS",
+      "value": "715 Vicki Plaza Suite 011, East Michaelville, NV 39553",
+      "start": 478,
+      "end": 532
+    }
+  ]
+}

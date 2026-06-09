@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Majumdar, Narayanan and Soni
+TAN of the Deductor:    RVIW51080N
+Address:                H.No. 461, Sarin Path, Bettiah 812225
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Warda Ray
+PAN of the Employee:    PNICE6761S
+Aadhaar Number:         8844 9945 3193
+Date of Birth:          08/01/1998
+Address:                69/852, Sachdev Street, Dewas 890663
+Email:                  lpal@example.net
+Mobile:                 +91 67588 74237
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,642,346.92
+   (b) Value of perquisites u/s 17(2)  Rs.      17,320.97
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     197,081.63
+   (b) LTA Exemption                   Rs.      17,634.26
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,395,265.29
+5. Tax on Total Income                 Rs.     279,053.06
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      11,162.12
+8. Total Tax Payable                   Rs.     290,215.18
+
+============================================================

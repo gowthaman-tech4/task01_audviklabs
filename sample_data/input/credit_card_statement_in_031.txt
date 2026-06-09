@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Chameli Pillai
+Card Number:        4074-4739-8578-1535
+Billing Address:    41/34, Tata Zila, Ongole-689642
+Phone:              +91 83082 42837
+Email:              bhardwajxiti@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 25, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   13,977.18
+Previous Balance:   $    8,028.89
+Payments Received:  $    1,032.95
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/21/2026     Varty Inc                           $  1,743.82
+05/12/2026     Merchant-Doctor                     $  1,701.30
+05/14/2026     Vig-Ben                             $    189.09
+05/22/2026     Desai Group                         $    619.09
+05/19/2026     Tailor-Datta                        $    236.07
+05/26/2026     Chaudhuri-Murthy                    $    731.21
+05/21/2026     Bumb-Mitra                          $    967.33
+05/24/2026     Vora-Guha                           $  1,090.94
+05/29/2026     Borah, Venkataraman and Amble       $    882.09
+
+-------------------------------------------------------------
+Total Charges:      $    8,160.94
+New Balance:        $   15,156.88
+Minimum Payment:    $      303.14
+
+============================================================

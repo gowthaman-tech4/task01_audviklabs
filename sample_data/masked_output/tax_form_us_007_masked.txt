@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   35-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   98,153.02
+2  Federal income tax withheld         $   27,921.98
+3  [ORGANIZATION_005] wages               $   98,153.02
+4  [ORGANIZATION_004] tax withheld        $    6,085.49
+5  [ORGANIZATION_003] wages and tips             $   98,153.02
+6  [ORGANIZATION_002] tax withheld               $    1,423.22
+
+12a Code DD - Health Insurance          $    5,673.59
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: WA
+16 State wages                         $   98,153.02
+17 State income tax                    $    3,122.10
+
+============================================================

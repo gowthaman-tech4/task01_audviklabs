@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_015.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "628, Gara Circle, Karaikudi-060018",
+      "start": 372,
+      "end": 406
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yachana Behl",
+      "start": 424,
+      "end": 436
+    },
+    {
+      "type": "PAN",
+      "value": "UNNHQ7500D",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6590 9946 0702",
+      "start": 462,
+      "end": 476
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/03/1986",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "type": "ADDRESS",
+      "value": "40/215, Viswanathan Ganj, New Delhi 946843",
+      "start": 512,
+      "end": 554
+    },
+    {
+      "type": "PHONE",
+      "value": "91 70258 71487",
+      "start": 562,
+      "end": 576
+    },
+    {
+      "type": "EMAIL",
+      "value": "dixitekta@example.com",
+      "start": 584,
+      "end": 605
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Janya Keer",
+      "start": 642,
+      "end": 652
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 91301 36996",
+      "start": 660,
+      "end": 675
+    },
+    {
+      "type": "EMAIL",
+      "value": "tanmayi25@example.org",
+      "start": 683,
+      "end": 704
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "28154254427572",
+      "start": 965,
+      "end": 979
+    }
+  ]
+}

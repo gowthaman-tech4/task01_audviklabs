@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2930521
+Policy Type: Life Insurance
+Date of Issue: June 27, 2025
+
+Dear Darika Prakash,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Naksh Konda
+Date of Birth:      02/23/1985
+Address:            875, Seshadri Nagar, Serampore 988852
+Phone:              +91 86981 82963
+Email:              umang70@example.org
+PAN:                XNSPO2557R
+Aadhaar:            7120 2967 0221
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Keya Agate
+Relationship:       Father
+Nominee DOB:        11/22/1953
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    659,741.57
+Annual Premium:     $     22,570.79
+Policy Term:        20 years
+Premium Payment:    Monthly
+Risk Commencement:  February 27, 2026
+Maturity Date:      July 11, 2046
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

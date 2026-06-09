@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_022.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ubika Sami",
+      "start": 350,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5445495760",
+      "start": 380,
+      "end": 390
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "CNRB0045015",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PAN",
+      "value": "GKFFL0895V",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 76112 89585",
+      "start": 471,
+      "end": 486
+    },
+    {
+      "type": "EMAIL",
+      "value": "thomas69@example.net",
+      "start": 506,
+      "end": 526
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/30/2001",
+      "start": 546,
+      "end": 556
+    },
+    {
+      "type": "ADDRESS",
+      "value": "71/681, Deol Circle, Shimoga 663085",
+      "start": 576,
+      "end": 611
+    }
+  ]
+}

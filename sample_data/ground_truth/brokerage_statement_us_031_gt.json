@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_031.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Brown",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9086903318",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "493-30-9757",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "fdominguez@example.org",
+      "start": 389,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "856-652-8663x9746",
+      "start": 436,
+      "end": 453
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 7272 Box 0638, DPO AE 64391",
+      "start": 478,
+      "end": 510
+    }
+  ]
+}

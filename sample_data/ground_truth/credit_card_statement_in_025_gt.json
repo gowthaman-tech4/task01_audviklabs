@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_025.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tripti Brar",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4148-8257-5954-8253",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "73/886, Chopra Marg, Bhiwandi 095973",
+      "start": 291,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 95072 59933",
+      "start": 348,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "haurora@example.net",
+      "start": 384,
+      "end": 403
+    }
+  ]
+}

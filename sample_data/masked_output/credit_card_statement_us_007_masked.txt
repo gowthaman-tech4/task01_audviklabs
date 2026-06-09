@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_010]
+Card Number:        [AADHAAR_001]-0637
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 10, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   24,083.67
+Previous Balance:   $    9,033.50
+Payments Received:  $      964.13
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+[PERSON_NAME_009], [PERSON_NAME_008] and [PERSON_NAME_007]          $    398.06
+06/04/2026     [PERSON_NAME_006], [PERSON_NAME_005] and Russo            $    489.91
+05/21/2026     Wyatt LLC                           $    523.20
+05/12/2026     Wilkins LLC                         $     62.79
+05/23/2026     Sampson-Lopez                       $  1,177.09
+05/14/2026     Morales, [ORGANIZATION_007] and [ORGANIZATION_006]1,932.49
+05/30/2026     [PERSON_NAME_004]$    963.21
+06/03/2026     [PERSON_NAME_003], [PERSON_NAME_002] and [PERSON_NAME_001]           $  1,252.20
+05/21/2026     Chase Inc                           $     30.57
+05/12/2026     [ORGANIZATION_005]$    788.51
+05/09/2026     [ORGANIZATION_004]                          $    457.09
+05/31/2026     [ORGANIZATION_003]                          $  1,970.04
+05/19/2026     Lopez Ltd                           $    506.23
+05/18/2026     [ORGANIZATION_002]$  1,971.80
+06/03/2026     [ORGANIZATION_001]$    137.62
+
+-------------------------------------------------------------
+Total Charges:      $   12,660.81
+[ADDRESS_002]:        $   20,730.18
+Minimum Payment:    $      414.60
+
+============================================================

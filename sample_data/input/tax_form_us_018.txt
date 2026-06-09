@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   627-04-2687
+
+b  Employer Identification Number (EIN)
+   31-8836187
+
+c  Employer's Name, Address, and ZIP Code
+   Lloyd, Martin and Noble
+   30180 Madison Crossroad Apt. 280, Lake Mary, TN 28704
+
+e  Employee's Name
+   Brian Hopkins
+
+f  Employee's Address and ZIP Code
+   2095 Robert Ridge, New Jacob, TN 45415
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   55,749.99
+2  Federal income tax withheld         $   13,187.28
+3  Social Security wages               $   55,749.99
+4  Social Security tax withheld        $    3,456.50
+5  Medicare wages and tips             $   55,749.99
+6  Medicare tax withheld               $      808.37
+
+12a Code DD - Health Insurance          $   14,030.81
+
+--- STATE TAX INFORMATION ---
+
+15 State: NJ
+16 State wages                         $   55,749.99
+17 State income tax                    $    2,442.16
+
+============================================================

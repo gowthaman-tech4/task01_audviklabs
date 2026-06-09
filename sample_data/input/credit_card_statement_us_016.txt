@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Edwin Rodriguez
+Card Number:        4401-3743-0782-9099
+Billing Address:    1635 Robert Ford, Tapiaborough, AL 54349
+Phone:              487-520-2934x1026
+Email:              nicholasrobinson@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 10, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $    9,767.30
+Previous Balance:   $    3,491.15
+Payments Received:  $    1,182.37
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/06/2026     Clark and Sons                      $    525.96
+05/21/2026     Mckinney-Perez                      $  1,950.58
+05/31/2026     Poole-Howard                        $    484.63
+05/09/2026     Bryan, Smith and Jarvis             $    590.47
+06/03/2026     Garner-Martinez                     $    379.53
+05/21/2026     Mason-Anderson                      $  1,853.06
+06/03/2026     Smith Ltd                           $  1,300.98
+05/11/2026     Collins, Robinson and Ball          $  1,029.90
+06/07/2026     Mitchell, Gutierrez and Steven      $    326.03
+
+-------------------------------------------------------------
+Total Charges:      $    8,441.14
+New Balance:        $   10,749.92
+Minimum Payment:    $      215.00
+
+============================================================

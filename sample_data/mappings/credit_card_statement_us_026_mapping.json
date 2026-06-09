@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_us_026.txt",
+  "timestamp": "2026-06-09T07:55:13.567141",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kayla Gentry",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "472719867349",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "68806 Alexander Burg Suite 652, Port Lisafurt, IN 17582",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 292,
+        "end": 347
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(459)644-9089",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 368,
+        "end": 381
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "craig81@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bush",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 978,
+        "end": 982
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Baker",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1033,
+        "end": 1038
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Faulkner-Thomas                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 769
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/13/2026     Hernandez",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 805
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Mccoy",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1017,
+        "end": 1022
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Rodriguez, Elliott and Lopez        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1136,
+        "end": 1172
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Peterson-Carr                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1199,
+        "end": 1235
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_041.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "221-06-8538",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "99-4328745",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Williams PLC",
+      "start": 353,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "13459 Debra Pike, Millerstad, TN 13553",
+      "start": 369,
+      "end": 407
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Victor Hoover",
+      "start": 431,
+      "end": 444
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5970 Roth Viaduct Suite 369, West Rhondatown, RI 30385",
+      "start": 484,
+      "end": 538
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_028.txt",
+  "timestamp": "2026-06-09T08:02:44.089509",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Garg and Sons",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "151351",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 449,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 470,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Qabil Oommen",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 507,
+        "end": 519
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "QITJV5197C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 544,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5306 1813 7341",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 579,
+        "end": 593
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/08/1970",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 618,
+        "end": 628
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "457273",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 681,
+        "end": 687
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "balangayathri@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 712,
+        "end": 737
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 69865 41391",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 762,
+        "end": 777
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 790,
+        "end": 801
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 806,
+        "end": 818
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Barad Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Walia Street",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 696,
+        "end": 708
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Mango",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 710,
+        "end": 715
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1073,
+        "end": 1107
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1186,
+        "end": 1214
+      }
+    }
+  ]
+}

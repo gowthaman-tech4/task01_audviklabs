@@ -1,0 +1,59 @@
+============================================================
+                    Saraswat Cooperative Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 20, 2026 to May 29, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Lekha Vyas
+Account Number:    5636835407679
+IFSC Code:         UBIN0129659
+PAN:               BKLJA3388A
+Phone:             +91 84988 29435
+Email:             jkara@example.net
+Date of Birth:     12/09/1985
+Address:           71/623, Buch Nagar, Mehsana 665605
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Barasat Branch
+Opening Balance:   $55,359.48
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/17/2026     Direct Deposit - JZS Corp               2,771.63                   52,587.85
+06/07/2026     UPI Transfer                            1,893.37                   50,694.48
+06/04/2026     Direct Deposit - LIF Corp                            3,692.10      54,386.58
+05/13/2026     POS Purchase - Aurora, Rajagopalan and A                  2,303.68      56,690.26
+05/26/2026     Bill Payment - Utility                  4,873.28                   51,816.98
+05/25/2026     Online Transfer to 60555188                            135.05      51,952.03
+05/30/2026     ATM Withdrawal - Belgaum                             3,342.35      55,294.38
+05/26/2026     Direct Deposit - MZI Corp               1,149.30                   54,145.08
+05/26/2026     Service Charge                                         414.63      54,559.71
+05/20/2026     Bill Payment - Utility                                  45.22      54,604.93
+05/24/2026     Service Charge                                       2,080.40      56,685.33
+05/31/2026     POS Purchase - Sawhney LLC              2,410.49                   54,274.84
+05/10/2026     UPI Transfer                              147.78                   54,127.06
+06/03/2026     ATM Withdrawal - Pune                     160.00                   53,967.06
+05/26/2026     Interest Credit                         3,195.08                   50,771.98
+05/22/2026     UPI Transfer                                           500.48      51,272.46
+05/29/2026     ATM Withdrawal - Chapra                              4,980.49      56,252.95
+05/17/2026     POS Purchase - Kant, Borde and Devi       581.28                   55,671.67
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $55,671.67
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Saraswat Cooperative Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_024.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "244-72-3401",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "62-2006870",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Thomas, Peters and Jenkins",
+      "start": 353,
+      "end": 379
+    },
+    {
+      "type": "ADDRESS",
+      "value": "43270 James Summit, Brianbury, WY 99131",
+      "start": 383,
+      "end": 422
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Patrick Vega",
+      "start": 446,
+      "end": 458
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2905 Troy Roads, New Samanthamouth, VT 94767",
+      "start": 498,
+      "end": 542
+    }
+  ]
+}

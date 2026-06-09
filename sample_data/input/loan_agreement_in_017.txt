@@ -1,0 +1,58 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-816083
+Date of Agreement: March 17, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Continental Credit Corporation
+Address: 82/43, Kari Road, Bijapur-086762
+
+BORROWER:
+Name: Yashasvi Dubey
+PAN: WOZAI9913X
+Aadhaar: 2576 4131 2408
+Date of Birth: 05/11/2002
+Address: 14/13, Bhatia Path, Ratlam-464678
+Phone: 91 76980 34673
+Email: balasubramanianchakradev@example.com
+
+CO-BORROWER (if applicable):
+Name: Barkha Sethi
+Phone: +91 98570 03230
+Email: siddharth16@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Personal Loan
+Loan Amount:                $     46,269.93
+Interest Rate:              10.83% per annum
+Loan Tenure:                240 months
+EMI Amount:                 $        472.25
+Disbursement Account No:    34371867761630
+Disbursement Date:          May 11, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 240 equal monthly installments of $472.25.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

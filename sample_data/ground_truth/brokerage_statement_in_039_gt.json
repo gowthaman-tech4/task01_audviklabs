@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_039.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Rachita Kar",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4289694161",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "VYTJZ2018Y",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0212370226926919",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "urvivig@example.net",
+      "start": 430,
+      "end": 449
+    },
+    {
+      "type": "PHONE",
+      "value": "91 65861 37229",
+      "start": 474,
+      "end": 488
+    },
+    {
+      "type": "ADDRESS",
+      "value": "92/632, Grover Zila, Khammam-522425",
+      "start": 513,
+      "end": 548
+    }
+  ]
+}

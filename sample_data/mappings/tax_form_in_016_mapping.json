@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_016.txt",
+  "timestamp": "2026-06-09T07:59:48.715016",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Hans",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 359,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "527280",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 468,
+        "end": 474
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 489,
+        "end": 500
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Laksh Pau",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 526,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "AVILU6801B",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 560,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "9286 0195 7652",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 595,
+        "end": 609
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "22/06/1969",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 634,
+        "end": 644
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "949817",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 696,
+        "end": 702
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "yachanaprabhu@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 727,
+        "end": 752
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 92364 22458",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 777,
+        "end": 791
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 804,
+        "end": 815
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 820,
+        "end": 832
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Nagarajan",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 354,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sachdev Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 464,
+        "end": 476
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Thrissur",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 478,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1100,
+        "end": 1134
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1213,
+        "end": 1241
+      }
+    }
+  ]
+}

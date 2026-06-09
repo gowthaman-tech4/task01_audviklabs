@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_001.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "42/629, Raghavan Path, Pallavaram-359969",
+      "start": 372,
+      "end": 412
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Reyansh Puri",
+      "start": 430,
+      "end": 442
+    },
+    {
+      "type": "PAN",
+      "value": "DJMHG7358K",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5539 1635 3547",
+      "start": 468,
+      "end": 482
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/19/1987",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "type": "ADDRESS",
+      "value": "935, Patel Circle, Buxar-766913",
+      "start": 518,
+      "end": 549
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 95899 12559",
+      "start": 557,
+      "end": 572
+    },
+    {
+      "type": "EMAIL",
+      "value": "sathvikmisra@example.org",
+      "start": 580,
+      "end": 604
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Indira Parekh",
+      "start": 641,
+      "end": 654
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 71231 39160",
+      "start": 662,
+      "end": 677
+    },
+    {
+      "type": "EMAIL",
+      "value": "noahrout@example.com",
+      "start": 685,
+      "end": 705
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "73269355474473",
+      "start": 965,
+      "end": 979
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "document": "brokerage_statement_in_034.txt",
+  "timestamp": "2026-06-09T07:54:49.982428",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "PAN": 1,
+    "EMAIL": 1,
+    "PHONE": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Forum Warrior",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 296
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "3944627349",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 321,
+        "end": 331
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UFSJH1873Z",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 356,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "0045790141510101",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "csrinivasan@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 432,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 60175 30938",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "180631",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 561
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Krishnamurthy Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 531,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 789,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 883,
+        "end": 911
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 977,
+        "end": 1001
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1080,
+        "end": 1095
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1165,
+        "end": 1187
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1259,
+        "end": 1278
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_020.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Amber Lang",
+      "start": 280,
+      "end": 290
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7585162556",
+      "start": 315,
+      "end": 325
+    },
+    {
+      "type": "SSN",
+      "value": "549-45-6243",
+      "start": 350,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "ohernandez@example.net",
+      "start": 386,
+      "end": 408
+    },
+    {
+      "type": "PHONE",
+      "value": "894-499-8756x259",
+      "start": 433,
+      "end": 449
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9961 Franco Stravenue, Susanview, PA 60127",
+      "start": 474,
+      "end": 516
+    }
+  ]
+}

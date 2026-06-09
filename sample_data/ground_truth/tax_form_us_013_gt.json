@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_013.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "374-42-9802",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "87-4214745",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Soto, Morris and Obrien",
+      "start": 353,
+      "end": 376
+    },
+    {
+      "type": "ADDRESS",
+      "value": "911 Ford Locks Suite 721, Kellystad, MH 59564",
+      "start": 380,
+      "end": 425
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ashley Nash",
+      "start": 449,
+      "end": 460
+    },
+    {
+      "type": "ADDRESS",
+      "value": "50756 Gonzalez Trail Suite 021, West Saraside, LA 68347",
+      "start": 500,
+      "end": 555
+    }
+  ]
+}

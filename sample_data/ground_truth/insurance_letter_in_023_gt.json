@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_023.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Girik Aurora",
+      "start": 312,
+      "end": 324
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Januja Hari",
+      "start": 481,
+      "end": 492
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/02/1969",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "689, Goyal Ganj, Bellary-674537",
+      "start": 544,
+      "end": 575
+    },
+    {
+      "type": "PHONE",
+      "value": "91 78377 94159",
+      "start": 596,
+      "end": 610
+    },
+    {
+      "type": "EMAIL",
+      "value": "tanishchandra@example.net",
+      "start": 631,
+      "end": 656
+    },
+    {
+      "type": "PAN",
+      "value": "SJJLJ6838P",
+      "start": 677,
+      "end": 687
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5266 7868 1263",
+      "start": 708,
+      "end": 722
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Varenya Borde",
+      "start": 769,
+      "end": 782
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/28/1969",
+      "start": 830,
+      "end": 840
+    }
+  ]
+}

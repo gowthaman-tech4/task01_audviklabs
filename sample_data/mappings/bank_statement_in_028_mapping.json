@@ -1,0 +1,160 @@
+{
+  "document": "bank_statement_in_028.txt",
+  "timestamp": "2026-06-09T07:53:50.273601",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Abhimanyu Chanda",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 347,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "4059694100",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "HDFC0096861",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 413,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "DIYAA7488V",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 444,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 90535 03450",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 474,
+        "end": 489
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "gangavohra@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 509,
+        "end": 531
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/30/1986",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 551,
+        "end": 561
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "10, Chauhan Street, Malegaon 042257",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 581,
+        "end": 616
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "93199393",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 986,
+        "end": 994
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "86850360",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1538,
+        "end": 1546
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "09631183",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1910,
+        "end": 1918
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Purchase - Banik",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1616,
+        "end": 1632
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Nadkarni",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1634,
+        "end": 1642
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Paul Schultz
+Account Number:         7522558520
+SSN:                    154-28-7433
+Email:                  robin78@example.net
+Phone:                  001-398-843-0037x5502
+Correspondence Address: 606 Ortega Haven Apt. 261, Danielleborough, DE 89213
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          410 $    477.17 $    460.21 $  188,686.34 $   -6,953.36
+AAPL     Apple Inc.                   469 $    139.28 $    191.43 $   89,782.21 $   24,459.89
+AMZN     Amazon.com Inc.               88 $    136.16 $    156.03 $   13,730.32 $    1,748.24
+NVDA     NVIDIA Corp.                 395 $    661.71 $    819.91 $  323,864.56 $   62,489.11
+MSFT     Microsoft Corp.               28 $    364.17 $    354.33 $    9,921.23 $     -275.53
+GOOGL    Alphabet Inc.                 68 $    141.62 $    145.89 $    9,920.49 $      290.33
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  635,905.15
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/28/2026     BUY      MSFT         11 $    274.09 $    3,014.99
+03/10/2026     DIV      AMZN         53 $    463.53 $   24,567.09
+03/24/2026     SELL     META          5 $    120.49 $      602.45
+06/05/2026     DIV      GOOGL        96 $    405.63 $   38,940.48
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

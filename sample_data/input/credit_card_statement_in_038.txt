@@ -1,0 +1,37 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Isha Borde
+Card Number:        4297-5624-1542-8773
+Billing Address:    18/62, Randhawa Zila, Guwahati 770859
+Phone:              91 80174 71802
+Email:              aadiiyer@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 01, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   42,447.50
+Previous Balance:   $   10,447.18
+Payments Received:  $    4,805.74
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/09/2026     Bandi LLC                           $  1,744.72
+05/16/2026     Kohli-Kurian                        $  1,212.43
+05/28/2026     Thaman-Deshmukh                     $  1,113.91
+05/19/2026     Barad-Tak                           $  1,605.10
+05/25/2026     Dora, Bali and Sarkar               $    216.92
+05/23/2026     Baria-Thaman                        $    794.67
+
+-------------------------------------------------------------
+Total Charges:      $    6,687.75
+New Balance:        $   12,329.19
+Minimum Payment:    $      246.58
+
+============================================================

@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_038.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Nidhi Muni",
+      "start": 283,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4517216387",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "PAN",
+      "value": "ZBCBZ3524V",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0872997163286473",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "type": "EMAIL",
+      "value": "nicholaskumer@example.org",
+      "start": 429,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 98057 02443",
+      "start": 479,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "119, Nadig Road, Anand 611723",
+      "start": 519,
+      "end": 548
+    }
+  ]
+}

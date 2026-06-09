@@ -1,0 +1,135 @@
+{
+  "document": "brokerage_statement_us_005.txt",
+  "timestamp": "2026-06-09T07:54:52.882875",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Randy Mckenzie",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 294
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "0820879223",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 319,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "105-47-3413",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "davisjasmine@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 414
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "344.396.3053",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 439,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "USNV Gibson, FPO AA 38273",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 476,
+        "end": 501
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 725
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 815
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1167,
+        "end": 1186
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1629,
+        "end": 1633
+      }
+    }
+  ]
+}

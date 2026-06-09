@@ -1,0 +1,42 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Nidhi Muni
+Account Number:         4517216387
+PAN:                    ZBCBZ3524V
+Demat Account:          0872997163286473
+Email:                  nicholaskumer@example.org
+Phone:                  +91 98057 02443
+Correspondence Address: 119, Nadig Road, Anand 611723
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+AMZN     Amazon.com Inc.              129 $    170.23 $    174.07 $   22,454.54 $      494.87
+JPM      JPMorgan Chase & Co.         238 $    149.52 $    186.57 $   44,403.77 $    8,818.01
+MSFT     Microsoft Corp.              426 $    343.61 $    390.18 $  166,216.03 $   19,838.17
+GOOGL    Alphabet Inc.                479 $    128.56 $    137.53 $   65,875.62 $    4,295.38
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  298,949.96
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/01/2026     SELL     MSFT          9 $    354.25 $    3,188.25
+05/11/2026     BUY      MSFT         87 $    458.11 $   39,855.57
+04/09/2026     BUY      JPM          99 $    340.69 $   33,728.31
+05/23/2026     BUY      AMZN          2 $    217.85 $      435.70
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

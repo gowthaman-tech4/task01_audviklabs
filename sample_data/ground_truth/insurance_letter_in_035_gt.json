@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_035.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Manan Ranganathan",
+      "start": 317,
+      "end": 334
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Faras Kanda",
+      "start": 491,
+      "end": 502
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/28/1966",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 985, Gulati, Nandyal-652870",
+      "start": 554,
+      "end": 587
+    },
+    {
+      "type": "PHONE",
+      "value": "91 62027 53599",
+      "start": 608,
+      "end": 622
+    },
+    {
+      "type": "EMAIL",
+      "value": "anirudh67@example.net",
+      "start": 643,
+      "end": 664
+    },
+    {
+      "type": "PAN",
+      "value": "YESCN3159L",
+      "start": 685,
+      "end": 695
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2372 4870 4123",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Viraj Sheth",
+      "start": 777,
+      "end": 788
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/06/1966",
+      "start": 838,
+      "end": 848
+    }
+  ]
+}

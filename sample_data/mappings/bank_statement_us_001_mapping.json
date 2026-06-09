@@ -1,0 +1,105 @@
+{
+  "document": "bank_statement_us_001.txt",
+  "timestamp": "2026-06-09T07:53:54.191457",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Danielle Taylor",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "172117550026",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 376,
+        "end": 388
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "303-92-8929",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 408,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "581-296-0013",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 439,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jennifermiles@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 471,
+        "end": 496
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/08/1970",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 516,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "26542 Susan Junction Apt. 161, Melanieview, AS 06196",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 546,
+        "end": 598
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "95413982",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1616,
+        "end": 1624
+      }
+    }
+  ]
+}

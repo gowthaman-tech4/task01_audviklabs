@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   145-65-8471
+
+b  Employer Identification Number (EIN)
+   78-6509422
+
+c  Employer's Name, Address, and ZIP Code
+   Hunter PLC
+   7405 Anderson Unions, Port Robertland, PA 06150
+
+e  Employee's Name
+   Heather Calhoun
+
+f  Employee's Address and ZIP Code
+   Unit 3540 Box 4825, DPO AP 50527
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  117,549.60
+2  Federal income tax withheld         $   31,777.85
+3  Social Security wages               $  117,549.60
+4  Social Security tax withheld        $    7,288.08
+5  Medicare wages and tips             $  117,549.60
+6  Medicare tax withheld               $    1,704.47
+
+12a Code DD - Health Insurance          $    6,290.63
+
+--- STATE TAX INFORMATION ---
+
+15 State: OR
+16 State wages                         $  117,549.60
+17 State income tax                    $    5,656.61
+
+============================================================

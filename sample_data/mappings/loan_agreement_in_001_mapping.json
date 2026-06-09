@@ -1,0 +1,248 @@
+{
+  "document": "loan_agreement_in_001.txt",
+  "timestamp": "2026-06-09T07:55:31.448233",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "246874",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "359969",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 406,
+        "end": 412
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Reyansh Puri",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 430,
+        "end": 442
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "DJMHG7358K",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 448,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5539 1635 3547",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 468,
+        "end": 482
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/19/1987",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 498,
+        "end": 508
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "766913",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 543,
+        "end": 549
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 95899 12559",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 557,
+        "end": 572
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "sathvikmisra@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 580,
+        "end": 604
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Indira Parekh",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 641,
+        "end": 654
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 71231 39160",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 662,
+        "end": 677
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "noahrout@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 685,
+        "end": 705
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "73269355474473",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Raghavan Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Patel Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 549,
+        "end": 561
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1039,
+        "end": 1044
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1049,
+        "end": 1059
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1072,
+        "end": 1080
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1342,
+        "end": 1350
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1441,
+        "end": 1447
+      }
+    }
+  ]
+}

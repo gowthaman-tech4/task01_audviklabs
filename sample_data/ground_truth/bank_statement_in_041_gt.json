@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_041.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Bhavini Kaur",
+      "start": 340,
+      "end": 352
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9194248644832",
+      "start": 372,
+      "end": 385
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0936535",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PAN",
+      "value": "WTZAL4748T",
+      "start": 436,
+      "end": 446
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 65669 61861",
+      "start": 466,
+      "end": 481
+    },
+    {
+      "type": "EMAIL",
+      "value": "omistry@example.com",
+      "start": 501,
+      "end": 520
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/24/1985",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "type": "ADDRESS",
+      "value": "653, Johal Road, Nagercoil-539534",
+      "start": 570,
+      "end": 603
+    }
+  ]
+}

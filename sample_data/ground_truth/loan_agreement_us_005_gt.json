@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_005.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "666 Mullins Spring, Lake Sandra, NY 29924",
+      "start": 372,
+      "end": 413
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jason Lopez",
+      "start": 431,
+      "end": 442
+    },
+    {
+      "type": "SSN",
+      "value": "495-37-9603",
+      "start": 448,
+      "end": 459
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/28/2002",
+      "start": 475,
+      "end": 485
+    },
+    {
+      "type": "ADDRESS",
+      "value": "618 Erickson Views, Ashleyport, NY 39656",
+      "start": 495,
+      "end": 535
+    },
+    {
+      "type": "PHONE",
+      "value": "001-736-799-0206x82131",
+      "start": 543,
+      "end": 565
+    },
+    {
+      "type": "EMAIL",
+      "value": "ryan08@example.org",
+      "start": 573,
+      "end": 591
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "William Faulkner",
+      "start": 628,
+      "end": 644
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-706-975-9992x4534",
+      "start": 652,
+      "end": 672
+    },
+    {
+      "type": "EMAIL",
+      "value": "betty10@example.org",
+      "start": 680,
+      "end": 699
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "76277526971735",
+      "start": 960,
+      "end": 974
+    }
+  ]
+}

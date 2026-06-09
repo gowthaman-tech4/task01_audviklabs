@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   244-72-3401
+
+b  Employer Identification Number (EIN)
+   62-2006870
+
+c  Employer's Name, Address, and ZIP Code
+   Thomas, Peters and Jenkins
+   43270 James Summit, Brianbury, WY 99131
+
+e  Employee's Name
+   Patrick Vega
+
+f  Employee's Address and ZIP Code
+   2905 Troy Roads, New Samanthamouth, VT 94767
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  231,092.36
+2  Federal income tax withheld         $   41,468.60
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  231,092.36
+6  Medicare tax withheld               $    3,350.84
+
+12a Code DD - Health Insurance          $    6,149.59
+
+--- STATE TAX INFORMATION ---
+
+15 State: VI
+16 State wages                         $  231,092.36
+17 State income tax                    $    9,642.52
+
+============================================================

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   125-90-0128
+
+b  Employer Identification Number (EIN)
+   21-1628316
+
+c  Employer's Name, Address, and ZIP Code
+   Hale Ltd
+   076 Edward Ville, Pamelaberg, WA 83607
+
+e  Employee's Name
+   Jesus Davis
+
+f  Employee's Address and ZIP Code
+   715 Vicki Plaza Suite 011, East Michaelville, NV 39553
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  137,294.14
+2  Federal income tax withheld         $   21,025.24
+3  Social Security wages               $  137,294.14
+4  Social Security tax withheld        $    8,512.24
+5  Medicare wages and tips             $  137,294.14
+6  Medicare tax withheld               $    1,990.77
+
+12a Code DD - Health Insurance          $    7,506.45
+
+--- STATE TAX INFORMATION ---
+
+15 State: WA
+16 State wages                         $  137,294.14
+17 State income tax                    $   11,331.05
+
+============================================================

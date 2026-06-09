@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_011.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Onkar Pal",
+      "start": 341,
+      "end": 350
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "012699835448",
+      "start": 370,
+      "end": 382
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "ICIC0861522",
+      "start": 402,
+      "end": 413
+    },
+    {
+      "type": "PAN",
+      "value": "UEKAA0686J",
+      "start": 433,
+      "end": 443
+    },
+    {
+      "type": "PHONE",
+      "value": "91 80092 43827",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "type": "EMAIL",
+      "value": "calebparmar@example.org",
+      "start": 497,
+      "end": 520
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/13/1994",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "type": "ADDRESS",
+      "value": "72/362, Jha Road, Siwan-386300",
+      "start": 570,
+      "end": 600
+    }
+  ]
+}

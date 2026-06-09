@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_008.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "157-02-1401",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "64-1123284",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Larsen Inc",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 6908, Box 5701, APO AP 68463",
+      "start": 367,
+      "end": 399
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jason Mccormick",
+      "start": 423,
+      "end": 438
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2573 Williams Pine, Jaredview, NM 14699",
+      "start": 478,
+      "end": 517
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+============================================================
+                    Continental Savings Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 01, 2026 to May 11, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_002]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            West Melissastad Branch
+Opening Balance:   $88,878.98
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/21/2026     Direct Deposit - UCG Corp                 854.41                   88,024.57
+05/19/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          2,762.42      90,786.99
+05/31/2026     Bill Payment - Utility                  3,960.76                   86,826.23
+06/04/2026     ATM Withdrawal - Bradfordhaven          2,778.77                   84,047.46
+05/27/2026     Interest Credit                                      2,220.34      86,267.80
+05/29/2026     NEFT Transfer                           2,208.57                   84,059.23
+05/31/2026     NEFT Transfer                                        1,230.02      85,289.25
+05/20/2026     POS Purchase - Smith-Barnes                            987.27      86,276.52
+05/13/2026     NEFT Transfer                             654.69                   85,621.83
+05/29/2026     POS Purchase - Dawson-Black             1,072.94                   84,548.89
+05/09/2026     Interest Credit                         1,392.40                   83,156.49
+05/19/2026     Interest Credit                                      3,494.32      86,650.81
+05/19/2026     Direct Deposit - LBW Corp               [ADDRESS_001]                   82,270.66
+05/21/2026     Check #6085                                          3,257.76      85,528.42
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $85,528.42
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Continental Savings Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_009].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_008]          352 $    376.77 $    445.94 $  156,971.96 $   24,348.92
+[ORGANIZATION_007]                 253 $    541.97 $    723.15 $  182,957.93 $   45,839.52
+[ORGANIZATION_006]                   144 $    126.49 $    177.88 $   25,614.11 $    7,399.55
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  365,544.00
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/21/2026     SELL     AAPL         58 $    330.65 $   19,177.70
+05/29/2026     BUY      [ORGANIZATION_005]         58 $    142.85 $    8,285.30
+04/22/2026     DIV      AAPL         38 $    277.72 $   10,553.36
+06/01/2026     BUY      [ORGANIZATION_004]         55 $    446.12 $   24,536.60
+03/18/2026     SELL     [ORGANIZATION_003]         14 $    280.86 $    3,932.04
+05/19/2026     DIV      [ORGANIZATION_002]         99 $    298.80 $   29,581.20
+05/17/2026     SELL     [ORGANIZATION_001]         57 $    412.95 $   23,538.15
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

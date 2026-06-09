@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_008.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jonathan Krishna",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4503-8202-4105-7780",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 030, Sangha Street, Katihar 723063",
+      "start": 296,
+      "end": 336
+    },
+    {
+      "type": "PHONE",
+      "value": "91 78061 98020",
+      "start": 357,
+      "end": 371
+    },
+    {
+      "type": "EMAIL",
+      "value": "rchawla@example.com",
+      "start": 392,
+      "end": 411
+    }
+  ]
+}

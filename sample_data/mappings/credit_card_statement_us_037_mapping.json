@@ -1,0 +1,234 @@
+{
+  "document": "credit_card_statement_us_037.txt",
+  "timestamp": "2026-06-09T07:55:15.529878",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 10,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_010]",
+      "original": "John Barr",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "418889508470",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 249,
+        "end": 263
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "75795 Robert Grove, North Joeburgh, LA 75121",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 289,
+        "end": 333
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "555-291-6823",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "dli@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 402
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Conley",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1024,
+        "end": 1030
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Beck",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1163,
+        "end": 1167
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Diaz",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1267,
+        "end": 1271
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Garcia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1273,
+        "end": 1279
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Wright-Cruz                         ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1330,
+        "end": 1366
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Collins",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1529,
+        "end": 1536
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1541,
+        "end": 1546
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1645,
+        "end": 1653
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Banks",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1655,
+        "end": 1660
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_011]",
+      "original": "Jackson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 986,
+        "end": 993
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Thompson",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1132,
+        "end": 1140
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "06/05/2026     Frank PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1184,
+        "end": 1208
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Franklin",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1303,
+        "end": 1311
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Crawford",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1519,
+        "end": 1527
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Rivera",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1604,
+        "end": 1610
+      }
+    }
+  ]
+}

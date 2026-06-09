@@ -1,0 +1,193 @@
+{
+  "document": "bank_statement_us_008.txt",
+  "timestamp": "2026-06-09T07:53:56.024915",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Anna Orr",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "719531757718",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "131-95-8080",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 405,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(265)996-9390",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 436,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "reginagross@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 469,
+        "end": 492
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/19/1965",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 512,
+        "end": 522
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "621 Hamilton Club, Davisstad, GA 52899",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 542,
+        "end": 580
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "79829807",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1238,
+        "end": 1246
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Cook",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1612,
+        "end": 1616
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Robins",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1621,
+        "end": 1627
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "68652542",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2163,
+        "end": 2171
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "64886925",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2347,
+        "end": 2355
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Olson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2424,
+        "end": 2440
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jackson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2442,
+        "end": 2449
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Purchase - Clayton-Davis                         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1305,
+        "end": 1354
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/04/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2550,
+        "end": 2572
+      }
+    }
+  ]
+}

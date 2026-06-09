@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_015.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Wahab Lata",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4865-2423-6832-1539",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "25/034, Natt Street, Bokaro-874771",
+      "start": 290,
+      "end": 324
+    },
+    {
+      "type": "PHONE",
+      "value": "91 72441 14270",
+      "start": 345,
+      "end": 359
+    },
+    {
+      "type": "EMAIL",
+      "value": "qgupta@example.org",
+      "start": 380,
+      "end": 398
+    }
+  ]
+}

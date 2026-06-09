@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_021.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Becky Smith",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Lisa Bird",
+      "start": 484,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/03/1982",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2405 White Centers, Erinview, OR 16684",
+      "start": 545,
+      "end": 583
+    },
+    {
+      "type": "PHONE",
+      "value": "(683)863-5789",
+      "start": 604,
+      "end": 617
+    },
+    {
+      "type": "EMAIL",
+      "value": "tmorse@example.org",
+      "start": 638,
+      "end": 656
+    },
+    {
+      "type": "SSN",
+      "value": "149-02-8555",
+      "start": 677,
+      "end": 688
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Melissa Burke",
+      "start": 735,
+      "end": 748
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/22/1964",
+      "start": 796,
+      "end": 806
+    }
+  ]
+}

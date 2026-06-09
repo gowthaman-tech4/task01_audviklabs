@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-4358056
+Policy Type: Home Insurance
+Date of Issue: November 05, 2025
+
+Dear Ryan Mangal,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Kashvi Dass
+Date of Birth:      12/12/1985
+Address:            H.No. 36, Mohan Chowk, Jalandhar-499072
+Phone:              +91 93377 39444
+Email:              nidra83@example.org
+PAN:                MQBHK4609U
+Aadhaar:            7747 9507 7397
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Janaki Sibal
+Relationship:       Father
+Nominee DOB:        10/23/1945
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,536,383.91
+Annual Premium:     $      4,576.28
+Policy Term:        30 years
+Premium Payment:    Annual
+Risk Commencement:  April 08, 2026
+Maturity Date:      October 13, 2051
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Hredhaan Cherian
+Card Number:        4073-6459-9883-0885
+Billing Address:    H.No. 80, Gopal Road, Begusarai 100527
+Phone:              +91 61094 75595
+Email:              advika19@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   27,525.84
+Previous Balance:   $   11,587.89
+Payments Received:  $      717.48
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/05/2026     Chhabra, Agrawal and Bhatia         $  1,502.21
+05/13/2026     Saran, Sodhi and Saini              $    752.17
+05/31/2026     Brahmbhatt, Peri and Tara           $     68.73
+06/05/2026     Kale, More and Bala                 $    510.02
+05/21/2026     Ratta, Gupta and Menon              $    367.66
+05/27/2026     Atwal PLC                           $  1,108.07
+06/07/2026     Barman-Munshi                       $    237.01
+05/09/2026     Varty-Chopra                        $  1,522.58
+05/23/2026     Chakraborty, Upadhyay and Saho      $    690.62
+05/17/2026     Balan, Dubey and Kulkarni           $    894.70
+05/24/2026     Sarma Inc                           $  1,707.18
+05/28/2026     Rajan and Sons                      $    525.72
+
+-------------------------------------------------------------
+Total Charges:      $    9,886.67
+New Balance:        $   20,757.08
+Minimum Payment:    $      415.14
+
+============================================================

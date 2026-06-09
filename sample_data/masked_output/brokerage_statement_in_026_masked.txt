@@ -1,0 +1,48 @@
+============================================================
+          [ORGANIZATION_005].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_004]                 494 $    653.56 $    860.82 $  425,243.87 $  102,385.23
+AAPL     [ORGANIZATION_003]                   137 $    123.18 $    162.46 $   22,256.61 $    5,380.95
+AMZN     Amazon.com Inc.              387 $    140.86 $    159.71 $   [ORGANIZATION_002] $    7,295.01
+MSFT     [ORGANIZATION_001]               49 $    394.18 $    415.28 $   20,348.51 $    1,033.69
+GOOGL    Alphabet Inc.                419 $    158.78 $    178.69 $   74,872.58 $    8,343.76
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  604,529.40
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/22/2026     BUY      AMZN         18 $    144.80 $    2,606.40
+03/28/2026     BUY      GOOGL        76 $    291.07 $   22,121.32
+03/31/2026     DIV      MSFT         94 $    277.30 $   26,066.20
+03/23/2026     DIV      MSFT         70 $     91.67 $    6,416.90
+05/08/2026     SELL     GOOGL        44 $    280.18 $   12,327.92
+05/05/2026     SELL     GOOGL        58 $    212.52 $   12,326.16
+05/20/2026     SELL     GOOGL        69 $    248.68 $   17,158.92
+05/07/2026     SELL     GOOGL        88 $    370.18 $   32,575.84
+03/27/2026     BUY      AAPL         23 $    460.94 $   10,601.62
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

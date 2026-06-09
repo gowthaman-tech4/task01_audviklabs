@@ -1,0 +1,59 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 03, 2026 to June 03, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Richard Ryan
+Account Number:    717551450864
+SSN:               310-50-6441
+Phone:             +1-827-790-0576
+Email:             paulbanks@example.net
+Date of Birth:     10/28/1960
+Address:           21405 Sanchez Center Suite 513, Sarahfort, MD 87236
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Timothystad Branch
+Opening Balance:   $99,071.34
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/13/2026     UPI Transfer                            1,950.57                   97,120.77
+05/28/2026     NEFT Transfer                           3,988.70                   93,132.07
+05/14/2026     NEFT Transfer                                        4,044.21      97,176.28
+06/05/2026     UPI Transfer                            3,103.33                   94,072.95
+05/20/2026     Bill Payment - Utility                                 843.96      94,916.91
+05/11/2026     Interest Credit                         1,643.67                   93,273.24
+05/27/2026     UPI Transfer                                         2,426.83      95,700.07
+05/25/2026     POS Purchase - Gaines LLC                 999.40                   94,700.67
+05/25/2026     ATM Withdrawal - New Jillmouth            809.55                   93,891.12
+05/19/2026     UPI Transfer                            3,047.68                   90,843.44
+05/13/2026     Service Charge                                       3,990.56      94,834.00
+05/27/2026     Bill Payment - Utility                                 415.56      95,249.56
+05/24/2026     NEFT Transfer                           1,748.93                   93,500.63
+05/11/2026     Bill Payment - Utility                               4,725.17      98,225.80
+05/26/2026     Online Transfer to 68028152             3,657.75                   94,568.05
+06/04/2026     UPI Transfer                                         2,049.70      96,617.75
+05/11/2026     Interest Credit                         3,275.20                   93,342.55
+05/17/2026     Online Transfer to 44206560             4,262.33                   89,080.22
+05/26/2026     Bill Payment - Utility                  4,077.32                   85,002.90
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $85,002.90
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

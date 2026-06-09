@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_029.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Travis Morgan",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4493-6450-7969-9920",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "680 Brittany Forge Apt. 067, Hannahmouth, FL 37266",
+      "start": 293,
+      "end": 343
+    },
+    {
+      "type": "PHONE",
+      "value": "(227)385-7341",
+      "start": 364,
+      "end": 377
+    },
+    {
+      "type": "EMAIL",
+      "value": "james06@example.com",
+      "start": 398,
+      "end": 417
+    }
+  ]
+}

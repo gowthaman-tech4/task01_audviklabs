@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_006.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Melissa Barrera",
+      "start": 339,
+      "end": 354
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "956916098676",
+      "start": 374,
+      "end": 386
+    },
+    {
+      "type": "SSN",
+      "value": "211-16-8487",
+      "start": 406,
+      "end": 417
+    },
+    {
+      "type": "PHONE",
+      "value": "(398)314-5233",
+      "start": 437,
+      "end": 450
+    },
+    {
+      "type": "EMAIL",
+      "value": "sarahbailey@example.org",
+      "start": 470,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/26/1955",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "54471 Brittney Rest Apt. 060, West Donald, VA 27386",
+      "start": 543,
+      "end": 594
+    }
+  ]
+}

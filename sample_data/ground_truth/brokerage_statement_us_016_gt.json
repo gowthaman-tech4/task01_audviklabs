@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_016.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Paul Schultz",
+      "start": 280,
+      "end": 292
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7522558520",
+      "start": 317,
+      "end": 327
+    },
+    {
+      "type": "SSN",
+      "value": "154-28-7433",
+      "start": 352,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "robin78@example.net",
+      "start": 388,
+      "end": 407
+    },
+    {
+      "type": "PHONE",
+      "value": "001-398-843-0037x5502",
+      "start": 432,
+      "end": 453
+    },
+    {
+      "type": "ADDRESS",
+      "value": "606 Ortega Haven Apt. 261, Danielleborough, DE 89213",
+      "start": 478,
+      "end": 530
+    }
+  ]
+}

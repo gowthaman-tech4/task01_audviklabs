@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_us_004.txt",
+  "timestamp": "2026-06-09T07:55:09.822378",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Brian Long",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 229
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "442433950315",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 250,
+        "end": 264
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "85633 Veronica Loaf, West Erin, NY 45710",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 290,
+        "end": 330
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-462-477-2769x534",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "aaronruiz@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 412
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Flores",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 844,
+        "end": 850
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sanford-Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1277,
+        "end": 1293
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Gibson        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 756,
+        "end": 770
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Holloway",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 884,
+        "end": 892
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Villa-Smith",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1123,
+        "end": 1134
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Smith, Morris",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1439,
+        "end": 1452
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Patterson         $    806.23",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1457,
+        "end": 1486
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Aguilar-Price",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1502,
+        "end": 1515
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Taylor-Turner                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1628,
+        "end": 1664
+      }
+    }
+  ]
+}

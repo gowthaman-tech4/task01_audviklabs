@@ -1,0 +1,124 @@
+{
+  "document": "brokerage_statement_us_019.txt",
+  "timestamp": "2026-06-09T07:54:55.922324",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kevin Romero",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 292
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "5278935445",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 317,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "662-50-5642",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "hmontoya@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 388,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-684-473-7948x6595",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 433,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "69892 Johnson Greens, Evanchester, ID 06569",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 521
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 735
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 988,
+        "end": 1003
+      }
+    }
+  ]
+}

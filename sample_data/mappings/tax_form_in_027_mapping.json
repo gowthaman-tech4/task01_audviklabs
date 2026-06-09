@@ -1,0 +1,213 @@
+{
+  "document": "tax_form_in_027.txt",
+  "timestamp": "2026-06-09T08:02:27.430184",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "PHONE": 2,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Doctor-Ben",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "994089",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 446,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 467,
+        "end": 478
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Ladli Rau",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 504,
+        "end": 513
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "TCNTT2524S",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 538,
+        "end": 548
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "9154 4751 6126",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 573,
+        "end": 587
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "19/12/1983",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 612,
+        "end": 622
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "193800",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 675,
+        "end": 681
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "vermavanya@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 728
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 67942 05766",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 753,
+        "end": 767
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 780,
+        "end": 791
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 808
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Walla Chowk",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 438,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Nagy Street",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 691,
+        "end": 702
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "867,072.87",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 899,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1071,
+        "end": 1105
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1184,
+        "end": 1212
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-9729
+Billing Address:    817, [ORGANIZATION_007], Vijayanagaram [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 18, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   42,054.61
+Previous Balance:   $    3,497.12
+Payments Received:  $      890.49
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+[ORGANIZATION_006][PERSON_NAME_006]                           $    978.84
+06/03/2026     [ORGANIZATION_005]$  1,420.02
+05/11/2026     Bandi, Pall and [PERSON_NAME_004]           $  1,784.13
+05/31/2026     Mannan, [PERSON_NAME_003] and Tara              $    173.52
+[ORGANIZATION_004]                        $  1,209.15
+05/18/2026     Bail, [ADDRESS_003] and [ADDRESS_002]           $  1,592.15
+06/01/2026     [PERSON_NAME_002] and Sons                    $  1,332.31
+05/30/2026     Tripathi, [PERSON_NAME_001] and Sarin           $    133.99
+05/11/2026     [ORGANIZATION_003]$    902.77
+05/25/2026     Sankaran-Grover                     $  1,995.46
+[ORGANIZATION_002]                       $    381.62
+05/27/2026     Chahal, Balay and Rattan            $    831.27
+05/19/2026     Dutt and Sons                       $  1,018.64
+05/17/2026     Narain-Bhatt                        $  1,734.78
+05/16/2026     [ORGANIZATION_001]$    515.29
+
+-------------------------------------------------------------
+Total Charges:      $   16,003.94
+New Balance:        $   18,610.57
+Minimum Payment:    $      372.21
+
+============================================================

@@ -1,0 +1,48 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 22, 2026 to May 20, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Laurie Sloan
+Account Number:    965934257443
+SSN:               221-64-9929
+Phone:             273-485-7772x61794
+Email:             alex25@example.org
+Date of Birth:     06/30/1994
+Address:           72594 Jackson Plains Suite 951, Port Julie, TN 86464
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Lake Krystalburgh Branch
+Opening Balance:   $45,057.13
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/27/2026     Service Charge                             64.39                   44,992.74
+05/21/2026     Direct Deposit - UJE Corp                            1,243.08      46,235.82
+05/15/2026     Direct Deposit - XZC Corp                              956.60      47,192.42
+05/25/2026     Interest Credit                         4,061.68                   43,130.74
+05/15/2026     Online Transfer to 59529282             1,698.31                   41,432.43
+05/15/2026     ATM Withdrawal - New Rachelmouth        4,049.36                   37,383.07
+06/05/2026     ATM Withdrawal - Aliciaside                          3,884.79      41,267.86
+05/23/2026     Bill Payment - Utility                  1,109.31                   40,158.55
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $40,158.55
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

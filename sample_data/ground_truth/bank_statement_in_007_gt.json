@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_007.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Amara Nayak",
+      "start": 351,
+      "end": 362
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "848258418699012",
+      "start": 382,
+      "end": 397
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "PUNB0184745",
+      "start": 417,
+      "end": 428
+    },
+    {
+      "type": "PAN",
+      "value": "QNVFV2073N",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "PHONE",
+      "value": "91 88701 94597",
+      "start": 478,
+      "end": 492
+    },
+    {
+      "type": "EMAIL",
+      "value": "scomar@example.net",
+      "start": 512,
+      "end": 530
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/02/1995",
+      "start": 550,
+      "end": 560
+    },
+    {
+      "type": "ADDRESS",
+      "value": "35, Chhabra Road, Tirupati 070809",
+      "start": 580,
+      "end": 613
+    }
+  ]
+}

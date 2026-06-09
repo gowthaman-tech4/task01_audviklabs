@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Keith Ferrell
+Card Number:        4870-7558-4285-3010
+Billing Address:    171 Alvarez Fords Suite 534, Harrisonfurt, ND 65149
+Phone:              955-572-2104x86678
+Email:              jamiebaker@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 26, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   49,825.72
+Previous Balance:   $    5,412.01
+Payments Received:  $    3,159.40
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/02/2026     Lucas, Sanders and Snyder           $  1,628.38
+05/25/2026     Oliver Ltd                          $    891.61
+05/19/2026     Jensen, Lopez and Zavala            $    901.26
+05/15/2026     Hernandez and Sons                  $  1,402.16
+06/02/2026     Lewis Group                         $  1,111.39
+05/13/2026     Spencer and Sons                    $    603.67
+05/09/2026     Sanchez-Morales                     $  1,994.34
+
+-------------------------------------------------------------
+Total Charges:      $    8,532.81
+New Balance:        $   10,785.42
+Minimum Payment:    $      215.71
+
+============================================================

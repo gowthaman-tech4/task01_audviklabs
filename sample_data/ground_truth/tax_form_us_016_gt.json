@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_016.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "363-17-2682",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "45-6700078",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Anderson-Pruitt",
+      "start": 353,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "860 Gibson Ville Suite 373, East Misty, IN 05092",
+      "start": 372,
+      "end": 420
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Shepherd",
+      "start": 444,
+      "end": 461
+    },
+    {
+      "type": "ADDRESS",
+      "value": "1143 Johnny Key, Port Leonardland, WI 40215",
+      "start": 501,
+      "end": 544
+    }
+  ]
+}

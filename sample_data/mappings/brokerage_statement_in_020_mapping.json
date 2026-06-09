@@ -1,0 +1,180 @@
+{
+  "document": "brokerage_statement_in_020.txt",
+  "timestamp": "2026-06-09T07:54:46.501979",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Manthan Wali",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 295
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "8754759447",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 320,
+        "end": 330
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "XIZCK7223Z",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 355,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "3415518090566477",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "settydayamai@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 431,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 85068 26378",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "413566",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 548,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Saraf Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 516,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 782,
+        "end": 811
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 867,
+        "end": 895
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Tesla Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1074
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1243,
+        "end": 1265
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1771,
+        "end": 1775
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2035,
+        "end": 2039
+      }
+    }
+  ]
+}

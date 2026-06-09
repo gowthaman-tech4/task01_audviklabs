@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-7409
+Billing Address:    13/06, [PERSON_NAME_008], [PERSON_NAME_007] [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   June 27, 2026
+Credit Limit:       $   30,897.43
+Previous Balance:   $    5,081.50
+Payments Received:  $    4,694.73
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/21/2026     Jaggi, Barad and Gade               $  1,654.69
+05/20/2026     [PERSON_NAME_005]$  1,473.07
+[ORGANIZATION_006], [ADDRESS_003] and [ORGANIZATION_005]              $    794.99
+05/24/2026     Rajagopal and Sons                  $    761.88
+05/14/2026     [PERSON_NAME_004] PLC                           $    963.75
+05/11/2026     Kamdar LLC                          $     72.35
+05/09/2026     Pau, [PERSON_NAME_003] and [ORGANIZATION_004]               $    236.50
+05/19/2026     Brar and Sons                       $    147.52
+[ORGANIZATION_003]                         $  1,804.74
+05/14/2026     [PERSON_NAME_002], [PERSON_NAME_001] and Agrawal         $    382.69
+[ORGANIZATION_002]                       $    771.37
+05/16/2026     [ORGANIZATION_001]                       $  1,122.28
+
+-------------------------------------------------------------
+Total Charges:      $   10,185.83
+[ADDRESS_002]:        $   10,572.60
+Minimum Payment:    $      211.45
+
+============================================================

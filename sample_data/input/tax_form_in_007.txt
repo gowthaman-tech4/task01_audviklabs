@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Barad, Bhandari and Krishna
+TAN of the Deductor:    WOOB26135E
+Address:                H.No. 92, Roy Street, Ozhukarai 174569
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Brinda Deol
+PAN of the Employee:    ERIHV0427Y
+Aadhaar Number:         9797 5167 6212
+Date of Birth:          21/04/1976
+Address:                74/027, Bose Road, Bhavnagar 197523
+Email:                  vaishnavi44@example.com
+Mobile:                 +91 73641 91624
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.     623,604.85
+   (b) Value of perquisites u/s 17(2)  Rs.       3,308.74
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.      74,832.58
+   (b) LTA Exemption                   Rs.      10,179.80
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     498,772.27
+5. Tax on Total Income                 Rs.      99,754.45
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       3,990.18
+8. Total Tax Payable                   Rs.     103,744.63
+
+============================================================

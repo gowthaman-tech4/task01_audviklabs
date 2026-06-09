@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_012.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Richard Ryan",
+      "start": 340,
+      "end": 352
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "717551450864",
+      "start": 372,
+      "end": 384
+    },
+    {
+      "type": "SSN",
+      "value": "310-50-6441",
+      "start": 404,
+      "end": 415
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-827-790-0576",
+      "start": 435,
+      "end": 450
+    },
+    {
+      "type": "EMAIL",
+      "value": "paulbanks@example.net",
+      "start": 470,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/28/1960",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "type": "ADDRESS",
+      "value": "21405 Sanchez Center Suite 513, Sarahfort, MD 87236",
+      "start": 541,
+      "end": 592
+    }
+  ]
+}

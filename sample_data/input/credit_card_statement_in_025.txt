@@ -1,0 +1,42 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Tripti Brar
+Card Number:        4148-8257-5954-8253
+Billing Address:    73/886, Chopra Marg, Bhiwandi 095973
+Phone:              +91 95072 59933
+Email:              haurora@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 06, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   12,664.40
+Previous Balance:   $    5,646.54
+Payments Received:  $    5,265.98
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/28/2026     Reddy PLC                           $  1,788.45
+06/07/2026     Sandal Group                        $  1,111.56
+05/20/2026     Dalal-Modi                          $    299.00
+05/10/2026     Kunda-Kaur                          $  1,428.03
+05/17/2026     Sekhon-Anand                        $    409.71
+05/13/2026     Din, Sengupta and D’Alia            $  1,016.95
+06/07/2026     Kant Group                          $    865.03
+05/27/2026     Manda, Krish and Barad              $    222.79
+05/21/2026     Dubey Group                         $  1,270.66
+05/20/2026     Kari-Sheth                          $  1,729.07
+05/20/2026     Ramanathan-Kata                     $    827.42
+
+-------------------------------------------------------------
+Total Charges:      $   10,968.67
+New Balance:        $   11,349.23
+Minimum Payment:    $      226.98
+
+============================================================

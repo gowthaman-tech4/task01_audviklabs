@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-8874758
+Policy Type: Health Insurance
+Date of Issue: February 14, 2026
+
+Dear Tristan Rege,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Yashodhara Jha
+Date of Birth:      10/07/1990
+Address:            250, Saini Ganj, Belgaum 233929
+Phone:              91 83083 14156
+Email:              wdalia@example.net
+PAN:                EFELD3133V
+Aadhaar:            2680 2891 5597
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Imaran Naidu
+Relationship:       Spouse
+Nominee DOB:        11/02/1948
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,500,609.08
+Annual Premium:     $      5,931.59
+Policy Term:        15 years
+Premium Payment:    Monthly
+Risk Commencement:  October 29, 2025
+Maturity Date:      March 01, 2054
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

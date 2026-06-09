@@ -1,0 +1,270 @@
+{
+  "document": "loan_agreement_in_006.txt",
+  "timestamp": "2026-06-09T07:55:32.681518",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 3,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "748783",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "711547",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 402,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Max Dalal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 426,
+        "end": 435
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "FAJJS2912O",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 441,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 452,
+        "end": 459
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2557 3995 8120",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 461,
+        "end": 475
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "03/31/1981",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 491,
+        "end": 501
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "227664",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 70818 48735",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 558,
+        "end": 572
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "wasonhitesh@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 580,
+        "end": 603
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Megha Kara",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 640,
+        "end": 650
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 92691 27706",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 658,
+        "end": 672
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kevinganguly@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 680,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "34943554652391",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Kakar Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Devi Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 561,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Vijayawada",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 572,
+        "end": 582
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1054,
+        "end": 1059
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1074
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1087,
+        "end": 1095
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1358,
+        "end": 1366
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1457,
+        "end": 1463
+      }
+    }
+  ]
+}

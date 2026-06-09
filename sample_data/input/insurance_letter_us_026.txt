@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-8248723
+Policy Type: Life Insurance
+Date of Issue: June 20, 2025
+
+Dear Jessica Turner,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          David Stewart
+Date of Birth:      05/18/1979
+Address:            729 Garner Circle, West Rebeccaberg, MH 14686
+Phone:              (533)624-2919x1149
+Email:              matthew10@example.net
+SSN:                312-39-4523
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Juan Davis
+Relationship:       Son
+Nominee DOB:        01/30/2015
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,392,149.80
+Annual Premium:     $     14,545.49
+Policy Term:        20 years
+Premium Payment:    Annual
+Risk Commencement:  January 22, 2026
+Maturity Date:      September 14, 2050
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

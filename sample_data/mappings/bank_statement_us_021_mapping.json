@@ -1,0 +1,215 @@
+{
+  "document": "bank_statement_us_021.txt",
+  "timestamp": "2026-06-09T07:53:59.263227",
+  "total_entities_masked": 15,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 5
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Tina Jones",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "889050336151",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 382,
+        "end": 394
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "110-12-5950",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 414,
+        "end": 425
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-770-575-5842",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 445,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "millertracy@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 480,
+        "end": 503
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/05/1961",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 523,
+        "end": 533
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "7234 Sanchez Hills, Harrisonfurt, ND 65149",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 595
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_005]",
+      "original": "29839454",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1072
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_004]",
+      "original": "27711926",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1156,
+        "end": 1164
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "20602480",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1248,
+        "end": 1256
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "18797109",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1708,
+        "end": 1716
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bennett",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1804,
+        "end": 1811
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Vince                  ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1816,
+        "end": 1839
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Purchase - Davis-Long",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2158,
+        "end": 2179
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "99356313",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2449,
+        "end": 2457
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Purchase - Baker Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 927,
+        "end": 949
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/15/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1496,
+        "end": 1518
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "POS Purchase - Deleon",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1799,
+        "end": 1820
+      }
+    }
+  ]
+}

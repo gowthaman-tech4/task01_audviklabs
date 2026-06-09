@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_041.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 337,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "65065 Morris Crescent, Hendersonland, MI 24724",
+      "start": 373,
+      "end": 419
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Timothy Benton",
+      "start": 437,
+      "end": 451
+    },
+    {
+      "type": "SSN",
+      "value": "439-04-6267",
+      "start": 457,
+      "end": 468
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/18/1974",
+      "start": 484,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "4452 Andrew Cliff Apt. 462, Wolfeton, FM 70285",
+      "start": 504,
+      "end": 550
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-288-610-4938x15709",
+      "start": 558,
+      "end": 579
+    },
+    {
+      "type": "EMAIL",
+      "value": "michaelhuerta@example.com",
+      "start": 587,
+      "end": 612
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tamara Mathews",
+      "start": 649,
+      "end": 663
+    },
+    {
+      "type": "PHONE",
+      "value": "965-717-6188x31173",
+      "start": 671,
+      "end": 689
+    },
+    {
+      "type": "EMAIL",
+      "value": "jharrell@example.com",
+      "start": 697,
+      "end": 717
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "63144701272264",
+      "start": 977,
+      "end": 991
+    }
+  ]
+}

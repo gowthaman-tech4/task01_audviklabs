@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-6557581
+Policy Type: Auto Insurance
+Date of Issue: September 21, 2025
+
+Dear Garima Nori,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Nidra Sundaram
+Date of Birth:      08/30/2000
+Address:            H.No. 39, Malhotra Ganj, Gulbarga-150413
+Phone:              +91 94543 76562
+Email:              atharv76@example.com
+PAN:                EZTCK8630L
+Aadhaar:            2439 3681 1198
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Idika Rege
+Relationship:       Spouse
+Nominee DOB:        12/21/1995
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,719,906.98
+Annual Premium:     $     18,020.11
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  August 05, 2025
+Maturity Date:      March 19, 2043
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,46 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   John Young
+Account Number:         2654705668
+SSN:                    665-87-6060
+Email:                  awalls@example.net
+Phone:                  +1-319-968-5827
+Correspondence Address: 54575 Leblanc Lock, Kathleenmouth, TX 23840
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      JPMorgan Chase & Co.         206 $    153.93 $    182.60 $   37,615.00 $    5,905.42
+NVDA     NVIDIA Corp.                 246 $    675.26 $    814.73 $  200,424.40 $   34,310.44
+MSFT     Microsoft Corp.               96 $    301.92 $    362.93 $   34,841.73 $    5,857.41
+AMZN     Amazon.com Inc.              206 $    122.59 $    154.74 $   31,876.50 $    6,622.96
+META     Meta Platforms Inc.           71 $    591.49 $    548.22 $   38,923.39 $   -3,072.40
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  343,681.02
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/11/2026     SELL     NVDA         45 $    428.14 $   19,266.30
+05/07/2026     BUY      NVDA         58 $    180.89 $   10,491.62
+04/17/2026     DIV      META         90 $    356.58 $   32,092.20
+04/01/2026     SELL     AMZN         86 $    489.08 $   42,060.88
+03/15/2026     DIV      JPM          15 $     91.53 $    1,372.95
+03/22/2026     SELL     NVDA         76 $    258.52 $   19,647.52
+05/03/2026     DIV      NVDA        100 $     88.24 $    8,824.00
+04/21/2026     BUY      META         33 $    199.10 $    6,570.30
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

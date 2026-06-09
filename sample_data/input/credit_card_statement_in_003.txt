@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Ekapad Lad
+Card Number:        4372-0890-4309-9600
+Billing Address:    H.No. 94, Yohannan Path, Mirzapur-588417
+Phone:              91 62606 48658
+Email:              xwadhwa@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 16, 2026
+Payment Due Date:   July 01, 2026
+Credit Limit:       $   45,194.00
+Previous Balance:   $      934.90
+Payments Received:  $      906.70
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/20/2026     Mutti-Varkey                        $     34.16
+06/05/2026     Walla Group                         $  1,213.97
+05/12/2026     Vig-Borde                           $    873.17
+06/02/2026     Narain, Chaudhary and Chand         $    357.10
+05/26/2026     Loke, Anne and Chahal               $    530.82
+05/12/2026     Dayal, Verma and Din                $  1,520.89
+05/30/2026     Tank-Brahmbhatt                     $    569.50
+06/03/2026     Boase-Ahuja                         $  1,445.83
+05/27/2026     Bhatt and Sons                      $  1,643.04
+
+-------------------------------------------------------------
+Total Charges:      $    8,188.48
+New Balance:        $    8,216.68
+Minimum Payment:    $      164.33
+
+============================================================

@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_019.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ray Forbes",
+      "start": 316,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Gabriella Osborn",
+      "start": 483,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/21/1992",
+      "start": 520,
+      "end": 530
+    },
+    {
+      "type": "ADDRESS",
+      "value": "14092 Deanna Village, New Crystalville, WI 61084",
+      "start": 551,
+      "end": 599
+    },
+    {
+      "type": "PHONE",
+      "value": "(614)905-8620x519",
+      "start": 620,
+      "end": 637
+    },
+    {
+      "type": "EMAIL",
+      "value": "daniel06@example.com",
+      "start": 658,
+      "end": 678
+    },
+    {
+      "type": "SSN",
+      "value": "356-43-3924",
+      "start": 699,
+      "end": 710
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Carol Suarez",
+      "start": 757,
+      "end": 769
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/24/2006",
+      "start": 819,
+      "end": 829
+    }
+  ]
+}

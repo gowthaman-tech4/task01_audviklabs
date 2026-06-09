@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_012.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jeffrey Vaughn",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nicole Bond",
+      "start": 483,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/04/1993",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7519 Dawn Glens, Staceybury, RI 81056",
+      "start": 546,
+      "end": 583
+    },
+    {
+      "type": "PHONE",
+      "value": "(268)629-3046x63071",
+      "start": 604,
+      "end": 623
+    },
+    {
+      "type": "EMAIL",
+      "value": "samuelbyrd@example.com",
+      "start": 644,
+      "end": 666
+    },
+    {
+      "type": "SSN",
+      "value": "229-65-1411",
+      "start": 687,
+      "end": 698
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Connor Patterson",
+      "start": 745,
+      "end": 761
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/24/1996",
+      "start": 809,
+      "end": 819
+    }
+  ]
+}

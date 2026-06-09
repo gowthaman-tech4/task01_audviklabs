@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_007.txt",
+  "timestamp": "2026-06-09T07:57:25.748517",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "174569",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 467,
+        "end": 473
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 488,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Brinda Deol",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 525,
+        "end": 536
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ERIHV0427Y",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 561,
+        "end": 571
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "9797 5167 6212",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 596,
+        "end": 610
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "21/04/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 635,
+        "end": 645
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "197523",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 699,
+        "end": 705
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "vaishnavi44@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 730,
+        "end": 753
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 73641 91624",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 778,
+        "end": 793
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 806,
+        "end": 817
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 822,
+        "end": 834
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Bhandari",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 361,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Krishna\nTAN",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 374,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Ozhukarai",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 463,
+        "end": 472
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Bose Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 710,
+        "end": 719
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1088,
+        "end": 1122
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1201,
+        "end": 1229
+      }
+    }
+  ]
+}

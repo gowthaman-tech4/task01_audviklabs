@@ -1,0 +1,42 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-1392
+Billing Address:    00/378, Merchant, Hajipur-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 24, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   16,089.14
+Previous Balance:   $      741.98
+Payments Received:  $      203.80
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/14/2026     [ADDRESS_002], [PERSON_NAME_005] and Bhatnagar          $    217.94
+05/17/2026     [PERSON_NAME_004], [PERSON_NAME_003] and [ORGANIZATION_003]             $    234.61
+[ORGANIZATION_002]                           $  1,244.88
+05/09/2026     Iyer, [PERSON_NAME_002] and [PERSON_NAME_001]              $  1,081.34
+06/07/2026     [ORGANIZATION_001]$    434.95
+05/30/2026     Behl, Swamy and Wali                $  1,472.25
+06/04/2026     Nair-Goswami                        $     31.28
+05/31/2026     Guha, Varghese and Das              $    406.98
+05/27/2026     Gola-Zacharia                       $    996.70
+05/18/2026     Keer LLC                            $  1,062.17
+05/28/2026     Subramanian-Hora                    $  1,227.00
+
+-------------------------------------------------------------
+Total Charges:      $    8,410.10
+New Balance:        $    8,948.28
+Minimum Payment:    $      178.97
+
+============================================================

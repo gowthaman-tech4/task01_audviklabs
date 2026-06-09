@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-4432
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 20, 2026
+Payment Due Date:   June 28, 2026
+Credit Limit:       $   21,695.81
+Previous Balance:   $   11,046.30
+Payments Received:  $    3,477.10
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/26/2026     Orr-Carter                          $    944.80
+05/12/2026     Espinoza Group                      $    506.51
+[ORGANIZATION_003], [PERSON_NAME_004] and [PERSON_NAME_003]          $    795.16
+05/25/2026     Li PLC                              $  1,127.93
+05/25/2026     Vega LLC                            $    550.73
+06/07/2026     [ORGANIZATION_002]1,844.83
+05/12/2026     [PERSON_NAME_002] LLC                          $    584.99
+06/01/2026     [ORGANIZATION_001]$    382.08
+05/26/2026     Sanchez, Ware and Simmons           $  1,190.02
+05/12/2026     [PERSON_NAME_001] and Sons                      $  1,646.31
+
+-------------------------------------------------------------
+Total Charges:      $    9,573.36
+New Balance:        $   17,142.56
+Minimum Payment:    $      342.85
+
+============================================================

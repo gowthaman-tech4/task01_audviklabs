@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_024.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Oliver Nagarajan",
+      "start": 283,
+      "end": 299
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8106157736",
+      "start": 324,
+      "end": 334
+    },
+    {
+      "type": "PAN",
+      "value": "NDTCP5174U",
+      "start": 359,
+      "end": 369
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1776875860652944",
+      "start": 394,
+      "end": 410
+    },
+    {
+      "type": "EMAIL",
+      "value": "tiwaripranit@example.net",
+      "start": 435,
+      "end": 459
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 72858 84022",
+      "start": 484,
+      "end": 499
+    },
+    {
+      "type": "ADDRESS",
+      "value": "27, Ramakrishnan Circle, Jamshedpur-782107",
+      "start": 524,
+      "end": 566
+    }
+  ]
+}

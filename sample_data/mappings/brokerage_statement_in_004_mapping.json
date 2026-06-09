@@ -1,0 +1,158 @@
+{
+  "document": "brokerage_statement_in_004.txt",
+  "timestamp": "2026-06-09T07:54:42.904113",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Nisha Madan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 294
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "6642720305",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 319,
+        "end": 329
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "EIALM7796F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 354,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "6073974114539201",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bhavikarege@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 430,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 78601 11951",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 493
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "876286",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 545,
+        "end": 551
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ganesan Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 516,
+        "end": 530
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 810
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "AMZN     Amazon.com Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 866,
+        "end": 890
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1054,
+        "end": 1082
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1714,
+        "end": 1718
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_035.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Theodore Devan",
+      "start": 340,
+      "end": 354
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "35873908131",
+      "start": 374,
+      "end": 385
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "CNRB0381820",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PAN",
+      "value": "DOZBH0503Z",
+      "start": 436,
+      "end": 446
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 77915 49115",
+      "start": 466,
+      "end": 481
+    },
+    {
+      "type": "EMAIL",
+      "value": "yahvi09@example.org",
+      "start": 501,
+      "end": 520
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/01/1967",
+      "start": 540,
+      "end": 550
+    },
+    {
+      "type": "ADDRESS",
+      "value": "27/558, Biswas Zila, Junagadh 319814",
+      "start": 570,
+      "end": 606
+    }
+  ]
+}

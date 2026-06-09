@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-9739
+Billing Address:    66/980, [ORGANIZATION_005], Guntakal-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   14,612.35
+Previous Balance:   $    8,836.90
+Payments Received:  $    1,842.57
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/05/2026     Ganesh, [PERSON_NAME_005] and [PERSON_NAME_004]              $  1,408.96
+05/12/2026     [ORGANIZATION_004]$    786.43
+05/27/2026     Chander-Mittal                      $  1,025.84
+05/10/2026     [PERSON_NAME_003], [PERSON_NAME_002] and [ORGANIZATION_003]       $  1,983.88
+05/27/2026     [ORGANIZATION_002]$    136.77
+05/27/2026     Atwal, [PERSON_NAME_001] and Puri                $  1,188.38
+05/30/2026     Badami LLC                          $    366.89
+05/29/2026     [ORGANIZATION_001]$  1,224.95
+
+-------------------------------------------------------------
+Total Charges:      $    8,122.10
+New Balance:        $   15,116.43
+Minimum Payment:    $      302.33
+
+============================================================

@@ -1,0 +1,168 @@
+{
+  "document": "brokerage_statement_us_039.txt",
+  "timestamp": "2026-06-09T07:55:00.701418",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kristi Stevenson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 296
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "9581519451",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 321,
+        "end": 331
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "143-84-5985",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "hintonamber@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "619-492-2759",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 440,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "539 Angela Tunnel, Shellyfurt, DE 76802",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 477,
+        "end": 516
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 718
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 815
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "JPMorgan Chase & Co.         360",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 926
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 979,
+        "end": 1007
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1507,
+        "end": 1511
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1705,
+        "end": 1709
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1771,
+        "end": 1775
+      }
+    }
+  ]
+}

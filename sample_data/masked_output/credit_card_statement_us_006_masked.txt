@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_002]
+Card Number:        [AADHAAR_001]-9533
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 04, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   10,058.27
+Previous Balance:   $   10,454.64
+Payments Received:  $    8,470.34
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/24/2026     [ORGANIZATION_004]                           $    380.34
+05/13/2026     Roberts LLC                         $    103.87
+[ORGANIZATION_003]                         $  1,529.18
+05/26/2026     Dixon-Cook                          $    459.80
+06/02/2026     Bird, [PERSON_NAME_001] and [ORGANIZATION_002]$    751.74
+05/31/2026     Sandoval-Morris                     $  1,153.66
+[ORGANIZATION_001]$    512.74
+
+-------------------------------------------------------------
+Total Charges:      $    4,891.33
+New Balance:        $    6,875.63
+Minimum Payment:    $      137.51
+
+============================================================

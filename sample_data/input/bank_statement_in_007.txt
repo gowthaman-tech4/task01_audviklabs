@@ -1,0 +1,56 @@
+============================================================
+                    Peninsula Banking Corporation
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 05, 2026 to June 01, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Amara Nayak
+Account Number:    848258418699012
+IFSC Code:         PUNB0184745
+PAN:               QNVFV2073N
+Phone:             91 88701 94597
+Email:             scomar@example.net
+Date of Birth:     06/02/1995
+Address:           35, Chhabra Road, Tirupati 070809
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Katihar Branch
+Opening Balance:   $76,266.39
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/21/2026     Bill Payment - Utility                               1,985.82      78,252.21
+05/14/2026     POS Purchase - Borra, Ray and D’Alia     4,910.14                   73,342.07
+06/07/2026     POS Purchase - Rau Group                             2,353.20      75,695.27
+05/25/2026     UPI Transfer                            1,553.18                   74,142.09
+06/07/2026     Direct Deposit - VYF Corp                            2,853.87      76,995.96
+06/01/2026     ATM Withdrawal - Allahabad                708.54                   76,287.42
+05/21/2026     Online Transfer to 48545552             1,848.64                   74,438.78
+05/13/2026     Interest Credit                         4,281.55                   70,157.23
+05/25/2026     NEFT Transfer                             761.63                   69,395.60
+05/09/2026     NEFT Transfer                                        4,781.66      74,177.26
+06/06/2026     Check #3054                             1,966.80                   72,210.46
+05/15/2026     Interest Credit                                        408.49      72,618.95
+05/29/2026     ATM Withdrawal - Jamnagar               3,804.42                   68,814.53
+05/30/2026     POS Purchase - Pal, Thaman and Warrior                  2,687.32      71,501.85
+05/11/2026     POS Purchase - Ratta, Khalsa and Narain     2,616.69                   68,885.16
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $68,885.16
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Peninsula Banking Corporation
+FDIC Insured | Equal Opportunity Lender
+============================================================

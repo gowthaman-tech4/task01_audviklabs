@@ -1,0 +1,248 @@
+{
+  "document": "loan_agreement_in_034.txt",
+  "timestamp": "2026-06-09T07:55:39.016834",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "977082",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "113660",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 398,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nicholas Kuruvilla",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 422,
+        "end": 440
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "IJSCC0407F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 446,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6862 7327 0852",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 466,
+        "end": 480
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/27/2004",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 496,
+        "end": 506
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "835707",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 553
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 84497 47806",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 561,
+        "end": 575
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "william76@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 583,
+        "end": 604
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Avi Parekh",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 641,
+        "end": 651
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 96755 52704",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 659,
+        "end": 674
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ftiwari@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 682,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "61693598145734",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Prabhu Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 394
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Prabhakar Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 543,
+        "end": 558
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1043,
+        "end": 1048
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1053,
+        "end": 1063
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1076,
+        "end": 1084
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1347,
+        "end": 1355
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1446,
+        "end": 1452
+      }
+    }
+  ]
+}

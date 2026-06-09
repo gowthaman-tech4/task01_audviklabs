@@ -1,0 +1,46 @@
+============================================================
+          [ORGANIZATION_003]
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     [ORGANIZATION_002]                   493 $    196.83 $    255.01 $  125,721.13 $   28,683.94
+AMZN     Amazon.com Inc.              411 $    170.53 $    159.76 $   65,662.12 $   -4,425.71
+MSFT     [ORGANIZATION_001]              240 $    391.05 $    360.04 $   86,410.43 $   -7,441.57
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  277,793.68
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/14/2026     DIV      TSLA         67 $    286.93 $   19,224.31
+05/07/2026     DIV      AMZN         40 $    373.97 $   14,958.80
+03/13/2026     DIV      TSLA         77 $     68.32 $    5,260.64
+04/14/2026     SELL     MSFT         59 $    368.01 $   21,712.59
+04/07/2026     DIV      TSLA         35 $    404.70 $   14,164.50
+05/06/2026     BUY      AMZN         45 $    182.13 $    8,195.85
+06/06/2026     DIV      MSFT          3 $    433.47 $    1,300.41
+04/23/2026     SELL     AMZN         49 $    461.55 $   22,615.95
+05/17/2026     DIV      MSFT         20 $    232.33 $    4,646.60
+04/12/2026     SELL     TSLA         92 $     77.81 $    7,158.52
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

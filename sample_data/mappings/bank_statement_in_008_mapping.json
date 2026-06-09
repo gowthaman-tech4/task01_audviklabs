@@ -1,0 +1,171 @@
+{
+  "document": "bank_statement_in_008.txt",
+  "timestamp": "2026-06-09T07:53:45.194701",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "ACCOUNT_NUMBER": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ekanta Sridhar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "467564044647295",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 378,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0626687",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 413,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "OTUBH6640H",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 444,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 94586 97127",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 474,
+        "end": 489
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "srinivasnikita@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 509,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/24/2002",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 565
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "981243",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 620,
+        "end": 626
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sura",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1012,
+        "end": 1016
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_002]",
+      "original": "87",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 592,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Khalsa Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 596,
+        "end": 609
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "POS Purchase - Ratta",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 987,
+        "end": 1007
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Sehgal",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1009,
+        "end": 1015
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2463,
+        "end": 2497
+      }
+    }
+  ]
+}

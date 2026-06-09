@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-6410038
+Policy Type: Term Insurance
+Date of Issue: January 24, 2026
+
+Dear Yashvi Naidu,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Girish Mani
+Date of Birth:      01/06/1966
+Address:            642, Chandran Street, Bhiwandi 338278
+Phone:              +91 65260 19631
+Email:              nitara91@example.net
+PAN:                XCDAG5425S
+Aadhaar:            2706 1772 6358
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Amruta Borah
+Relationship:       Daughter
+Nominee DOB:        12/04/1959
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,816,052.84
+Annual Premium:     $     12,596.52
+Policy Term:        15 years
+Premium Payment:    Monthly
+Risk Commencement:  February 05, 2026
+Maturity Date:      January 18, 2046
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

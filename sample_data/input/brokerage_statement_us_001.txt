@@ -1,0 +1,44 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Sophia Davis
+Account Number:         0556787935
+SSN:                    578-33-6261
+Email:                  kellyadriana@example.com
+Phone:                  469-394-0119x839
+Correspondence Address: Unit 0245 Box 2542, DPO AE 52116
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.               78 $    317.33 $    393.08 $   30,660.15 $    5,908.41
+META     Meta Platforms Inc.          182 $    315.09 $    417.00 $   75,893.90 $   18,547.52
+AAPL     Apple Inc.                   423 $    158.64 $    195.58 $   82,732.35 $   15,627.63
+NVDA     NVIDIA Corp.                 371 $    657.77 $    869.47 $  322,573.37 $   78,540.70
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  511,859.77
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/24/2026     DIV      MSFT         41 $    129.64 $    5,315.24
+06/02/2026     BUY      NVDA         48 $    205.52 $    9,864.96
+05/07/2026     DIV      NVDA         92 $    122.77 $   11,294.84
+03/12/2026     SELL     AAPL         71 $    254.19 $   18,047.49
+04/09/2026     SELL     NVDA         81 $    378.13 $   30,628.53
+03/27/2026     SELL     AAPL         11 $    177.14 $    1,948.54
+05/04/2026     BUY      MSFT         39 $    134.96 $    5,263.44
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

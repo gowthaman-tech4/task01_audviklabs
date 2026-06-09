@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-7651990
+Policy Type: Auto Insurance
+Date of Issue: September 17, 2025
+
+Dear Manan Ranganathan,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Faras Kanda
+Date of Birth:      08/28/1966
+Address:            H.No. 985, Gulati, Nandyal-652870
+Phone:              91 62027 53599
+Email:              anirudh67@example.net
+PAN:                YESCN3159L
+Aadhaar:            2372 4870 4123
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Viraj Sheth
+Relationship:       Daughter
+Nominee DOB:        06/06/1966
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,755,347.19
+Annual Premium:     $     12,453.89
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  May 08, 2026
+Maturity Date:      December 14, 2041
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_012.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "34810 Heather Mills Suite 870, Bradleyville, DE 88049",
+      "start": 370,
+      "end": 423
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brian Bartlett",
+      "start": 441,
+      "end": 455
+    },
+    {
+      "type": "SSN",
+      "value": "419-65-1666",
+      "start": 461,
+      "end": 472
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/14/1975",
+      "start": 488,
+      "end": 498
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 0935, Box 7534, APO AA 99697",
+      "start": 508,
+      "end": 540
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-986-646-8319x0429",
+      "start": 548,
+      "end": 568
+    },
+    {
+      "type": "EMAIL",
+      "value": "arnoldnancy@example.com",
+      "start": 576,
+      "end": 599
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "08440800634598",
+      "start": 859,
+      "end": 873
+    }
+  ]
+}

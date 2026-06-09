@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_034.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michelle Sandoval",
+      "start": 315,
+      "end": 332
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Johnson",
+      "start": 489,
+      "end": 504
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/17/1968",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "type": "ADDRESS",
+      "value": "605 John Extensions Apt. 065, Lake Nicholas, VA 31233",
+      "start": 556,
+      "end": 609
+    },
+    {
+      "type": "PHONE",
+      "value": "296-271-5033",
+      "start": 630,
+      "end": 642
+    },
+    {
+      "type": "EMAIL",
+      "value": "victor35@example.com",
+      "start": 663,
+      "end": 683
+    },
+    {
+      "type": "SSN",
+      "value": "179-04-4584",
+      "start": 704,
+      "end": 715
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nicholas Washington",
+      "start": 762,
+      "end": 781
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/25/1974",
+      "start": 829,
+      "end": 839
+    }
+  ]
+}

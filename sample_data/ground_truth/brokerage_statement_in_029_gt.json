@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_029.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Deepa Krish",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3637400951",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "TTQLJ4099P",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7525572766671717",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "maya17@example.org",
+      "start": 430,
+      "end": 448
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 88249 86775",
+      "start": 473,
+      "end": 488
+    },
+    {
+      "type": "ADDRESS",
+      "value": "09/92, Pandya Chowk, Farrukhabad 062748",
+      "start": 513,
+      "end": 552
+    }
+  ]
+}

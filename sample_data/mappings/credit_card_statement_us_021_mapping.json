@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_us_021.txt",
+  "timestamp": "2026-06-09T07:55:12.713670",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Cody Mccall",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "452919666843",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "58146 Elizabeth Via, New Billy, NE 56378",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 331
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(748)599-0746",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 365
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ewingjoseph@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 409
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Lopez",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 777,
+        "end": 782
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kelley",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1093,
+        "end": 1099
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Graham",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1104,
+        "end": 1110
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Schmidt",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1147,
+        "end": 1154
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Carroll        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 892,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Mcgee",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1164,
+        "end": 1169
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Wilson",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1174,
+        "end": 1180
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/09/2026     Johnson PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1266,
+        "end": 1292
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Goodman",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1344,
+        "end": 1351
+      }
+    }
+  ]
+}

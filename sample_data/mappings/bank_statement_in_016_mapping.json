@@ -1,0 +1,171 @@
+{
+  "document": "bank_statement_in_016.txt",
+  "timestamp": "2026-06-09T07:53:47.147329",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Pranav Wason",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "7696981391307612",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 376,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "HDFC0734282",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 412,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "IIPPI0802L",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 443,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 83078 70071",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "dchoudhary@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 507,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/07/1999",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 549,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "864313",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 607,
+        "end": 613
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Purchase - Sanghvi Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1442,
+        "end": 1464
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "06/06/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1607,
+        "end": 1629
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Purchase - Mishra PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1810,
+        "end": 1831
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/09/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1883,
+        "end": 1905
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "06/04/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2067,
+        "end": 2089
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 3175,
+        "end": 3209
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_001.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "125-07-8825",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "72-7693835",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Galloway PLC",
+      "start": 353,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "528 Nguyen Manor Apt. 290, East Julie, IA 50172",
+      "start": 369,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Mackenzie Pierce",
+      "start": 440,
+      "end": 456
+    },
+    {
+      "type": "ADDRESS",
+      "value": "28003 Zimmerman Fields Apt. 148, Shaunshire, AR 33692",
+      "start": 496,
+      "end": 549
+    }
+  ]
+}

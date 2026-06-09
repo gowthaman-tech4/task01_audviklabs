@@ -1,0 +1,105 @@
+{
+  "document": "bank_statement_us_042.txt",
+  "timestamp": "2026-06-09T07:54:35.336751",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Caitlin Galloway",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "159853065111",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 387,
+        "end": 399
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "646-05-7225",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 419,
+        "end": 430
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "296.916.8427x3922",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 450,
+        "end": 467
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "amanda20@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 487,
+        "end": 507
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/10/1964",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 527,
+        "end": 537
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "274 Mora Square, Reidberg, NE 11022",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 557,
+        "end": 592
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "09769439",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 975
+      }
+    }
+  ]
+}

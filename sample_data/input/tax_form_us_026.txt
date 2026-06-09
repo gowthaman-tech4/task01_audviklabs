@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   136-63-8729
+
+b  Employer Identification Number (EIN)
+   62-3874685
+
+c  Employer's Name, Address, and ZIP Code
+   Washington Group
+   429 Rodriguez Meadow, Christinefort, NC 54983
+
+e  Employee's Name
+   Michelle Ramirez
+
+f  Employee's Address and ZIP Code
+   0515 Amanda Stream, West Joseph, ME 94567
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  215,074.40
+2  Federal income tax withheld         $   38,428.19
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  215,074.40
+6  Medicare tax withheld               $    3,118.58
+
+12a Code DD - Health Insurance          $   10,915.36
+
+--- STATE TAX INFORMATION ---
+
+15 State: CA
+16 State wages                         $  215,074.40
+17 State income tax                    $    8,589.81
+
+============================================================

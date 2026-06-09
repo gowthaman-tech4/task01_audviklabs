@@ -1,0 +1,50 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Gaurika Maharaj
+Account Number:         7921469267
+PAN:                    ANIPX1319P
+Demat Account:          0217878795924203
+Email:                  gabaunni@example.com
+Phone:                  +91 75321 03817
+Correspondence Address: 099, Varma Nagar, Tiruvottiyur 025626
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                   331 $    218.12 $    273.00 $   90,362.65 $   18,164.93
+META     Meta Platforms Inc.          431 $    380.29 $    403.44 $  173,882.99 $    9,978.00
+MSFT     Microsoft Corp.              383 $    387.32 $    379.01 $  145,162.16 $   -3,181.40
+AAPL     Apple Inc.                   479 $    169.10 $    159.61 $   76,455.20 $   -4,543.70
+JPM      JPMorgan Chase & Co.         483 $    196.08 $    192.02 $   92,747.71 $   -1,958.93
+GOOGL    Alphabet Inc.                371 $    135.85 $    156.76 $   58,157.10 $    7,756.75
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  636,767.81
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/27/2026     BUY      AAPL         41 $    422.90 $   17,338.90
+03/18/2026     DIV      AAPL         92 $    437.67 $   40,265.64
+05/20/2026     BUY      META         38 $     54.78 $    2,081.64
+03/30/2026     DIV      GOOGL        79 $    158.54 $   12,524.66
+05/25/2026     SELL     TSLA         92 $    455.34 $   41,891.28
+03/25/2026     DIV      JPM          98 $    128.10 $   12,553.80
+04/04/2026     SELL     JPM          69 $    318.81 $   21,997.89
+05/20/2026     SELL     TSLA          4 $    166.57 $      666.28
+03/25/2026     SELL     MSFT         38 $    347.05 $   13,187.90
+06/02/2026     SELL     MSFT          1 $    309.65 $      309.65
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

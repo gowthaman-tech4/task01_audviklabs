@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Pandya Inc
+TAN of the Deductor:    XQJG60470P
+Address:                06/907, Bassi Path, Mumbai-367274
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Azad Chakrabarti
+PAN of the Employee:    YBAHG6484P
+Aadhaar Number:         2016 8174 9359
+Date of Birth:          07/12/2003
+Address:                775, Nayar Marg, Ramgarh 219812
+Email:                  isaac80@example.org
+Mobile:                 91 66095 50151
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,175,719.98
+   (b) Value of perquisites u/s 17(2)  Rs.      46,804.18
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     141,086.40
+   (b) LTA Exemption                   Rs.       4,376.77
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     984,633.58
+5. Tax on Total Income                 Rs.     196,926.72
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       7,877.07
+8. Total Tax Payable                   Rs.     204,803.79
+
+============================================================

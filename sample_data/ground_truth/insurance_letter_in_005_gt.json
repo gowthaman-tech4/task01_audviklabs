@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_005.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Panini Naik",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Balvan Parsa",
+      "start": 483,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/22/1981",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "54, Mutti Ganj, Delhi-401392",
+      "start": 547,
+      "end": 575
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63267 36755",
+      "start": 596,
+      "end": 611
+    },
+    {
+      "type": "EMAIL",
+      "value": "samesh23@example.org",
+      "start": 632,
+      "end": 652
+    },
+    {
+      "type": "PAN",
+      "value": "AOXBA1612U",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5190 2369 8644",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Arin Bandi",
+      "start": 765,
+      "end": 775
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/02/1977",
+      "start": 825,
+      "end": 835
+    }
+  ]
+}

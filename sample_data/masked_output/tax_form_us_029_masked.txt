@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   30-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   43,614.60
+2  Federal income tax withheld         $    7,228.60
+3  [ORGANIZATION_005] wages               $   43,614.60
+4  [ORGANIZATION_004] tax withheld        $    2,704.11
+5  [ORGANIZATION_003] wages and tips             $   43,614.60
+6  [ORGANIZATION_002] tax withheld               $      632.41
+
+12a Code DD - Health Insurance          $    3,488.58
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: KS
+16 State wages                         $   43,614.60
+17 State income tax                    $    3,279.52
+
+============================================================

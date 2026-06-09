@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-4060396
+Policy Type: Auto Insurance
+Date of Issue: October 20, 2025
+
+Dear Catherine Johnson DDS,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Nathan Petersen
+Date of Birth:      12/26/1979
+Address:            306 Jesse Valleys Apt. 062, Gonzalezton, FL 60196
+Phone:              622.901.9665x209
+Email:              lorigreen@example.net
+SSN:                124-71-8025
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Rita Shannon
+Relationship:       Mother
+Nominee DOB:        11/10/1997
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,976,111.12
+Annual Premium:     $     24,797.28
+Policy Term:        30 years
+Premium Payment:    Annual
+Risk Commencement:  December 11, 2025
+Maturity Date:      November 17, 2046
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

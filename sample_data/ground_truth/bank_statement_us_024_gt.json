@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_024.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gabrielle Thompson",
+      "start": 349,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "657601446225",
+      "start": 387,
+      "end": 399
+    },
+    {
+      "type": "SSN",
+      "value": "470-56-3807",
+      "start": 419,
+      "end": 430
+    },
+    {
+      "type": "PHONE",
+      "value": "001-814-577-1935x4815",
+      "start": 450,
+      "end": 471
+    },
+    {
+      "type": "EMAIL",
+      "value": "princeelaine@example.net",
+      "start": 491,
+      "end": 515
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/22/1983",
+      "start": 535,
+      "end": 545
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5012 Howell Viaduct, South Yolandaland, IA 72467",
+      "start": 565,
+      "end": 613
+    }
+  ]
+}

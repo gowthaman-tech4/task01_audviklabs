@@ -1,0 +1,62 @@
+{
+  "document": "tax_form_in_027.txt",
+  "document_type": "tax_form",
+  "locale": "in",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Doctor-Ben",
+      "start": 348,
+      "end": 358
+    },
+    {
+      "type": "ADDRESS",
+      "value": "48/82, Walla Chowk, Deoghar-994089",
+      "start": 418,
+      "end": 452
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ladli Rau",
+      "start": 504,
+      "end": 513
+    },
+    {
+      "type": "PAN",
+      "value": "TCNTT2524S",
+      "start": 538,
+      "end": 548
+    },
+    {
+      "type": "AADHAAR",
+      "value": "9154 4751 6126",
+      "start": 573,
+      "end": 587
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "19/12/1983",
+      "start": 612,
+      "end": 622
+    },
+    {
+      "type": "ADDRESS",
+      "value": "866, Nagy Street, Kamarhati-193800",
+      "start": 647,
+      "end": 681
+    },
+    {
+      "type": "EMAIL",
+      "value": "vermavanya@example.org",
+      "start": 706,
+      "end": 728
+    },
+    {
+      "type": "PHONE",
+      "value": "91 67942 05766",
+      "start": 753,
+      "end": 767
+    }
+  ]
+}

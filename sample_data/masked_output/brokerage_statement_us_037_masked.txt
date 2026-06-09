@@ -1,0 +1,46 @@
+============================================================
+          [ORGANIZATION_003]
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_002]108 $    154.55 $    173.59 $   18,747.68 $    2,056.28
+AAPL     [ORGANIZATION_001]104 $    112.09 $    158.94 $   16,530.17 $    4,872.81
+TSLA     Tesla Inc.                    79 $    185.74 $    234.79 $   18,548.06 $    3,874.60
+AMZN     Amazon.com Inc.              127 $    113.46 $    154.78 $   19,657.38 $    5,247.96
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $   73,483.29
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/26/2026     DIV      JPM          81 $    298.06 $   24,142.86
+05/20/2026     BUY      JPM          12 $     93.52 $    1,122.24
+05/05/2026     BUY      AMZN         59 $    160.46 $    9,467.14
+03/17/2026     DIV      AAPL         74 $    351.26 $   25,993.24
+05/10/2026     BUY      AAPL         17 $    153.59 $    2,611.03
+05/02/2026     SELL     TSLA         58 $    196.44 $   11,393.52
+05/11/2026     DIV      AAPL         39 $    350.28 $   13,660.92
+03/18/2026     DIV      TSLA         47 $    483.30 $   22,715.10
+03/18/2026     SELL     JPM          98 $    461.92 $   45,268.16
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

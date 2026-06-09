@@ -1,0 +1,58 @@
+============================================================
+                    Southern Trust Bank Ltd
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 13, 2026 to May 20, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Luke Mody
+Account Number:    021623903797515
+IFSC Code:         HDFC0879443
+PAN:               SVDAZ7594C
+Phone:             +91 96499 30411
+Email:             jagrati01@example.com
+Date of Birth:     12/06/1975
+Address:           H.No. 822, Pandit Circle, Proddatur-675579
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Nellore Branch
+Opening Balance:   $79,593.87
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/22/2026     ATM Withdrawal - Pali                                3,573.10      83,166.97
+05/28/2026     Direct Deposit - XJE Corp               3,445.39                   79,721.58
+05/11/2026     UPI Transfer                            2,368.24                   77,353.34
+06/02/2026     Online Transfer to 25237608             4,537.81                   72,815.53
+05/13/2026     Interest Credit                                      2,284.92      75,100.45
+06/01/2026     UPI Transfer                                           293.14      75,393.59
+05/10/2026     Check #5743                               340.01                   75,053.58
+05/17/2026     NEFT Transfer                           2,900.04                   72,153.54
+05/13/2026     POS Purchase - Goswami-Lad                365.36                   71,788.18
+05/18/2026     Direct Deposit - MSB Corp               1,615.34                   70,172.84
+06/04/2026     NEFT Transfer                                          618.91      70,791.75
+05/20/2026     UPI Transfer                            4,948.70                   65,843.05
+06/04/2026     UPI Transfer                            1,362.35                   64,480.70
+05/19/2026     Bill Payment - Utility                    927.23                   63,553.47
+05/13/2026     Interest Credit                                      1,601.19      65,154.66
+05/09/2026     UPI Transfer                              155.52                   64,999.14
+06/05/2026     Interest Credit                         1,530.84                   63,468.30
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $63,468.30
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Southern Trust Bank Ltd
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,102 @@
+{
+  "document": "credit_card_statement_us_010.txt",
+  "timestamp": "2026-06-09T07:55:10.855543",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Michael White",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "424101931811",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "03019 Adam Cove, Triciaburgh, VT 56563",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 331
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "923-238-6118",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 352,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mcmillanjoseph@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 385,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Clark-Baker",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 897,
+        "end": 908
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Hill",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 971
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Parker",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 957,
+        "end": 963
+      }
+    }
+  ]
+}

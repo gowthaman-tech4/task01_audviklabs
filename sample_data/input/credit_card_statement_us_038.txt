@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Colleen Mcdaniel
+Card Number:        4552-4088-3876-1954
+Billing Address:    7109 Rebecca Garden, Port Jeffrey, AL 77696
+Phone:              563.517.7105
+Email:              jacobholloway@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 30, 2026
+Credit Limit:       $   35,932.69
+Previous Balance:   $   11,136.89
+Payments Received:  $    2,592.56
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/27/2026     Sims-Clark                          $  1,484.03
+05/21/2026     Alvarez, Oneal and Taylor           $  1,461.11
+05/21/2026     Lee, Waller and Lewis               $  1,370.68
+06/06/2026     Hernandez, Schroeder and Horto      $    726.75
+05/31/2026     Scott, Benson and Weiss             $    375.07
+05/28/2026     King Inc                            $  1,504.26
+06/02/2026     Garcia-Solis                        $     11.07
+06/01/2026     Collins PLC                         $  1,029.39
+05/12/2026     Mays, Mcmahon and Christian         $  1,735.04
+05/23/2026     Taylor-Little                       $    446.01
+05/26/2026     Farmer, Watson and Madden           $  1,048.22
+06/04/2026     Cooper-Harrison                     $    819.56
+06/01/2026     Cooley-Schmitt                      $  1,243.02
+05/26/2026     Gibson-Davis                        $  1,899.89
+
+-------------------------------------------------------------
+Total Charges:      $   15,154.10
+New Balance:        $   23,698.43
+Minimum Payment:    $      473.97
+
+============================================================

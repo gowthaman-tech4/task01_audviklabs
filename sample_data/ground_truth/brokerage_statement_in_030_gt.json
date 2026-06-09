@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_030.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Lopa Patil",
+      "start": 283,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3397192854",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "PAN",
+      "value": "FFSAN0072Q",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4766700639680350",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "type": "EMAIL",
+      "value": "lakshmi13@example.org",
+      "start": 429,
+      "end": 450
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 77635 77235",
+      "start": 475,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "382, Sama Ganj, Visakhapatnam-328619",
+      "start": 515,
+      "end": 551
+    }
+  ]
+}

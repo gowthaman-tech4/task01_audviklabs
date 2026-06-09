@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_us_015.txt",
+  "timestamp": "2026-06-09T07:55:11.691570",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Roy Livingston",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "445501450556",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "05176 Scott Expressway Suite 632, West Breannaside, NV 14971",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 294,
+        "end": 354
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-371-316-4597x6239",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 375,
+        "end": 396
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kramerbarbara@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 417,
+        "end": 442
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Hull",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 809,
+        "end": 813
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Campbell PLC                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 872,
+        "end": 908
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/28/2026     Murphy Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 920,
+        "end": 947
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Vasquez-Collins                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 998,
+        "end": 1034
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Smith               $     39.96",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1140,
+        "end": 1171
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_026.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tanmayi Arora",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9082056035",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "YHYPY0313Y",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1155107344953011",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "imammen@example.org",
+      "start": 432,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "91 68116 29859",
+      "start": 476,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 589, Bahri Zila, Belgaum-015159",
+      "start": 515,
+      "end": 552
+    }
+  ]
+}

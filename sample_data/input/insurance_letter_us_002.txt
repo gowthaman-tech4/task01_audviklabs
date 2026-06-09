@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-4312517
+Policy Type: Auto Insurance
+Date of Issue: September 25, 2025
+
+Dear Vincent Gonzalez,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Michelle Cross
+Date of Birth:      10/18/1981
+Address:            77263 Fisher Divide, Lake Haroldchester, SC 61888
+Phone:              001-413-614-9145
+Email:              danielross@example.org
+SSN:                454-91-1201
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Gerald Mitchell
+Relationship:       Mother
+Nominee DOB:        11/10/1959
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,278,245.17
+Annual Premium:     $      8,602.14
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  January 18, 2026
+Maturity Date:      July 08, 2040
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

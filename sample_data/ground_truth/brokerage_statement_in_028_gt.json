@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_028.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dalaja Chadha",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7848949295",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "SQGJL1107H",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4825471241495951",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "wnarayan@example.com",
+      "start": 432,
+      "end": 452
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 98015 13927",
+      "start": 477,
+      "end": 492
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 182, Rana Ganj, Gaya-703637",
+      "start": 517,
+      "end": 550
+    }
+  ]
+}

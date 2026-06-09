@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_008.txt",
+  "timestamp": "2026-06-09T07:55:42.583416",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "848164",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "2940 Rosales Curve, Haynestown, IL 05570",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Christopher Figueroa",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 431,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "599-22-9815",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 457,
+        "end": 468
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/12/1996",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 484,
+        "end": 494
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "5941 Jacob Prairie Suite 153, Isaacport, SD 96155",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 504,
+        "end": 553
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "965.832.0340x430",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 561,
+        "end": 577
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "philipsantiago@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 585,
+        "end": 611
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kayla Cortez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 648,
+        "end": 660
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(409)502-2616",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 668,
+        "end": 681
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "powellcalvin@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 689,
+        "end": 713
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "08170001258637",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 974,
+        "end": 988
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 959,
+        "end": 964
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 969,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 992,
+        "end": 1000
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1263,
+        "end": 1271
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1362,
+        "end": 1368
+      }
+    }
+  ]
+}

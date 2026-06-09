@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_017.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "274-79-8411",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "54-4285221",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Gilbert LLC",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "87010 Charles Avenue, Wayneview, ME 92807",
+      "start": 368,
+      "end": 409
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Carrie Johnson",
+      "start": 433,
+      "end": 447
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3443 Valerie Heights, Port Jon, MI 68051",
+      "start": 487,
+      "end": 527
+    }
+  ]
+}

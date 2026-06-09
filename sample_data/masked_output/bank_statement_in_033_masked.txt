@@ -1,0 +1,58 @@
+============================================================
+                    Southern Trust Bank Ltd
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 12, 2026 to June 07, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           37, [PERSON_NAME_002], Malda [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Nashik Branch
+Opening Balance:   $133,412.27
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/21/2026     ATM Withdrawal - Nandyal                1,324.39                  132,087.88
+06/07/2026     NEFT Transfer                             926.23                  131,161.65
+05/18/2026     NEFT Transfer                           2,020.15                  129,141.50
+05/24/2026     [ORGANIZATION_001] and Sons              4,059.22                  125,082.28
+05/15/2026     Online Transfer to [ACCOUNT_NUMBER_006]                          4,745.33     129,827.61
+05/11/2026     Check #4375                             2,581.67                  127,245.94
+05/20/2026     Online Transfer to [ACCOUNT_NUMBER_005]                          2,729.60     129,975.54
+05/17/2026     Online Transfer to [ACCOUNT_NUMBER_004]             4,000.25                  125,975.29
+05/31/2026     Direct Deposit - NIM Corp                            2,209.59     128,184.88
+05/30/2026     Bill Payment - Utility                  3,926.67                  124,258.21
+05/10/2026     Check #8542                             2,311.70                  121,946.51
+05/23/2026     Bill Payment - Utility                               2,215.62     124,162.13
+05/13/2026     Online Transfer to [ACCOUNT_NUMBER_003]             3,985.25                  120,176.88
+05/13/2026     Online Transfer to [ACCOUNT_NUMBER_002]             3,210.26                  116,966.62
+05/24/2026     Bill Payment - Utility                  2,089.42                  114,877.20
+05/24/2026     Online Transfer to [ACCOUNT_NUMBER_001]             1,653.00                  113,224.20
+05/22/2026     Interest Credit                         2,802.82                  110,421.38
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $110,421.38
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Southern Trust Bank Ltd
+FDIC Insured | Equal Opportunity Lender
+============================================================

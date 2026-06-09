@@ -1,0 +1,58 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-839674
+Date of Agreement: April 07, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Premier Home Finance Ltd
+Address: 24/973, Saha Street, Kottayam 928424
+
+BORROWER:
+Name: Radha Chhabra
+PAN: GVOAF4578E
+Aadhaar: 6179 4840 3258
+Date of Birth: 05/29/1992
+Address: H.No. 74, Bhattacharyya Circle, Gandhidham 514854
+Phone: +91 98312 52306
+Email: rayaan10@example.org
+
+CO-BORROWER (if applicable):
+Name: Yashodhara Nazareth
+Phone: 91 95316 67832
+Email: dugarlipika@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    151,905.31
+Interest Rate:              5.26% per annum
+Loan Tenure:                84 months
+EMI Amount:                 $      2,165.62
+Disbursement Account No:    77639447548204
+Disbursement Date:          May 19, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 84 equal monthly installments of $2,165.62.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

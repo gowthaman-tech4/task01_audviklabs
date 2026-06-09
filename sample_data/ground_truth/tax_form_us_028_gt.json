@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_028.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "360-66-2123",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "55-7728884",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Spears-Estrada",
+      "start": 353,
+      "end": 367
+    },
+    {
+      "type": "ADDRESS",
+      "value": "01439 Jason Mission Suite 875, Bowersshire, NC 87528",
+      "start": 371,
+      "end": 423
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Linda Price",
+      "start": 447,
+      "end": 458
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2915 Juan Hollow, Wangtown, WY 11021",
+      "start": 498,
+      "end": 534
+    }
+  ]
+}

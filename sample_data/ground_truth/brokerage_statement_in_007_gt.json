@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_007.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ojas Sathe",
+      "start": 283,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8917689255",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "PAN",
+      "value": "DMXTD2936Z",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6634530487651723",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "type": "EMAIL",
+      "value": "amolsarma@example.org",
+      "start": 429,
+      "end": 450
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 89890 95734",
+      "start": 475,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "48, Chaudhary, Bettiah 089764",
+      "start": 515,
+      "end": 544
+    }
+  ]
+}

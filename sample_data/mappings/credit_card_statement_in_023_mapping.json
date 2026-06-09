@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_in_023.txt",
+  "timestamp": "2026-06-09T07:55:05.669445",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Ranveer Lal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "433419003451",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "403142",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 317,
+        "end": 323
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 77262 23078",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "voravedant@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 379,
+        "end": 401
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Devi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 769,
+        "end": 773
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Tailor",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 824,
+        "end": 830
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Seth",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 832,
+        "end": 836
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Saxena",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 956,
+        "end": 962
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Morar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 972
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Sehgal",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 759,
+        "end": 765
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Chanda",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 876,
+        "end": 882
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "06/06/2026     Memon PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 907,
+        "end": 931
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Kant-Dutta                          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1071,
+        "end": 1107
+      }
+    }
+  ]
+}

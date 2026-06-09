@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   145-77-8778
+
+b  Employer Identification Number (EIN)
+   58-8528197
+
+c  Employer's Name, Address, and ZIP Code
+   Harper Group
+   PSC 5834, Box 6961, APO AP 71747
+
+e  Employee's Name
+   Cesar Dillon
+
+f  Employee's Address and ZIP Code
+   Unit 5639 Box 5032, DPO AA 30462
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  221,412.84
+2  Federal income tax withheld         $   51,143.76
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  221,412.84
+6  Medicare tax withheld               $    3,210.49
+
+12a Code DD - Health Insurance          $   13,241.76
+
+--- STATE TAX INFORMATION ---
+
+15 State: MN
+16 State wages                         $  221,412.84
+17 State income tax                    $   10,205.60
+
+============================================================

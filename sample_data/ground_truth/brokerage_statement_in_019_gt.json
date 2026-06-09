@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_019.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Aarush Chhabra",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6156387774",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "PAN",
+      "value": "JOCGO0719L",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6178024261113552",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "type": "EMAIL",
+      "value": "wablejeremiah@example.net",
+      "start": 433,
+      "end": 458
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 83400 34929",
+      "start": 483,
+      "end": 498
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 752, Sule, Dindigul-041158",
+      "start": 523,
+      "end": 555
+    }
+  ]
+}

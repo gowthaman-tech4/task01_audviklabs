@@ -1,0 +1,212 @@
+{
+  "document": "credit_card_statement_in_034.txt",
+  "timestamp": "2026-06-09T07:55:07.638263",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 8,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Hredhaan Cherian",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "407364599883",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "100527",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 328,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 61094 75595",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 355,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "advika19@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sodhi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 841,
+        "end": 846
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Brahmbhatt",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 897,
+        "end": 907
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Peri",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 909,
+        "end": 913
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Tara",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 918,
+        "end": 922
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bala",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 975,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Upadhyay",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1288,
+        "end": 1296
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Dubey",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1345,
+        "end": 1350
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_009]",
+      "original": "Gopal Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 306,
+        "end": 316
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_005]",
+      "original": "Agrawal",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 774,
+        "end": 781
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Gupta",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1082,
+        "end": 1087
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Menon",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1092,
+        "end": 1097
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/27/2026     Atwal PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1123,
+        "end": 1147
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1682,
+        "end": 1693
+      }
+    }
+  ]
+}

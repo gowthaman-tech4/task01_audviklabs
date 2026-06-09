@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_004.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Anirudh Gandhi",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4113-5407-8551-4192",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "27, Doctor, Erode-296531",
+      "start": 294,
+      "end": 318
+    },
+    {
+      "type": "PHONE",
+      "value": "91 61122 95329",
+      "start": 339,
+      "end": 353
+    },
+    {
+      "type": "EMAIL",
+      "value": "lbalan@example.com",
+      "start": 374,
+      "end": 392
+    }
+  ]
+}

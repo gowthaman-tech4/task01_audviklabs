@@ -1,0 +1,157 @@
+{
+  "document": "brokerage_statement_us_014.txt",
+  "timestamp": "2026-06-09T07:54:54.703019",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Elizabeth Coleman",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 297
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "1402581820",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 322,
+        "end": 332
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "327-54-4877",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 357,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "coleryan@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 393,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "7309036472",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 438,
+        "end": 448
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "PSC 6180, Box 6249, APO AE 00957",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "META     Meta Platforms Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 725
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "NVDA     NVIDIA Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 791,
+        "end": 812
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "JPMorgan Chase & Co.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 914
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "META",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1413,
+        "end": 1417
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1545,
+        "end": 1549
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "NVDA",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1611,
+        "end": 1615
+      }
+    }
+  ]
+}

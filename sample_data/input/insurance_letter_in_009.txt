@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-1353081
+Policy Type: Life Insurance
+Date of Issue: June 22, 2025
+
+Dear Ansh Das,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Rishi Choudhry
+Date of Birth:      03/30/1966
+Address:            38/13, Dugar Path, Cuttack-278509
+Phone:              91 88561 26552
+Email:              devanwridesh@example.net
+PAN:                SJRHB1530A
+Aadhaar:            4259 0850 0882
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Balhaar Badami
+Relationship:       Son
+Nominee DOB:        04/28/1996
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    327,255.75
+Annual Premium:     $     19,133.90
+Policy Term:        20 years
+Premium Payment:    Monthly
+Risk Commencement:  December 27, 2025
+Maturity Date:      June 08, 2037
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

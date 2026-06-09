@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_005.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 337,
+      "end": 361
+    },
+    {
+      "type": "ADDRESS",
+      "value": "67/306, Sibal Chowk, Bikaner-088832",
+      "start": 371,
+      "end": 406
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kevin Taneja",
+      "start": 424,
+      "end": 436
+    },
+    {
+      "type": "PAN",
+      "value": "AKQPE0859V",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5115 9968 2338",
+      "start": 462,
+      "end": 476
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/29/1974",
+      "start": 492,
+      "end": 502
+    },
+    {
+      "type": "ADDRESS",
+      "value": "325, Mitter, Jalandhar 645247",
+      "start": 512,
+      "end": 541
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63877 32949",
+      "start": 549,
+      "end": 564
+    },
+    {
+      "type": "EMAIL",
+      "value": "sainidayita@example.net",
+      "start": 572,
+      "end": 595
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kai Venkataraman",
+      "start": 632,
+      "end": 648
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 78708 23490",
+      "start": 656,
+      "end": 671
+    },
+    {
+      "type": "EMAIL",
+      "value": "mandergauri@example.org",
+      "start": 679,
+      "end": 702
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "45357813243413",
+      "start": 962,
+      "end": 976
+    }
+  ]
+}

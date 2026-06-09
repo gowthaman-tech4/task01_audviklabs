@@ -1,0 +1,183 @@
+{
+  "document": "bank_statement_in_032.txt",
+  "timestamp": "2026-06-09T07:53:51.309825",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Priya Mallick",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 357
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "125498291055",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 377,
+        "end": 389
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0537912",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 409,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "NEGCG8611L",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 440,
+        "end": 450
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 71489 85287",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 470,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "yadavi76@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 504,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/02/1970",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "423448",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 601,
+        "end": 607
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "61966083",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1349,
+        "end": 1357
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "60299990",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1993,
+        "end": 2001
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Devan Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/16/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1051,
+        "end": 1073
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/16/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1431,
+        "end": 1453
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/24/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1523,
+        "end": 1538
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 3195,
+        "end": 3229
+      }
+    }
+  ]
+}

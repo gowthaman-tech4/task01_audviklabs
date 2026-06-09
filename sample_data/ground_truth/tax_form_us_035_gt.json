@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_035.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "168-06-3599",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "59-4031422",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Jones, Robinson and Buck",
+      "start": 353,
+      "end": 377
+    },
+    {
+      "type": "ADDRESS",
+      "value": "174 Joseph Square Apt. 688, Lake Jenniferfort, KY 31586",
+      "start": 381,
+      "end": 436
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jason Wright",
+      "start": 460,
+      "end": 472
+    },
+    {
+      "type": "ADDRESS",
+      "value": "746 Brian Cliffs Apt. 096, New Anthony, NE 98578",
+      "start": 512,
+      "end": 560
+    }
+  ]
+}

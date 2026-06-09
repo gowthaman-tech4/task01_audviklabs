@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_022.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Timothy Arnold",
+      "start": 345,
+      "end": 359
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "181161708836",
+      "start": 379,
+      "end": 391
+    },
+    {
+      "type": "SSN",
+      "value": "145-97-7205",
+      "start": 411,
+      "end": 422
+    },
+    {
+      "type": "PHONE",
+      "value": "353-471-1245x4707",
+      "start": 442,
+      "end": 459
+    },
+    {
+      "type": "EMAIL",
+      "value": "gstafford@example.net",
+      "start": 479,
+      "end": 500
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/17/1979",
+      "start": 520,
+      "end": 530
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3473 Reyes Plain, Lake Susanport, NM 07796",
+      "start": 550,
+      "end": 592
+    }
+  ]
+}

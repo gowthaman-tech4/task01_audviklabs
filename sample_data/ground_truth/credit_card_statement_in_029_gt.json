@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_029.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Lekha Banerjee",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4785-3033-5745-2474",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "944, Bir, Agra-255584",
+      "start": 294,
+      "end": 315
+    },
+    {
+      "type": "PHONE",
+      "value": "91 95156 30142",
+      "start": 336,
+      "end": 350
+    },
+    {
+      "type": "EMAIL",
+      "value": "sahaanay@example.net",
+      "start": 371,
+      "end": 391
+    }
+  ]
+}

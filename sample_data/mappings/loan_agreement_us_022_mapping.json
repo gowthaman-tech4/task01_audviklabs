@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_022.txt",
+  "timestamp": "2026-06-09T07:55:45.853836",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "920795",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "98383 Rivas Shoal, Tarabury, CO 24862",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 410
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Jamie Murray",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 428,
+        "end": 440
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "291-78-8909",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 446,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/11/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 483
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "82687 Hogan Track Apt. 765, East Austinfurt, PW 70341",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 493,
+        "end": 546
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "(467)400-8295",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 554,
+        "end": 567
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "bperry@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 575,
+        "end": 593
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Joshua Alvarez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 630,
+        "end": 644
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "760-245-2883x086",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 652,
+        "end": 668
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "rodney49@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 676,
+        "end": 696
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "22883909347766",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 957,
+        "end": 971
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "First National Lending Corp",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 959,
+        "end": 964
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 969,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 992,
+        "end": 1000
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1263,
+        "end": 1271
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1362,
+        "end": 1368
+      }
+    }
+  ]
+}

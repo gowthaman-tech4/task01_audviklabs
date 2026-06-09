@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_037.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Samuel White",
+      "start": 316,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kelly Davila",
+      "start": 485,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/19/1996",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "026 Shaw Street, North Joseph, PA 40037",
+      "start": 549,
+      "end": 588
+    },
+    {
+      "type": "PHONE",
+      "value": "(532)798-4198x422",
+      "start": 609,
+      "end": 626
+    },
+    {
+      "type": "EMAIL",
+      "value": "usmith@example.org",
+      "start": 647,
+      "end": 665
+    },
+    {
+      "type": "SSN",
+      "value": "116-78-1498",
+      "start": 686,
+      "end": 697
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Jarvis",
+      "start": 744,
+      "end": 762
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/12/1969",
+      "start": 810,
+      "end": 820
+    }
+  ]
+}

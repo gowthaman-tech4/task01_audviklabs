@@ -1,0 +1,116 @@
+{
+  "document": "bank_statement_us_026.txt",
+  "timestamp": "2026-06-09T07:54:00.535282",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Laurie Sloan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "965934257443",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 383,
+        "end": 395
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "221-64-9929",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 415,
+        "end": 426
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "273-485-7772x61794",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 446,
+        "end": 464
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "alex25@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 484,
+        "end": 502
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/30/1994",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 522,
+        "end": 532
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "72594 Jackson Plains Suite 951, Port Julie, TN 86464",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 552,
+        "end": 604
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "59529282",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1353,
+        "end": 1361
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/27/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 911,
+        "end": 933
+      }
+    }
+  ]
+}

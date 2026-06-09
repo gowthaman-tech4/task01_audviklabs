@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_037.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "54877 Sanders Mission Apt. 119, Smithchester, FM 75472",
+      "start": 376,
+      "end": 430
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Joseph Robles",
+      "start": 448,
+      "end": 461
+    },
+    {
+      "type": "SSN",
+      "value": "622-60-7361",
+      "start": 467,
+      "end": 478
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/27/1970",
+      "start": 494,
+      "end": 504
+    },
+    {
+      "type": "ADDRESS",
+      "value": "USS Morgan, FPO AA 92068",
+      "start": 514,
+      "end": 538
+    },
+    {
+      "type": "PHONE",
+      "value": "5729716524",
+      "start": 546,
+      "end": 556
+    },
+    {
+      "type": "EMAIL",
+      "value": "timothybrown@example.net",
+      "start": 564,
+      "end": 588
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "48880750681579",
+      "start": 847,
+      "end": 861
+    }
+  ]
+}

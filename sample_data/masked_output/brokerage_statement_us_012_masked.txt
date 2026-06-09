@@ -1,0 +1,40 @@
+============================================================
+          [ORGANIZATION_004]
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      [ORGANIZATION_003]368 $    154.16 $    204.01 $   75,076.15 $   18,345.27
+TSLA     [ORGANIZATION_002]                   242 $    270.08 $    295.14 $   71,422.98 $    6,063.62
+AMZN     Amazon.com Inc.              337 $    173.24 $    159.16 $   53,636.96 $   -4,744.92
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  200,136.09
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/25/2026     SELL     [ORGANIZATION_001]          9 $     96.39 $      867.51
+06/04/2026     BUY      TSLA          6 $    456.67 $    2,740.02
+03/22/2026     BUY      JPM          40 $    236.17 $    9,446.80
+03/12/2026     SELL     JPM           6 $    198.36 $    1,190.16
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

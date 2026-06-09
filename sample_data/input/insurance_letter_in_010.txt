@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-1969531
+Policy Type: Term Insurance
+Date of Issue: January 14, 2026
+
+Dear Dalbir Kala,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Chakradev Basak
+Date of Birth:      05/16/1979
+Address:            13/803, Panchal Zila, Amroha-002483
+Phone:              91 96092 67270
+Email:              uamble@example.net
+PAN:                CJLCY0013X
+Aadhaar:            5473 6269 9017
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Vivaan Dhillon
+Relationship:       Son
+Nominee DOB:        03/12/1978
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  4,387,839.67
+Annual Premium:     $      6,797.29
+Policy Term:        15 years
+Premium Payment:    Monthly
+Risk Commencement:  February 12, 2026
+Maturity Date:      May 08, 2053
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

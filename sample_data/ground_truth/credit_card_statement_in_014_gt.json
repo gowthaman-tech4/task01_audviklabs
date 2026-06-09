@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_014.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Vrinda Shanker",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4990-6121-4592-6990",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "46, Ramanathan Road, Shimoga 980788",
+      "start": 294,
+      "end": 329
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 99176 90669",
+      "start": 350,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "mayaahuja@example.net",
+      "start": 386,
+      "end": 407
+    }
+  ]
+}

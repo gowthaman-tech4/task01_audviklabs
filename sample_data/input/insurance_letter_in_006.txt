@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9983279
+Policy Type: Auto Insurance
+Date of Issue: October 27, 2025
+
+Dear Joshua Hora,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Nathan Memon
+Date of Birth:      06/12/1981
+Address:            H.No. 305, Behl Street, Mau 085887
+Phone:              91 74712 64279
+Email:              abhiram62@example.com
+PAN:                DBWGV4577R
+Aadhaar:            9784 1456 4713
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Unni D’Alia
+Relationship:       Mother
+Nominee DOB:        01/18/1956
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,687,514.21
+Annual Premium:     $     10,053.61
+Policy Term:        10 years
+Premium Payment:    Annual
+Risk Commencement:  November 08, 2025
+Maturity Date:      January 24, 2048
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

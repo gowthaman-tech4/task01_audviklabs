@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-351663
+Date of Agreement: April 03, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Premier Home Finance Ltd
+Address: 25791 Brenda Forest, West Gabriel, VT 62083
+
+BORROWER:
+Name: Brittany Blackwell
+SSN: 456-58-9609
+Date of Birth: 07/04/1962
+Address: 30826 Elizabeth Creek Suite 577, Gonzalezfort, SD 91748
+Phone: (775)572-6152x81207
+Email: david30@example.net
+
+CO-BORROWER (if applicable):
+Name: Kevin Martin
+Phone: 915.796.0194x7298
+Email: michaeljohnson@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    135,530.89
+Interest Rate:              5.62% per annum
+Loan Tenure:                48 months
+EMI Amount:                 $      3,159.39
+Disbursement Account No:    85211771801225
+Disbursement Date:          May 27, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 48 equal monthly installments of $3,159.39.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

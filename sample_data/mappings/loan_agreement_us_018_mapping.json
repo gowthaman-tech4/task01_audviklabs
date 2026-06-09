@@ -1,0 +1,225 @@
+{
+  "document": "loan_agreement_us_018.txt",
+  "timestamp": "2026-06-09T07:55:44.922743",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "142537",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "0961 Caldwell Springs Suite 403, Woodburgh, NC 26270",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 374,
+        "end": 426
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Darrell Logan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 444,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "225-92-7756",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 463,
+        "end": 474
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/03/1989",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 490,
+        "end": 500
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "57129 Michael Stravenue Apt. 049, Thomaston, FM 66420",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 510,
+        "end": 563
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "(858)767-5364",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 571,
+        "end": 584
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "pattersonkatherine@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 592,
+        "end": 622
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Victoria Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 659,
+        "end": 673
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-794-398-4363x5972",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 681,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "karl13@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 709,
+        "end": 727
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "63032110564098",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 992,
+        "end": 1006
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "erson",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 685,
+        "end": 690
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 969
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 974,
+        "end": 984
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 997,
+        "end": 1005
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1267,
+        "end": 1275
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1366,
+        "end": 1372
+      }
+    }
+  ]
+}

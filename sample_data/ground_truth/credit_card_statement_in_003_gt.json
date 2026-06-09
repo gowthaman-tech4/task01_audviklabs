@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_003.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekapad Lad",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4372-0890-4309-9600",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 94, Yohannan Path, Mirzapur-588417",
+      "start": 290,
+      "end": 330
+    },
+    {
+      "type": "PHONE",
+      "value": "91 62606 48658",
+      "start": 351,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "xwadhwa@example.org",
+      "start": 386,
+      "end": 405
+    }
+  ]
+}

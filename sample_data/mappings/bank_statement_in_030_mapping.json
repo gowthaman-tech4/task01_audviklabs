@@ -1,0 +1,193 @@
+{
+  "document": "bank_statement_in_030.txt",
+  "timestamp": "2026-06-09T07:53:50.772867",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jackson Sharaf",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 350,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "0643817343457",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 397
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "CNRB0184982",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 417,
+        "end": 428
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "QUDTE7942J",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 448,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 85235 49165",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 478,
+        "end": 493
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "quincy85@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 513,
+        "end": 533
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/10/1994",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 553,
+        "end": 563
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "378434",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 604,
+        "end": 610
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "75386034",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1438,
+        "end": 1446
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 110
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Goyal Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 597
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "06/07/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1319,
+        "end": 1341
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/27/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1883,
+        "end": 1905
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/26/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2067,
+        "end": 2089
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Aggarwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2746,
+        "end": 2754
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 3178,
+        "end": 3207
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_040.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Jensen",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4414-3141-3889-7563",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3991 Williams Dale, New Michaelfort, WI 23382",
+      "start": 294,
+      "end": 339
+    },
+    {
+      "type": "PHONE",
+      "value": "2468570659",
+      "start": 360,
+      "end": 370
+    },
+    {
+      "type": "EMAIL",
+      "value": "tracymarshall@example.org",
+      "start": 391,
+      "end": 416
+    }
+  ]
+}

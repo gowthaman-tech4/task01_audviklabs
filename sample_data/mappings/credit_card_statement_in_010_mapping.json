@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_in_010.txt",
+  "timestamp": "2026-06-09T07:55:03.168693",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Charita Saran",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "445392949717",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "392797",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 320,
+        "end": 326
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 84239 16666",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 347,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "pratyush62@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 404
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Shetty",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1022,
+        "end": 1028
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Soman",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1278,
+        "end": 1283
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Mann",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1337,
+        "end": 1341
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sule",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1346,
+        "end": 1350
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Dube Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 307,
+        "end": 316
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Halder-Tank",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 949,
+        "end": 960
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Shan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1012,
+        "end": 1016
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bhatia-Malhotra                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1439,
+        "end": 1475
+      }
+    }
+  ]
+}

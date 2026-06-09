@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_011.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Theresa Mitchell",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "069113411754",
+      "start": 381,
+      "end": 393
+    },
+    {
+      "type": "SSN",
+      "value": "429-84-3159",
+      "start": 413,
+      "end": 424
+    },
+    {
+      "type": "PHONE",
+      "value": "(729)556-7723x5996",
+      "start": 444,
+      "end": 462
+    },
+    {
+      "type": "EMAIL",
+      "value": "rsanders@example.org",
+      "start": 482,
+      "end": 502
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/12/1966",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "850 Banks Mountains Suite 691, Port Jake, ME 03722",
+      "start": 552,
+      "end": 602
+    }
+  ]
+}

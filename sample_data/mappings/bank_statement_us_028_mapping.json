@@ -1,0 +1,214 @@
+{
+  "document": "bank_statement_us_028.txt",
+  "timestamp": "2026-06-09T07:54:13.076002",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Allen Gilbert",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 352
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "498181476248",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 372,
+        "end": 384
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "351-92-3075",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 404,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "292.279.9473x933",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 435,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "stanleyreid@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 471,
+        "end": 494
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/17/1961",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 514,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "036 Melissa Squares Apt. 536, Kingburgh, ME 42221",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 593
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Port Jamesmouth Branch\n",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 675,
+        "end": 698
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Kra                  1,120.39",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 990,
+        "end": 1019
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "05/26/2026",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1035,
+        "end": 1045
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Huang",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1349,
+        "end": 1354
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Burton",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1359,
+        "end": 1365
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Richardson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2622,
+        "end": 2643
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2645,
+        "end": 2650
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Purchase - Alvarado",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 906,
+        "end": 925
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Sanchez",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 927,
+        "end": 934
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Purchase - Frazier Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2125,
+        "end": 2149
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/13/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2198,
+        "end": 2220
+      }
+    }
+  ]
+}

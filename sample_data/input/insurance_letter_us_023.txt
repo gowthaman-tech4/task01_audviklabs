@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-3209160
+Policy Type: Life Insurance
+Date of Issue: July 06, 2025
+
+Dear Carlos Elliott,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          John Miller
+Date of Birth:      12/01/1965
+Address:            09166 Bridges Valleys Suite 021, North Kevin, SD 75039
+Phone:              360.760.9072
+Email:              jwilliams@example.com
+SSN:                551-73-8156
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Shannon Payne
+Relationship:       Spouse
+Nominee DOB:        03/26/2014
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    791,153.87
+Annual Premium:     $      1,407.98
+Policy Term:        10 years
+Premium Payment:    Monthly
+Risk Commencement:  October 24, 2025
+Maturity Date:      April 10, 2046
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_042.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Larry Martinez",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1467418985",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "195-90-6077",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "arogers@example.net",
+      "start": 390,
+      "end": 409
+    },
+    {
+      "type": "PHONE",
+      "value": "398-919-5981",
+      "start": 434,
+      "end": 446
+    },
+    {
+      "type": "ADDRESS",
+      "value": "327 Gill Drive, West Anita, NM 97758",
+      "start": 471,
+      "end": 507
+    }
+  ]
+}

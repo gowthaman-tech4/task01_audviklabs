@@ -1,0 +1,59 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 14, 2026 to May 23, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Guneet Patel
+Account Number:    483506488653
+IFSC Code:         HDFC0248151
+PAN:               CFXAJ5147C
+Phone:             +91 64383 74810
+Email:             ayaansahota@example.net
+Date of Birth:     09/30/1983
+Address:           88/661, Shukla Ganj, Bhubaneswar 216344
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Baranagar Branch
+Opening Balance:   $82,950.36
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/05/2026     UPI Transfer                            2,377.66                   80,572.70
+05/13/2026     Bill Payment - Utility                  3,647.63                   76,925.07
+05/26/2026     Bill Payment - Utility                  4,268.50                   72,656.57
+05/14/2026     Bill Payment - Utility                  2,822.93                   69,833.64
+05/11/2026     Online Transfer to 22418514                            299.97      70,133.61
+05/25/2026     Service Charge                          2,163.90                   67,969.71
+05/25/2026     Check #4859                                          4,066.65      72,036.36
+05/31/2026     POS Purchase - Walia-Mittal                          3,920.91      75,957.27
+06/02/2026     UPI Transfer                              897.05                   75,060.22
+05/31/2026     Interest Credit                         2,873.08                   72,187.14
+05/22/2026     Online Transfer to 15456749             2,412.62                   69,774.52
+06/07/2026     Check #3770                             1,379.24                   68,395.28
+06/01/2026     NEFT Transfer                             694.25                   67,701.03
+05/24/2026     Service Charge                          3,557.29                   64,143.74
+06/01/2026     Online Transfer to 90791177             4,225.49                   59,918.25
+05/29/2026     Interest Credit                         2,702.98                   57,215.27
+05/09/2026     Direct Deposit - IRO Corp                            3,604.36      60,819.63
+05/29/2026     Service Charge                                       2,128.79      62,948.42
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $62,948.42
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Bharath National Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_004.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Rehaan Buch",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Hema Bains",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/11/1984",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "00/92, Pandya Circle, Saharanpur 042384",
+      "start": 545,
+      "end": 584
+    },
+    {
+      "type": "PHONE",
+      "value": "91 63682 29019",
+      "start": 605,
+      "end": 619
+    },
+    {
+      "type": "EMAIL",
+      "value": "waliutkarsh@example.com",
+      "start": 640,
+      "end": 663
+    },
+    {
+      "type": "PAN",
+      "value": "LDQLA2226H",
+      "start": 684,
+      "end": 694
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7426 4691 3984",
+      "start": 715,
+      "end": 729
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Bishakha Chakrabarti",
+      "start": 776,
+      "end": 796
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/23/2005",
+      "start": 844,
+      "end": 854
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Mugdha Vala
+Account Number:         9318259922
+PAN:                    FTOGW4105S
+Demat Account:          3300841509871288
+Email:                  ekbalrege@example.com
+Phone:                  91 66045 56341
+Correspondence Address: H.No. 33, Karan Ganj, Karaikudi 566171
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+AAPL     Apple Inc.                   161 $    154.74 $    150.41 $   24,215.96 $     -697.18
+MSFT     Microsoft Corp.              377 $    392.63 $    368.69 $  138,997.71 $   -9,023.80
+META     Meta Platforms Inc.          387 $    370.19 $    440.78 $  170,583.24 $   27,319.71
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  333,796.91
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/16/2026     SELL     MSFT         68 $     69.30 $    4,712.40
+05/01/2026     DIV      META         20 $    140.37 $    2,807.40
+03/29/2026     DIV      META         56 $    243.18 $   13,618.08
+05/04/2026     SELL     AAPL         23 $    151.27 $    3,479.21
+04/16/2026     SELL     AAPL         64 $    421.34 $   26,965.76
+06/04/2026     DIV      META          3 $    443.74 $    1,331.22
+04/14/2026     DIV      MSFT         97 $    369.22 $   35,814.34
+03/15/2026     DIV      AAPL         48 $    355.06 $   17,042.88
+03/15/2026     BUY      MSFT         59 $    129.58 $    7,645.22
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

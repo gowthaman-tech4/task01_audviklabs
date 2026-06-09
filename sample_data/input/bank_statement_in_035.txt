@@ -1,0 +1,59 @@
+============================================================
+                    Kaveri State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 28, 2026 to May 17, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Theodore Devan
+Account Number:    35873908131
+IFSC Code:         CNRB0381820
+PAN:               DOZBH0503Z
+Phone:             +91 77915 49115
+Email:             yahvi09@example.org
+Date of Birth:     02/01/1967
+Address:           27/558, Biswas Zila, Junagadh 319814
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Mysore Branch
+Opening Balance:   $30,341.11
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/03/2026     UPI Transfer                                         1,794.06      32,135.17
+05/16/2026     Service Charge                          4,691.47                   27,443.70
+05/16/2026     Check #1276                             4,453.88                   22,989.82
+05/22/2026     UPI Transfer                            1,400.12                   21,589.70
+05/28/2026     Direct Deposit - UGB Corp               4,826.20                   16,763.50
+05/28/2026     UPI Transfer                            3,676.00                   13,087.50
+05/27/2026     Online Transfer to 17552649                          4,113.30      17,200.80
+06/03/2026     Direct Deposit - KTE Corp               2,927.40                   14,273.40
+05/19/2026     Check #1134                             3,984.36                   10,289.04
+05/28/2026     Service Charge                          1,595.81                    8,693.23
+05/31/2026     Service Charge                                       3,515.83      12,209.06
+06/04/2026     POS Purchase - Sengupta-Hora            2,674.05                    9,535.01
+06/02/2026     Bill Payment - Utility                  1,522.77                    8,012.24
+05/30/2026     Check #3259                                          1,328.13       9,340.37
+05/17/2026     ATM Withdrawal - Ahmednagar                            372.44       9,712.81
+05/19/2026     Interest Credit                         3,751.78                    5,961.03
+05/13/2026     Direct Deposit - EWC Corp                            4,233.40      10,194.43
+05/20/2026     Direct Deposit - RJL Corp                  86.12                   10,108.31
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $10,108.31
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Kaveri State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

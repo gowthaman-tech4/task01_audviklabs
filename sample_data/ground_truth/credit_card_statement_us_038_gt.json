@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_038.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Colleen Mcdaniel",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4552-4088-3876-1954",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7109 Rebecca Garden, Port Jeffrey, AL 77696",
+      "start": 296,
+      "end": 339
+    },
+    {
+      "type": "PHONE",
+      "value": "563.517.7105",
+      "start": 360,
+      "end": 372
+    },
+    {
+      "type": "EMAIL",
+      "value": "jacobholloway@example.com",
+      "start": 393,
+      "end": 418
+    }
+  ]
+}

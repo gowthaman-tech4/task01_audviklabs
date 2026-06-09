@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_030.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jackson Sharaf",
+      "start": 350,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0643817343457",
+      "start": 384,
+      "end": 397
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "CNRB0184982",
+      "start": 417,
+      "end": 428
+    },
+    {
+      "type": "PAN",
+      "value": "QUDTE7942J",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 85235 49165",
+      "start": 478,
+      "end": 493
+    },
+    {
+      "type": "EMAIL",
+      "value": "quincy85@example.com",
+      "start": 513,
+      "end": 533
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/10/1994",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "type": "ADDRESS",
+      "value": "69, Goyal Path, Gaya-378434",
+      "start": 583,
+      "end": 610
+    }
+  ]
+}

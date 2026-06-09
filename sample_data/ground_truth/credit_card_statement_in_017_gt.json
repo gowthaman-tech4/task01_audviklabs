@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_017.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tara Manne",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4293-8038-7111-7417",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "127, Ramesh Nagar, Raebareli 710620",
+      "start": 290,
+      "end": 325
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 92165 05476",
+      "start": 346,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "hegdeyauvani@example.com",
+      "start": 382,
+      "end": 406
+    }
+  ]
+}

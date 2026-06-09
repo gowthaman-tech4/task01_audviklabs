@@ -1,0 +1,201 @@
+{
+  "document": "credit_card_statement_in_040.txt",
+  "timestamp": "2026-06-09T07:55:08.706983",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Ansh Garg",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "405369374795",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 249,
+        "end": 263
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "298122",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 317,
+        "end": 323
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 61634 75648",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "david38@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 379,
+        "end": 398
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Keer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1408,
+        "end": 1412
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kant",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1458,
+        "end": 1462
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Khatri",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1467,
+        "end": 1473
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sodhi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1599,
+        "end": 1604
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Bath Ganj",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 301,
+        "end": 310
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Bassi",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 762,
+        "end": 767
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Gulati",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 769,
+        "end": 775
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Bhattacharyy",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 780,
+        "end": 792
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "06/07/2026     Bhatia PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 810,
+        "end": 835
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Shanker-Krishnan                    ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1077,
+        "end": 1113
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Munshi Inc",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1140,
+        "end": 1150
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Kale LLC                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1203,
+        "end": 1239
+      }
+    }
+  ]
+}

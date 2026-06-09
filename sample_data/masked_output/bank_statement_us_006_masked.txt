@@ -1,0 +1,53 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 04, 2026 to May 18, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_003]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Pearsonborough Branch
+Opening Balance:   $29,306.53
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/22/2026     NEFT Transfer                           4,424.74                   24,881.79
+05/09/2026     ATM Withdrawal - North Linda            3,736.83                   21,144.96
+05/25/2026     Service Charge                            563.29                   20,581.67
+05/25/2026     Interest Credit                                      2,539.11      23,120.78
+05/12/2026     Service Charge                                       2,933.76      26,054.54
+05/14/2026     Service Charge                            270.42                   25,784.12
+06/06/2026     ATM Withdrawal - Anthonyshire                        1,322.89      27,107.01
+05/30/2026     POS [PERSON_NAME_002], [PERSON_NAME_001] and Lyons     4,336.67                   22,770.34
+05/14/2026     UPI Transfer                            1,897.09                   20,873.25
+05/22/2026     Direct Deposit - BWT Corp                            2,466.58      23,339.83
+05/25/2026     Service Charge                          2,862.50                   20,477.33
+05/16/2026     Bill Payment - Utility                  2,918.29                   17,559.04
+05/20/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,460.57                   13,098.47
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $13,098.47
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,52 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-281083
+Date of Agreement: May 09, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: 00641 Scott Cliffs, South Joshuaburgh, IL 01363
+
+BORROWER:
+Name: Lisa Yates
+SSN: 112-52-5008
+Date of Birth: 07/16/1960
+Address: 3648 Jorge Hollow, East Rebeccahaven, PR 84353
+Phone: +1-689-821-3371
+Email: ophelps@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    315,553.07
+Interest Rate:              9.81% per annum
+Loan Tenure:                12 months
+EMI Amount:                 $     27,714.25
+Disbursement Account No:    40602718097950
+Disbursement Date:          May 20, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 12 equal monthly installments of $27,714.25.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

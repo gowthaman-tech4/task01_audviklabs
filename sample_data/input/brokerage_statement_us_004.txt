@@ -1,0 +1,47 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Kevin Swanson
+Account Number:         9249539059
+SSN:                    373-05-3565
+Email:                  amy53@example.org
+Phone:                  8499604033
+Correspondence Address: 63579 William Overpass Apt. 850, Joneshaven, KS 60213
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+AMZN     Amazon.com Inc.              165 $    148.00 $    165.16 $   27,251.74 $    2,831.74
+MSFT     Microsoft Corp.               40 $    408.49 $    411.85 $   16,473.86 $      134.26
+JPM      JPMorgan Chase & Co.         261 $    197.34 $    205.19 $   53,554.63 $    2,048.89
+TSLA     Tesla Inc.                    23 $    296.22 $    292.82 $    6,734.75 $      -78.31
+GOOGL    Alphabet Inc.                345 $    183.28 $    169.34 $   58,423.39 $   -4,808.21
+META     Meta Platforms Inc.          213 $    369.37 $    506.56 $  107,897.81 $   29,222.00
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  270,336.18
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/30/2026     SELL     TSLA         27 $    183.67 $    4,959.09
+04/07/2026     SELL     AMZN         98 $     56.42 $    5,529.16
+05/28/2026     SELL     TSLA         77 $    126.84 $    9,766.68
+04/23/2026     DIV      MSFT         43 $    480.70 $   20,670.10
+03/17/2026     DIV      TSLA         50 $    276.00 $   13,800.00
+05/22/2026     SELL     MSFT         78 $    275.01 $   21,450.78
+03/11/2026     SELL     MSFT         93 $    202.71 $   18,852.03
+04/10/2026     BUY      MSFT         56 $    252.26 $   14,126.56
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_in_011.txt",
+  "timestamp": "2026-06-09T07:55:03.358576",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Tarak Bansal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "460260776596",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "964075",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 322,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 79880 73084",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 349,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "manthan35@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Khanna",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 954,
+        "end": 960
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kumer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1280,
+        "end": 1285
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bora",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1332,
+        "end": 1336
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Tiwari",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1466,
+        "end": 1472
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Shan Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 303,
+        "end": 313
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Maheshtala",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 315,
+        "end": 325
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Raju-Jha                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1026,
+        "end": 1062
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Gulati-Sengupta                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1089,
+        "end": 1125
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Sarraf",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1168,
+        "end": 1174
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Tandon",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1492,
+        "end": 1498
+      }
+    }
+  ]
+}

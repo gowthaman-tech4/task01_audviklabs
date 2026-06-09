@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Hema Seth
+Card Number:        4217-8679-2239-5895
+Billing Address:    59/472, Edwin, Pune 414933
+Phone:              91 89417 19451
+Email:              orinder49@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 05, 2026
+Payment Due Date:   July 01, 2026
+Credit Limit:       $   20,837.72
+Previous Balance:   $    9,852.30
+Payments Received:  $    2,244.92
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/09/2026     Mukherjee, Grover and Sandal        $  1,783.98
+05/23/2026     Nanda, Suri and Bail                $  1,715.55
+06/05/2026     Kohli, Lal and Aggarwal             $  1,096.79
+05/21/2026     Dewan-Naidu                         $  1,135.01
+05/14/2026     Sama-Varty                          $    474.64
+05/27/2026     Padmanabhan, Kaur and Anne          $  1,614.99
+05/26/2026     Narula, Nazareth and Mohanty        $  1,135.13
+05/15/2026     Sawhney-Lala                        $  1,648.38
+05/15/2026     Sibal Inc                           $    942.11
+05/24/2026     Minhas LLC                          $  1,147.59
+06/07/2026     Hari, Sama and Mitter               $     37.18
+05/14/2026     Chanda-Ahuja                        $  1,748.02
+06/03/2026     Shah, Randhawa and Banik            $  1,797.29
+05/09/2026     Raman-Varty                         $    247.50
+
+-------------------------------------------------------------
+Total Charges:      $   16,524.16
+New Balance:        $   24,131.54
+Minimum Payment:    $      482.63
+
+============================================================

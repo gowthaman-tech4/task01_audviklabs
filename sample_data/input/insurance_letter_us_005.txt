@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-5011303
+Policy Type: Term Insurance
+Date of Issue: February 03, 2026
+
+Dear Kenneth Marquez,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Glen Haney
+Date of Birth:      04/27/1968
+Address:            8271 Avila Plains Suite 888, South Benjamin, CT 37541
+Phone:              +1-281-707-9410x62359
+Email:              elizabeth64@example.net
+SSN:                554-44-6344
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Olivia Bailey
+Relationship:       Spouse
+Nominee DOB:        09/15/2022
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  4,451,964.57
+Annual Premium:     $     10,663.64
+Policy Term:        20 years
+Premium Payment:    Monthly
+Risk Commencement:  November 21, 2025
+Maturity Date:      May 24, 2050
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

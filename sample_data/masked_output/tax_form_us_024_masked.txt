@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   62-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  231,092.36
+2  Federal income tax withheld         $   41,468.60
+3  [ORGANIZATION_006] wages               $  160,200.00
+4  [ORGANIZATION_005] tax withheld        $    9,932.40
+5  [ORGANIZATION_004] wages and tips             $  231,092.36
+6  [ORGANIZATION_003] tax withheld               $    3,350.84
+
+12a [ORGANIZATION_002]
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: VI
+16 State wages                         $  231,092.36
+17 State income tax                    $    9,642.52
+
+============================================================

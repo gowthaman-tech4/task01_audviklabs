@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_024.txt",
+  "timestamp": "2026-06-09T08:01:37.971652",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "775264",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 446,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 467,
+        "end": 478
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gaurav Sunder",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 504,
+        "end": 517
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "IGLHM2810F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 542,
+        "end": 552
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "2538 5920 7597",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 577,
+        "end": 591
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "15/02/1976",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 616,
+        "end": 626
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "805326",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 682,
+        "end": 688
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "logan27@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 713,
+        "end": 732
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 63141 64606",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 757,
+        "end": 771
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 784,
+        "end": 795
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 812
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sarraf Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Nath Circle",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 431,
+        "end": 442
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Panipat",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 444,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Korpal Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 692,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1069,
+        "end": 1103
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1182,
+        "end": 1210
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-6990
+Billing Address:    46, Ramanathan Road, Shimoga [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 02, 2026
+Payment Due Date:   July 04, 2026
+Credit Limit:       $   11,924.85
+Previous Balance:   $    4,818.29
+Payments Received:  $    1,925.90
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/17/2026     Guha and Sons                       $  1,857.81
+[ORGANIZATION_005]Patla, De and [PERSON_NAME_002]                 $  1,223.34
+[ORGANIZATION_004], [ADDRESS_004] and Thaker            $    410.41
+05/24/2026     [PERSON_NAME_004], [PERSON_NAME_001] and Pillay          $    620.11
+[ORGANIZATION_003]                          $  1,616.71
+05/30/2026     Pall-Choudhary                      $    786.73
+05/12/2026     Pau, Deep and Pingle                $  1,537.63
+05/11/2026     Dugar, Chaudhari and Dugal          $    538.09
+05/25/2026     Bajwa-Bali                          $  1,750.85
+05/13/2026     Buch-Nayak                          $  1,236.64
+05/25/2026     Date, [ADDRESS_003] and [ORGANIZATION_002]
+05/17/2026     [ORGANIZATION_001] LLC                       $    999.23
+05/28/2026     Prabhu LLC                          $  1,826.40
+05/10/2026     Karan-Kata                          $  1,720.11
+05/23/2026     Ramanathan-Pathak                   $    412.13
+
+-------------------------------------------------------------
+Total Charges:      $   18,130.72
+[ADDRESS_002]:        $   21,023.11
+Minimum Payment:    $      420.46
+
+============================================================

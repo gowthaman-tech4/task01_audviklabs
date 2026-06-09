@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_012.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "277-03-7279",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "17-1980403",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Smith Inc",
+      "start": 353,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "373 Sims Lakes, Wellsside, IL 39088",
+      "start": 366,
+      "end": 401
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Elizabeth Wong",
+      "start": 425,
+      "end": 439
+    },
+    {
+      "type": "ADDRESS",
+      "value": "002 Chavez Ports Suite 175, Bellmouth, MN 85314",
+      "start": 479,
+      "end": 526
+    }
+  ]
+}

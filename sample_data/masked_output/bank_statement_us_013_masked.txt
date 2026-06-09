@@ -1,0 +1,52 @@
+============================================================
+                    [ORGANIZATION_004]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 19, 2026 to May 13, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_002]
+Account Number:    [PHONE_002]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Hannahhaven Branch
+Opening Balance:   $51,345.80
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/17/2026     UPI Transfer                                         1,828.61      53,174.41
+06/04/2026     UPI Transfer                            3,067.97                   50,106.44
+06/02/2026     POS Purchase - Singh, [PERSON_NAME_001] and Wu     4,226.39                   45,880.05
+05/31/2026     Service Charge                          1,792.03                   44,088.02
+05/27/2026     ATM Withdrawal - Codyhaven                           1,903.07      45,991.09
+05/20/2026     Direct Deposit - FOQ Corp               [ORGANIZATION_003]
+05/12/2026     [ORGANIZATION_002]                   37,686.54
+05/10/2026     Direct Deposit - ZXZ Corp                            3,452.45      41,138.99
+06/05/2026     Service Charge                                       1,941.26      43,080.25
+05/23/2026     NEFT Transfer                             793.90                   42,286.35
+05/26/2026     Interest Credit                                        781.62      43,067.97
+05/13/2026     Interest Credit                         1,967.15                   41,100.82
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $41,100.82
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,48 @@
+============================================================
+                    [ORGANIZATION_003]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 16, 2026 to May 15, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_002]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Oneillshire Branch
+Opening Balance:   $89,682.62
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/04/2026     POS [PERSON_NAME_001]              4,506.42                   85,176.20
+05/16/2026     Direct Deposit - DDE Corp                            4,319.62      89,495.82
+05/30/2026     Interest Credit                         1,522.25                   87,973.57
+05/15/2026     NEFT Transfer                           2,990.57                   84,983.00
+06/06/2026     Bill Payment - Utility                               2,056.22      87,039.22
+[ORGANIZATION_002] Charge                          1,804.22                   85,235.00
+05/25/2026     Bill Payment - Utility                               2,747.15      87,982.15
+05/25/2026     Direct Deposit - CXD Corp               4,206.04                   83,776.11
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $83,776.11
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

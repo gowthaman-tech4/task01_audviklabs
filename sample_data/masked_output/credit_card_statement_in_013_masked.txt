@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_006]
+Card Number:        [AADHAAR_001]-9129
+Billing Address:    91/321, [ADDRESS_004], [ADDRESS_003] [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 18, 2026
+Payment Due Date:   June 27, 2026
+Credit Limit:       $   24,651.10
+Previous Balance:   $   12,660.95
+Payments Received:  $    4,696.43
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/04/2026     Doctor Group                        $    246.63
+05/26/2026     [ORGANIZATION_008]                         $    423.57
+06/02/2026     [ORGANIZATION_007]                          $    206.04
+[ORGANIZATION_006]$    128.74
+05/12/2026     [PERSON_NAME_005], Mall and Sachar             $    214.77
+[ORGANIZATION_005]                          $  1,897.33
+05/13/2026     Dugar, [ADDRESS_002] and Sur               $    663.90
+[ORGANIZATION_004]$  1,779.90
+[ORGANIZATION_003]$  1,680.08
+05/20/2026     Memon, [PERSON_NAME_004] and Konda              $     79.81
+05/09/2026     Ghose Inc                           $    851.95
+05/09/2026     Bumb, [PERSON_NAME_003] and [PERSON_NAME_002]$  1,061.40
+[ORGANIZATION_002]                     $    616.68
+06/04/2026     Bansal, [PERSON_NAME_001] and [ORGANIZATION_001]             $  1,824.43
+05/14/2026     Narain, Som and Chandran            $  1,857.06
+
+-------------------------------------------------------------
+Total Charges:      $   13,532.29
+New Balance:        $   21,496.81
+Minimum Payment:    $      429.94
+
+============================================================

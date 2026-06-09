@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_014.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gayathri Sunder",
+      "start": 352,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "243090674453",
+      "start": 387,
+      "end": 399
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "SBIN0480385",
+      "start": 419,
+      "end": 430
+    },
+    {
+      "type": "PAN",
+      "value": "LTGPZ8876U",
+      "start": 450,
+      "end": 460
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 95487 13705",
+      "start": 480,
+      "end": 495
+    },
+    {
+      "type": "EMAIL",
+      "value": "bawaurmi@example.net",
+      "start": 515,
+      "end": 535
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/25/2004",
+      "start": 555,
+      "end": 565
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 749, Edwin Path, Haldia 800520",
+      "start": 585,
+      "end": 621
+    }
+  ]
+}

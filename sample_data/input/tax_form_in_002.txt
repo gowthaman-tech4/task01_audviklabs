@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Hora Inc
+TAN of the Deductor:    UBTW09743U
+Address:                59, Issac Marg, Ludhiana-938920
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Niharika Dayal
+PAN of the Employee:    UUFPA7797U
+Aadhaar Number:         5976 1519 6084
+Date of Birth:          20/03/1972
+Address:                18/86, Mohan Zila, Rourkela 021930
+Email:                  mnazareth@example.org
+Mobile:                 91 90331 02483
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,156,940.10
+   (b) Value of perquisites u/s 17(2)  Rs.      38,740.50
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     258,832.81
+   (b) LTA Exemption                   Rs.       4,134.06
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,848,107.29
+5. Tax on Total Income                 Rs.     369,621.46
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      14,784.86
+8. Total Tax Payable                   Rs.     384,406.32
+
+============================================================

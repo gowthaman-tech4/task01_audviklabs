@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_038.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Radhika Batta",
+      "start": 313,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Diya Vaidya",
+      "start": 483,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/08/1972",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "63, Pingle Nagar, Nanded 590988",
+      "start": 546,
+      "end": 577
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 85919 84631",
+      "start": 598,
+      "end": 613
+    },
+    {
+      "type": "EMAIL",
+      "value": "znayak@example.org",
+      "start": 634,
+      "end": 652
+    },
+    {
+      "type": "PAN",
+      "value": "SWSPZ6530H",
+      "start": 673,
+      "end": 683
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5105 8089 3963",
+      "start": 704,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Theodore Kala",
+      "start": 765,
+      "end": 778
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/29/1968",
+      "start": 828,
+      "end": 838
+    }
+  ]
+}

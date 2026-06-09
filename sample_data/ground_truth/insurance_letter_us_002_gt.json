@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_002.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Vincent Gonzalez",
+      "start": 317,
+      "end": 333
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michelle Cross",
+      "start": 490,
+      "end": 504
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/18/1981",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "type": "ADDRESS",
+      "value": "77263 Fisher Divide, Lake Haroldchester, SC 61888",
+      "start": 556,
+      "end": 605
+    },
+    {
+      "type": "PHONE",
+      "value": "001-413-614-9145",
+      "start": 626,
+      "end": 642
+    },
+    {
+      "type": "EMAIL",
+      "value": "danielross@example.org",
+      "start": 663,
+      "end": 685
+    },
+    {
+      "type": "SSN",
+      "value": "454-91-1201",
+      "start": 706,
+      "end": 717
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Gerald Mitchell",
+      "start": 764,
+      "end": 779
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/10/1959",
+      "start": 827,
+      "end": 837
+    }
+  ]
+}

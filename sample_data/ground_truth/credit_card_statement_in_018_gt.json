@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_018.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekantika Choudhury",
+      "start": 219,
+      "end": 237
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4639-6800-7407-0905",
+      "start": 258,
+      "end": 277
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 452, Barad Nagar, Kishanganj-338542",
+      "start": 298,
+      "end": 339
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 89122 75093",
+      "start": 360,
+      "end": 375
+    },
+    {
+      "type": "EMAIL",
+      "value": "vbalan@example.org",
+      "start": 396,
+      "end": 414
+    }
+  ]
+}

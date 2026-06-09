@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_027.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Blackwell",
+      "start": 280,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1778684724",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "SSN",
+      "value": "150-84-5478",
+      "start": 357,
+      "end": 368
+    },
+    {
+      "type": "EMAIL",
+      "value": "elizabeth47@example.com",
+      "start": 393,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "001-233-670-5694x23689",
+      "start": 441,
+      "end": 463
+    },
+    {
+      "type": "ADDRESS",
+      "value": "47429 Sanford Views Apt. 889, Torresburgh, WY 97220",
+      "start": 488,
+      "end": 539
+    }
+  ]
+}

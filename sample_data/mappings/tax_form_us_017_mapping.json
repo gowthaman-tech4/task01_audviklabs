@@ -1,0 +1,156 @@
+{
+  "document": "tax_form_us_017.txt",
+  "timestamp": "2026-06-09T08:05:59.366010",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "SSN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "'s Social Security Number",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 211,
+        "end": 236
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "274-79-8411",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 240,
+        "end": 251
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "4285221",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 299,
+        "end": 306
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": ", and ZIP Code,    Gilbert LLC,    87010 Charles Avenue, Wayneview, ME 92807",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 335,
+        "end": 409
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "'s Name",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 422,
+        "end": 429
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Carrie Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 433,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "'s Address and ZIP Code",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 460,
+        "end": 483
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "3443 Valerie Heights, Port Jon, MI 68051",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 487,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 640,
+        "end": 655
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 693,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 746,
+        "end": 754
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Code DD - Health Insurance          $    3,696.55",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 801,
+        "end": 850
+      }
+    }
+  ]
+}

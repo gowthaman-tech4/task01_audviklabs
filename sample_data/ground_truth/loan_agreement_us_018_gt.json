@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_018.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0961 Caldwell Springs Suite 403, Woodburgh, NC 26270",
+      "start": 374,
+      "end": 426
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Darrell Logan",
+      "start": 444,
+      "end": 457
+    },
+    {
+      "type": "SSN",
+      "value": "225-92-7756",
+      "start": 463,
+      "end": 474
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/03/1989",
+      "start": 490,
+      "end": 500
+    },
+    {
+      "type": "ADDRESS",
+      "value": "57129 Michael Stravenue Apt. 049, Thomaston, FM 66420",
+      "start": 510,
+      "end": 563
+    },
+    {
+      "type": "PHONE",
+      "value": "(858)767-5364",
+      "start": 571,
+      "end": 584
+    },
+    {
+      "type": "EMAIL",
+      "value": "pattersonkatherine@example.org",
+      "start": 592,
+      "end": 622
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Victoria Smith",
+      "start": 659,
+      "end": 673
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-794-398-4363x5972",
+      "start": 681,
+      "end": 701
+    },
+    {
+      "type": "EMAIL",
+      "value": "karl13@example.org",
+      "start": 709,
+      "end": 727
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "63032110564098",
+      "start": 992,
+      "end": 1006
+    }
+  ]
+}

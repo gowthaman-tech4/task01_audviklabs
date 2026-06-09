@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_026.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dayamai Chaudry",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4474-6877-9598-2720",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "892, Suri Ganj, Munger 334995",
+      "start": 295,
+      "end": 324
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 89969 32658",
+      "start": 345,
+      "end": 360
+    },
+    {
+      "type": "EMAIL",
+      "value": "bhattacharyyalucky@example.org",
+      "start": 381,
+      "end": 411
+    }
+  ]
+}

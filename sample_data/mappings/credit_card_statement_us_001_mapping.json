@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_us_001.txt",
+  "timestamp": "2026-06-09T07:55:09.259085",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Keith Ferrell",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "487075584285",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "171 Alvarez Fords Suite 534, Harrisonfurt, ND 65149",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 344
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "955-572-2104x86678",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 365,
+        "end": 383
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jamiebaker@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 404,
+        "end": 426
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Sanders",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 793,
+        "end": 800
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Snyder           ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 805,
+        "end": 822
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Jensen",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 912,
+        "end": 918
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Lopez",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 920,
+        "end": 925
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/02/2026     Lewis Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1003,
+        "end": 1029
+      }
+    }
+  ]
+}

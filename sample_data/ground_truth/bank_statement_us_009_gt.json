@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_009.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Ramos",
+      "start": 352,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "754442437825",
+      "start": 386,
+      "end": 398
+    },
+    {
+      "type": "SSN",
+      "value": "661-01-1880",
+      "start": 418,
+      "end": 429
+    },
+    {
+      "type": "PHONE",
+      "value": "273.346.5513x780",
+      "start": 449,
+      "end": 465
+    },
+    {
+      "type": "EMAIL",
+      "value": "katelynstevens@example.com",
+      "start": 485,
+      "end": 511
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/14/1992",
+      "start": 531,
+      "end": 541
+    },
+    {
+      "type": "ADDRESS",
+      "value": "97153 Autumn Bridge Suite 294, Melissaland, FM 90231",
+      "start": 561,
+      "end": 613
+    }
+  ]
+}

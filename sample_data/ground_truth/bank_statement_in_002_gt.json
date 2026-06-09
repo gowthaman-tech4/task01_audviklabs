@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_002.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Lekha Vyas",
+      "start": 348,
+      "end": 358
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5636835407679",
+      "start": 378,
+      "end": 391
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "UBIN0129659",
+      "start": 411,
+      "end": 422
+    },
+    {
+      "type": "PAN",
+      "value": "BKLJA3388A",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 84988 29435",
+      "start": 472,
+      "end": 487
+    },
+    {
+      "type": "EMAIL",
+      "value": "jkara@example.net",
+      "start": 507,
+      "end": 524
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/09/1985",
+      "start": 544,
+      "end": 554
+    },
+    {
+      "type": "ADDRESS",
+      "value": "71/623, Buch Nagar, Mehsana 665605",
+      "start": 574,
+      "end": 608
+    }
+  ]
+}

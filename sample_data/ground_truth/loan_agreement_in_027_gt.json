@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_027.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 974, Prabhu Road, Firozabad-940880",
+      "start": 376,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Diya Tandon",
+      "start": 434,
+      "end": 445
+    },
+    {
+      "type": "PAN",
+      "value": "GPQBV4608Q",
+      "start": 451,
+      "end": 461
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2537 9913 1376",
+      "start": 471,
+      "end": 485
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/14/1969",
+      "start": 501,
+      "end": 511
+    },
+    {
+      "type": "ADDRESS",
+      "value": "25/63, Dani Path, Anand-911024",
+      "start": 521,
+      "end": 551
+    },
+    {
+      "type": "PHONE",
+      "value": "91 89598 54911",
+      "start": 559,
+      "end": 573
+    },
+    {
+      "type": "EMAIL",
+      "value": "paisachi@example.org",
+      "start": 581,
+      "end": 601
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "32042468414799",
+      "start": 862,
+      "end": 876
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_us_018.txt",
+  "timestamp": "2026-06-09T07:55:12.176581",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Olivia Fields",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "481813261802",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "13662 Jennifer Ridge, Gillport, WV 60566",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 333
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "566.290.3279",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "elizabeth05@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 387,
+        "end": 410
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Mccarty Group",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 896,
+        "end": 909
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Garcia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1042,
+        "end": 1048
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Goodwin",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1211,
+        "end": 1218
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Armstrong",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1400,
+        "end": 1409
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Booth",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1411,
+        "end": 1416
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Hanna",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 733,
+        "end": 738
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Armstrong, Ewing and Hubbard        $  1,646.36\n05/25/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 926,
+        "end": 989
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Martin         $",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1429,
+        "end": 1445
+      }
+    }
+  ]
+}

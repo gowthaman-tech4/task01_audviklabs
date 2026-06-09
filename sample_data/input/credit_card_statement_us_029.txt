@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Travis Morgan
+Card Number:        4493-6450-7969-9920
+Billing Address:    680 Brittany Forge Apt. 067, Hannahmouth, FL 37266
+Phone:              (227)385-7341
+Email:              james06@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 10, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   20,291.16
+Previous Balance:   $    6,219.77
+Payments Received:  $    5,919.65
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/30/2026     Berger Group                        $    574.64
+05/14/2026     Patterson and Sons                  $    402.86
+05/31/2026     Johnson-Cohen                       $    833.89
+06/01/2026     Ho, Clark and Barrera               $  1,552.98
+05/29/2026     Rice Ltd                            $  1,771.28
+05/11/2026     Rivera-Sandoval                     $     68.80
+05/15/2026     Nelson, Stewart and Whitaker        $    899.24
+05/09/2026     Hoffman Group                       $    758.45
+05/31/2026     Schwartz-Scott                      $  1,941.48
+05/21/2026     Johnson-Hernandez                   $  1,220.46
+05/29/2026     Patel, Day and Brown                $  1,622.31
+05/09/2026     Hampton LLC                         $    367.13
+05/12/2026     Calhoun-Johnson                     $  1,110.77
+
+-------------------------------------------------------------
+Total Charges:      $   13,124.29
+New Balance:        $   13,424.41
+Minimum Payment:    $      268.49
+
+============================================================

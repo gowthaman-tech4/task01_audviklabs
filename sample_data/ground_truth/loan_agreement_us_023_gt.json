@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_023.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 6857, Box 5316, APO AE 05844",
+      "start": 376,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nancy Hurst",
+      "start": 426,
+      "end": 437
+    },
+    {
+      "type": "SSN",
+      "value": "548-47-3379",
+      "start": 443,
+      "end": 454
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/01/2001",
+      "start": 470,
+      "end": 480
+    },
+    {
+      "type": "ADDRESS",
+      "value": "91692 Shannon Lane, Davidborough, HI 18772",
+      "start": 490,
+      "end": 532
+    },
+    {
+      "type": "PHONE",
+      "value": "540.725.1937",
+      "start": 540,
+      "end": 552
+    },
+    {
+      "type": "EMAIL",
+      "value": "ashleychen@example.net",
+      "start": 560,
+      "end": 582
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "08786211391431",
+      "start": 843,
+      "end": 857
+    }
+  ]
+}

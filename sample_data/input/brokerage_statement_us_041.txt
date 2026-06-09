@@ -1,0 +1,45 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Chad Caldwell
+Account Number:         8096633162
+SSN:                    149-75-9781
+Email:                  walterschristine@example.com
+Phone:                  7513278409
+Correspondence Address: 7614 Tina Union, Wilkersonfurt, PR 50777
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          173 $    314.82 $    412.09 $   71,291.15 $   16,827.29
+AAPL     Apple Inc.                   292 $    119.98 $    166.20 $   48,529.08 $   13,494.92
+AMZN     Amazon.com Inc.              188 $    147.73 $    167.97 $   31,578.88 $    3,805.64
+NVDA     NVIDIA Corp.                 304 $    870.46 $    845.43 $  257,010.18 $   -7,609.66
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  408,409.29
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/11/2026     SELL     AMZN         21 $    168.36 $    3,535.56
+03/25/2026     BUY      NVDA         71 $    450.31 $   31,972.01
+05/03/2026     DIV      AAPL         48 $    148.80 $    7,142.40
+03/15/2026     BUY      AAPL         81 $    118.71 $    9,615.51
+04/11/2026     BUY      NVDA          3 $    294.56 $      883.68
+04/13/2026     DIV      META          4 $    465.31 $    1,861.24
+04/22/2026     SELL     AAPL         30 $    156.97 $    4,709.10
+05/16/2026     SELL     META         99 $    245.76 $   24,330.24
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   378-40-0127
+
+b  Employer Identification Number (EIN)
+   71-8575303
+
+c  Employer's Name, Address, and ZIP Code
+   Parker-Castillo
+   4705 Patterson View, South Patricia, ID 68458
+
+e  Employee's Name
+   Zachary Torres
+
+f  Employee's Address and ZIP Code
+   6334 Griffin Lane, Fitzpatrickview, MN 85592
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  225,935.28
+2  Federal income tax withheld         $   34,414.17
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  225,935.28
+6  Medicare tax withheld               $    3,276.06
+
+12a Code DD - Health Insurance          $    6,623.62
+
+--- STATE TAX INFORMATION ---
+
+15 State: KS
+16 State wages                         $  225,935.28
+17 State income tax                    $    7,469.16
+
+============================================================

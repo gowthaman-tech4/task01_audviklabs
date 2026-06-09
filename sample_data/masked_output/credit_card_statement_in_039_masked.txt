@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_008]
+Card Number:        [AADHAAR_001]-0700
+Billing Address:    18/181, Badami Street, Satara-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 23, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   22,065.72
+Previous Balance:   $    4,801.70
+Payments Received:  $    4,083.37
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+[ORGANIZATION_005], [PERSON_NAME_007] and [PERSON_NAME_006]          $     48.11
+05/22/2026     [PERSON_NAME_005], [PERSON_NAME_004] and Nagy           $    975.72
+05/11/2026     Sharma LLC                          $    999.45
+05/12/2026     Taneja, [PERSON_NAME_003] and Lad                $  1,512.16
+05/24/2026     Basu Group                          $    151.34
+05/26/2026     [ORGANIZATION_004]                      $  1,476.14
+[ORGANIZATION_003]$  1,080.48
+05/11/2026     [ORGANIZATION_002]$  1,310.50
+05/11/2026     De-Sachar                           $  1,076.99
+05/14/2026     Anne and Sons                       $  1,668.71
+05/27/2026     [PERSON_NAME_002], [PERSON_NAME_001] and Jha                $  1,615.78
+05/25/2026     Desai LLC                           $  1,666.33
+[ORGANIZATION_001]                           $    155.81
+
+-------------------------------------------------------------
+Total Charges:      $   13,737.52
+[ADDRESS_002]:        $   14,455.85
+Minimum Payment:    $      289.12
+
+============================================================

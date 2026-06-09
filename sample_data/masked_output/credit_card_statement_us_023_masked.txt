@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_010]
+Card Number:        [AADHAAR_001]-9081
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 12, 2026
+Payment Due Date:   June 29, 2026
+Credit Limit:       $   20,770.94
+Previous Balance:   $   14,682.59
+Payments Received:  $    6,477.81
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/15/2026     [ORGANIZATION_004]$    333.41
+05/11/2026     Everett LLC                         $  1,436.72
+05/28/2026     Smith, [PERSON_NAME_009] and Moore           $  1,391.55
+05/18/2026     Munoz-Blackburn                     $  1,921.26
+05/09/2026     Alexander LLC                       $  1,568.79
+05/28/2026     [PERSON_NAME_008], [PERSON_NAME_007] and [PERSON_NAME_006]           $    312.11
+05/19/2026     Sims-Humphrey                       $    867.09
+05/26/2026     [PERSON_NAME_005], [PERSON_NAME_004] and [ORGANIZATION_003]1,814.65
+05/30/2026     Mosley-Ware                         $  1,101.20
+06/04/2026     Fisher-Perry                        $  1,345.57
+05/28/2026     [ORGANIZATION_002]$  1,235.67
+05/27/2026     Cox-Porter                          $  1,069.56
+06/07/2026     Young, [PERSON_NAME_003] and [PERSON_NAME_002]             $  1,202.89
+05/19/2026     [PERSON_NAME_001]$    929.94
+06/03/2026     [ORGANIZATION_001]                       $    910.48
+
+-------------------------------------------------------------
+Total Charges:      $   17,440.89
+[ADDRESS_002]:        $   25,645.67
+Minimum Payment:    $      512.91
+
+============================================================

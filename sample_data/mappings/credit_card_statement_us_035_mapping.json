@@ -1,0 +1,135 @@
+{
+  "document": "credit_card_statement_us_035.txt",
+  "timestamp": "2026-06-09T07:55:15.135583",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Michael Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "482772844741",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "337 Clark Greens Suite 907, Andersonmouth, VT 86989",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 344
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "862-781-4980x89970",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 365,
+        "end": 383
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kaufmankelly@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 404,
+        "end": 428
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Sanchez",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 795,
+        "end": 802
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Wheeler",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 921,
+        "end": 928
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Owens",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 933,
+        "end": 938
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Miller, Lewis and",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 806,
+        "end": 823
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Scott",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 824,
+        "end": 829
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Wilson",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 954,
+        "end": 960
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_001.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Danielle Taylor",
+      "start": 341,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "172117550026",
+      "start": 376,
+      "end": 388
+    },
+    {
+      "type": "SSN",
+      "value": "303-92-8929",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PHONE",
+      "value": "581-296-0013",
+      "start": 439,
+      "end": 451
+    },
+    {
+      "type": "EMAIL",
+      "value": "jennifermiles@example.com",
+      "start": 471,
+      "end": 496
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/08/1970",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "26542 Susan Junction Apt. 161, Melanieview, AS 06196",
+      "start": 546,
+      "end": 598
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "document": "brokerage_statement_us_015.txt",
+  "timestamp": "2026-06-09T07:54:54.910475",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 1,
+    "SSN": 1,
+    "EMAIL": 1,
+    "PHONE": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jeffery Phillips Jr.",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 300
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "5980608376",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 325,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "215-58-6684",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 360,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "schultzbradley@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 396,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "684-990-1764x29597",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 447,
+        "end": 465
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "50591 Rachael Harbors, Cannonchester, FM 87355",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 490,
+        "end": 536
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 706,
+        "end": 728
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 809,
+        "end": 824
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "AAPL     Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 913
+      }
+    }
+  ]
+}

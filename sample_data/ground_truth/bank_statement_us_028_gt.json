@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_028.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Allen Gilbert",
+      "start": 339,
+      "end": 352
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "498181476248",
+      "start": 372,
+      "end": 384
+    },
+    {
+      "type": "SSN",
+      "value": "351-92-3075",
+      "start": 404,
+      "end": 415
+    },
+    {
+      "type": "PHONE",
+      "value": "292.279.9473x933",
+      "start": 435,
+      "end": 451
+    },
+    {
+      "type": "EMAIL",
+      "value": "stanleyreid@example.org",
+      "start": 471,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/17/1961",
+      "start": 514,
+      "end": 524
+    },
+    {
+      "type": "ADDRESS",
+      "value": "036 Melissa Squares Apt. 536, Kingburgh, ME 42221",
+      "start": 544,
+      "end": 593
+    }
+  ]
+}

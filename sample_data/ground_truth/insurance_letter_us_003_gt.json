@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_003.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Christina Cortez",
+      "start": 319,
+      "end": 335
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Bridget Carey",
+      "start": 492,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/13/1970",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "type": "ADDRESS",
+      "value": "552 Gamble Ville, Davidland, WV 91670",
+      "start": 557,
+      "end": 594
+    },
+    {
+      "type": "PHONE",
+      "value": "001-950-975-3595x48396",
+      "start": 615,
+      "end": 637
+    },
+    {
+      "type": "EMAIL",
+      "value": "christian62@example.com",
+      "start": 658,
+      "end": 681
+    },
+    {
+      "type": "SSN",
+      "value": "282-93-0479",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "David Price",
+      "start": 760,
+      "end": 771
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/29/1989",
+      "start": 819,
+      "end": 829
+    }
+  ]
+}

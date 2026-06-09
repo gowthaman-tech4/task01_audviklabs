@@ -1,0 +1,37 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Cody Hall
+Card Number:        4803-2127-4732-4400
+Billing Address:    19612 Ryan Grove Suite 781, Lauriefurt, MS 45556
+Phone:              821.725.8237x6102
+Email:              grace21@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 03, 2026
+Payment Due Date:   June 26, 2026
+Credit Limit:       $   15,492.49
+Previous Balance:   $    4,659.51
+Payments Received:  $    1,037.03
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/06/2026     Miller Inc                          $  1,699.87
+05/29/2026     Morales, Rodriguez and Smith        $  1,355.47
+05/20/2026     Johnson LLC                         $  1,966.13
+05/17/2026     Bush Inc                            $    452.93
+05/26/2026     Warren-Smith                        $    191.18
+06/03/2026     Lopez-Matthews                      $    934.76
+
+-------------------------------------------------------------
+Total Charges:      $    6,600.34
+New Balance:        $   10,222.82
+Minimum Payment:    $      204.46
+
+============================================================

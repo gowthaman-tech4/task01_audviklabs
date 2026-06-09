@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_005.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Bailey",
+      "start": 219,
+      "end": 237
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4917-5494-4430-8142",
+      "start": 258,
+      "end": 277
+    },
+    {
+      "type": "ADDRESS",
+      "value": "969 Rodriguez Crossroad, Kingmouth, VI 30498",
+      "start": 298,
+      "end": 342
+    },
+    {
+      "type": "PHONE",
+      "value": "001-621-951-8068",
+      "start": 363,
+      "end": 379
+    },
+    {
+      "type": "EMAIL",
+      "value": "edward60@example.net",
+      "start": 400,
+      "end": 420
+    }
+  ]
+}

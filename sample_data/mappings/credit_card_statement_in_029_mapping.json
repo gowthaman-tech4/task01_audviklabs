@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_in_029.txt",
+  "timestamp": "2026-06-09T07:55:06.725234",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Lekha Banerjee",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "478530335745",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "255584",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 309,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 95156 30142",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 336,
+        "end": 350
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "sahaanay@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 371,
+        "end": 391
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Dube",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 756,
+        "end": 760
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bhavsar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 765,
+        "end": 772
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Chokshi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1263,
+        "end": 1270
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kumar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1275,
+        "end": 1280
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_005]",
+      "original": "Krish",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 960,
+        "end": 965
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Chand",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 967,
+        "end": 972
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Menon",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1218,
+        "end": 1223
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Patla",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1228,
+        "end": 1233
+      }
+    }
+  ]
+}

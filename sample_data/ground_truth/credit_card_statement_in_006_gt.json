@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_006.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Chaitanya Gara",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4730-0356-7848-9001",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 482, Prabhakar Path, Sasaram-863300",
+      "start": 294,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "91 69471 01342",
+      "start": 356,
+      "end": 370
+    },
+    {
+      "type": "EMAIL",
+      "value": "urishillavenkataraman@example.org",
+      "start": 391,
+      "end": 424
+    }
+  ]
+}

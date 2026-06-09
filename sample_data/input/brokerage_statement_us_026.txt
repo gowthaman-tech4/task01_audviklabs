@@ -1,0 +1,44 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Tyler Bautista
+Account Number:         6124460437
+SSN:                    320-96-6804
+Email:                  fsullivan@example.net
+Phone:                  +1-404-774-5736x543
+Correspondence Address: 022 Cruz Port, North Angelport, IN 59118
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      JPMorgan Chase & Co.          17 $    143.81 $    202.56 $    3,443.44 $      998.67
+AMZN     Amazon.com Inc.              164 $    129.08 $    163.56 $   26,823.77 $    5,654.65
+TSLA     Tesla Inc.                   191 $    184.43 $    215.16 $   41,095.53 $    5,869.40
+AAPL     Apple Inc.                    60 $    126.49 $    166.84 $   10,010.28 $    2,420.88
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $   81,373.02
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/14/2026     BUY      TSLA         77 $    337.81 $   26,011.37
+04/17/2026     DIV      AAPL         43 $    295.29 $   12,697.47
+05/24/2026     DIV      AAPL         93 $    300.94 $   27,987.42
+03/20/2026     BUY      JPM          57 $    465.22 $   26,517.54
+03/24/2026     SELL     AMZN         93 $    292.89 $   27,238.77
+04/23/2026     BUY      AAPL         56 $    348.27 $   19,503.12
+03/14/2026     BUY      TSLA         91 $    403.73 $   36,739.43
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

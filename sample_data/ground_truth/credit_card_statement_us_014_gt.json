@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_014.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Cody Hall",
+      "start": 219,
+      "end": 228
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4803-2127-4732-4400",
+      "start": 249,
+      "end": 268
+    },
+    {
+      "type": "ADDRESS",
+      "value": "19612 Ryan Grove Suite 781, Lauriefurt, MS 45556",
+      "start": 289,
+      "end": 337
+    },
+    {
+      "type": "PHONE",
+      "value": "821.725.8237x6102",
+      "start": 358,
+      "end": 375
+    },
+    {
+      "type": "EMAIL",
+      "value": "grace21@example.org",
+      "start": 396,
+      "end": 415
+    }
+  ]
+}

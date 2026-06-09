@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_022.txt",
+  "timestamp": "2026-06-09T08:01:14.277221",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Nagar LLC",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 357
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "758498",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 445,
+        "end": 451
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 466,
+        "end": 477
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Finn Padmanabhan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 503,
+        "end": 519
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "LZTBS6740H",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 544,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "8754 8567 9479",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 579,
+        "end": 593
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "04/11/1981",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 618,
+        "end": 628
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "821418",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 672,
+        "end": 678
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "vgoda@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 703,
+        "end": 720
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 69258 93418",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 745,
+        "end": 759
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 772,
+        "end": 783
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 788,
+        "end": 800
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Dey Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 441,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Setty",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 692,
+        "end": 697
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1098
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1177,
+        "end": 1205
+      }
+    }
+  ]
+}

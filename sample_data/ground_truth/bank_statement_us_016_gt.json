@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_016.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Derrick Robinson",
+      "start": 345,
+      "end": 361
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "538831074763",
+      "start": 381,
+      "end": 393
+    },
+    {
+      "type": "SSN",
+      "value": "513-98-1859",
+      "start": 413,
+      "end": 424
+    },
+    {
+      "type": "PHONE",
+      "value": "727.819.0777",
+      "start": 444,
+      "end": 456
+    },
+    {
+      "type": "EMAIL",
+      "value": "gomezjordan@example.net",
+      "start": 476,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/06/2004",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2512 Edwards Locks, West Makaylaburgh, MA 99584",
+      "start": 549,
+      "end": 596
+    }
+  ]
+}

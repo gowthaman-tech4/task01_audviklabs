@@ -1,0 +1,43 @@
+============================================================
+          [ORGANIZATION_007]
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_006]                    92 $    177.30 $    166.19 $   15,289.75 $   -1,021.85
+[ORGANIZATION_005]                  18 $    613.42 $    786.27 $   14,152.88 $    3,111.32
+GOOGL    Alphabet Inc.                241 $    166.50 $    160.39 $   38,654.67 $   -1,471.83
+[ORGANIZATION_004]              366 $    175.75 $    162.72 $   59,553.76 $   -4,770.74
+JPM      [ORGANIZATION_003]148 $    150.97 $    178.38 $   26,400.81 $    4,057.25
+MSFT     [ORGANIZATION_002]               31 $    414.15 $    376.77 $   11,679.90 $   -1,158.75
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  165,731.77
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/19/2026     DIV      [ORGANIZATION_001]         54 $    255.47 $   13,795.38
+03/29/2026     BUY      AAPL         24 $    407.00 $    9,768.00
+04/16/2026     SELL     AAPL         42 $    275.83 $   11,584.86
+03/16/2026     DIV      AAPL         22 $    122.97 $    2,705.34
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

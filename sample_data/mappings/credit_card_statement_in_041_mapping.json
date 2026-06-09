@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_in_041.txt",
+  "timestamp": "2026-06-09T07:55:08.900799",
+  "total_entities_masked": 5,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Vrishti Sundaram",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 235
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "439232404084",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 256,
+        "end": 270
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "524574",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 329,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 97746 23003",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "sainifaraj@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kumer Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 307,
+        "end": 318
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Junagadh",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 320,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "06/04/2026     Dewan PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 878,
+        "end": 902
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Nagi",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 961,
+        "end": 965
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/20/2026     Devan PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1130,
+        "end": 1154
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Anand",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1334,
+        "end": 1339
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Narang",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1341,
+        "end": 1347
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Pradhan",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1352,
+        "end": 1359
+      }
+    }
+  ]
+}

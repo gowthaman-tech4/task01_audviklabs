@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_039.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Aarna Uppal",
+      "start": 342,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "772996996332816",
+      "start": 373,
+      "end": 388
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "PUNB0220345",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PAN",
+      "value": "ARULF8049M",
+      "start": 439,
+      "end": 449
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 72380 98337",
+      "start": 469,
+      "end": 484
+    },
+    {
+      "type": "EMAIL",
+      "value": "kamya75@example.com",
+      "start": 504,
+      "end": 523
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/22/1973",
+      "start": 543,
+      "end": 553
+    },
+    {
+      "type": "ADDRESS",
+      "value": "44/749, Gandhi Nagar, Nangloi Jat 802722",
+      "start": 573,
+      "end": 613
+    }
+  ]
+}

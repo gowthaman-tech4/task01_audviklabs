@@ -1,0 +1,41 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Lisa Jefferson
+Account Number:         5795808131
+SSN:                    633-52-7847
+Email:                  danielsjulia@example.com
+Phone:                  +1-630-735-2527x867
+Correspondence Address: 59980 Misty Burg Apt. 596, Juliamouth, DC 14331
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                   167 $    215.48 $    232.50 $   38,828.32 $    2,843.16
+AAPL     Apple Inc.                   152 $    177.74 $    178.22 $   27,089.89 $       73.41
+GOOGL    Alphabet Inc.                473 $    150.95 $    144.86 $   68,519.16 $   -2,880.19
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  134,437.37
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/26/2026     BUY      GOOGL        37 $    129.64 $    4,796.68
+05/16/2026     DIV      AAPL         39 $    267.65 $   10,438.35
+05/29/2026     SELL     TSLA         79 $    191.37 $   15,118.23
+04/07/2026     DIV      TSLA         16 $    346.37 $    5,541.92
+03/27/2026     SELL     TSLA          3 $    196.14 $      588.42
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

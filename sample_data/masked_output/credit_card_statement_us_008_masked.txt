@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_007]
+Card Number:        [AADHAAR_001]-1788
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 11, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $    5,412.74
+Previous Balance:   $   10,109.25
+Payments Received:  $    2,820.76
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/27/2026     Young-Dunn                          $    778.07
+05/29/2026     Edwards Ltd                         $  1,725.88
+06/06/2026     Knight-Martin                       $    926.40
+05/09/2026     Ellis-Henderson                     $    628.81
+06/06/2026     Ray, Webb and Sims                  $    766.76
+05/14/2026     Tanner-Shaw                         $    429.41
+05/12/2026     [ORGANIZATION_002]$  1,819.76
+05/18/2026     [PERSON_NAME_006]                    $  1,027.30
+06/03/2026     Mitchell Group                      $    466.28
+05/09/2026     Walsh, [PERSON_NAME_005] and Benitez            $    223.10
+05/28/2026     Rivers-Young                        $  1,100.09
+06/04/2026     [PERSON_NAME_004], [PERSON_NAME_003] and [PERSON_NAME_002]          $    910.61
+06/01/2026     [PERSON_NAME_001] and Sons                     $  1,789.54
+06/07/2026     Daniels, [ADDRESS_003] and Rodriguez        $  1,712.41
+[ORGANIZATION_001]                          $    714.07
+
+-------------------------------------------------------------
+Total Charges:      $   15,018.49
+[ADDRESS_002]:        $   22,306.98
+Minimum Payment:    $      446.14
+
+============================================================

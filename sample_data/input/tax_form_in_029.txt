@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sastry Inc
+TAN of the Deductor:    TRCG38216C
+Address:                H.No. 539, Bora Street, Bharatpur-725641
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Ojasvi Kala
+PAN of the Employee:    YSTHP1931N
+Aadhaar Number:         5716 9667 2324
+Date of Birth:          30/07/2001
+Address:                14/751, Rana Ganj, Dindigul-200994
+Email:                  advikkhanna@example.com
+Mobile:                 91 70066 83044
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,086,948.44
+   (b) Value of perquisites u/s 17(2)  Rs.      17,407.93
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     250,433.81
+   (b) LTA Exemption                   Rs.       8,385.91
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,786,514.63
+5. Tax on Total Income                 Rs.     357,302.93
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      14,292.12
+8. Total Tax Payable                   Rs.     371,595.04
+
+============================================================

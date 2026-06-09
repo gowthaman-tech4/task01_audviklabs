@@ -1,0 +1,52 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 03, 2026 to June 03, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Lucasland Branch
+Opening Balance:   $135,496.75
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/28/2026     NEFT Transfer                           4,918.03                  130,578.72
+[ORGANIZATION_001] Charge                            159.22                  130,419.50
+06/06/2026     NEFT Transfer                                        3,734.57     134,154.07
+05/28/2026     Direct Deposit - VQY Corp               4,848.33                  129,305.74
+05/29/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,418.94                  124,886.80
+06/03/2026     Bill Payment - Utility                  4,484.12                  120,402.68
+06/02/2026     UPI Transfer                              913.91                  119,488.77
+05/18/2026     Interest Credit                                      2,999.59     122,488.36
+06/01/2026     NEFT Transfer                                           31.48     122,519.84
+05/23/2026     Interest Credit                         4,640.19                  117,879.65
+05/24/2026     ATM Withdrawal - East Kevin             3,108.65                  114,771.00
+06/06/2026     Check #7984                                          3,415.89     118,186.89
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $118,186.89
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

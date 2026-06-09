@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-745982
+Date of Agreement: May 06, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: 90890 Veronica Streets, Port Randytown, UT 46579
+
+BORROWER:
+Name: Cindy Beard
+SSN: 638-76-0330
+Date of Birth: 03/27/1996
+Address: PSC 7804, Box 9522, APO AP 61924
+Phone: 841.781.1015x3538
+Email: jonathanrodriguez@example.net
+
+CO-BORROWER (if applicable):
+Name: Philip Harding
+Phone: +1-865-513-1867
+Email: dpace@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    301,528.85
+Interest Rate:              16.23% per annum
+Loan Tenure:                36 months
+EMI Amount:                 $     10,635.13
+Disbursement Account No:    97030962851568
+Disbursement Date:          May 31, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 36 equal monthly installments of $10,635.13.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

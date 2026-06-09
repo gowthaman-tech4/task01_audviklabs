@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_us_030.txt",
+  "timestamp": "2026-06-09T07:54:13.830473",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Robert Mathis",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 340,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "937831573821",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "315-94-8361",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 405,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(802)829-5963x2293",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 436,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "elizabeth00@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 474,
+        "end": 497
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/02/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 517,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "10641 Abigail Path, West Michael, NY 36846",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 589
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Purchase - Mann",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 948,
+        "end": 963
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "03163413",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1791,
+        "end": 1799
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "18607127",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1975,
+        "end": 1983
+      }
+    }
+  ]
+}

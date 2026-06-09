@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_021.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Baljiwan Ravi",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0531988285",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "DHQJB0043V",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7977616436698184",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "chameli24@example.net",
+      "start": 432,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 61174 82254",
+      "start": 478,
+      "end": 493
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 924, Sani Road, Tiruchirappalli 764521",
+      "start": 518,
+      "end": 562
+    }
+  ]
+}

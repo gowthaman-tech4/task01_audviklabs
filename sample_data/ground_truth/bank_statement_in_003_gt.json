@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_003.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Imaran Nayar",
+      "start": 348,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9179618942",
+      "start": 380,
+      "end": 390
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "CNRB0045850",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PAN",
+      "value": "MBIFL5441B",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 64041 81078",
+      "start": 471,
+      "end": 486
+    },
+    {
+      "type": "EMAIL",
+      "value": "michael42@example.com",
+      "start": 506,
+      "end": 527
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/02/1974",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "type": "ADDRESS",
+      "value": "08, Chandra Circle, Srikakulam-916585",
+      "start": 577,
+      "end": 614
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document": "bank_statement_in_023.txt",
+  "timestamp": "2026-06-09T07:53:48.956337",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 3,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Dhruv Singhal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 338,
+        "end": 351
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "80216684446",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 371,
+        "end": 382
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0604656",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UYPGM0873W",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 433,
+        "end": 443
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 91466 25286",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 463,
+        "end": 477
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "vedhika12@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 497,
+        "end": 518
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/01/1970",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 538,
+        "end": 548
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "768588",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 594,
+        "end": 600
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "65523924",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1252,
+        "end": 1260
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "96456009",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1528,
+        "end": 1536
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bakshi Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Chennai",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 598,
+        "end": 605
+      }
+    }
+  ]
+}

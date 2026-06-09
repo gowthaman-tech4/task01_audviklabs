@@ -1,0 +1,171 @@
+{
+  "document": "bank_statement_in_035.txt",
+  "timestamp": "2026-06-09T07:53:52.172533",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Theodore Devan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 340,
+        "end": 354
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "35873908131",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 374,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "CNRB0381820",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 405,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "DOZBH0503Z",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 446
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 77915 49115",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 466,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "yahvi09@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 501,
+        "end": 520
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "02/01/1967",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 540,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "319814",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 600,
+        "end": 606
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "17552649",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1528,
+        "end": 1536
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "2,927.40",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1641,
+        "end": 1649
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Biswas Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 590,
+        "end": 601
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Junagadh",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 603,
+        "end": 611
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/16/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1053,
+        "end": 1075
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/28/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1806,
+        "end": 1828
+      }
+    }
+  ]
+}

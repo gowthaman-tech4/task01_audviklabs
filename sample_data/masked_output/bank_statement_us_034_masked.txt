@@ -1,0 +1,54 @@
+============================================================
+                    [ORGANIZATION_005]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 20, 2026 to May 24, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Dennisbury Branch
+Opening Balance:   $44,480.35
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+[ORGANIZATION_004] Charge                          2,983.09                   41,497.26
+05/10/2026     Online Transfer to [ACCOUNT_NUMBER_003]               223.57                   41,273.69
+05/23/2026     Online Transfer to [ACCOUNT_NUMBER_002]                          1,481.49      42,755.18
+05/21/2026     Online Transfer to [ACCOUNT_NUMBER_001]             4,018.90                   38,736.28
+06/04/2026     Bill Payment - Utility                  2,758.58                   35,977.70
+06/02/2026     ATM Withdrawal - New Jill                            3,550.61      39,528.31
+05/15/2026     Bill Payment - Utility                  3,853.41                   35,674.90
+06/04/2026     ATM Withdrawal - Elizabethport          2,086.08                   33,588.82
+05/29/2026     Interest Credit                           227.65                   33,361.17
+05/10/2026     Interest Credit                                        391.96      33,753.13
+05/25/2026     Service Charge                            552.61                   33,200.52
+[ORGANIZATION_003] Charge                                       3,166.37      36,366.89
+05/22/2026     UPI Transfer                                         3,800.60      40,167.49
+[ORGANIZATION_002] Charge                                       1,976.43      42,143.92
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $42,143.92
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

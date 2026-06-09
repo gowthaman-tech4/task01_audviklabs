@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_026.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jessica Turner",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "David Stewart",
+      "start": 483,
+      "end": 496
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/18/1979",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "729 Garner Circle, West Rebeccaberg, MH 14686",
+      "start": 548,
+      "end": 593
+    },
+    {
+      "type": "PHONE",
+      "value": "(533)624-2919x1149",
+      "start": 614,
+      "end": 632
+    },
+    {
+      "type": "EMAIL",
+      "value": "matthew10@example.net",
+      "start": 653,
+      "end": 674
+    },
+    {
+      "type": "SSN",
+      "value": "312-39-4523",
+      "start": 695,
+      "end": 706
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Juan Davis",
+      "start": 753,
+      "end": 763
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/30/2015",
+      "start": 808,
+      "end": 818
+    }
+  ]
+}

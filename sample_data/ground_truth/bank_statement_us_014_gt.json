@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_014.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Reed",
+      "start": 351,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "391877515141",
+      "start": 383,
+      "end": 395
+    },
+    {
+      "type": "SSN",
+      "value": "339-87-7047",
+      "start": 415,
+      "end": 426
+    },
+    {
+      "type": "PHONE",
+      "value": "001-819-532-2823x772",
+      "start": 446,
+      "end": 466
+    },
+    {
+      "type": "EMAIL",
+      "value": "jfisher@example.org",
+      "start": 486,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/01/2002",
+      "start": 525,
+      "end": 535
+    },
+    {
+      "type": "ADDRESS",
+      "value": "791 Christopher Harbor Apt. 452, Rebeccaville, WI 52776",
+      "start": 555,
+      "end": 610
+    }
+  ]
+}

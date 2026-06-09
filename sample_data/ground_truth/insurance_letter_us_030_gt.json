@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_030.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Max Smith",
+      "start": 312,
+      "end": 321
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Dean",
+      "start": 478,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/09/1982",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "076 Luis Burg Apt. 342, New Joshuahaven, NJ 31809",
+      "start": 546,
+      "end": 595
+    },
+    {
+      "type": "PHONE",
+      "value": "668-877-9120x1604",
+      "start": 616,
+      "end": 633
+    },
+    {
+      "type": "EMAIL",
+      "value": "jamiegutierrez@example.com",
+      "start": 654,
+      "end": 680
+    },
+    {
+      "type": "SSN",
+      "value": "100-29-6767",
+      "start": 701,
+      "end": 712
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Angela Cruz",
+      "start": 759,
+      "end": 770
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/23/1984",
+      "start": 815,
+      "end": 825
+    }
+  ]
+}

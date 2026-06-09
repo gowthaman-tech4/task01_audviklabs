@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_006.txt",
+  "timestamp": "2026-06-09T07:57:18.299345",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 3,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "580440",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 455,
+        "end": 461
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 476,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Ojasvi Chad",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 513,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UZUFB2230Z",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 549,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "6354 7762 8640",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 598
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/01/1984",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 623,
+        "end": 633
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "77/09, Maharaj, Hospet 073539",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 658,
+        "end": 687
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "damini06@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 712,
+        "end": 732
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 82733 27028",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 757,
+        "end": 771
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 784,
+        "end": 795
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 812
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "568,694.12",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 860,
+        "end": 870
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Bhatia",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 354,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Group",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 361,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Coimbatore",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 450,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1050,
+        "end": 1084
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1163,
+        "end": 1191
+      }
+    }
+  ]
+}

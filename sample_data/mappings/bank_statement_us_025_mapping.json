@@ -1,0 +1,127 @@
+{
+  "document": "bank_statement_us_025.txt",
+  "timestamp": "2026-06-09T07:54:00.337314",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Isaac Browning",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 359
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "157074667538",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 379,
+        "end": 391
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "160-18-7274",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 411,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "276-439-0881x650",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 442,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "imathews@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 478,
+        "end": 498
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "02/17/1969",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 518,
+        "end": 528
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "0586 Danielle Corner Suite 778, West Sylviaton, FL 70316",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 548,
+        "end": 604
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "91667604",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1163,
+        "end": 1171
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1534,
+        "end": 1539
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Purchase - Payne",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1482,
+        "end": 1498
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_022.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "314-82-7684",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "85-4223596",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Reid Ltd",
+      "start": 353,
+      "end": 361
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2653 Fitzpatrick Ford, South Joshuamouth, MT 43412",
+      "start": 365,
+      "end": 415
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Allen",
+      "start": 439,
+      "end": 453
+    },
+    {
+      "type": "ADDRESS",
+      "value": "98718 Amy Fort, New Lindaville, ME 65708",
+      "start": 493,
+      "end": 533
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Ekalinga Brahmbhatt
+Card Number:        4864-0728-2847-9739
+Billing Address:    66/980, Bhatti Zila, Guntakal-289375
+Phone:              +91 60529 45154
+Email:              georgekrishna@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   14,612.35
+Previous Balance:   $    8,836.90
+Payments Received:  $    1,842.57
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/05/2026     Ganesh, Hans and Sheth              $  1,408.96
+05/12/2026     Bhagat-Bansal                       $    786.43
+05/27/2026     Chander-Mittal                      $  1,025.84
+05/10/2026     Kakar, Radhakrishnan and Bali       $  1,983.88
+05/27/2026     Mani Inc                            $    136.77
+05/27/2026     Atwal, Ravi and Puri                $  1,188.38
+05/30/2026     Badami LLC                          $    366.89
+05/29/2026     Kaur-Rao                            $  1,224.95
+
+-------------------------------------------------------------
+Total Charges:      $    8,122.10
+New Balance:        $   15,116.43
+Minimum Payment:    $      302.33
+
+============================================================

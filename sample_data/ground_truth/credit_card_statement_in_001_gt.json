@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_001.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekalinga Brahmbhatt",
+      "start": 219,
+      "end": 238
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4864-0728-2847-9739",
+      "start": 259,
+      "end": 278
+    },
+    {
+      "type": "ADDRESS",
+      "value": "66/980, Bhatti Zila, Guntakal-289375",
+      "start": 299,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 60529 45154",
+      "start": 356,
+      "end": 371
+    },
+    {
+      "type": "EMAIL",
+      "value": "georgekrishna@example.org",
+      "start": 392,
+      "end": 417
+    }
+  ]
+}

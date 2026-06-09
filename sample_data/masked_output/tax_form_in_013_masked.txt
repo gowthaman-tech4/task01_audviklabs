@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER [PERSON_NAME_006]
+
+Name of the Deductor:   [PERSON_NAME_005]
+TAN of the Deductor:    LEFY89903O
+Address:                507, [PERSON_NAME_008], [ORGANIZATION_003] [ADDRESS_002]
+
+--- EMPLOYEE [PERSON_NAME_004]
+
+Name of the Employee:   [PERSON_NAME_003]
+PAN of the Employee:    [PAN_001]
+Aadhaar Number:         [AADHAAR_001]
+Date of Birth:          [DATE_OF_BIRTH_001]
+Address:                537, [PERSON_NAME_007], Suryapet [ADDRESS_001]
+Email:                  [EMAIL_001]
+Mobile:                 [PHONE_001]
+
+--- SALARY [PERSON_NAME_002]
+
+1. [PERSON_NAME_001]
+   (a) Salary as per Section 17(1)     Rs.   1,435,968.28
+   (b) Value of perquisites u/s 17(2)  Rs.      12,152.10
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) [ORGANIZATION_002].     172,316.19
+   (b) LTA Exemption                   Rs.      17,141.90
+
+3. [ORGANIZATION_001])       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,213,652.09
+5. Tax on Total Income                 Rs.     242,730.42
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       9,709.22
+8. Total Tax Payable                   Rs.     252,439.63
+
+============================================================

@@ -1,0 +1,225 @@
+{
+  "document": "tax_form_in_009.txt",
+  "timestamp": "2026-06-09T07:58:03.726400",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Ramanathan-Sampath",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "739638",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 460,
+        "end": 466
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 492
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Vrinda Murthy",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 518,
+        "end": 531
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "FRILH8849Y",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 556,
+        "end": 566
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5553 6284 9570",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 591,
+        "end": 605
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "18/02/1983",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 630,
+        "end": 640
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "056342",
+      "type": "ADDRESS",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 703
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "anika45@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 728,
+        "end": 747
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 81970 48688",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 772,
+        "end": 787
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 800,
+        "end": 811
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 816,
+        "end": 828
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Rana Street",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 436,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Rajpur Sonarpur",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 449,
+        "end": 464
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Pingle Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 702,
+        "end": 714
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Tadipatri",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 716,
+        "end": 725
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1117
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1196,
+        "end": 1224
+      }
+    }
+  ]
+}

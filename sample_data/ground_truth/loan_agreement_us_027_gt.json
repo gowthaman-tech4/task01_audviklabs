@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_027.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3971 Denise Stravenue, Jimmyside, ND 27810",
+      "start": 372,
+      "end": 414
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tabitha Parker",
+      "start": 432,
+      "end": 446
+    },
+    {
+      "type": "SSN",
+      "value": "606-09-3650",
+      "start": 452,
+      "end": 463
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/25/1999",
+      "start": 479,
+      "end": 489
+    },
+    {
+      "type": "ADDRESS",
+      "value": "USS Duncan, FPO AE 92220",
+      "start": 499,
+      "end": 523
+    },
+    {
+      "type": "PHONE",
+      "value": "001-729-880-0578x83494",
+      "start": 531,
+      "end": 553
+    },
+    {
+      "type": "EMAIL",
+      "value": "tinajefferson@example.com",
+      "start": 561,
+      "end": 586
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kristen Hays",
+      "start": 623,
+      "end": 635
+    },
+    {
+      "type": "PHONE",
+      "value": "2538962222",
+      "start": 643,
+      "end": 653
+    },
+    {
+      "type": "EMAIL",
+      "value": "cmoon@example.com",
+      "start": 661,
+      "end": 678
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "72785799369657",
+      "start": 938,
+      "end": 952
+    }
+  ]
+}

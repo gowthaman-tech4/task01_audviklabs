@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Tak LLC
+TAN of the Deductor:    FILZ83561G
+Address:                56, Purohit Circle, Amravati-338213
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Mekhala Gopal
+PAN of the Employee:    FODAC3320M
+Aadhaar Number:         4050 0691 8247
+Date of Birth:          12/07/1991
+Address:                H.No. 469, Barad Street, Tirupati 221634
+Email:                  vamakshichokshi@example.net
+Mobile:                 +91 60325 68934
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,848,467.44
+   (b) Value of perquisites u/s 17(2)  Rs.      14,401.39
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     221,816.09
+   (b) LTA Exemption                   Rs.      11,839.23
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,576,651.35
+5. Tax on Total Income                 Rs.     315,330.27
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      12,613.21
+8. Total Tax Payable                   Rs.     327,943.48
+
+============================================================

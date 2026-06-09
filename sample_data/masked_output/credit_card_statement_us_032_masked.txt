@@ -1,0 +1,37 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_004]
+Card Number:        [AADHAAR_001]-1433
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 29, 2026
+Payment Due Date:   June 26, 2026
+Credit Limit:       $   42,341.68
+Previous Balance:   $   11,807.88
+Payments Received:  $    4,439.56
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/05/2026     [PERSON_NAME_003] LLC                          $  1,234.21
+06/07/2026     Obrien, [ORGANIZATION_005] and [ORGANIZATION_004]$  1,001.52
+05/27/2026     [ORGANIZATION_003]$    290.87
+05/24/2026     [ORGANIZATION_002]$    528.37
+06/04/2026     [ORGANIZATION_001]$  1,921.13
+05/17/2026     Powers, [PERSON_NAME_002] and [PERSON_NAME_001]         $  1,160.19
+
+-------------------------------------------------------------
+Total Charges:      $    6,136.29
+New Balance:        $   13,504.61
+Minimum Payment:    $      270.09
+
+============================================================

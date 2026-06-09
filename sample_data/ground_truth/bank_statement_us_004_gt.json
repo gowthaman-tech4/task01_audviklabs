@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_004.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mary Cruz",
+      "start": 348,
+      "end": 357
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "349995267384",
+      "start": 377,
+      "end": 389
+    },
+    {
+      "type": "SSN",
+      "value": "172-56-2613",
+      "start": 409,
+      "end": 420
+    },
+    {
+      "type": "PHONE",
+      "value": "001-486-538-9705x716",
+      "start": 440,
+      "end": 460
+    },
+    {
+      "type": "EMAIL",
+      "value": "hornedebbie@example.net",
+      "start": 480,
+      "end": 503
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/28/1961",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 0665, Box 6056, APO AP 39956",
+      "start": 553,
+      "end": 585
+    }
+  ]
+}

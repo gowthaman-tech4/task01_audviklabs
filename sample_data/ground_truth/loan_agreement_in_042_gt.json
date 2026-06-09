@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_042.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "43/144, Vasa Street, Adoni-656933",
+      "start": 376,
+      "end": 409
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jagdish Bahl",
+      "start": 427,
+      "end": 439
+    },
+    {
+      "type": "PAN",
+      "value": "RFHHQ3333H",
+      "start": 445,
+      "end": 455
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5361 0713 0136",
+      "start": 465,
+      "end": 479
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/20/1981",
+      "start": 495,
+      "end": 505
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 05, Rajan Street, Aurangabad 564319",
+      "start": 515,
+      "end": 556
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 89421 75657",
+      "start": 564,
+      "end": 579
+    },
+    {
+      "type": "EMAIL",
+      "value": "norideepa@example.org",
+      "start": 587,
+      "end": 608
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "00229174298515",
+      "start": 870,
+      "end": 884
+    }
+  ]
+}

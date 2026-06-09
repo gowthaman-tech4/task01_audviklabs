@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_017.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "90890 Veronica Streets, Port Randytown, UT 46579",
+      "start": 373,
+      "end": 421
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Cindy Beard",
+      "start": 439,
+      "end": 450
+    },
+    {
+      "type": "SSN",
+      "value": "638-76-0330",
+      "start": 456,
+      "end": 467
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/27/1996",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 7804, Box 9522, APO AP 61924",
+      "start": 503,
+      "end": 535
+    },
+    {
+      "type": "PHONE",
+      "value": "841.781.1015x3538",
+      "start": 543,
+      "end": 560
+    },
+    {
+      "type": "EMAIL",
+      "value": "jonathanrodriguez@example.net",
+      "start": 568,
+      "end": 597
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Philip Harding",
+      "start": 634,
+      "end": 648
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-865-513-1867",
+      "start": 656,
+      "end": 671
+    },
+    {
+      "type": "EMAIL",
+      "value": "dpace@example.net",
+      "start": 679,
+      "end": 696
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "97030962851568",
+      "start": 957,
+      "end": 971
+    }
+  ]
+}

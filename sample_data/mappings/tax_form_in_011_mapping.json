@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_011.txt",
+  "timestamp": "2026-06-09T07:58:33.821188",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Sarraf-Trivedi",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "528789",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 450,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 471,
+        "end": 482
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gaurav Kumer",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 508,
+        "end": 520
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "YOJFP8520I",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 545,
+        "end": 555
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5455 4874 4313",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 580,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "24/04/1982",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 619,
+        "end": 629
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "755135",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 683,
+        "end": 689
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tamannakant@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 714,
+        "end": 737
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 78536 63544",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 762,
+        "end": 777
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 790,
+        "end": 801
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 806,
+        "end": 818
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Bedi Chowk",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Borde Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 695,
+        "end": 705
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1074,
+        "end": 1108
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1187,
+        "end": 1215
+      }
+    }
+  ]
+}

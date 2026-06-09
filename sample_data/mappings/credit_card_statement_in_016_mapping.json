@@ -1,0 +1,135 @@
+{
+  "document": "credit_card_statement_in_016.txt",
+  "timestamp": "2026-06-09T07:55:04.290776",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Vamakshi Lata",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "416297470530",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "87/765, Grover Circle, Anantapuram 051025",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 293,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 98345 62737",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 355,
+        "end": 369
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "noah24@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 390,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nagy",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1152,
+        "end": 1156
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Seth",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1161,
+        "end": 1165
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Khatri",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 740,
+        "end": 746
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Keer",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 751,
+        "end": 755
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/28/2026     Nori Inc                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 832
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Hegde",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 859,
+        "end": 864
+      }
+    }
+  ]
+}

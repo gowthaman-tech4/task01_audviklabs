@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_026.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kayla Gentry",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4727-1986-7349-0633",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "68806 Alexander Burg Suite 652, Port Lisafurt, IN 17582",
+      "start": 292,
+      "end": 347
+    },
+    {
+      "type": "PHONE",
+      "value": "(459)644-9089",
+      "start": 368,
+      "end": 381
+    },
+    {
+      "type": "EMAIL",
+      "value": "craig81@example.net",
+      "start": 402,
+      "end": 421
+    }
+  ]
+}

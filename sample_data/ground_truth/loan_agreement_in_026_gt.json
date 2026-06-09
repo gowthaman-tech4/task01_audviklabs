@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_026.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 888, Konda Road, Alappuzha 297507",
+      "start": 378,
+      "end": 417
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Panini Naidu",
+      "start": 435,
+      "end": 447
+    },
+    {
+      "type": "PAN",
+      "value": "RZWJO1404U",
+      "start": 453,
+      "end": 463
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5433 1277 9392",
+      "start": 473,
+      "end": 487
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/25/1981",
+      "start": 503,
+      "end": 513
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 75, Raja Street, Nizamabad 197326",
+      "start": 523,
+      "end": 562
+    },
+    {
+      "type": "PHONE",
+      "value": "91 65621 86237",
+      "start": 570,
+      "end": 584
+    },
+    {
+      "type": "EMAIL",
+      "value": "imaran46@example.org",
+      "start": 592,
+      "end": 612
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Chaitanya Nori",
+      "start": 649,
+      "end": 663
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63445 39222",
+      "start": 671,
+      "end": 686
+    },
+    {
+      "type": "EMAIL",
+      "value": "dprakash@example.com",
+      "start": 694,
+      "end": 714
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "91886460621903",
+      "start": 974,
+      "end": 988
+    }
+  ]
+}

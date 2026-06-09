@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9719350
+Policy Type: Term Insurance
+Date of Issue: January 19, 2026
+
+Dear Scott Goodman,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Brenda Thomas
+Date of Birth:      11/24/2000
+Address:            654 Ronald Village Suite 524, Turnerburgh, NE 91422
+Phone:              957-876-5966
+Email:              kelly93@example.org
+SSN:                240-19-8539
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Christy Barton
+Relationship:       Spouse
+Nominee DOB:        07/14/1973
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    804,722.27
+Annual Premium:     $      5,847.82
+Policy Term:        25 years
+Premium Payment:    Annual
+Risk Commencement:  September 07, 2025
+Maturity Date:      April 25, 2042
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

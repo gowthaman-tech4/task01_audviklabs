@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_038.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Mcintyre",
+      "start": 348,
+      "end": 368
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "025632509374",
+      "start": 388,
+      "end": 400
+    },
+    {
+      "type": "SSN",
+      "value": "183-41-1203",
+      "start": 420,
+      "end": 431
+    },
+    {
+      "type": "PHONE",
+      "value": "353.848.7164x7015",
+      "start": 451,
+      "end": 468
+    },
+    {
+      "type": "EMAIL",
+      "value": "rodrigueznathan@example.org",
+      "start": 488,
+      "end": 515
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/07/1979",
+      "start": 535,
+      "end": 545
+    },
+    {
+      "type": "ADDRESS",
+      "value": "37715 Jessica Prairie Apt. 504, Grantburgh, VT 36702",
+      "start": 565,
+      "end": 617
+    }
+  ]
+}

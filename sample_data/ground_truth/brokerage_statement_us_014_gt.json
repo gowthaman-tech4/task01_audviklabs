@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_014.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Elizabeth Coleman",
+      "start": 280,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1402581820",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "SSN",
+      "value": "327-54-4877",
+      "start": 357,
+      "end": 368
+    },
+    {
+      "type": "EMAIL",
+      "value": "coleryan@example.org",
+      "start": 393,
+      "end": 413
+    },
+    {
+      "type": "PHONE",
+      "value": "7309036472",
+      "start": 438,
+      "end": 448
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 6180, Box 6249, APO AE 00957",
+      "start": 473,
+      "end": 505
+    }
+  ]
+}

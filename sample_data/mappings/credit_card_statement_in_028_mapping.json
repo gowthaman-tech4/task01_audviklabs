@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_in_028.txt",
+  "timestamp": "2026-06-09T07:55:06.554806",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 2,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Chasmum Dara",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 231
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "450811372242",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 252,
+        "end": 266
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "915714",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 320,
+        "end": 326
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 86135 91041",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 347,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "saurora@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 401
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Krishnamurthy",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 958,
+        "end": 971
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Saha",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1208,
+        "end": 1212
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "05/26/2026",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1313,
+        "end": 1323
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Iyer Road",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 306,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Bhardwaj-Bhattacharyya",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 761,
+        "end": 783
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Lall-Jani                           ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 824,
+        "end": 860
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Majumdar-Banerjee                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1017,
+        "end": 1053
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/27/2026     Behl Ltd                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1396,
+        "end": 1447
+      }
+    }
+  ]
+}

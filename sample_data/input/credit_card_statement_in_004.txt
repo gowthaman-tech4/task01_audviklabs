@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Anirudh Gandhi
+Card Number:        4113-5407-8551-4192
+Billing Address:    27, Doctor, Erode-296531
+Phone:              91 61122 95329
+Email:              lbalan@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 13, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   45,468.66
+Previous Balance:   $    7,069.87
+Payments Received:  $    2,834.64
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/14/2026     Raman-Kapoor                        $  1,436.22
+06/06/2026     Handa-Sami                          $  1,224.65
+05/14/2026     Gaba, Gill and Tailor               $  1,583.44
+05/27/2026     Mander, Minhas and Tara             $  1,667.33
+06/05/2026     Chad, Atwal and Ramakrishnan        $    299.79
+05/25/2026     Golla and Sons                      $    775.01
+05/21/2026     Ramanathan LLC                      $    292.38
+05/20/2026     Oak-Arya                            $    808.39
+05/22/2026     Butala-Sood                         $  1,494.25
+05/11/2026     Narasimhan, Rao and Sekhon          $    495.63
+05/22/2026     Vyas, Thaker and Chawla             $    253.04
+05/22/2026     Din-Chand                           $  1,455.72
+06/05/2026     Borde-Pall                          $    870.99
+
+-------------------------------------------------------------
+Total Charges:      $   12,656.84
+New Balance:        $   16,892.07
+Minimum Payment:    $      337.84
+
+============================================================

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   157-02-1401
+
+b  Employer Identification Number (EIN)
+   64-1123284
+
+c  Employer's Name, Address, and ZIP Code
+   Larsen Inc
+   PSC 6908, Box 5701, APO AP 68463
+
+e  Employee's Name
+   Jason Mccormick
+
+f  Employee's Address and ZIP Code
+   2573 Williams Pine, Jaredview, NM 14699
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  148,812.28
+2  Federal income tax withheld         $   32,827.21
+3  Social Security wages               $  148,812.28
+4  Social Security tax withheld        $    9,226.36
+5  Medicare wages and tips             $  148,812.28
+6  Medicare tax withheld               $    2,157.78
+
+12a Code DD - Health Insurance          $    4,178.74
+
+--- STATE TAX INFORMATION ---
+
+15 State: WA
+16 State wages                         $  148,812.28
+17 State income tax                    $    9,094.04
+
+============================================================

@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_020.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Catherine Johnson DDS",
+      "start": 315,
+      "end": 336
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nathan Petersen",
+      "start": 493,
+      "end": 508
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/26/1979",
+      "start": 529,
+      "end": 539
+    },
+    {
+      "type": "ADDRESS",
+      "value": "306 Jesse Valleys Apt. 062, Gonzalezton, FL 60196",
+      "start": 560,
+      "end": 609
+    },
+    {
+      "type": "PHONE",
+      "value": "622.901.9665x209",
+      "start": 630,
+      "end": 646
+    },
+    {
+      "type": "EMAIL",
+      "value": "lorigreen@example.net",
+      "start": 667,
+      "end": 688
+    },
+    {
+      "type": "SSN",
+      "value": "124-71-8025",
+      "start": 709,
+      "end": 720
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Rita Shannon",
+      "start": 767,
+      "end": 779
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/10/1997",
+      "start": 827,
+      "end": 837
+    }
+  ]
+}

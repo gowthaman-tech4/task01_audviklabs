@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-9600
+Billing Address:    H.No. 94, [PERSON_NAME_004], Mirzapur-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 16, 2026
+Payment Due Date:   July 01, 2026
+Credit Limit:       $   45,194.00
+Previous Balance:   $      934.90
+Payments Received:  $      906.70
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/20/2026     Mutti-Varkey                        $     34.16
+06/05/2026     Walla Group                         $  1,213.97
+05/12/2026     [ORGANIZATION_001]                           $    873.17
+06/02/2026     Narain, Chaudhary and Chand         $    357.10
+05/26/2026     Loke, Anne and Chahal               $    530.82
+05/12/2026     Dayal, [PERSON_NAME_002] and Din                $  1,520.89
+05/30/2026     Tank-Brahmbhatt                     $    569.50
+06/03/2026     Boase-Ahuja                         $  1,445.83
+05/27/2026     [PERSON_NAME_001] and Sons                      $  1,643.04
+
+-------------------------------------------------------------
+Total Charges:      $    8,188.48
+New Balance:        $    8,216.68
+Minimum Payment:    $      164.33
+
+============================================================

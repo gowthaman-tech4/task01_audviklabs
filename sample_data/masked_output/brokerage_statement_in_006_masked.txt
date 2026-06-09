@@ -1,0 +1,47 @@
+============================================================
+          [ORGANIZATION_011].
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 44, [PERSON_NAME_002], Muzaffarnagar-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_010]                 191 $    557.42 $    702.68 $  134,211.50 $   27,744.28
+[ORGANIZATION_009]              116 $    128.88 $    161.34 $   18,715.47 $    3,765.39
+MSFT     [ORGANIZATION_008]               16 $    296.21 $    364.12 $    5,825.85 $    1,086.49
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  158,752.82
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/18/2026     SELL     [ORGANIZATION_007]          4 $     95.94 $      383.76
+05/25/2026     DIV      NVDA        100 $     51.65 $    5,165.00
+03/14/2026     BUY      [ORGANIZATION_006]          6 $    412.92 $    2,477.52
+03/27/2026     SELL     [ORGANIZATION_005]          9 $    325.06 $    2,925.54
+05/10/2026     SELL     [ORGANIZATION_004]         93 $    254.10 $   23,631.30
+05/29/2026     BUY      [ORGANIZATION_003]          3 $    279.25 $      837.75
+05/23/2026     BUY      AMZN         93 $    118.70 $   11,039.10
+05/23/2026     SELL     AMZN         93 $    154.31 $   14,350.83
+[ORGANIZATION_002]     BUY      [ORGANIZATION_001]         44 $    325.24 $   14,310.56
+04/28/2026     DIV      AMZN         19 $    333.02 $    6,327.38
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

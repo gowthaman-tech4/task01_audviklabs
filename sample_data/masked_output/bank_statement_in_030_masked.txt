@@ -1,0 +1,61 @@
+============================================================
+                    [ORGANIZATION_006]
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 08, 2026 to May 29, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           69, [PERSON_NAME_002], Gaya-[ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Alwar Branch
+Opening Balance:   $71,346.45
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/07/2026     Bill Payment - Utility                    478.37                   70,868.08
+06/02/2026     Interest Credit                                      4,085.16      74,953.24
+05/19/2026     POS Purchase - Som-Dayal                  778.95                   74,174.29
+05/11/2026     NEFT Transfer                           1,103.80                   73,070.49
+[ORGANIZATION_005] Charge                                       2,245.47      75,315.96
+05/24/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          2,250.98      77,566.94
+05/26/2026     Bill Payment - Utility                                 346.86      77,913.80
+05/26/2026     Interest Credit                                      2,785.72      80,699.52
+06/06/2026     Bill Payment - Utility                  4,361.78                   76,337.74
+05/22/2026     UPI Transfer                            2,859.27                   73,478.47
+[ORGANIZATION_004] Charge                             86.20                   73,392.27
+05/22/2026     Direct Deposit - JFA Corp                              472.23      73,864.50
+[ORGANIZATION_003] Charge                          4,131.57                   69,732.93
+06/04/2026     Check #6851                             4,871.63                   64,861.30
+05/24/2026     Interest Credit                         1,594.31                   63,266.99
+05/26/2026     Service Charge                            233.72                   63,033.27
+06/06/2026     ATM Withdrawal - Dhanbad                               727.59      63,760.86
+05/11/2026     ATM Withdrawal - Nangloi Jat                         3,863.88      67,624.74
+05/17/2026     Service Charge                          4,973.99                   62,650.75
+05/27/2026     POS Purchase - Sha, [ORGANIZATION_002] and Walla                  1,701.53      64,352.28
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $64,352.28
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001]
+FDIC Insured | Equal Opportunity Lender
+============================================================

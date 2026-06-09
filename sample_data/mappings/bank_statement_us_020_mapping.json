@@ -1,0 +1,148 @@
+{
+  "document": "bank_statement_us_020.txt",
+  "timestamp": "2026-06-09T07:53:59.002380",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Andrew Stanton",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "133233925320",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 373,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "426-11-7843",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 405,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-349-943-8165x3055",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 436,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "shannon33@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 476,
+        "end": 497
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/24/1991",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 517,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "58893 Michael Mountain, Port Joshuastad, MN 40071",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Purchase - Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1786,
+        "end": 1805
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Davidson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1807,
+        "end": 1815
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Harris",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1975,
+        "end": 1992
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1994,
+        "end": 1999
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Stone     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1979,
+        "end": 1989
+      }
+    }
+  ]
+}

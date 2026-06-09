@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_020.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ladli Dewan",
+      "start": 344,
+      "end": 355
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2940049294415",
+      "start": 375,
+      "end": 388
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "PUNB0951331",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PAN",
+      "value": "PGDHK0590Y",
+      "start": 439,
+      "end": 449
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 80517 93727",
+      "start": 469,
+      "end": 484
+    },
+    {
+      "type": "EMAIL",
+      "value": "ubali@example.org",
+      "start": 504,
+      "end": 521
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/09/1995",
+      "start": 541,
+      "end": 551
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 72, Dhingra Chowk, Dewas-982562",
+      "start": 571,
+      "end": 608
+    }
+  ]
+}

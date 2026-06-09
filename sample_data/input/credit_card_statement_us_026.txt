@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Kayla Gentry
+Card Number:        4727-1986-7349-0633
+Billing Address:    68806 Alexander Burg Suite 652, Port Lisafurt, IN 17582
+Phone:              (459)644-9089
+Email:              craig81@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 25, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   46,094.32
+Previous Balance:   $    9,942.44
+Payments Received:  $    5,205.01
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/20/2026     Faulkner-Thomas                     $    898.52
+05/13/2026     Hernandez, Smith and Valdez         $  1,831.09
+06/07/2026     Torres-Davis                        $    986.35
+06/05/2026     Cooley, Bush and Pittman            $  1,503.45
+05/17/2026     Baker, Mccoy and Banks              $  1,143.48
+06/05/2026     Carter-Spence                       $    851.45
+05/24/2026     Rodriguez, Elliott and Lopez        $    420.30
+05/11/2026     Peterson-Carr                       $  1,425.84
+
+-------------------------------------------------------------
+Total Charges:      $    9,060.48
+New Balance:        $   13,797.91
+Minimum Payment:    $      275.96
+
+============================================================

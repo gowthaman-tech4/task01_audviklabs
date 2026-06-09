@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_031.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tammie Brown",
+      "start": 319,
+      "end": 331
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Crystal Norman",
+      "start": 488,
+      "end": 502
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/28/1979",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "type": "ADDRESS",
+      "value": "6396 Sandra Lane, Louisberg, TN 86708",
+      "start": 554,
+      "end": 591
+    },
+    {
+      "type": "PHONE",
+      "value": "(479)959-2338",
+      "start": 612,
+      "end": 625
+    },
+    {
+      "type": "EMAIL",
+      "value": "larry81@example.com",
+      "start": 646,
+      "end": 665
+    },
+    {
+      "type": "SSN",
+      "value": "161-91-8879",
+      "start": 686,
+      "end": 697
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Manuel Wilson",
+      "start": 744,
+      "end": 757
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/25/1965",
+      "start": 802,
+      "end": 812
+    }
+  ]
+}

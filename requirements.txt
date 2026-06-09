@@ -1,0 +1,26 @@
+# Core NLP
+spacy>=3.7.0
+
+# Document processing
+pdfplumber>=0.10.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+pdf2image>=1.16.0
+
+# Data generation
+Faker>=24.0.0
+fpdf2>=2.7.0
+
+# UI
+streamlit>=1.35.0
+
+# Evaluation & reporting
+pandas>=2.0.0
+tabulate>=0.9.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+fastapi
+uvicorn
+python-multipart

@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Jeffrey Michael
+Card Number:        4453-7112-4547-0717
+Billing Address:    956 Kent Ford, Lisabury, NY 58610
+Phone:              (481)847-0736x3261
+Email:              pinedaelizabeth@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 17, 2026
+Payment Due Date:   July 04, 2026
+Credit Limit:       $   47,056.07
+Previous Balance:   $    2,111.90
+Payments Received:  $    1,037.76
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/15/2026     Edwards-Lin                         $    258.28
+05/28/2026     Gutierrez, Miller and Freeman       $  1,261.37
+05/19/2026     Thomas-Mcdonald                     $    399.88
+06/05/2026     Cooper Ltd                          $  1,507.24
+05/24/2026     Buchanan, Brewer and Klein          $    161.43
+05/18/2026     Collins-Jordan                      $  1,741.15
+05/18/2026     Cervantes-Young                     $  1,776.98
+05/20/2026     Brady LLC                           $    712.77
+05/21/2026     Collier, Gardner and Martin         $  1,351.10
+05/29/2026     Ramirez Inc                         $     92.76
+05/26/2026     Lawson-Johns                        $    882.29
+06/06/2026     Benson and Sons                     $    311.61
+05/24/2026     Ellis Ltd                           $  1,785.37
+05/11/2026     Scott-Davis                         $  1,010.17
+
+-------------------------------------------------------------
+Total Charges:      $   13,252.40
+New Balance:        $   14,326.54
+Minimum Payment:    $      286.53
+
+============================================================

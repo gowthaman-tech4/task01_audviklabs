@@ -1,0 +1,226 @@
+{
+  "document": "loan_agreement_in_005.txt",
+  "timestamp": "2026-06-09T07:55:32.450942",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "577213",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "67/306, Sibal Chowk, Bikaner-088832",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 371,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kevin Taneja",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 424,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "AKQPE0859V",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5115 9968 2338",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 462,
+        "end": 476
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/29/1974",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 492,
+        "end": 502
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "645247",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 535,
+        "end": 541
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 63877 32949",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 549,
+        "end": 564
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "sainidayita@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 572,
+        "end": 595
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Kai Venkataraman",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 632,
+        "end": 648
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 78708 23490",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 656,
+        "end": 671
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "mandergauri@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 679,
+        "end": 702
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "45357813243413",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 962,
+        "end": 976
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Premier Home Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1003,
+        "end": 1008
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1013,
+        "end": 1023
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1036,
+        "end": 1044
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1306,
+        "end": 1314
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1405,
+        "end": 1411
+      }
+    }
+  ]
+}

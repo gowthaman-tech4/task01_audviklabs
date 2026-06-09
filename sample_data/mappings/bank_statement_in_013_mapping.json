@@ -1,0 +1,138 @@
+{
+  "document": "bank_statement_in_013.txt",
+  "timestamp": "2026-06-09T07:53:46.451177",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Advaith Vora",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "370603320071310",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 376,
+        "end": 391
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "UBIN0526084",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 411,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ABKBH0881W",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 77705 57594",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 472,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "chandlavanya@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 506,
+        "end": 530
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/16/1981",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 560
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "169041",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 612,
+        "end": 618
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "36386079",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 996,
+        "end": 1004
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Mitter Zila",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 597,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2555,
+        "end": 2589
+      }
+    }
+  ]
+}

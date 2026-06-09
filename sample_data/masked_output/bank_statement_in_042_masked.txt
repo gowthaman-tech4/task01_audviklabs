@@ -1,0 +1,49 @@
+============================================================
+                    Deccan Gramin Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 27, 2026 to May 23, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Surat Branch
+Opening Balance:   $111,533.17
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/04/2026     POS Purchase - Mangal-Kale              3,362.72                  108,170.45
+05/24/2026     UPI Transfer                            2,403.53                  105,766.92
+06/06/2026     Check #2361                                          3,914.82     109,681.74
+05/12/2026     Bill Payment - Utility                                 431.42     110,113.16
+05/31/2026     Bill Payment - Utility                               4,640.94     114,754.10
+05/28/2026     Check #9825                             1,942.49                  112,811.61
+05/10/2026     POS Purchase - Bal-Keer                 4,686.04                  108,125.57
+[ORGANIZATION_002] Charge                                       2,022.26     110,147.83
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $110,147.83
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Deccan Gramin Bank
+[ORGANIZATION_001] Insured | Equal Opportunity Lender
+============================================================

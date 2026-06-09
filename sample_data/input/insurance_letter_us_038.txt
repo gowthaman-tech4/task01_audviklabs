@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9782998
+Policy Type: Life Insurance
+Date of Issue: July 04, 2025
+
+Dear Joseph Beck,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Michael Jenkins
+Date of Birth:      01/09/1966
+Address:            3331 Joann Grove Apt. 539, Danielburgh, FM 15797
+Phone:              699.285.0536
+Email:              christine97@example.com
+SSN:                276-09-8633
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       William Williams MD
+Relationship:       Father
+Nominee DOB:        05/03/1984
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  4,297,003.73
+Annual Premium:     $     11,842.40
+Policy Term:        10 years
+Premium Payment:    Annual
+Risk Commencement:  January 29, 2026
+Maturity Date:      June 01, 2038
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_us_028.txt",
+  "timestamp": "2026-06-09T07:55:13.891060",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Linda Olson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "496261607271",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "Unit 1138 Box 1106, DPO AP 46310",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 323
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "460-705-9579x37388",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bjensen@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 402
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Hatfield-Smith                      ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1141,
+        "end": 1177
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Thomas",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1274,
+        "end": 1280
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/29/2026     Brown PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 845,
+        "end": 869
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Brandt-Wagner                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 923,
+        "end": 959
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Parker",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1248,
+        "end": 1254
+      }
+    }
+  ]
+}

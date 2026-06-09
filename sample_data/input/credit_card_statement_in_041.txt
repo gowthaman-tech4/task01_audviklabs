@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Vrishti Sundaram
+Card Number:        4392-3240-4084-5077
+Billing Address:    H.No. 631, Kumer Nagar, Junagadh 524574
+Phone:              91 97746 23003
+Email:              sainifaraj@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 07, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   41,083.34
+Previous Balance:   $   13,700.56
+Payments Received:  $   13,586.55
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/28/2026     Minhas-Mukhopadhyay                 $  1,960.61
+06/01/2026     Sani Group                          $     96.94
+06/04/2026     Dewan PLC                           $  1,571.08
+06/02/2026     Ram, Nagi and Lal                   $    249.99
+05/24/2026     Kamdar-Mitter                       $  1,466.45
+05/09/2026     Bobal Group                         $    514.68
+05/20/2026     Devan PLC                           $    875.10
+05/15/2026     Mander-Agarwal                      $    262.58
+05/14/2026     Master-Nagy                         $  1,539.37
+05/20/2026     Anand, Narang and Pradhan           $    741.08
+
+-------------------------------------------------------------
+Total Charges:      $    9,277.88
+New Balance:        $    9,391.89
+Minimum Payment:    $      187.84
+
+============================================================

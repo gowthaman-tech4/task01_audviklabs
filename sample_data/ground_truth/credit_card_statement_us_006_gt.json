@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_006.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Renee Rodriguez",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4360-5435-9974-9533",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7427 Stone Circles Apt. 592, Matthewborough, TN 22036",
+      "start": 295,
+      "end": 348
+    },
+    {
+      "type": "PHONE",
+      "value": "312-218-6200x028",
+      "start": 369,
+      "end": 385
+    },
+    {
+      "type": "EMAIL",
+      "value": "ian61@example.org",
+      "start": 406,
+      "end": 423
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Doctor-Ben
+TAN of the Deductor:    MYFZ95567P
+Address:                48/82, Walla Chowk, Deoghar-994089
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Ladli Rau
+PAN of the Employee:    TCNTT2524S
+Aadhaar Number:         9154 4751 6126
+Date of Birth:          19/12/1983
+Address:                866, Nagy Street, Kamarhati-193800
+Email:                  vermavanya@example.org
+Mobile:                 91 67942 05766
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.     867,072.87
+   (b) Value of perquisites u/s 17(2)  Rs.      49,674.77
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     104,048.75
+   (b) LTA Exemption                   Rs.       4,451.57
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     713,024.12
+5. Tax on Total Income                 Rs.     142,604.83
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       5,704.19
+8. Total Tax Payable                   Rs.     148,309.02
+
+============================================================

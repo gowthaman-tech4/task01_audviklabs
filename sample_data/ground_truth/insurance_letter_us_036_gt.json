@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_036.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kristie Cameron",
+      "start": 316,
+      "end": 331
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Lauren Bishop",
+      "start": 488,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/06/2000",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "45411 Garza Throughway Apt. 922, North Cheryl, VA 29971",
+      "start": 553,
+      "end": 608
+    },
+    {
+      "type": "PHONE",
+      "value": "(638)230-8447x14343",
+      "start": 629,
+      "end": 648
+    },
+    {
+      "type": "EMAIL",
+      "value": "jeanmiller@example.net",
+      "start": 669,
+      "end": 691
+    },
+    {
+      "type": "SSN",
+      "value": "615-79-5902",
+      "start": 712,
+      "end": 723
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Marcus Whitaker",
+      "start": 770,
+      "end": 785
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/23/1962",
+      "start": 833,
+      "end": 843
+    }
+  ]
+}

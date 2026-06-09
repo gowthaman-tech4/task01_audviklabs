@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2140708
+Policy Type: Home Insurance
+Date of Issue: November 22, 2025
+
+Dear Ekansh Keer,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Bhavini Bahl
+Date of Birth:      10/07/1980
+Address:            H.No. 816, Ramesh Zila, Nanded-079685
+Phone:              91 82644 53018
+Email:              rkrish@example.com
+PAN:                AXQTM7536Z
+Aadhaar:            9173 6863 5175
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Jagdish Gole
+Relationship:       Father
+Nominee DOB:        07/08/1996
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,661,591.00
+Annual Premium:     $      5,105.34
+Policy Term:        10 years
+Premium Payment:    Monthly
+Risk Commencement:  October 30, 2025
+Maturity Date:      May 06, 2050
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

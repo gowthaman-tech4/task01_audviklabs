@@ -1,0 +1,54 @@
+============================================================
+                    Pacific Union Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 25, 2026 to May 20, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            North Dianahaven Branch
+Opening Balance:   $71,515.62
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/06/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          1,473.83      72,989.45
+05/25/2026     Direct Deposit - OHE Corp                            2,890.40      75,879.85
+06/06/2026     Interest Credit                                      1,834.43      77,714.28
+06/03/2026     NEFT Transfer                                        1,649.75      79,364.03
+06/03/2026     Interest Credit                           439.55                   78,924.48
+05/27/2026     NEFT Transfer                                        3,203.35      82,127.83
+05/31/2026     Interest Credit                           968.08                   81,159.75
+05/12/2026     [ORGANIZATION_002]79,496.38
+05/30/2026     Interest Credit                                         41.91      79,538.29
+[ORGANIZATION_001]Service Charge                            597.86                   78,940.43
+05/19/2026     ATM Withdrawal - Danielfurt                          3,713.94      82,654.37
+05/10/2026     UPI Transfer                            1,368.45                   81,285.92
+05/21/2026     ATM Withdrawal - Port Nicole                         4,101.58      85,387.50
+05/13/2026     Interest Credit                                      4,495.83      89,883.33
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $89,883.33
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Pacific Union Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

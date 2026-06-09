@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_018.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ishanvi Ghose",
+      "start": 315,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Gaurika Verma",
+      "start": 485,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/14/1997",
+      "start": 519,
+      "end": 529
+    },
+    {
+      "type": "ADDRESS",
+      "value": "740, Baria Path, Khora  931620",
+      "start": 550,
+      "end": 580
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 77384 61298",
+      "start": 601,
+      "end": 616
+    },
+    {
+      "type": "EMAIL",
+      "value": "anay30@example.org",
+      "start": 637,
+      "end": 655
+    },
+    {
+      "type": "PAN",
+      "value": "PZTPY8556M",
+      "start": 676,
+      "end": 686
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4800 0981 9560",
+      "start": 707,
+      "end": 721
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekapad Raj",
+      "start": 768,
+      "end": 778
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/31/1986",
+      "start": 828,
+      "end": 838
+    }
+  ]
+}

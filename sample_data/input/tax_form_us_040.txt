@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   625-91-3784
+
+b  Employer Identification Number (EIN)
+   40-9297060
+
+c  Employer's Name, Address, and ZIP Code
+   Fletcher, Pena and Allen
+   8486 Wright Circles Suite 435, Tonihaven, KY 22189
+
+e  Employee's Name
+   Anne Mueller
+
+f  Employee's Address and ZIP Code
+   USNS Bowers, FPO AP 10292
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  135,468.09
+2  Federal income tax withheld         $   35,737.30
+3  Social Security wages               $  135,468.09
+4  Social Security tax withheld        $    8,399.02
+5  Medicare wages and tips             $  135,468.09
+6  Medicare tax withheld               $    1,964.29
+
+12a Code DD - Health Insurance          $    6,126.76
+
+--- STATE TAX INFORMATION ---
+
+15 State: LA
+16 State wages                         $  135,468.09
+17 State income tax                    $    9,156.10
+
+============================================================

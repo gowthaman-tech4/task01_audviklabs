@@ -1,0 +1,42 @@
+============================================================
+          [ORGANIZATION_005].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 119, [PERSON_NAME_002], Anand [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_004]              129 $    170.23 $    174.07 $   22,454.54 $      494.87
+JPM      [ORGANIZATION_003]238 $    149.52 $    186.57 $   44,403.77 $    8,818.01
+MSFT     [ORGANIZATION_002]              426 $    343.61 $    390.18 $  166,216.03 $   19,838.17
+[ORGANIZATION_001]                479 $    128.56 $    137.53 $   65,875.62 $    4,295.38
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  298,949.96
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/01/2026     SELL     MSFT          9 $    354.25 $    3,188.25
+05/11/2026     BUY      MSFT         87 $    458.11 $   39,855.57
+04/09/2026     BUY      JPM          99 $    340.69 $   33,728.31
+05/23/2026     BUY      AMZN          2 $    217.85 $      435.70
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

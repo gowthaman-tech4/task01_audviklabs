@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_037.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "John Barr",
+      "start": 219,
+      "end": 228
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4188-8950-8470-1050",
+      "start": 249,
+      "end": 268
+    },
+    {
+      "type": "ADDRESS",
+      "value": "75795 Robert Grove, North Joeburgh, LA 75121",
+      "start": 289,
+      "end": 333
+    },
+    {
+      "type": "PHONE",
+      "value": "555-291-6823",
+      "start": 354,
+      "end": 366
+    },
+    {
+      "type": "EMAIL",
+      "value": "dli@example.org",
+      "start": 387,
+      "end": 402
+    }
+  ]
+}

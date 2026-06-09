@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_015.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gina Chavez",
+      "start": 351,
+      "end": 362
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "763445479229",
+      "start": 382,
+      "end": 394
+    },
+    {
+      "type": "SSN",
+      "value": "128-22-1184",
+      "start": 414,
+      "end": 425
+    },
+    {
+      "type": "PHONE",
+      "value": "398.366.5393x9402",
+      "start": 445,
+      "end": 462
+    },
+    {
+      "type": "EMAIL",
+      "value": "paige04@example.net",
+      "start": 482,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/14/1959",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "type": "ADDRESS",
+      "value": "6505 Becker Via, Edwardborough, FL 09076",
+      "start": 551,
+      "end": 591
+    }
+  ]
+}

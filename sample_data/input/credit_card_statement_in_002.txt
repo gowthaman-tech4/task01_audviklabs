@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Gayathri Ghose
+Card Number:        4147-7193-5481-5632
+Billing Address:    63/355, Chada Nagar, Malda 769138
+Phone:              91 86014 46225
+Email:              edwinakshay@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 06, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   45,976.97
+Previous Balance:   $    5,748.18
+Payments Received:  $    2,624.46
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/17/2026     Saraf-Kanda                         $  1,794.83
+05/16/2026     Chand, Dhillon and Kadakia          $  1,327.08
+06/05/2026     Nayar-Ahuja                         $  1,384.85
+06/01/2026     Shan-Sood                           $  1,578.09
+05/24/2026     Wagle, Sami and Bail                $    501.39
+05/22/2026     Ramesh LLC                          $    662.52
+05/10/2026     Bassi PLC                           $  1,528.02
+
+-------------------------------------------------------------
+Total Charges:      $    8,776.78
+New Balance:        $   11,900.50
+Minimum Payment:    $      238.01
+
+============================================================

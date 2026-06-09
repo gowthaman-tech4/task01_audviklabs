@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_023.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kamala Kala",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3246145030",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "OWSFC8445I",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2789142838419844",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "sshankar@example.org",
+      "start": 430,
+      "end": 450
+    },
+    {
+      "type": "PHONE",
+      "value": "91 92199 50033",
+      "start": 475,
+      "end": 489
+    },
+    {
+      "type": "ADDRESS",
+      "value": "90, Morar Ganj, Chapra 581167",
+      "start": 514,
+      "end": 543
+    }
+  ]
+}

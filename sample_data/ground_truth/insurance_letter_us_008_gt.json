@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_008.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Ramos",
+      "start": 312,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brenda Stewart",
+      "start": 483,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/25/1991",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "566 Seth Walk Suite 017, North Samantha, IL 92381",
+      "start": 549,
+      "end": 598
+    },
+    {
+      "type": "PHONE",
+      "value": "311-574-0293x5956",
+      "start": 619,
+      "end": 636
+    },
+    {
+      "type": "EMAIL",
+      "value": "richardmoses@example.org",
+      "start": 657,
+      "end": 681
+    },
+    {
+      "type": "SSN",
+      "value": "320-57-4329",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tara Neal",
+      "start": 760,
+      "end": 769
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/13/1983",
+      "start": 814,
+      "end": 824
+    }
+  ]
+}

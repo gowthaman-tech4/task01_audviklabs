@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-2475
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 03, 2026
+Payment Due Date:   July 04, 2026
+Credit Limit:       $   26,683.91
+Previous Balance:   $   12,799.29
+Payments Received:  $    7,743.72
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/27/2026     Mills-Knight                        $  1,209.70
+05/09/2026     Logan Inc                           $    331.05
+[ORGANIZATION_003]                           $    859.17
+05/15/2026     [ORGANIZATION_002]$  1,577.72
+05/17/2026     Barrera, Dorsey and Cooper          $     70.20
+05/10/2026     Potter Inc                          $    332.89
+05/25/2026     [PERSON_NAME_002]$  1,764.69
+05/31/2026     Brown PLC                           $    281.04
+05/26/2026     Young, [PERSON_NAME_001] and [ORGANIZATION_001]            $    915.83
+
+-------------------------------------------------------------
+Total Charges:      $    7,342.29
+New Balance:        $   12,397.86
+Minimum Payment:    $      247.96
+
+============================================================

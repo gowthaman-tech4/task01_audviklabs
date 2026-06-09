@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_033.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dustin Pollard DDS",
+      "start": 316,
+      "end": 334
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Richard Martin",
+      "start": 491,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/08/1978",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7937 Jennifer Plains, Reedstad, AZ 74408",
+      "start": 557,
+      "end": 597
+    },
+    {
+      "type": "PHONE",
+      "value": "(881)852-6457x81526",
+      "start": 618,
+      "end": 637
+    },
+    {
+      "type": "EMAIL",
+      "value": "selenaforbes@example.org",
+      "start": 658,
+      "end": 682
+    },
+    {
+      "type": "SSN",
+      "value": "212-69-2646",
+      "start": 703,
+      "end": 714
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Austin Romero",
+      "start": 761,
+      "end": 774
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/05/1948",
+      "start": 819,
+      "end": 829
+    }
+  ]
+}

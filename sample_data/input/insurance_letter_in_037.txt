@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-1745978
+Policy Type: Auto Insurance
+Date of Issue: October 16, 2025
+
+Dear Diya Basu,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Oliver Dutta
+Date of Birth:      10/22/1984
+Address:            54/915, Sha Chowk, Erode-888291
+Phone:              91 71203 78149
+Email:              birdaniel@example.org
+PAN:                QKVFY5900W
+Aadhaar:            3009 2350 9261
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Anamika Nayak
+Relationship:       Son
+Nominee DOB:        04/29/1946
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,688,611.86
+Annual Premium:     $      4,672.06
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  January 06, 2026
+Maturity Date:      October 08, 2043
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

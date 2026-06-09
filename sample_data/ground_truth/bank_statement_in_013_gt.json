@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_013.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Advaith Vora",
+      "start": 344,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "370603320071310",
+      "start": 376,
+      "end": 391
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "UBIN0526084",
+      "start": 411,
+      "end": 422
+    },
+    {
+      "type": "PAN",
+      "value": "ABKBH0881W",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "PHONE",
+      "value": "91 77705 57594",
+      "start": 472,
+      "end": 486
+    },
+    {
+      "type": "EMAIL",
+      "value": "chandlavanya@example.org",
+      "start": 506,
+      "end": 530
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/16/1981",
+      "start": 550,
+      "end": 560
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 055, Mitter Zila, Barasat-169041",
+      "start": 580,
+      "end": 618
+    }
+  ]
+}

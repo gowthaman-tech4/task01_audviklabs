@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_006.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "43/05, Kakar Path, Chapra-711547",
+      "start": 376,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Max Dalal",
+      "start": 426,
+      "end": 435
+    },
+    {
+      "type": "PAN",
+      "value": "FAJJS2912O",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2557 3995 8120",
+      "start": 461,
+      "end": 475
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/31/1981",
+      "start": 491,
+      "end": 501
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 350, Devi Marg, Vijayawada 227664",
+      "start": 511,
+      "end": 550
+    },
+    {
+      "type": "PHONE",
+      "value": "91 70818 48735",
+      "start": 558,
+      "end": 572
+    },
+    {
+      "type": "EMAIL",
+      "value": "wasonhitesh@example.com",
+      "start": 580,
+      "end": 603
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Megha Kara",
+      "start": 640,
+      "end": 650
+    },
+    {
+      "type": "PHONE",
+      "value": "91 92691 27706",
+      "start": 658,
+      "end": 672
+    },
+    {
+      "type": "EMAIL",
+      "value": "kevinganguly@example.com",
+      "start": 680,
+      "end": 704
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "34943554652391",
+      "start": 965,
+      "end": 979
+    }
+  ]
+}

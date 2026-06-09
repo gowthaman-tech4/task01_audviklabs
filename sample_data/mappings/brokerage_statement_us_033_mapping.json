@@ -1,0 +1,124 @@
+{
+  "document": "brokerage_statement_us_033.txt",
+  "timestamp": "2026-06-09T07:54:59.359349",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Matthew Hammond",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 280,
+        "end": 295
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "3525765843",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 320,
+        "end": 330
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "540-82-6577",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 355,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "emilygarza@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(452)266-7168x5481",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 438,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "187 Lisa Springs, Lopezfort, NY 71102",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 518
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "EAGLE ROCK SECURITIES INC.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 97
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "GOOGL    Alphabet Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 697,
+        "end": 719
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "JPMorgan Chase & Co.         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 800,
+        "end": 829
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Apple Inc.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 894,
+        "end": 904
+      }
+    }
+  ]
+}

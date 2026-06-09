@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_in_026.txt",
+  "timestamp": "2026-06-09T07:55:06.203139",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 7,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Dayamai Chaudry",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 234
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "447468779598",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 255,
+        "end": 269
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "334995",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 318,
+        "end": 324
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 89969 32658",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bhattacharyyalucky@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 381,
+        "end": 411
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Basu",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 779,
+        "end": 783
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Padmanabhan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 834,
+        "end": 845
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Kaul",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 847,
+        "end": 851
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Soni",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 856,
+        "end": 860
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Gandhi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1220,
+        "end": 1226
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Krishnamurt",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1231,
+        "end": 1242
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Suri Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 301,
+        "end": 310
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Mannan",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 756,
+        "end": 762
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Ganesan-Pillai                      ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 990,
+        "end": 1026
+      }
+    }
+  ]
+}

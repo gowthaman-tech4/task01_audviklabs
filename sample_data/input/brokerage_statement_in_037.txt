@@ -1,0 +1,48 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Netra Char
+Account Number:         4021166410
+PAN:                    ATTLW6587F
+Demat Account:          1503370934374286
+Email:                  umang11@example.net
+Phone:                  +91 80384 54460
+Correspondence Address: 21, Bala Zila, Jaunpur-042196
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                   273 $    254.83 $    286.86 $   78,312.22 $    8,743.63
+NVDA     NVIDIA Corp.                 259 $    732.17 $    827.89 $  214,423.16 $   24,791.13
+AAPL     Apple Inc.                   369 $    150.75 $    165.50 $   61,071.32 $    5,444.57
+MSFT     Microsoft Corp.              137 $    268.75 $    351.11 $   48,102.39 $   11,283.64
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  401,909.09
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/19/2026     DIV      TSLA         23 $    193.23 $    4,444.29
+04/19/2026     SELL     TSLA         37 $    448.86 $   16,607.82
+04/10/2026     DIV      TSLA         37 $    182.25 $    6,743.25
+03/13/2026     BUY      AAPL         91 $    395.40 $   35,981.40
+04/10/2026     BUY      NVDA         24 $    429.49 $   10,307.76
+05/05/2026     SELL     NVDA         76 $    447.71 $   34,025.96
+05/18/2026     SELL     TSLA         85 $    297.78 $   25,311.30
+03/10/2026     SELL     NVDA         21 $    415.42 $    8,723.82
+03/17/2026     SELL     NVDA         43 $    179.80 $    7,731.40
+04/11/2026     SELL     MSFT         66 $    453.69 $   29,943.54
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

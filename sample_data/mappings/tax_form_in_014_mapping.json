@@ -1,0 +1,192 @@
+{
+  "document": "tax_form_in_014.txt",
+  "timestamp": "2026-06-09T07:59:20.440905",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "504, Sachdev, Etawah 083512",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 422,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 464,
+        "end": 475
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Zarna Bawa",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 501,
+        "end": 511
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "PJNPB5230Y",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 536,
+        "end": 546
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "3557 3974 4842",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 571,
+        "end": 585
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/06/2003",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 610,
+        "end": 620
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "929160",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 684,
+        "end": 690
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "chaitanya92@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 715,
+        "end": 738
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 75300 58889",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 763,
+        "end": 777
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 790,
+        "end": 801
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 806,
+        "end": 818
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Sidhu",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 354,
+        "end": 359
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Sons",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 364,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1053,
+        "end": 1087
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1166,
+        "end": 1194
+      }
+    }
+  ]
+}

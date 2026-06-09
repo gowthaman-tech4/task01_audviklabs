@@ -1,0 +1,116 @@
+{
+  "document": "bank_statement_us_003.txt",
+  "timestamp": "2026-06-09T07:53:54.721919",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Stacey Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 357
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "888808274095",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 377,
+        "end": 389
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "326-30-0591",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 409,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "537.507.8178",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 440,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jeffersonedward@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 472,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "03/18/1969",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 519,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "6042 Smith Island Suite 876, East Krystalmouth, ME 66927",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 549,
+        "end": 605
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Purchase - Glenn",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1057,
+        "end": 1073
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "56622148",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1808,
+        "end": 1816
+      }
+    }
+  ]
+}

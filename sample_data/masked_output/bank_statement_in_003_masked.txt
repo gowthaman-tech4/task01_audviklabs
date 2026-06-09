@@ -1,0 +1,55 @@
+============================================================
+                    Saraswat Cooperative Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 19, 2026 to May 15, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [PHONE_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           08, [PERSON_NAME_002], Srikakulam-[ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Chinsurah Branch
+Opening Balance:   $106,087.32
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/12/2026     Check #1546                                          3,199.71     109,287.03
+05/12/2026     Bill Payment - Utility                    957.03                  108,330.00
+05/16/2026     Bill Payment - Utility                  3,495.67                  104,834.33
+05/21/2026     Interest Credit                         3,712.94                  101,121.39
+05/25/2026     Interest Credit                                      4,472.84     105,594.23
+05/22/2026     ATM Withdrawal - Sirsa                  1,182.19                  104,412.04
+05/10/2026     Bill Payment - Utility                  1,139.70                  103,272.34
+05/23/2026     Check #2612                             1,999.93                  101,272.41
+05/16/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          3,644.01     104,916.42
+06/05/2026     Service Charge                                         550.17     105,466.59
+06/04/2026     POS Purchase - Pathak Ltd                            2,960.17     108,426.76
+05/15/2026     Interest Credit                         1,071.01                  107,355.75
+05/23/2026     ATM Withdrawal - Mira-Bhayandar                      4,140.94     111,496.69
+05/29/2026     Bill Payment - Utility                               1,629.89     113,126.58
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $113,126.58
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Saraswat Cooperative Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_034.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Colleen Davis DVM",
+      "start": 280,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3895221784",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "SSN",
+      "value": "139-95-1298",
+      "start": 357,
+      "end": 368
+    },
+    {
+      "type": "EMAIL",
+      "value": "ogrant@example.net",
+      "start": 393,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "371.897.7490",
+      "start": 436,
+      "end": 448
+    },
+    {
+      "type": "ADDRESS",
+      "value": "41995 Lozano Forges Suite 239, Stewartbury, OH 77183",
+      "start": 473,
+      "end": 525
+    }
+  ]
+}

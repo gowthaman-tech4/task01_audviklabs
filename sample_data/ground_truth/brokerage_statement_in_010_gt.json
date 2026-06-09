@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_010.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Shivani Doctor",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4763105870",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "PAN",
+      "value": "MUQHA8953B",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0711049772271368",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "type": "EMAIL",
+      "value": "saumya21@example.com",
+      "start": 433,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "91 81030 58726",
+      "start": 478,
+      "end": 492
+    },
+    {
+      "type": "ADDRESS",
+      "value": "62, Pathak Nagar, Ludhiana 236061",
+      "start": 517,
+      "end": 550
+    }
+  ]
+}

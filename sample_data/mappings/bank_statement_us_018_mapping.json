@@ -1,0 +1,115 @@
+{
+  "document": "bank_statement_us_018.txt",
+  "timestamp": "2026-06-09T07:53:58.507541",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Christopher Gibson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 340,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "558624856361",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 378,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "107-73-1199",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 410,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "433-469-8656",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 441,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "snowcharles@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 473,
+        "end": 496
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/29/2001",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 516,
+        "end": 526
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "8563 Barton Greens, New Joe, AK 48578",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 546,
+        "end": 583
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "80071873",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1049,
+        "end": 1057
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/07/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2283,
+        "end": 2305
+      }
+    }
+  ]
+}

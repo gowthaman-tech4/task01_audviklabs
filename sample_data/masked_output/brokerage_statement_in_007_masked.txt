@@ -1,0 +1,46 @@
+============================================================
+          [ORGANIZATION_006].
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     [ORGANIZATION_005]              288 $    342.07 $    415.64 $  119,704.27 $   21,188.11
+TSLA     [ORGANIZATION_004]                   392 $    233.18 $    256.63 $  100,597.39 $    9,190.83
+[ORGANIZATION_003]                 310 $    656.79 $    872.95 $  270,615.03 $   67,010.13
+AAPL     [ORGANIZATION_002]304 $    135.68 $    150.38 $   45,716.74 $    4,470.02
+GOOGL    Alphabet Inc.                197 $    137.99 $    157.54 $   31,035.41 $    3,851.38
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  567,668.84
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/19/2026     BUY      TSLA         32 $     60.80 $    1,945.60
+04/25/2026     DIV      AAPL          8 $    341.62 $    2,732.96
+03/17/2026     BUY      GOOGL        59 $    407.36 $   24,034.24
+05/07/2026     BUY      MSFT         39 $    372.31 $   14,520.09
+05/28/2026     DIV      NVDA         65 $    277.46 $   18,034.90
+04/12/2026     SELL     AAPL          6 $    101.01 $      606.06
+03/13/2026     DIV      [ORGANIZATION_001]         82 $    174.73 $   14,327.86
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

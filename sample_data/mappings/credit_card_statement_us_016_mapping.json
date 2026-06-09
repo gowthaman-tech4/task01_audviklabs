@@ -1,0 +1,179 @@
+{
+  "document": "credit_card_statement_us_016.txt",
+  "timestamp": "2026-06-09T07:55:11.857687",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 7,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Edwin Rodriguez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 234
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "440137430782",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 255,
+        "end": 269
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "1635 Robert Ford, Tapiaborough, AL 54349",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 295,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "487-520-2934x1026",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "nicholasrobinson@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 394,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Clark",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 782,
+        "end": 787
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 978,
+        "end": 983
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Jarvis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 988,
+        "end": 994
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Robinson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1232,
+        "end": 1240
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ball",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1245,
+        "end": 1249
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Steven      ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1310,
+        "end": 1322
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Garner-Martinez                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1020,
+        "end": 1056
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Mason-Anderson                      ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1083,
+        "end": 1119
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Smith Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1146,
+        "end": 1155
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Gutierrez",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1304,
+        "end": 1313
+      }
+    }
+  ]
+}

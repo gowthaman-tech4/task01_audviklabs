@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_008]
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_007]                 342 $    864.42 $    808.16 $  276,389.86 $  -19,241.78
+MSFT     [ORGANIZATION_006]              255 $    330.99 $    392.98 $  100,209.39 $   15,806.94
+JPM      [ORGANIZATION_005] $    185.72 $    185.98 $   66,953.46 $       94.26
+[ORGANIZATION_004]          218 $    545.79 $    541.25 $  117,993.42 $     -988.80
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  561,546.13
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/09/2026     BUY      JPM          44 $    190.96 $    8,402.24
+05/31/2026     BUY      [ORGANIZATION_003]         36 $    118.49 $    4,265.64
+03/24/2026     DIV      JPM          28 $    258.79 $    7,246.12
+04/13/2026     SELL     JPM          63 $    470.37 $   29,633.31
+06/06/2026     DIV      [ORGANIZATION_002]         62 $    248.43 $   15,402.66
+04/10/2026     BUY      [ORGANIZATION_001]          8 $     88.51 $      708.08
+05/13/2026     DIV      MSFT         81 $    495.50 $   40,135.50
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

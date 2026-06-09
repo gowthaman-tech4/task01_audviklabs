@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_015.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Roy Livingston",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4455-0145-0556-4222",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "05176 Scott Expressway Suite 632, West Breannaside, NV 14971",
+      "start": 294,
+      "end": 354
+    },
+    {
+      "type": "PHONE",
+      "value": "001-371-316-4597x6239",
+      "start": 375,
+      "end": 396
+    },
+    {
+      "type": "EMAIL",
+      "value": "kramerbarbara@example.com",
+      "start": 417,
+      "end": 442
+    }
+  ]
+}

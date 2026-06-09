@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_020.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 886, Prasad Street, Akola 760391",
+      "start": 372,
+      "end": 410
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Anirudh Maharaj",
+      "start": 428,
+      "end": 443
+    },
+    {
+      "type": "PAN",
+      "value": "DZUGM1406G",
+      "start": 449,
+      "end": 459
+    },
+    {
+      "type": "AADHAAR",
+      "value": "3385 6792 4667",
+      "start": 469,
+      "end": 483
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/24/1996",
+      "start": 499,
+      "end": 509
+    },
+    {
+      "type": "ADDRESS",
+      "value": "64/46, Nadig Ganj, Avadi-195384",
+      "start": 519,
+      "end": 550
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 99372 83856",
+      "start": 558,
+      "end": 573
+    },
+    {
+      "type": "EMAIL",
+      "value": "bahripranav@example.org",
+      "start": 581,
+      "end": 604
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "12549247646023",
+      "start": 864,
+      "end": 878
+    }
+  ]
+}

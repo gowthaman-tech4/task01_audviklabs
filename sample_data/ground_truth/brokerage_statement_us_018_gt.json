@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_018.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Joseph Simpson",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8039386710",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "562-65-3245",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "rpeterson@example.org",
+      "start": 390,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "(809)878-3808x16334",
+      "start": 436,
+      "end": 455
+    },
+    {
+      "type": "ADDRESS",
+      "value": "30620 William Station Suite 459, Lake Melissa, FM 63333",
+      "start": 480,
+      "end": 535
+    }
+  ]
+}

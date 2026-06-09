@@ -1,0 +1,193 @@
+{
+  "document": "bank_statement_in_033.txt",
+  "timestamp": "2026-06-09T07:53:51.584881",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 6
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ekta Behl",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 347,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "0365842238815718",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 376,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "UBIN0492246",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 412,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ZRPFM3419N",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 443,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 76363 81482",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 473,
+        "end": 488
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tarasalvi@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 508,
+        "end": 529
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/24/1959",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 549,
+        "end": 559
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "436636",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 601,
+        "end": 607
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_006]",
+      "original": "99741227",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1345,
+        "end": 1353
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_005]",
+      "original": "28359833",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1529,
+        "end": 1537
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_004]",
+      "original": "81576719",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1621,
+        "end": 1629
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "14774905",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2081,
+        "end": 2089
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "61548188",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2173,
+        "end": 2181
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "81801155",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2357,
+        "end": 2365
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Dubey Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 584,
+        "end": 594
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "POS Purchase - De",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1242,
+        "end": 1259
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+============================================================
+                    Deccan Gramin Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 25, 2026 to June 01, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [ACCOUNT_NUMBER_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           44/749, [PERSON_NAME_003], [PERSON_NAME_002] [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Sirsa Branch
+Opening Balance:   $70,710.61
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/15/2026     Check #8513                                          1,044.74      71,755.35
+05/17/2026     Service Charge                                       1,400.32      73,155.67
+05/27/2026     ATM Withdrawal - Barasat                1,841.24                   71,314.43
+05/24/2026     Online Transfer to [ACCOUNT_NUMBER_001]             1,551.76                   69,762.67
+05/31/2026     UPI Transfer                            2,671.08                   67,091.59
+05/27/2026     ATM Withdrawal - Bhilai                              4,028.22      71,119.81
+06/01/2026     Bill Payment - Utility                  3,826.27                   67,293.54
+05/31/2026     Service Charge                          1,408.45                   65,885.09
+06/07/2026     UPI Transfer                            1,002.85                   64,882.24
+05/20/2026     Direct Deposit - PPL Corp               3,419.69                   61,462.55
+05/09/2026     Check #8012                             2,060.60                   59,401.95
+05/14/2026     NEFT Transfer                                        4,871.00      64,272.95
+05/10/2026     Check #6065                                          3,091.56      67,364.51
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $67,364.51
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Deccan Gramin Bank
+[ORGANIZATION_001] Insured | Equal Opportunity Lender
+============================================================

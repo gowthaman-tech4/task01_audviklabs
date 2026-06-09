@@ -1,0 +1,190 @@
+{
+  "document": "credit_card_statement_in_004.txt",
+  "timestamp": "2026-06-09T07:55:02.077067",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Anirudh Gandhi",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "411354078551",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "296531",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 312,
+        "end": 318
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 61122 95329",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 339,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "lbalan@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 374,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Gill",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 884,
+        "end": 888
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Tailor",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 893,
+        "end": 899
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Minhas",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 949,
+        "end": 955
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Chawla",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1399,
+        "end": 1405
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Atwal",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1044,
+        "end": 1049
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Ramakrishnan        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1054,
+        "end": 1074
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Butala-Sood                         ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1290,
+        "end": 1326
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Narasimhan",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1353,
+        "end": 1363
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Thaker",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1422,
+        "end": 1428
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Din-Chand",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1490,
+        "end": 1499
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1698,
+        "end": 1709
+      }
+    }
+  ]
+}

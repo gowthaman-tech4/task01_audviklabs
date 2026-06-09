@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_001]
+Card Number:        [AADHAAR_001]-5077
+Billing Address:    H.No. 631, [PERSON_NAME_002], [ADDRESS_004] [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 07, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   41,083.34
+Previous Balance:   $   13,700.56
+Payments Received:  $   13,586.55
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/28/2026     Minhas-Mukhopadhyay                 $  1,960.61
+06/01/2026     Sani Group                          $     96.94
+[ORGANIZATION_004]                           $  1,571.08
+06/02/2026     Ram, [ORGANIZATION_003] and Lal                   $    249.99
+05/24/2026     Kamdar-Mitter                       $  1,466.45
+05/09/2026     Bobal Group                         $    514.68
+[ORGANIZATION_002]                           $    875.10
+05/15/2026     Mander-Agarwal                      $    262.58
+05/14/2026     Master-Nagy                         $  1,539.37
+05/20/2026     [ADDRESS_003], [ADDRESS_002] and [ORGANIZATION_001]           $    741.08
+
+-------------------------------------------------------------
+Total Charges:      $    9,277.88
+New Balance:        $    9,391.89
+Minimum Payment:    $      187.84
+
+============================================================

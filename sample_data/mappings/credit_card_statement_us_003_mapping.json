@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_us_003.txt",
+  "timestamp": "2026-06-09T07:55:09.633532",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Anthony Galvan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "492430981232",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "84705 Samantha Streets, New James, IN 32599",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 294,
+        "end": 337
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-594-552-7236x89852",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 358,
+        "end": 380
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "leroy67@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 401,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Sandoval",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 789,
+        "end": 797
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Khan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1033,
+        "end": 1037
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Davis",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1167,
+        "end": 1172
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Taylor",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1229,
+        "end": 1235
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Holder",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 734,
+        "end": 740
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Williams-Morris                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 932,
+        "end": 968
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Weiss",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1014,
+        "end": 1019
+      }
+    }
+  ]
+}

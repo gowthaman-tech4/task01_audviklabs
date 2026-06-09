@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_029.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Imaran Mangal",
+      "start": 312,
+      "end": 325
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Neha Prakash",
+      "start": 482,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/25/1992",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 766, Gokhale Circle, Bikaner-654120",
+      "start": 546,
+      "end": 587
+    },
+    {
+      "type": "PHONE",
+      "value": "91 80743 47940",
+      "start": 608,
+      "end": 622
+    },
+    {
+      "type": "EMAIL",
+      "value": "bkapur@example.com",
+      "start": 643,
+      "end": 661
+    },
+    {
+      "type": "PAN",
+      "value": "ULLFF3143D",
+      "start": 682,
+      "end": 692
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4048 2725 0467",
+      "start": 713,
+      "end": 727
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Raksha Bhakta",
+      "start": 774,
+      "end": 787
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/16/2001",
+      "start": 835,
+      "end": 845
+    }
+  ]
+}

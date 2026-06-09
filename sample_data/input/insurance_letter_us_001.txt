@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9267912
+Policy Type: Health Insurance
+Date of Issue: August 29, 2025
+
+Dear Johnathan Pittman,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Olivia Wright
+Date of Birth:      09/03/1971
+Address:            8714 Pierce Dale, North Leonard, NH 90209
+Phone:              001-752-827-3592x942
+Email:              richardsjustin@example.org
+SSN:                372-57-9453
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Tammy Norris
+Relationship:       Mother
+Nominee DOB:        09/22/2015
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,820,698.23
+Annual Premium:     $      2,095.88
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  March 02, 2026
+Maturity Date:      May 23, 2042
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

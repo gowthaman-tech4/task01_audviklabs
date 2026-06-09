@@ -1,0 +1,136 @@
+{
+  "document": "brokerage_statement_in_019.txt",
+  "timestamp": "2026-06-09T07:54:46.269621",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "PAN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "EMAIL": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Aarush Chhabra",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 283,
+        "end": 297
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "6156387774",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 322,
+        "end": 332
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "JOCGO0719L",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 357,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "6178024261113552",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 408
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "wablejeremiah@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 433,
+        "end": 458
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 83400 34929",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 483,
+        "end": 498
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "H.No. 752, Sule, Dindigul-041158",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 523,
+        "end": 555
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "TRIDENT CAPITAL SERVICES LTD",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 71,
+        "end": 99
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "JPMorgan Chase & Co.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 754,
+        "end": 774
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Tesla Inc.                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 848,
+        "end": 877
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Microsoft Corp.",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 942,
+        "end": 957
+      }
+    }
+  ]
+}

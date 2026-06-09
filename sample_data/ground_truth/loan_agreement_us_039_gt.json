@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_039.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "25791 Brenda Forest, West Gabriel, VT 62083",
+      "start": 372,
+      "end": 415
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brittany Blackwell",
+      "start": 433,
+      "end": 451
+    },
+    {
+      "type": "SSN",
+      "value": "456-58-9609",
+      "start": 457,
+      "end": 468
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/04/1962",
+      "start": 484,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "30826 Elizabeth Creek Suite 577, Gonzalezfort, SD 91748",
+      "start": 504,
+      "end": 559
+    },
+    {
+      "type": "PHONE",
+      "value": "(775)572-6152x81207",
+      "start": 567,
+      "end": 586
+    },
+    {
+      "type": "EMAIL",
+      "value": "david30@example.net",
+      "start": 594,
+      "end": 613
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kevin Martin",
+      "start": 650,
+      "end": 662
+    },
+    {
+      "type": "PHONE",
+      "value": "915.796.0194x7298",
+      "start": 670,
+      "end": 687
+    },
+    {
+      "type": "EMAIL",
+      "value": "michaeljohnson@example.com",
+      "start": 695,
+      "end": 721
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "85211771801225",
+      "start": 981,
+      "end": 995
+    }
+  ]
+}

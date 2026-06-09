@@ -1,0 +1,93 @@
+{
+  "document": "bank_statement_us_014.txt",
+  "timestamp": "2026-06-09T07:53:57.542417",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Michael Reed",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "391877515141",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 383,
+        "end": 395
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "339-87-7047",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 415,
+        "end": 426
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-819-532-2823x772",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 446,
+        "end": 466
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jfisher@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 486,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/01/2002",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 525,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "791 Christopher Harbor Apt. 452, Rebeccaville, WI 52776",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 610
+      }
+    }
+  ]
+}

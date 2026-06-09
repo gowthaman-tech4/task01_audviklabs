@@ -1,0 +1,124 @@
+{
+  "document": "credit_card_statement_us_006.txt",
+  "timestamp": "2026-06-09T07:55:10.171519",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Renee Rodriguez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 234
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "436054359974",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 255,
+        "end": 269
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "7427 Stone Circles Apt. 592, Matthewborough, TN 22036",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 295,
+        "end": 348
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "312-218-6200x028",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 369,
+        "end": 385
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ian61@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 406,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Matthews",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1042,
+        "end": 1050
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Baker PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 734,
+        "end": 743
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/23/2026     Estrada Ltd",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 845,
+        "end": 871
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Frederick        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1014,
+        "end": 1031
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/04/2026     Saunders Inc                        ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1106,
+        "end": 1157
+      }
+    }
+  ]
+}

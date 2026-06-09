@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-7417
+Billing Address:    127, [PERSON_NAME_004], Raebareli [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 13, 2026
+Payment Due Date:   June 30, 2026
+Credit Limit:       $   17,169.13
+Previous Balance:   $    7,741.35
+Payments Received:  $      723.05
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/24/2026     Deo PLC                             $  1,930.05
+05/11/2026     Jha Inc                             $  1,963.55
+[ORGANIZATION_005]                          $  1,884.60
+06/05/2026     Peri-Dey                            $  1,822.38
+05/29/2026     [ORGANIZATION_004]                          $    347.90
+[ORGANIZATION_003], [PERSON_NAME_002] and Anne                $    113.86
+06/06/2026     Krishnamurthy, [PERSON_NAME_001] and Mis      $  1,580.63
+06/03/2026     [ORGANIZATION_002], [ORGANIZATION_001] and Bahl               $    873.10
+
+-------------------------------------------------------------
+Total Charges:      $   10,516.07
+[ADDRESS_002]:        $   17,534.37
+Minimum Payment:    $      350.69
+
+============================================================

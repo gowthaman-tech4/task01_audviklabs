@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2454036
+Policy Type: Term Insurance
+Date of Issue: February 02, 2026
+
+Dear Gabriel Goda,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Nitesh Samra
+Date of Birth:      10/25/1976
+Address:            01/12, Nath Marg, Jammu 323456
+Phone:              91 65948 97268
+Email:              zayanreddy@example.net
+PAN:                TWCCE3816E
+Aadhaar:            5631 7976 9607
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Bachittar Ranganathan
+Relationship:       Spouse
+Nominee DOB:        11/11/1958
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,876,885.58
+Annual Premium:     $      6,929.57
+Policy Term:        20 years
+Premium Payment:    Annual
+Risk Commencement:  January 14, 2026
+Maturity Date:      December 27, 2047
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

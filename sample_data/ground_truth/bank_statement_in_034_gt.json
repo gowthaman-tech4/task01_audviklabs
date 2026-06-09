@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_034.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Udarsh Palan",
+      "start": 339,
+      "end": 351
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "23548387488752",
+      "start": 371,
+      "end": 385
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0550849",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PAN",
+      "value": "OAXTK3706S",
+      "start": 436,
+      "end": 446
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 87766 02712",
+      "start": 466,
+      "end": 481
+    },
+    {
+      "type": "EMAIL",
+      "value": "zaitrasundaram@example.net",
+      "start": 501,
+      "end": 527
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/15/1978",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "type": "ADDRESS",
+      "value": "69, Kala Chowk, Tiruppur-810206",
+      "start": 577,
+      "end": 608
+    }
+  ]
+}

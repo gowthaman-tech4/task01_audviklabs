@@ -1,0 +1,281 @@
+{
+  "document": "loan_agreement_in_023.txt",
+  "timestamp": "2026-06-09T07:55:36.623100",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 3,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "699565",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "534558",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 403,
+        "end": 409
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Mugdha Shere",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 427,
+        "end": 439
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "RROPG2312J",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 445,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 456,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "7931 9275 1186",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 465,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/05/1980",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 495,
+        "end": 505
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "935241",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 546,
+        "end": 552
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 77958 58370",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 560,
+        "end": 574
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "kamala60@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 582,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Nilima Sachdev",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 639,
+        "end": 653
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 63461 01193",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 661,
+        "end": 676
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "bobalmaanav@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 684,
+        "end": 707
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "99905332493766",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 973,
+        "end": 987
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Jha Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 401
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_005]",
+      "original": "Satara",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 403,
+        "end": 409
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Kapur Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 562,
+        "end": 573
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Kollam",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 575,
+        "end": 581
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1058,
+        "end": 1063
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1068,
+        "end": 1078
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1091,
+        "end": 1099
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1360,
+        "end": 1368
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1459,
+        "end": 1465
+      }
+    }
+  ]
+}

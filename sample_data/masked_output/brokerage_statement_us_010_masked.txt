@@ -1,0 +1,40 @@
+============================================================
+          [ORGANIZATION_005]
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     [ORGANIZATION_004]              263 $    248.49 $    353.35 $   92,932.32 $   27,579.45
+[ORGANIZATION_003]                   463 $    159.22 $    163.38 $   75,643.31 $    1,924.45
+[ORGANIZATION_002]          315 $    554.04 $    510.94 $  160,945.46 $  -13,577.14
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  329,521.09
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/31/2026     DIV      AAPL         99 $    471.45 $   46,673.55
+05/21/2026     SELL     [ORGANIZATION_001]         24 $     95.73 $    2,297.52
+04/01/2026     DIV      MSFT         32 $    270.77 $    8,664.64
+04/03/2026     BUY      AAPL         97 $    369.17 $   35,809.49
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

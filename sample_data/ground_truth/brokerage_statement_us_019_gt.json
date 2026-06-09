@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_019.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kevin Romero",
+      "start": 280,
+      "end": 292
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5278935445",
+      "start": 317,
+      "end": 327
+    },
+    {
+      "type": "SSN",
+      "value": "662-50-5642",
+      "start": 352,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "hmontoya@example.com",
+      "start": 388,
+      "end": 408
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-684-473-7948x6595",
+      "start": 433,
+      "end": 453
+    },
+    {
+      "type": "ADDRESS",
+      "value": "69892 Johnson Greens, Evanchester, ID 06569",
+      "start": 478,
+      "end": 521
+    }
+  ]
+}

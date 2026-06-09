@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Wahab Lata
+Card Number:        4865-2423-6832-1539
+Billing Address:    25/034, Natt Street, Bokaro-874771
+Phone:              91 72441 14270
+Email:              qgupta@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 19, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   12,449.95
+Previous Balance:   $    5,058.52
+Payments Received:  $    3,996.80
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/07/2026     Gade-Sehgal                         $    702.48
+06/06/2026     Shenoy and Sons                     $    500.64
+05/28/2026     Som Ltd                             $  1,942.93
+06/04/2026     Srinivasan-Sane                     $  1,516.68
+05/26/2026     Parekh, Sharaf and Oza              $    671.53
+05/09/2026     Kumer, Keer and Doctor              $    719.56
+06/01/2026     Vora LLC                            $    792.95
+05/17/2026     Peri LLC                            $    904.29
+
+-------------------------------------------------------------
+Total Charges:      $    7,751.06
+New Balance:        $    8,812.78
+Minimum Payment:    $      176.26
+
+============================================================

@@ -1,0 +1,42 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_002]
+Card Number:        [AADHAAR_001]-0534
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 18, 2026
+Payment Due Date:   June 28, 2026
+Credit Limit:       $   26,160.49
+Previous Balance:   $    5,514.88
+Payments Received:  $    1,962.61
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/23/2026     Contractor LLC                      $  1,919.86
+06/02/2026     Iyengar-Kadakia                     $    507.48
+05/27/2026     Pau Inc                             $    934.06
+05/09/2026     Mandal-Agarwal                      $  1,692.18
+05/19/2026     Mangal, [ORGANIZATION_005] and [ORGANIZATION_004]
+06/05/2026     [ORGANIZATION_003]$  1,938.59
+05/18/2026     Pandit, [ORGANIZATION_002]       $  1,736.28
+05/25/2026     Bandi Ltd                           $    453.64
+05/26/2026     Savant Group                        $  1,570.41
+05/14/2026     Bath, Ramesh and [PERSON_NAME_001]             $  1,715.61
+06/01/2026     [ORGANIZATION_001] LLC                         $  1,896.05
+
+-------------------------------------------------------------
+Total Charges:      $   15,319.51
+New Balance:        $   18,871.78
+Minimum Payment:    $      377.44
+
+============================================================

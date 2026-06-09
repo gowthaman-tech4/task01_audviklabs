@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_020.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jonathan Dunn",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4108-8747-3074-2534",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "347 Santiago Stravenue, Port Jonburgh, IN 62366",
+      "start": 293,
+      "end": 340
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-902-976-8403x1132",
+      "start": 361,
+      "end": 381
+    },
+    {
+      "type": "EMAIL",
+      "value": "waresara@example.org",
+      "start": 402,
+      "end": 422
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Gayathri Anne
+Account Number:         5661180873
+PAN:                    EDIFF9330O
+Demat Account:          4705668239692937
+Email:                  banikrushil@example.com
+Phone:                  91 98975 09104
+Correspondence Address: H.No. 60, Dada Ganj, Ozhukarai 829575
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              320 $    323.71 $    356.19 $  113,979.65 $   10,392.45
+AAPL     Apple Inc.                   395 $    141.67 $    193.97 $   76,618.58 $   20,658.93
+GOOGL    Alphabet Inc.                343 $    125.76 $    155.52 $   53,344.15 $   10,208.47
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  243,942.38
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/06/2026     SELL     AAPL         60 $    461.99 $   27,719.40
+03/10/2026     DIV      MSFT         20 $     99.86 $    1,997.20
+04/07/2026     DIV      GOOGL        51 $    371.67 $   18,955.17
+04/23/2026     SELL     AAPL          4 $    320.96 $    1,283.84
+04/27/2026     SELL     MSFT         16 $    379.29 $    6,068.64
+04/14/2026     BUY      GOOGL        98 $     78.43 $    7,686.14
+05/25/2026     SELL     GOOGL        16 $    113.62 $    1,817.92
+03/14/2026     BUY      MSFT         70 $    461.62 $   32,313.40
+03/11/2026     DIV      MSFT         66 $     62.49 $    4,124.34
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-7673674
+Policy Type: Term Insurance
+Date of Issue: December 30, 2025
+
+Dear Patricia Combs,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Jennifer Soto
+Date of Birth:      12/16/1986
+Address:            3974 Timothy Pike Apt. 577, Rebeccachester, WA 36605
+Phone:              (853)559-2048x7765
+Email:              claysamuel@example.com
+SSN:                159-54-1593
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Nancy Giles
+Relationship:       Daughter
+Nominee DOB:        10/11/2019
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,433,455.01
+Annual Premium:     $     24,201.38
+Policy Term:        25 years
+Premium Payment:    Monthly
+Risk Commencement:  December 03, 2025
+Maturity Date:      June 29, 2042
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

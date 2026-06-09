@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_005.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Kramer",
+      "start": 345,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "953779583405",
+      "start": 380,
+      "end": 392
+    },
+    {
+      "type": "SSN",
+      "value": "348-26-1912",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PHONE",
+      "value": "(328)575-6129x033",
+      "start": 443,
+      "end": 460
+    },
+    {
+      "type": "EMAIL",
+      "value": "ocarrillo@example.org",
+      "start": 480,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/06/1992",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "type": "ADDRESS",
+      "value": "28003 Zimmerman Fields Apt. 148, Shaunshire, AR 33692",
+      "start": 551,
+      "end": 604
+    }
+  ]
+}

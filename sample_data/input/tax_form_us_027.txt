@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   458-05-6372
+
+b  Employer Identification Number (EIN)
+   26-5656262
+
+c  Employer's Name, Address, and ZIP Code
+   Johnson-Martinez
+   9683 Jennifer Villages, New Jessica, IN 65743
+
+e  Employee's Name
+   Crystal Mccarthy
+
+f  Employee's Address and ZIP Code
+   066 Patel Shore, Lake Mark, VI 62507
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  110,360.12
+2  Federal income tax withheld         $   18,089.34
+3  Social Security wages               $  110,360.12
+4  Social Security tax withheld        $    6,842.33
+5  Medicare wages and tips             $  110,360.12
+6  Medicare tax withheld               $    1,600.22
+
+12a Code DD - Health Insurance          $    6,994.24
+
+--- STATE TAX INFORMATION ---
+
+15 State: MN
+16 State wages                         $  110,360.12
+17 State income tax                    $    7,431.19
+
+============================================================

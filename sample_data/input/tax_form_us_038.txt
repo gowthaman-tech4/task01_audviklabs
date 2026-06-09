@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   652-49-2324
+
+b  Employer Identification Number (EIN)
+   49-5740720
+
+c  Employer's Name, Address, and ZIP Code
+   Ryan, Thomas and Moon
+   07177 Avery Views, Deborahhaven, FL 84202
+
+e  Employee's Name
+   Christopher Chavez
+
+f  Employee's Address and ZIP Code
+   4008 Lisa Estate, Yvonnestad, FL 46411
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  184,033.97
+2  Federal income tax withheld         $   45,528.93
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  184,033.97
+6  Medicare tax withheld               $    2,668.49
+
+12a Code DD - Health Insurance          $   10,474.81
+
+--- STATE TAX INFORMATION ---
+
+15 State: OK
+16 State wages                         $  184,033.97
+17 State income tax                    $    5,955.23
+
+============================================================

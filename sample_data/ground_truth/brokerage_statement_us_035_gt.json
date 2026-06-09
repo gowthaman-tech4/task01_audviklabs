@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_035.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Shannon Garcia",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6197338316",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "610-67-6888",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "larrystewart@example.net",
+      "start": 390,
+      "end": 414
+    },
+    {
+      "type": "PHONE",
+      "value": "(414)297-8624x2594",
+      "start": 439,
+      "end": 457
+    },
+    {
+      "type": "ADDRESS",
+      "value": "37482 Luis Ports, Annettetown, NJ 18862",
+      "start": 482,
+      "end": 521
+    }
+  ]
+}

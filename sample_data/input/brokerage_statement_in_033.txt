@@ -1,0 +1,48 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Zinal Chawla
+Account Number:         8912522301
+PAN:                    SQRBY1491F
+Demat Account:          6786477709239233
+Email:                  hiralkamdar@example.org
+Phone:                  +91 66025 75359
+Correspondence Address: H.No. 271, Mand Circle, Ongole 910296
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.           24 $    535.31 $    538.41 $   12,921.92 $       74.48
+AAPL     Apple Inc.                   171 $    121.04 $    153.09 $   26,178.24 $    5,480.40
+MSFT     Microsoft Corp.              460 $    411.28 $    419.54 $  192,987.35 $    3,798.55
+JPM      JPMorgan Chase & Co.          66 $    177.95 $    196.87 $   12,993.58 $    1,248.88
+NVDA     NVIDIA Corp.                 250 $    803.16 $    820.28 $  205,070.42 $    4,280.42
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  450,151.51
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/18/2026     SELL     MSFT        100 $    482.45 $   48,245.00
+05/10/2026     SELL     MSFT         38 $    424.69 $   16,138.22
+05/20/2026     DIV      JPM          24 $    247.14 $    5,931.36
+05/09/2026     SELL     JPM          28 $    282.38 $    7,906.64
+05/21/2026     SELL     META         21 $    361.97 $    7,601.37
+05/19/2026     BUY      AAPL         47 $    142.24 $    6,685.28
+03/11/2026     BUY      MSFT         34 $    333.11 $   11,325.74
+04/19/2026     DIV      NVDA         46 $    241.00 $   11,086.00
+04/11/2026     SELL     NVDA          3 $    431.48 $    1,294.44
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

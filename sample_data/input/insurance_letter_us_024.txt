@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-6963988
+Policy Type: Life Insurance
+Date of Issue: July 21, 2025
+
+Dear Henry Hughes,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Tina Brown
+Date of Birth:      06/15/1989
+Address:            1862 Carl Streets, East Philip, IN 12320
+Phone:              +1-853-822-5564x79550
+Email:              qbell@example.org
+SSN:                495-76-2513
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Kara Crosby
+Relationship:       Mother
+Nominee DOB:        02/23/2005
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    405,081.39
+Annual Premium:     $      1,397.68
+Policy Term:        20 years
+Premium Payment:    Annual
+Risk Commencement:  March 15, 2026
+Maturity Date:      October 09, 2040
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,150 @@
+{
+  "document": "bank_statement_in_011.txt",
+  "timestamp": "2026-06-09T07:53:45.941860",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Onkar Pal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 350
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "012699835448",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 370,
+        "end": 382
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "ICIC0861522",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 402,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "UEKAA0686J",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 433,
+        "end": 443
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 80092 43827",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 463,
+        "end": 477
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "calebparmar@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 497,
+        "end": 520
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/13/1994",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 540,
+        "end": 550
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "386300",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 594,
+        "end": 600
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "50772260",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1153,
+        "end": 1161
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Purchase - Prabhakar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1322,
+        "end": 1342
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Sidhu",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1344,
+        "end": 1349
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "FDIC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2285,
+        "end": 2289
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_030.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Robert Mathis",
+      "start": 340,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "937831573821",
+      "start": 373,
+      "end": 385
+    },
+    {
+      "type": "SSN",
+      "value": "315-94-8361",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "(802)829-5963x2293",
+      "start": 436,
+      "end": 454
+    },
+    {
+      "type": "EMAIL",
+      "value": "elizabeth00@example.com",
+      "start": 474,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/02/2001",
+      "start": 517,
+      "end": 527
+    },
+    {
+      "type": "ADDRESS",
+      "value": "10641 Abigail Path, West Michael, NY 36846",
+      "start": 547,
+      "end": 589
+    }
+  ]
+}

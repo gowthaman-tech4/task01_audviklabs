@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_021.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mark Cooley",
+      "start": 280,
+      "end": 291
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3777789968",
+      "start": 316,
+      "end": 326
+    },
+    {
+      "type": "SSN",
+      "value": "323-28-6471",
+      "start": 351,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "jessica39@example.net",
+      "start": 387,
+      "end": 408
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-593-936-5760x2139",
+      "start": 433,
+      "end": 453
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5506 Moore Meadows, North Michaelstad, AZ 21128",
+      "start": 478,
+      "end": 525
+    }
+  ]
+}

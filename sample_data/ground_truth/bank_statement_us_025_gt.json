@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_025.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Isaac Browning",
+      "start": 345,
+      "end": 359
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "157074667538",
+      "start": 379,
+      "end": 391
+    },
+    {
+      "type": "SSN",
+      "value": "160-18-7274",
+      "start": 411,
+      "end": 422
+    },
+    {
+      "type": "PHONE",
+      "value": "276-439-0881x650",
+      "start": 442,
+      "end": 458
+    },
+    {
+      "type": "EMAIL",
+      "value": "imathews@example.com",
+      "start": 478,
+      "end": 498
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/17/1969",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0586 Danielle Corner Suite 778, West Sylviaton, FL 70316",
+      "start": 548,
+      "end": 604
+    }
+  ]
+}

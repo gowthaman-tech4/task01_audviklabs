@@ -1,0 +1,215 @@
+{
+  "document": "bank_statement_in_010.txt",
+  "timestamp": "2026-06-09T07:53:45.707705",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Rachit Kumar",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 341,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "5052273018133",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 373,
+        "end": 386
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0249571",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 406,
+        "end": 417
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "MKKGE1852J",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 437,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 67372 50504",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 467,
+        "end": 482
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "darikabuch@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 502,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/11/1962",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "725766",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 610,
+        "end": 616
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Shan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1543,
+        "end": 1547
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "22082645",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1819,
+        "end": 1827
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Bahri",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2101,
+        "end": 2106
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Sundaram Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 594,
+        "end": 607
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "06/07/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1154,
+        "end": 1176
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Purchase - Uppal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1541,
+        "end": 1557
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Purchase - Mallick-Andra            2,518.80",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1741,
+        "end": 1785
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "POS Purchase - Dhaliwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2117,
+        "end": 2140
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Loyal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2164,
+        "end": 2169
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "FDIC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 3155,
+        "end": 3159
+      }
+    }
+  ]
+}

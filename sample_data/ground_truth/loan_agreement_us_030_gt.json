@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_030.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 336,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "87737 Nguyen Hollow Apt. 771, Heatherville, OK 50152",
+      "start": 372,
+      "end": 424
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Eugene Patel",
+      "start": 442,
+      "end": 454
+    },
+    {
+      "type": "SSN",
+      "value": "558-98-3385",
+      "start": 460,
+      "end": 471
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/14/1996",
+      "start": 487,
+      "end": 497
+    },
+    {
+      "type": "ADDRESS",
+      "value": "USCGC Dominguez, FPO AE 62506",
+      "start": 507,
+      "end": 536
+    },
+    {
+      "type": "PHONE",
+      "value": "(321)735-2519x044",
+      "start": 544,
+      "end": 561
+    },
+    {
+      "type": "EMAIL",
+      "value": "scottchan@example.com",
+      "start": 569,
+      "end": 590
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "94657244937137",
+      "start": 850,
+      "end": 864
+    }
+  ]
+}

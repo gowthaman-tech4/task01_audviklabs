@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_021.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "624-95-9624",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "29-6521251",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Stevenson, Livingston and Hernandez",
+      "start": 353,
+      "end": 388
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5832 Bailey Road, Pattersonview, NV 48814",
+      "start": 392,
+      "end": 433
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Shaw",
+      "start": 457,
+      "end": 473
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2623 David Courts, Lake Rebecca, NH 96590",
+      "start": 513,
+      "end": 554
+    }
+  ]
+}

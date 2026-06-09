@@ -1,0 +1,58 @@
+============================================================
+                    National Commerce Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 11, 2026 to May 19, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Anna Orr
+Account Number:    719531757718
+SSN:               131-95-8080
+Phone:             (265)996-9390
+Email:             reginagross@example.net
+Date of Birth:     07/19/1965
+Address:           621 Hamilton Club, Davisstad, GA 52899
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            East Morganborough Branch
+Opening Balance:   $108,666.16
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/09/2026     Interest Credit                         4,546.54                  104,119.62
+06/04/2026     Direct Deposit - VUD Corp                 455.45                  103,664.17
+05/14/2026     ATM Withdrawal - Allisonborough           304.83                  103,359.34
+06/03/2026     Online Transfer to 79829807               745.48                  102,613.86
+05/14/2026     POS Purchase - Clayton-Davis                         1,647.45     104,261.31
+05/10/2026     Direct Deposit - CSR Corp                 375.05                  103,886.26
+05/27/2026     POS Purchase - Alvarez-Mueller          2,025.16                  101,861.10
+05/21/2026     POS Purchase - Delacruz, Cook and Robins                    323.39     102,184.49
+05/13/2026     POS Purchase - Mack LLC                 1,351.14                  100,833.35
+06/05/2026     Bill Payment - Utility                                 765.17     101,598.52
+05/21/2026     NEFT Transfer                           3,556.40                   98,042.12
+05/19/2026     ATM Withdrawal - Kimberlyhaven          1,803.21                   96,238.91
+05/12/2026     UPI Transfer                            1,773.64                   94,465.27
+05/25/2026     Online Transfer to 68652542                          1,643.86      96,109.13
+06/01/2026     Service Charge                            518.39                   95,590.74
+05/15/2026     Online Transfer to 64886925             2,904.83                   92,685.91
+06/03/2026     POS Purchase - Olson, Jackson and Moore     2,370.11                   90,315.80
+06/04/2026     Service Charge                          1,334.11                   88,981.69
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $88,981.69
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+National Commerce Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

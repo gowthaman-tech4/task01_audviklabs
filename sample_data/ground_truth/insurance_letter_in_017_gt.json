@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_017.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gabriel Goda",
+      "start": 316,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nitesh Samra",
+      "start": 485,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/25/1976",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "01/12, Nath Marg, Jammu 323456",
+      "start": 549,
+      "end": 579
+    },
+    {
+      "type": "PHONE",
+      "value": "91 65948 97268",
+      "start": 600,
+      "end": 614
+    },
+    {
+      "type": "EMAIL",
+      "value": "zayanreddy@example.net",
+      "start": 635,
+      "end": 657
+    },
+    {
+      "type": "PAN",
+      "value": "TWCCE3816E",
+      "start": 678,
+      "end": 688
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5631 7976 9607",
+      "start": 709,
+      "end": 723
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Bachittar Ranganathan",
+      "start": 770,
+      "end": 791
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/11/1958",
+      "start": 839,
+      "end": 849
+    }
+  ]
+}

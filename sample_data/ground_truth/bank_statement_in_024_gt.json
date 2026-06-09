@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_024.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jason Merchant",
+      "start": 344,
+      "end": 358
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "231097930093532",
+      "start": 378,
+      "end": 393
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "PUNB0264961",
+      "start": 413,
+      "end": 424
+    },
+    {
+      "type": "PAN",
+      "value": "GLAPP1730R",
+      "start": 444,
+      "end": 454
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 67219 10930",
+      "start": 474,
+      "end": 489
+    },
+    {
+      "type": "EMAIL",
+      "value": "talwaryoshita@example.com",
+      "start": 509,
+      "end": 534
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/18/1968",
+      "start": 554,
+      "end": 564
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 302, Nigam Path, Kakinada 397813",
+      "start": 584,
+      "end": 622
+    }
+  ]
+}

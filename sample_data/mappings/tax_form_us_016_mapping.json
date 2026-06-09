@@ -1,0 +1,167 @@
+{
+  "document": "tax_form_us_016.txt",
+  "timestamp": "2026-06-09T08:05:59.195596",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "SSN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "'s Social Security Number",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 211,
+        "end": 236
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "363-17-2682",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 240,
+        "end": 251
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "6700078",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 299,
+        "end": 306
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": ", and ZIP Code,    Anderson-Pruitt,    860 Gibson Ville Suite 373, East Misty, IN 05092",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 335,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "'s Name",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 433,
+        "end": 440
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Jennifer Shepherd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 444,
+        "end": 461
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "'s Address and ZIP Code",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 474,
+        "end": 497
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "1143 Johnny Key, Port Leonardland, WI 40215",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 501,
+        "end": 544
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 640,
+        "end": 655
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 693,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 746,
+        "end": 754
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Code DD - Health Insurance          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 801,
+        "end": 837
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "State",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 891
+      }
+    }
+  ]
+}

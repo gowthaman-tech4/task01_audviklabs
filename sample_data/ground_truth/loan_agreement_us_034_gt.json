@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_034.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 6574 Box 1738, DPO AP 26469",
+      "start": 374,
+      "end": 406
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jordan Ponce",
+      "start": 424,
+      "end": 436
+    },
+    {
+      "type": "SSN",
+      "value": "358-96-1533",
+      "start": 442,
+      "end": 453
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/12/2001",
+      "start": 469,
+      "end": 479
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8944 Davis Crossroad, North Kayla, VA 90682",
+      "start": 489,
+      "end": 532
+    },
+    {
+      "type": "PHONE",
+      "value": "001-570-241-6959x551",
+      "start": 540,
+      "end": 560
+    },
+    {
+      "type": "EMAIL",
+      "value": "patrickkennedy@example.com",
+      "start": 568,
+      "end": 594
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Hill",
+      "start": 631,
+      "end": 643
+    },
+    {
+      "type": "PHONE",
+      "value": "6806178271",
+      "start": 651,
+      "end": 661
+    },
+    {
+      "type": "EMAIL",
+      "value": "nicolehowe@example.com",
+      "start": 669,
+      "end": 691
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "17459601252730",
+      "start": 952,
+      "end": 966
+    }
+  ]
+}

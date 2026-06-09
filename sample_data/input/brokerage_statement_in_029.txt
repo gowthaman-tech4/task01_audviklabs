@@ -1,0 +1,49 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Deepa Krish
+Account Number:         3637400951
+PAN:                    TTQLJ4099P
+Demat Account:          7525572766671717
+Email:                  maya17@example.org
+Phone:                  +91 88249 86775
+Correspondence Address: 09/92, Pandya Chowk, Farrukhabad 062748
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+NVDA     NVIDIA Corp.                 302 $    706.74 $    833.26 $  251,644.04 $   38,208.56
+TSLA     Tesla Inc.                   433 $    224.43 $    223.42 $   96,739.66 $     -438.53
+AMZN     Amazon.com Inc.              189 $    178.04 $    180.16 $   34,049.62 $      400.06
+MSFT     Microsoft Corp.              168 $    365.95 $    368.96 $   61,985.88 $      506.28
+AAPL     Apple Inc.                   244 $    168.61 $    155.70 $   37,990.83 $   -3,150.01
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  482,410.03
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/02/2026     SELL     NVDA         29 $    288.63 $    8,370.27
+03/29/2026     SELL     AMZN         95 $    464.69 $   44,145.55
+06/02/2026     SELL     AMZN         40 $    294.72 $   11,788.80
+05/03/2026     BUY      AAPL         67 $    237.96 $   15,943.32
+04/18/2026     DIV      AAPL         24 $    114.43 $    2,746.32
+05/04/2026     DIV      TSLA         18 $    200.23 $    3,604.14
+05/31/2026     BUY      NVDA         19 $    378.36 $    7,188.84
+05/17/2026     BUY      TSLA         40 $    498.57 $   19,942.80
+06/02/2026     BUY      MSFT         23 $    260.46 $    5,990.58
+04/04/2026     DIV      AMZN         20 $    323.44 $    6,468.80
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

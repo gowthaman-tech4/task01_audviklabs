@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   159-47-2359
+
+b  Employer Identification Number (EIN)
+   30-5421438
+
+c  Employer's Name, Address, and ZIP Code
+   Mckenzie, Ward and Blackwell
+   0170 Karen Stream, East Richard, MA 24980
+
+e  Employee's Name
+   Michele Bennett
+
+f  Employee's Address and ZIP Code
+   78112 Becker Via Apt. 010, West Sara, CA 53416
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   43,614.60
+2  Federal income tax withheld         $    7,228.60
+3  Social Security wages               $   43,614.60
+4  Social Security tax withheld        $    2,704.11
+5  Medicare wages and tips             $   43,614.60
+6  Medicare tax withheld               $      632.41
+
+12a Code DD - Health Insurance          $    3,488.58
+
+--- STATE TAX INFORMATION ---
+
+15 State: KS
+16 State wages                         $   43,614.60
+17 State income tax                    $    3,279.52
+
+============================================================

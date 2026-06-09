@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_036.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Qasim Kapur",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1677772109",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "EBWPY8809C",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0498878333799683",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "avi44@example.org",
+      "start": 430,
+      "end": 447
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 65751 71978",
+      "start": 472,
+      "end": 487
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 21, Varkey, Anantapur 091086",
+      "start": 512,
+      "end": 546
+    }
+  ]
+}

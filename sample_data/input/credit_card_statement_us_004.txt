@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Brian Long
+Card Number:        4424-3395-0315-3696
+Billing Address:    85633 Veronica Loaf, West Erin, NY 45710
+Phone:              +1-462-477-2769x534
+Email:              aaronruiz@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 02, 2026
+Payment Due Date:   June 26, 2026
+Credit Limit:       $   22,694.72
+Previous Balance:   $    7,300.68
+Payments Received:  $    1,009.21
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/26/2026     Rodriguez, Walker and Gibson        $  1,353.85
+05/23/2026     Malone, Flores and Kim              $    863.93
+05/13/2026     Lee, Cox and Holloway               $    510.76
+05/29/2026     Rice-Bowers                         $    349.03
+05/17/2026     Scott-Oliver                        $  1,817.92
+06/05/2026     Martin Group                        $    441.28
+06/02/2026     Villa-Smith                         $  1,202.48
+05/30/2026     Mitchell-Ellis                      $    127.68
+05/13/2026     Sanford-Williams                    $  1,966.85
+05/30/2026     Skinner LLC                         $  1,979.54
+05/23/2026     Schultz LLC                         $    428.85
+05/25/2026     Smith, Morris and Patterson         $    806.23
+05/18/2026     Aguilar-Price                       $    126.83
+05/14/2026     Hodges-Wood                         $    424.68
+05/13/2026     Taylor-Turner                       $    492.57
+
+-------------------------------------------------------------
+Total Charges:      $   12,892.48
+New Balance:        $   19,183.95
+Minimum Payment:    $      383.68
+
+============================================================

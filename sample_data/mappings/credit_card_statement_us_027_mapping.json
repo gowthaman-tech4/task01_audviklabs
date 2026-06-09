@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_us_027.txt",
+  "timestamp": "2026-06-09T07:55:13.737331",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "David Jones",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "498208135471",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "665 Flores Spur Apt. 212, West Genehaven, TN 19773",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 341
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "6933233070",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 362,
+        "end": 372
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "michaelcohen@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 393,
+        "end": 417
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Becker",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1029,
+        "end": 1035
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Benjamin",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1045,
+        "end": 1053
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Skinner",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1100,
+        "end": 1107
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Snyder",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1112,
+        "end": 1118
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Billing Address",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 276,
+        "end": 291
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/28/2026     Barnes and Sons",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 811
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Salinas-Alvarado",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 859,
+        "end": 875
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Watson-Morgan                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1152,
+        "end": 1188
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_in_032.txt",
+  "timestamp": "2026-06-09T07:55:07.251469",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Yatan Chander",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 232
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "424685224048",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 253,
+        "end": 267
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "454931",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 316,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 70985 11251",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 357
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tamannakrishnan@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 378,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Mann",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1459,
+        "end": 1463
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Rana",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1465,
+        "end": 1469
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Bhatt",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1474,
+        "end": 1479
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Kaur Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 300,
+        "end": 311
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Ganesan Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 757,
+        "end": 770
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Bhasin",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 883,
+        "end": 889
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bhatti",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 902,
+        "end": 908
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Patla",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1025,
+        "end": 1030
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1759,
+        "end": 1770
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_002.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jeffrey Michael",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4453-7112-4547-0717",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "956 Kent Ford, Lisabury, NY 58610",
+      "start": 295,
+      "end": 328
+    },
+    {
+      "type": "PHONE",
+      "value": "(481)847-0736x3261",
+      "start": 349,
+      "end": 367
+    },
+    {
+      "type": "EMAIL",
+      "value": "pinedaelizabeth@example.net",
+      "start": 388,
+      "end": 415
+    }
+  ]
+}

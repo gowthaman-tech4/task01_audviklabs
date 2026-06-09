@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-4051201
+Policy Type: Life Insurance
+Date of Issue: February 13, 2026
+
+Dear Samuel White,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Kelly Davila
+Date of Birth:      08/19/1996
+Address:            026 Shaw Street, North Joseph, PA 40037
+Phone:              (532)798-4198x422
+Email:              usmith@example.org
+SSN:                116-78-1498
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Christopher Jarvis
+Relationship:       Mother
+Nominee DOB:        06/12/1969
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  1,852,806.44
+Annual Premium:     $     18,599.29
+Policy Term:        25 years
+Premium Payment:    Annual
+Risk Commencement:  July 22, 2025
+Maturity Date:      April 02, 2049
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

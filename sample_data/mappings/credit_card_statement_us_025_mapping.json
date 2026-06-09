@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_us_025.txt",
+  "timestamp": "2026-06-09T07:55:13.392755",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Paul Decker",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "403186531723",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "11944 Jesse Terrace, North Maureen, IA 81133",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 291,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "870.494.7238",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 368
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "danielleperkins@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 389,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Brown",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 903,
+        "end": 908
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 910,
+        "end": 917
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Cabrera",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 922,
+        "end": 929
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Flores",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1162,
+        "end": 1168
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gonzalez",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1173,
+        "end": 1181
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Ramirez-Cunningham",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 797,
+        "end": 815
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Bell-Richardson                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 955,
+        "end": 991
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Butler Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1081,
+        "end": 1093
+      }
+    }
+  ]
+}

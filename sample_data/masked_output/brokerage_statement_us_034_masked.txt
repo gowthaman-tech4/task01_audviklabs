@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_004]
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_003]          200 $    425.66 $    514.92 $  102,983.51 $   17,851.51
+[ORGANIZATION_002]                121 $    143.74 $    132.23 $   15,999.89 $   -1,392.65
+JPM      [ORGANIZATION_001] $    156.77 $    188.25 $   57,228.51 $    9,570.43
+TSLA     Tesla Inc.                    53 $    249.57 $    260.75 $   13,819.95 $      592.74
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  190,031.86
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/11/2026     DIV      TSLA         66 $    183.32 $   12,099.12
+04/27/2026     BUY      TSLA         49 $    342.22 $   16,768.78
+03/19/2026     BUY      TSLA          5 $    104.14 $      520.70
+05/11/2026     DIV      GOOGL        26 $    464.17 $   12,068.42
+05/30/2026     DIV      JPM          82 $     78.54 $    6,440.28
+04/25/2026     DIV      JPM          29 $    417.57 $   12,109.53
+05/20/2026     SELL     JPM          50 $    407.94 $   20,397.00
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

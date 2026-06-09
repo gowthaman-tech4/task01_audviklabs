@@ -1,0 +1,259 @@
+{
+  "document": "loan_agreement_in_021.txt",
+  "timestamp": "2026-06-09T07:55:36.159687",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 3,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "560886",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "971820",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 406,
+        "end": 412
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Dhriti Srivastava",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 430,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "BRXCF5746D",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 453,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Aadhaar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 464,
+        "end": 471
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "4784 4765 4515",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 473,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/28/1986",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 503,
+        "end": 513
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "342210",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 550,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "+91 93829 10970",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 564,
+        "end": 579
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "dasjanuja@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Tristan Iyer",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 645,
+        "end": 657
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 61651 72114",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 665,
+        "end": 680
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "sodhibhavini@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 688,
+        "end": 712
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "73345609280354",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 973,
+        "end": 987
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Kumer Circle",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 558,
+        "end": 570
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Bathinda",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 572,
+        "end": 580
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1052,
+        "end": 1057
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1062,
+        "end": 1072
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1085,
+        "end": 1093
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1356,
+        "end": 1364
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1455,
+        "end": 1461
+      }
+    }
+  ]
+}

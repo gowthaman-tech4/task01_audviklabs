@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_038.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "636, Vasa Street, Sambhal-128208",
+      "start": 374,
+      "end": 406
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ubika Pant",
+      "start": 424,
+      "end": 434
+    },
+    {
+      "type": "PAN",
+      "value": "FESJU6150U",
+      "start": 440,
+      "end": 450
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5456 7985 8917",
+      "start": 460,
+      "end": 474
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/28/2000",
+      "start": 490,
+      "end": 500
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 88, Chad Path, Shivpuri-649644",
+      "start": 510,
+      "end": 546
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 93582 42177",
+      "start": 554,
+      "end": 569
+    },
+    {
+      "type": "EMAIL",
+      "value": "jjain@example.com",
+      "start": 577,
+      "end": 594
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Manya Goswami",
+      "start": 631,
+      "end": 644
+    },
+    {
+      "type": "PHONE",
+      "value": "91 87795 15267",
+      "start": 652,
+      "end": 666
+    },
+    {
+      "type": "EMAIL",
+      "value": "mandalhema@example.net",
+      "start": 674,
+      "end": 696
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "73750698600103",
+      "start": 961,
+      "end": 975
+    }
+  ]
+}

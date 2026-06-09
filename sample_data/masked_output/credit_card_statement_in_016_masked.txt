@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-8866
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   June 27, 2026
+Credit Limit:       $   28,424.81
+Previous Balance:   $   11,993.69
+Payments Received:  $    6,306.58
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/07/2026     Devan, [ADDRESS_002] and [ORGANIZATION_003]              $    531.76
+[ORGANIZATION_002]$  1,284.74
+06/07/2026     [ORGANIZATION_001]-Srinivasan                    $  1,598.86
+06/07/2026     Bala Group                          $  1,092.71
+06/02/2026     Bhattacharyya, Kata and Dhar        $  1,267.31
+05/15/2026     Bhat Group                          $  1,449.49
+06/01/2026     Vasa, [PERSON_NAME_002] and [PERSON_NAME_001]                 $    906.20
+
+-------------------------------------------------------------
+Total Charges:      $    8,131.07
+New Balance:        $   13,818.18
+Minimum Payment:    $      276.36
+
+============================================================

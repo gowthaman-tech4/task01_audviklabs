@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_020.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Owen Uppal",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4734-2312-4346-8754",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 45, Pillay Street, Surat 007523",
+      "start": 290,
+      "end": 327
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 75642 76621",
+      "start": 348,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "varenya76@example.com",
+      "start": 384,
+      "end": 405
+    }
+  ]
+}

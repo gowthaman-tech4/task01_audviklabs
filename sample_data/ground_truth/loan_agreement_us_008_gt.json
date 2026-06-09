@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_008.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2940 Rosales Curve, Haynestown, IL 05570",
+      "start": 373,
+      "end": 413
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Figueroa",
+      "start": 431,
+      "end": 451
+    },
+    {
+      "type": "SSN",
+      "value": "599-22-9815",
+      "start": 457,
+      "end": 468
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/12/1996",
+      "start": 484,
+      "end": 494
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5941 Jacob Prairie Suite 153, Isaacport, SD 96155",
+      "start": 504,
+      "end": 553
+    },
+    {
+      "type": "PHONE",
+      "value": "965.832.0340x430",
+      "start": 561,
+      "end": 577
+    },
+    {
+      "type": "EMAIL",
+      "value": "philipsantiago@example.net",
+      "start": 585,
+      "end": 611
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kayla Cortez",
+      "start": 648,
+      "end": 660
+    },
+    {
+      "type": "PHONE",
+      "value": "(409)502-2616",
+      "start": 668,
+      "end": 681
+    },
+    {
+      "type": "EMAIL",
+      "value": "powellcalvin@example.net",
+      "start": 689,
+      "end": 713
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "08170001258637",
+      "start": 974,
+      "end": 988
+    }
+  ]
+}

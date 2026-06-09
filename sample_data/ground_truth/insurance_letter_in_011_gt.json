@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_011.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tristan Rege",
+      "start": 318,
+      "end": 330
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yashodhara Jha",
+      "start": 487,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/07/1990",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "250, Saini Ganj, Belgaum 233929",
+      "start": 553,
+      "end": 584
+    },
+    {
+      "type": "PHONE",
+      "value": "91 83083 14156",
+      "start": 605,
+      "end": 619
+    },
+    {
+      "type": "EMAIL",
+      "value": "wdalia@example.net",
+      "start": 640,
+      "end": 658
+    },
+    {
+      "type": "PAN",
+      "value": "EFELD3133V",
+      "start": 679,
+      "end": 689
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2680 2891 5597",
+      "start": 710,
+      "end": 724
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Imaran Naidu",
+      "start": 771,
+      "end": 783
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/02/1948",
+      "start": 831,
+      "end": 841
+    }
+  ]
+}

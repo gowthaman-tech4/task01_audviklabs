@@ -1,0 +1,160 @@
+{
+  "document": "bank_statement_in_002.txt",
+  "timestamp": "2026-06-09T07:53:43.705271",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Lekha Vyas",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "5636835407679",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 378,
+        "end": 391
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "UBIN0129659",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 411,
+        "end": 422
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "BKLJA3388A",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 442,
+        "end": 452
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 84988 29435",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 472,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "jkara@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 507,
+        "end": 524
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/09/1985",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 544,
+        "end": 554
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "665605",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 602,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Rajagopalan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1258,
+        "end": 1269
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "60555188",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1443,
+        "end": 1451
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Buch Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 598,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Mehsana",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 610,
+        "end": 617
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Devi",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2600,
+        "end": 2604
+      }
+    }
+  ]
+}

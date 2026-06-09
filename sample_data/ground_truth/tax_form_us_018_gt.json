@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_018.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "627-04-2687",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "31-8836187",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Lloyd, Martin and Noble",
+      "start": 353,
+      "end": 376
+    },
+    {
+      "type": "ADDRESS",
+      "value": "30180 Madison Crossroad Apt. 280, Lake Mary, TN 28704",
+      "start": 380,
+      "end": 433
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brian Hopkins",
+      "start": 457,
+      "end": 470
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2095 Robert Ridge, New Jacob, TN 45415",
+      "start": 510,
+      "end": 548
+    }
+  ]
+}

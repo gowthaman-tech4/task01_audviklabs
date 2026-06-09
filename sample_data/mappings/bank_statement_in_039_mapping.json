@@ -1,0 +1,149 @@
+{
+  "document": "bank_statement_in_039.txt",
+  "timestamp": "2026-06-09T07:53:53.230113",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Aarna Uppal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 342,
+        "end": 353
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "772996996332816",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 373,
+        "end": 388
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "PUNB0220345",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 408,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ARULF8049M",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 72380 98337",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 469,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "kamya75@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 504,
+        "end": 523
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "07/22/1973",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 543,
+        "end": 553
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "802722",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 607,
+        "end": 613
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "53871504",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1257,
+        "end": 1265
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gandhi Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 592,
+        "end": 604
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Nangloi Jat",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 606,
+        "end": 617
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "FDIC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2564,
+        "end": 2568
+      }
+    }
+  ]
+}

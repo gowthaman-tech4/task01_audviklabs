@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_042.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Martinez",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4285-9263-9040-0400",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "1063 Johnson River, East William, NV 05765",
+      "start": 296,
+      "end": 338
+    },
+    {
+      "type": "PHONE",
+      "value": "823.976.1286",
+      "start": 359,
+      "end": 371
+    },
+    {
+      "type": "EMAIL",
+      "value": "matthewbruce@example.org",
+      "start": 392,
+      "end": 416
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_007.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 338,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 00, Sagar Street, Nadiad 506186",
+      "start": 375,
+      "end": 412
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Widisha Rege",
+      "start": 430,
+      "end": 442
+    },
+    {
+      "type": "PAN",
+      "value": "EKJGW0807X",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8063 4001 0564",
+      "start": 468,
+      "end": 482
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/11/1987",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 02, Rama Street, Pallavaram-956801",
+      "start": 518,
+      "end": 558
+    },
+    {
+      "type": "PHONE",
+      "value": "91 60806 42260",
+      "start": 566,
+      "end": 580
+    },
+    {
+      "type": "EMAIL",
+      "value": "yogicharan@example.org",
+      "start": 588,
+      "end": 610
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Vrishti Iyer",
+      "start": 647,
+      "end": 659
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 95833 19324",
+      "start": 667,
+      "end": 682
+    },
+    {
+      "type": "EMAIL",
+      "value": "balvanbala@example.net",
+      "start": 690,
+      "end": 712
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "67297267437677",
+      "start": 976,
+      "end": 990
+    }
+  ]
+}

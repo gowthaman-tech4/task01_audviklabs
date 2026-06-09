@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Bhatia Group
+TAN of the Deductor:    DBHM27290H
+Address:                H.No. 24, Atwal Street, Coimbatore 580440
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Ojasvi Chad
+PAN of the Employee:    UZUFB2230Z
+Aadhaar Number:         6354 7762 8640
+Date of Birth:          06/01/1984
+Address:                77/09, Maharaj, Hospet 073539
+Email:                  damini06@example.com
+Mobile:                 91 82733 27028
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.     568,694.12
+   (b) Value of perquisites u/s 17(2)  Rs.      32,329.94
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.      68,243.29
+   (b) LTA Exemption                   Rs.       9,477.12
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     450,450.83
+5. Tax on Total Income                 Rs.      90,090.17
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       3,603.61
+8. Total Tax Payable                   Rs.      93,693.77
+
+============================================================

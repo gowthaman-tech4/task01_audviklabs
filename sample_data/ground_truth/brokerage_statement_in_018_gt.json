@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_018.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Waida Chand",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4454347426",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "JSMLU5930Y",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1294707767239736",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "kramakrishnan@example.com",
+      "start": 430,
+      "end": 455
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 62318 99855",
+      "start": 480,
+      "end": 495
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 16, Som Circle, Medininagar-279792",
+      "start": 520,
+      "end": 560
+    }
+  ]
+}

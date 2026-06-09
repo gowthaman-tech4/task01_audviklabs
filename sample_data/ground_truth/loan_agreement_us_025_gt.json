@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_025.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 337,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "327 Jake Causeway, Heatherborough, NC 89556",
+      "start": 373,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brandy Miller",
+      "start": 434,
+      "end": 447
+    },
+    {
+      "type": "SSN",
+      "value": "223-25-1441",
+      "start": 453,
+      "end": 464
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/05/1980",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "349 Kim Mill, Powellborough, AZ 83891",
+      "start": 500,
+      "end": 537
+    },
+    {
+      "type": "PHONE",
+      "value": "(462)789-0256x37679",
+      "start": 545,
+      "end": 564
+    },
+    {
+      "type": "EMAIL",
+      "value": "danmyers@example.net",
+      "start": 572,
+      "end": 592
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "62646741188136",
+      "start": 852,
+      "end": 866
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_007.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Hernandez",
+      "start": 352,
+      "end": 369
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "906160382316",
+      "start": 389,
+      "end": 401
+    },
+    {
+      "type": "SSN",
+      "value": "388-26-9007",
+      "start": 421,
+      "end": 432
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-610-525-9446x9219",
+      "start": 452,
+      "end": 472
+    },
+    {
+      "type": "EMAIL",
+      "value": "karensmith@example.com",
+      "start": 492,
+      "end": 514
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/15/1987",
+      "start": 534,
+      "end": 544
+    },
+    {
+      "type": "ADDRESS",
+      "value": "859 Jeffrey Ridges Apt. 125, Edwardland, GU 89435",
+      "start": 564,
+      "end": 613
+    }
+  ]
+}

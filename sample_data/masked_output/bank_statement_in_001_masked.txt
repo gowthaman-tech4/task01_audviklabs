@@ -1,0 +1,48 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 10, 2026 to May 10, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [ACCOUNT_NUMBER_002]
+IFSC Code:         [IFSC_CODE_001]
+PAN:               [PAN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           33/02, [PERSON_NAME_002] [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            [ADDRESS_002] Branch
+Opening Balance:   $103,136.17
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/25/2026     POS Purchase - Yogi-Sarma                            2,321.63     105,457.80
+05/27/2026     Bill Payment - Utility                  1,926.59                  103,531.21
+06/04/2026     ATM Withdrawal - Ramgarh                2,158.12                  101,373.09
+05/11/2026     POS Purchase - Sheth Inc                4,072.78                   97,300.31
+05/22/2026     Check #1088                                          1,386.52      98,686.83
+05/11/2026     Bill Payment - Utility                               3,160.40     101,847.23
+05/23/2026     Check #5051                             2,106.33                   99,740.90
+05/29/2026     Online Transfer to [ACCOUNT_NUMBER_001]               387.24                   99,353.66
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $99,353.66
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+[ORGANIZATION_001] | Equal Opportunity Lender
+============================================================

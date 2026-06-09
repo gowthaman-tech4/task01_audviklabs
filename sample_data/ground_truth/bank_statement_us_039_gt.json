@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_039.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ryan Mclaughlin",
+      "start": 351,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "213260647979",
+      "start": 386,
+      "end": 398
+    },
+    {
+      "type": "SSN",
+      "value": "144-30-6866",
+      "start": 418,
+      "end": 429
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-713-327-8490x363",
+      "start": 449,
+      "end": 468
+    },
+    {
+      "type": "EMAIL",
+      "value": "gillmarie@example.net",
+      "start": 488,
+      "end": 509
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/20/1994",
+      "start": 529,
+      "end": 539
+    },
+    {
+      "type": "ADDRESS",
+      "value": "127 Kristen Lakes Suite 288, New Jerry, WY 87448",
+      "start": 559,
+      "end": 607
+    }
+  ]
+}

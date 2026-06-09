@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Dhar and Sons
+TAN of the Deductor:    TWDV83254A
+Address:                H.No. 82, Devan Marg, Kurnool 334069
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Jhalak Raja
+PAN of the Employee:    VFGAH2755M
+Aadhaar Number:         4631 4927 9279
+Date of Birth:          22/02/1976
+Address:                H.No. 306, Iyengar Road, Rajahmundry-220978
+Email:                  idikanair@example.net
+Mobile:                 91 70597 23513
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   2,411,949.76
+   (b) Value of perquisites u/s 17(2)  Rs.      26,488.97
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     289,433.97
+   (b) LTA Exemption                   Rs.      23,529.25
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   2,072,515.79
+5. Tax on Total Income                 Rs.     414,503.16
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      16,580.13
+8. Total Tax Payable                   Rs.     431,083.28
+
+============================================================

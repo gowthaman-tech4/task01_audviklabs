@@ -1,0 +1,214 @@
+{
+  "document": "loan_agreement_us_014.txt",
+  "timestamp": "2026-06-09T07:55:43.957455",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "448766",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "9873 Soto Valleys Apt. 819, West Juanton, GU 98622",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 374,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Debbie Ross",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 442,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "293-46-3607",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 459,
+        "end": 470
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "10/28/1961",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 486,
+        "end": 496
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "024 Baker Plaza, Erikhaven, NJ 29706",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 506,
+        "end": 542
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "6699698209",
+      "type": "PHONE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 550,
+        "end": 560
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "ccaldwell@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 568,
+        "end": 589
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Jose Cortez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 626,
+        "end": 637
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-242-816-7195x195",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 645,
+        "end": 664
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tallen@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 672,
+        "end": 690
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "70672087453915",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 952,
+        "end": 966
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Bharat Housing Finance Ltd",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 961,
+        "end": 966
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 971,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 994,
+        "end": 1002
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1265,
+        "end": 1273
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1364,
+        "end": 1370
+      }
+    }
+  ]
+}

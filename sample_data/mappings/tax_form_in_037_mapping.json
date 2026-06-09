@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_037.txt",
+  "timestamp": "2026-06-09T08:04:59.238143",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Dhillon-Varma",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "538042",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 447,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 468,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Varenya Borra",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 505,
+        "end": 518
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "AZHAQ0334C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 543,
+        "end": 553
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "4465 5544 6595",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 578,
+        "end": 592
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "06/07/2004",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 617,
+        "end": 627
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "462411",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 680,
+        "end": 686
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "petergokhale@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 711,
+        "end": 735
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 84919 17675",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 760,
+        "end": 775
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 788,
+        "end": 799
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 804,
+        "end": 816
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Chaudhuri Marg",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 435,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Chowk",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 700,
+        "end": 705
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1071,
+        "end": 1105
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1184,
+        "end": 1212
+      }
+    }
+  ]
+}

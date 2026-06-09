@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-8291249
+Policy Type: Health Insurance
+Date of Issue: September 06, 2025
+
+Dear Aarav Sundaram,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Harita Rajan
+Date of Birth:      09/04/1970
+Address:            06, Dada Ganj, Pallavaram 580642
+Phone:              91 91836 04314
+Email:              jyotiwason@example.net
+PAN:                JAJBU8578G
+Aadhaar:            7587 9899 1803
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Diya Amble
+Relationship:       Mother
+Nominee DOB:        12/29/1960
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    948,062.53
+Annual Premium:     $     17,526.55
+Policy Term:        25 years
+Premium Payment:    Monthly
+Risk Commencement:  December 03, 2025
+Maturity Date:      September 17, 2049
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

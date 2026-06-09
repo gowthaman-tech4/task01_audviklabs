@@ -1,0 +1,37 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Holly Gallegos
+Card Number:        4917-0234-1591-1433
+Billing Address:    2393 Austin Rapids Suite 089, Fergusonside, PA 63939
+Phone:              (734)229-2400x8277
+Email:              fcampbell@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 29, 2026
+Payment Due Date:   June 26, 2026
+Credit Limit:       $   42,341.68
+Previous Balance:   $   11,807.88
+Payments Received:  $    4,439.56
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/05/2026     Castro LLC                          $  1,234.21
+06/07/2026     Obrien, Hernandez and Powell        $  1,001.52
+05/27/2026     Edwards-Bradley                     $    290.87
+05/24/2026     Mccarty-Edwards                     $    528.37
+06/04/2026     Camacho Group                       $  1,921.13
+05/17/2026     Powers, Morris and Martinez         $  1,160.19
+
+-------------------------------------------------------------
+Total Charges:      $    6,136.29
+New Balance:        $   13,504.61
+Minimum Payment:    $      270.09
+
+============================================================

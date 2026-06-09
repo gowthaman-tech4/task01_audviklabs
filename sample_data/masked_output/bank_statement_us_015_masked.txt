@@ -1,0 +1,59 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 22, 2026 to May 28, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_004]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Lake Catherineburgh Branch
+Opening Balance:   $145,557.34
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/06/2026     POS Purchase - Acevedo, [PERSON_NAME_003] and [PERSON_NAME_002]     150,460.28
+05/10/2026     ATM Withdrawal - Lake Benjaminchester                  4,027.61     154,487.89
+05/28/2026     NEFT Transfer                           2,780.00                  151,707.89
+06/01/2026     Check #6362                             3,194.19                  148,513.70
+05/25/2026     Check #7830                             3,830.64                  144,683.06
+05/10/2026     ATM Withdrawal - East Juan              3,283.92                  141,399.14
+05/29/2026     Online Transfer to [ACCOUNT_NUMBER_001]                          4,927.99     146,327.13
+05/11/2026     POS [PERSON_NAME_001]     149,690.22
+06/01/2026     Service Charge                                       4,362.02     154,052.24
+06/02/2026     ATM Withdrawal - South William                         191.87     154,244.11
+05/10/2026     NEFT Transfer                           1,127.36                  153,116.75
+05/19/2026     Interest Credit                         1,251.20                  151,865.55
+06/05/2026     UPI Transfer                            4,155.64                  147,709.91
+06/04/2026     ATM Withdrawal - North Shelly                        1,108.63     148,818.54
+05/14/2026     NEFT Transfer                           2,445.20                  146,373.34
+05/23/2026     NEFT Transfer                                        4,878.96     151,252.30
+05/13/2026     ATM Withdrawal - North Kimberly                      2,079.50     153,331.80
+05/10/2026     Bill Payment - Utility                  4,234.76                  149,097.04
+06/06/2026     Check #2143                             4,852.02                  144,245.02
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $144,245.02
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

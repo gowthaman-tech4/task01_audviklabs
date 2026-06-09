@@ -1,0 +1,46 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Alexander Mccoy
+Account Number:         2535379806
+SSN:                    444-63-8533
+Email:                  huntermichael@example.net
+Phone:                  (730)309-1578
+Correspondence Address: 42056 Kimberly Passage, Walshtown, ME 59499
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+AAPL     Apple Inc.                   378 $    137.40 $    187.88 $   71,018.34 $   19,081.14
+NVDA     NVIDIA Corp.                 269 $    780.18 $    861.79 $  231,822.50 $   21,954.08
+MSFT     Microsoft Corp.              331 $    345.28 $    355.82 $  117,777.34 $    3,489.66
+AMZN     Amazon.com Inc.              214 $    178.10 $    186.53 $   39,917.10 $    1,803.70
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  460,535.28
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/22/2026     BUY      MSFT         58 $    252.31 $   14,633.98
+05/08/2026     SELL     AAPL         95 $    456.23 $   43,341.85
+04/23/2026     BUY      AMZN         60 $    419.74 $   25,184.40
+05/02/2026     BUY      AMZN         94 $    349.32 $   32,836.08
+03/11/2026     DIV      MSFT         99 $    292.64 $   28,971.36
+05/20/2026     BUY      AMZN         64 $    219.95 $   14,076.80
+06/05/2026     SELL     AMZN         16 $    171.98 $    2,751.68
+04/18/2026     BUY      MSFT         58 $     91.04 $    5,280.32
+03/30/2026     SELL     AAPL         64 $    265.18 $   16,971.52
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Nathan Stark
+Card Number:        4854-1821-2987-6665
+Billing Address:    594 Brandt Neck, Melissafurt, ND 85974
+Phone:              (580)528-2496
+Email:              elizabeth62@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 17, 2026
+Payment Due Date:   June 29, 2026
+Credit Limit:       $   46,276.09
+Previous Balance:   $    4,373.72
+Payments Received:  $    3,199.45
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/19/2026     Best Inc                            $  1,133.59
+05/12/2026     Adams-Pena                          $  1,768.50
+05/13/2026     Aguirre Inc                         $  1,498.19
+06/05/2026     Villegas, Webster and Castro        $    566.17
+05/21/2026     Flynn, Fischer and Garrison         $  1,119.93
+05/14/2026     Chang, Evans and Oliver             $    324.77
+06/04/2026     Kennedy, Baker and Bryant           $  1,747.61
+05/18/2026     Torres-Bates                        $  1,275.32
+05/20/2026     Osborn-Padilla                      $  1,473.76
+05/09/2026     Thompson, Smith and Gilbert         $  1,803.42
+05/16/2026     Sanchez-Mcclain                     $  1,040.29
+05/16/2026     Romero-Garcia                       $    844.72
+06/07/2026     Hall-Sampson                        $    816.25
+05/19/2026     Ross-Valenzuela                     $  1,768.81
+05/12/2026     Morris, Eaton and Webb              $  1,378.16
+
+-------------------------------------------------------------
+Total Charges:      $   18,559.49
+New Balance:        $   19,733.76
+Minimum Payment:    $      394.68
+
+============================================================

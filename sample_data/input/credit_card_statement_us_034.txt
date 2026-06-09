@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Diane Walker
+Card Number:        4532-9479-8653-6820
+Billing Address:    1913 Ashley Crossroad, Lake Charlesshire, MH 79625
+Phone:              746.308.9797
+Email:              taylor45@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 30, 2026
+Payment Due Date:   June 26, 2026
+Credit Limit:       $   15,064.80
+Previous Balance:   $    9,688.39
+Payments Received:  $    2,885.69
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/24/2026     Williams-Jefferson                  $  1,121.88
+05/29/2026     Jimenez Ltd                         $    678.00
+05/31/2026     Guerra and Sons                     $    308.20
+06/06/2026     Cordova-Hall                        $  1,700.70
+06/04/2026     Harris-Martinez                     $  1,577.83
+05/13/2026     Booth, Johnson and Lopez            $  1,818.27
+06/01/2026     Campbell, Dawson and Moses          $    938.57
+05/20/2026     Martin Ltd                          $  1,064.05
+06/07/2026     Drake-Taylor                        $    674.56
+05/09/2026     Madden-Davis                        $    782.48
+05/16/2026     Velasquez-Wells                     $    326.90
+05/10/2026     Miller-Castro                       $    342.88
+05/19/2026     Williams LLC                        $    898.08
+06/04/2026     Johnson and Sons                    $  1,140.84
+
+-------------------------------------------------------------
+Total Charges:      $   13,373.24
+New Balance:        $   20,175.94
+Minimum Payment:    $      403.52
+
+============================================================

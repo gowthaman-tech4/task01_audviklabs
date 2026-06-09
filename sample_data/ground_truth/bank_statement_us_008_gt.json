@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_008.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Anna Orr",
+      "start": 345,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "719531757718",
+      "start": 373,
+      "end": 385
+    },
+    {
+      "type": "SSN",
+      "value": "131-95-8080",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "(265)996-9390",
+      "start": 436,
+      "end": 449
+    },
+    {
+      "type": "EMAIL",
+      "value": "reginagross@example.net",
+      "start": 469,
+      "end": 492
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/19/1965",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "type": "ADDRESS",
+      "value": "621 Hamilton Club, Davisstad, GA 52899",
+      "start": 542,
+      "end": 580
+    }
+  ]
+}

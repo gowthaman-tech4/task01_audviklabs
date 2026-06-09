@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_041.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Chad Caldwell",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8096633162",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "149-75-9781",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "walterschristine@example.com",
+      "start": 389,
+      "end": 417
+    },
+    {
+      "type": "PHONE",
+      "value": "7513278409",
+      "start": 442,
+      "end": 452
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7614 Tina Union, Wilkersonfurt, PR 50777",
+      "start": 477,
+      "end": 517
+    }
+  ]
+}

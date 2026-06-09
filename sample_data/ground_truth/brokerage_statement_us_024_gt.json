@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_024.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "John Young",
+      "start": 280,
+      "end": 290
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2654705668",
+      "start": 315,
+      "end": 325
+    },
+    {
+      "type": "SSN",
+      "value": "665-87-6060",
+      "start": 350,
+      "end": 361
+    },
+    {
+      "type": "EMAIL",
+      "value": "awalls@example.net",
+      "start": 386,
+      "end": 404
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-319-968-5827",
+      "start": 429,
+      "end": 444
+    },
+    {
+      "type": "ADDRESS",
+      "value": "54575 Leblanc Lock, Kathleenmouth, TX 23840",
+      "start": 469,
+      "end": 512
+    }
+  ]
+}

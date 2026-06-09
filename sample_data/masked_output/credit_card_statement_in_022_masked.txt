@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_008]
+Card Number:        [AADHAAR_001]-3349
+Billing Address:    316, Pandit, Dibrugarh-[ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 12, 2026
+Payment Due Date:   June 28, 2026
+Credit Limit:       $   23,882.33
+Previous Balance:   $    3,038.21
+Payments Received:  $    2,589.46
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/03/2026     Mane, Gara and Banerjee             $    547.05
+06/06/2026     Mann and Sons                       $  1,584.65
+05/12/2026     [PERSON_NAME_007], Varghese and [ORGANIZATION_002]            $    312.17
+05/14/2026     [ORGANIZATION_001]$    493.58
+05/09/2026     Nayar PLC                           $  1,826.69
+06/02/2026     Suri, [ADDRESS_002] and [PERSON_NAME_006]$    140.19
+05/11/2026     [PERSON_NAME_005], [PERSON_NAME_004] and [PERSON_NAME_003]                $  1,287.67
+06/05/2026     Choudhury, [PERSON_NAME_002] and [PERSON_NAME_001]            $  1,251.28
+05/09/2026     Vala, Salvi and Ramesh              $    841.89
+
+-------------------------------------------------------------
+Total Charges:      $    8,285.17
+New Balance:        $    8,733.92
+Minimum Payment:    $      174.68
+
+============================================================

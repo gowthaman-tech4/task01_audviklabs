@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_021.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Caleb Walia",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4694-4320-4722-7440",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "28/52, Anand Ganj, Hajipur-085504",
+      "start": 291,
+      "end": 324
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 65368 21048",
+      "start": 345,
+      "end": 360
+    },
+    {
+      "type": "EMAIL",
+      "value": "pahalmani@example.com",
+      "start": 381,
+      "end": 402
+    }
+  ]
+}

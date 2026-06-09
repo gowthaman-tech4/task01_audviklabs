@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sharaf, Dyal and Jayaraman
+TAN of the Deductor:    PQXS05958D
+Address:                95, Chopra, Burhanpur 016659
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Mekhala Brahmbhatt
+PAN of the Employee:    ZJFCM6839Z
+Aadhaar Number:         3328 1194 0019
+Date of Birth:          07/03/1985
+Address:                020, Batra Marg, Hubli–Dharwad 374950
+Email:                  dmander@example.com
+Mobile:                 +91 88386 20799
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,916,947.09
+   (b) Value of perquisites u/s 17(2)  Rs.      32,335.29
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     230,033.65
+   (b) LTA Exemption                   Rs.      20,582.86
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.   1,636,913.44
+5. Tax on Total Income                 Rs.     327,382.69
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.      13,095.31
+8. Total Tax Payable                   Rs.     340,478.00
+
+============================================================

@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_040.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 44, Pandya Nagar, Raurkela Industrial Township 703629",
+      "start": 378,
+      "end": 437
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Yahvi Bahri",
+      "start": 455,
+      "end": 466
+    },
+    {
+      "type": "PAN",
+      "value": "BZJCO7237B",
+      "start": 472,
+      "end": 482
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2819 6632 2650",
+      "start": 492,
+      "end": 506
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/19/1960",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "75/433, Toor Marg, Ludhiana 724867",
+      "start": 542,
+      "end": 576
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 76545 93105",
+      "start": 584,
+      "end": 599
+    },
+    {
+      "type": "EMAIL",
+      "value": "pbatra@example.com",
+      "start": 607,
+      "end": 625
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "68786857102589",
+      "start": 886,
+      "end": 900
+    }
+  ]
+}

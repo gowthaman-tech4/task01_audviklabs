@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Tara Manne
+Card Number:        4293-8038-7111-7417
+Billing Address:    127, Ramesh Nagar, Raebareli 710620
+Phone:              +91 92165 05476
+Email:              hegdeyauvani@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 13, 2026
+Payment Due Date:   June 30, 2026
+Credit Limit:       $   17,169.13
+Previous Balance:   $    7,741.35
+Payments Received:  $      723.05
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/24/2026     Deo PLC                             $  1,930.05
+05/11/2026     Jha Inc                             $  1,963.55
+06/07/2026     Lala Group                          $  1,884.60
+06/05/2026     Peri-Dey                            $  1,822.38
+05/29/2026     Dara-Misra                          $    347.90
+05/23/2026     Dar, Wadhwa and Anne                $    113.86
+06/06/2026     Krishnamurthy, Mohanty and Mis      $  1,580.63
+06/03/2026     Chand, Parsa and Bahl               $    873.10
+
+-------------------------------------------------------------
+Total Charges:      $   10,516.07
+New Balance:        $   17,534.37
+Minimum Payment:    $      350.69
+
+============================================================

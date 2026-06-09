@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-430212
+Date of Agreement: March 27, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Continental Credit Corporation
+Address: 5280 Walsh Skyway, West Lori, PA 27005
+
+BORROWER:
+Name: Kevin Thomas
+SSN: 243-72-0945
+Date of Birth: 01/23/1973
+Address: 70493 Mendez Union Suite 658, East April, OH 91574
+Phone: +1-319-456-3998
+Email: doylelevi@example.org
+
+CO-BORROWER (if applicable):
+Name: Joshua Mitchell
+Phone: 729-613-5261x6236
+Email: bethgreen@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    495,567.72
+Interest Rate:              7.34% per annum
+Loan Tenure:                12 months
+EMI Amount:                 $     42,957.58
+Disbursement Account No:    66287451185419
+Disbursement Date:          May 12, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 12 equal monthly installments of $42,957.58.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

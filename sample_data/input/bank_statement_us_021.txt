@@ -1,0 +1,58 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 25, 2026 to June 06, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Tina Jones
+Account Number:    889050336151
+SSN:               110-12-5950
+Phone:             +1-770-575-5842
+Email:             millertracy@example.net
+Date of Birth:     11/05/1961
+Address:           7234 Sanchez Hills, Harrisonfurt, ND 65149
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Mitchellmouth Branch
+Opening Balance:   $75,808.17
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/15/2026     POS Purchase - Baker Group              2,006.58                   73,801.59
+05/28/2026     Online Transfer to 29839454                          3,216.35      77,017.94
+05/30/2026     Online Transfer to 27711926             3,282.82                   73,735.12
+05/21/2026     Online Transfer to 20602480                            782.90      74,518.02
+05/19/2026     Service Charge                                         916.94      75,434.96
+06/02/2026     Check #2662                             1,930.26                   73,504.70
+05/15/2026     Service Charge                            701.29                   72,803.41
+05/17/2026     Direct Deposit - XHA Corp                            4,488.40      77,291.81
+05/11/2026     Online Transfer to 18797109             4,157.65                   73,134.16
+05/18/2026     POS Purchase - Deleon, Bennett and Vince                  2,122.09      75,256.25
+05/30/2026     ATM Withdrawal - Sonyaville                          2,082.95      77,339.20
+05/21/2026     Interest Credit                         2,392.02                   74,947.18
+05/29/2026     Check #9547                                          4,395.75      79,342.93
+05/12/2026     POS Purchase - Davis-Long                 230.18                   79,112.75
+06/06/2026     NEFT Transfer                           4,925.58                   74,187.17
+06/01/2026     Direct Deposit - DZP Corp                            3,261.13      77,448.30
+05/22/2026     Online Transfer to 99356313             1,436.82                   76,011.48
+05/25/2026     Bill Payment - Utility                  3,885.28                   72,126.20
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $72,126.20
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

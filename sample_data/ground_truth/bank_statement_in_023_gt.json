@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_023.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dhruv Singhal",
+      "start": 338,
+      "end": 351
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "80216684446",
+      "start": 371,
+      "end": 382
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0604656",
+      "start": 402,
+      "end": 413
+    },
+    {
+      "type": "PAN",
+      "value": "UYPGM0873W",
+      "start": 433,
+      "end": 443
+    },
+    {
+      "type": "PHONE",
+      "value": "91 91466 25286",
+      "start": 463,
+      "end": 477
+    },
+    {
+      "type": "EMAIL",
+      "value": "vedhika12@example.net",
+      "start": 497,
+      "end": 518
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/01/1970",
+      "start": 538,
+      "end": 548
+    },
+    {
+      "type": "ADDRESS",
+      "value": "74, Bakshi Chowk, Chennai 768588",
+      "start": 568,
+      "end": 600
+    }
+  ]
+}

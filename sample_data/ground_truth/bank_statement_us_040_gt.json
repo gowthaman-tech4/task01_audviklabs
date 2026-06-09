@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_040.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Christopher Rodriguez",
+      "start": 339,
+      "end": 360
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "120677233641",
+      "start": 380,
+      "end": 392
+    },
+    {
+      "type": "SSN",
+      "value": "511-23-3442",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-833-225-9561x1623",
+      "start": 443,
+      "end": 463
+    },
+    {
+      "type": "EMAIL",
+      "value": "bperkins@example.com",
+      "start": 483,
+      "end": 503
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/26/1979",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "type": "ADDRESS",
+      "value": "303 Melanie Loop, Port Robert, KY 47392",
+      "start": 553,
+      "end": 592
+    }
+  ]
+}

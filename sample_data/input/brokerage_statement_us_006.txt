@@ -1,0 +1,45 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Jason Skinner
+Account Number:         3689108751
+SSN:                    297-47-3530
+Email:                  kvalentine@example.com
+Phone:                  618-273-8353
+Correspondence Address: 4571 Linda Villages Suite 122, Gomezborough, MO 95691
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                    75 $    179.24 $    231.95 $   17,396.25 $    3,953.25
+META     Meta Platforms Inc.          206 $    442.51 $    525.76 $  108,307.28 $   17,150.22
+MSFT     Microsoft Corp.              102 $    320.18 $    371.39 $   37,881.80 $    5,223.44
+AAPL     Apple Inc.                    87 $    137.67 $    189.52 $   16,488.49 $    4,511.20
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  180,073.82
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/25/2026     BUY      AAPL         20 $    173.13 $    3,462.60
+03/16/2026     DIV      MSFT         15 $    476.17 $    7,142.55
+05/07/2026     DIV      TSLA         19 $    414.61 $    7,877.59
+05/07/2026     BUY      AAPL          5 $     65.80 $      329.00
+03/28/2026     BUY      META         76 $    173.36 $   13,175.36
+05/22/2026     BUY      MSFT         38 $    116.19 $    4,415.22
+05/03/2026     SELL     MSFT         71 $    256.73 $   18,227.83
+04/21/2026     DIV      TSLA         50 $    488.01 $   24,400.50
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

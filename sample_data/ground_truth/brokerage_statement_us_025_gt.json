@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_025.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Robin Sanders",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8326839044",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "632-90-4746",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "racheldavis@example.org",
+      "start": 389,
+      "end": 412
+    },
+    {
+      "type": "PHONE",
+      "value": "(941)737-3758x4689",
+      "start": 437,
+      "end": 455
+    },
+    {
+      "type": "ADDRESS",
+      "value": "USNV Barber, FPO AP 78591",
+      "start": 480,
+      "end": 505
+    }
+  ]
+}

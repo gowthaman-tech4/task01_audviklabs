@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_008.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Christine Harvey",
+      "start": 280,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2656640570",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "SSN",
+      "value": "149-85-9667",
+      "start": 356,
+      "end": 367
+    },
+    {
+      "type": "EMAIL",
+      "value": "marshallalexander@example.net",
+      "start": 392,
+      "end": 421
+    },
+    {
+      "type": "PHONE",
+      "value": "(705)290-9601x53258",
+      "start": 446,
+      "end": 465
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5439 Steven Brooks, Parksmouth, HI 77085",
+      "start": 490,
+      "end": 530
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9598113
+Policy Type: Life Insurance
+Date of Issue: March 30, 2026
+
+Dear Adam Day,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Phillip Owens
+Date of Birth:      11/18/1978
+Address:            PSC 5783, Box 1694, APO AA 53314
+Phone:              +1-398-305-7821x008
+Email:              eclark@example.com
+SSN:                192-55-7828
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Ronald Walton
+Relationship:       Mother
+Nominee DOB:        09/29/1949
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,382,542.23
+Annual Premium:     $      6,115.94
+Policy Term:        15 years
+Premium Payment:    Annual
+Risk Commencement:  August 30, 2025
+Maturity Date:      July 03, 2044
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

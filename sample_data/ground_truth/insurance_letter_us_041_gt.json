@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_041.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michelle Bell",
+      "start": 312,
+      "end": 325
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brenda Smith",
+      "start": 482,
+      "end": 494
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/16/1992",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9109 Castaneda Plains, West Timothy, NH 35573",
+      "start": 546,
+      "end": 591
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-342-370-5261x27017",
+      "start": 612,
+      "end": 633
+    },
+    {
+      "type": "EMAIL",
+      "value": "jdougherty@example.org",
+      "start": 654,
+      "end": 676
+    },
+    {
+      "type": "SSN",
+      "value": "459-69-9148",
+      "start": 697,
+      "end": 708
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Martha Knox",
+      "start": 755,
+      "end": 766
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/07/1988",
+      "start": 811,
+      "end": 821
+    }
+  ]
+}

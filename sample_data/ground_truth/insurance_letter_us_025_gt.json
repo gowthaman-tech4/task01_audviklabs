@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_025.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jacqueline Saunders",
+      "start": 316,
+      "end": 335
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "James Harding",
+      "start": 492,
+      "end": 505
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/15/1977",
+      "start": 526,
+      "end": 536
+    },
+    {
+      "type": "ADDRESS",
+      "value": "035 Hawkins Drive Suite 740, South Carrie, OR 17553",
+      "start": 557,
+      "end": 608
+    },
+    {
+      "type": "PHONE",
+      "value": "337.621.1108x09882",
+      "start": 629,
+      "end": 647
+    },
+    {
+      "type": "EMAIL",
+      "value": "asmall@example.com",
+      "start": 668,
+      "end": 686
+    },
+    {
+      "type": "SSN",
+      "value": "189-39-6200",
+      "start": 707,
+      "end": 718
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "John Fisher",
+      "start": 765,
+      "end": 776
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/19/1999",
+      "start": 821,
+      "end": 831
+    }
+  ]
+}

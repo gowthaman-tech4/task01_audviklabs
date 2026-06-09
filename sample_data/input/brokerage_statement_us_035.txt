@@ -1,0 +1,44 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Shannon Garcia
+Account Number:         6197338316
+SSN:                    610-67-6888
+Email:                  larrystewart@example.net
+Phone:                  (414)297-8624x2594
+Correspondence Address: 37482 Luis Ports, Annettetown, NJ 18862
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+MSFT     Microsoft Corp.              149 $    413.37 $    403.81 $   60,168.22 $   -1,423.91
+GOOGL    Alphabet Inc.                426 $    109.81 $    145.01 $   61,772.25 $   14,993.19
+AMZN     Amazon.com Inc.               16 $    154.94 $    187.13 $    2,994.14 $      515.10
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  124,934.61
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/03/2026     SELL     AMZN         83 $    462.24 $   38,365.92
+05/10/2026     SELL     MSFT         72 $    334.85 $   24,109.20
+04/12/2026     DIV      AMZN         21 $    185.81 $    3,902.01
+04/30/2026     DIV      MSFT         62 $    391.58 $   24,277.96
+05/03/2026     BUY      AMZN         49 $    159.33 $    7,807.17
+05/28/2026     DIV      GOOGL        25 $    108.16 $    2,704.00
+03/25/2026     DIV      MSFT         16 $    252.57 $    4,041.12
+04/08/2026     BUY      MSFT         74 $    398.12 $   29,460.88
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

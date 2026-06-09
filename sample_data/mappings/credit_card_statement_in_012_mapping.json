@@ -1,0 +1,201 @@
+{
+  "document": "credit_card_statement_in_012.txt",
+  "timestamp": "2026-06-09T07:55:03.556223",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Lipika Mody",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 230
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "481584316927",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 251,
+        "end": 265
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "800751",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 317,
+        "end": 323
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 98457 35614",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 359
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "vasatikabandi@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 380,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Ratti",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1092,
+        "end": 1097
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Sachdev",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1102,
+        "end": 1109
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bava",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1467,
+        "end": 1471
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Iyer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1476,
+        "end": 1480
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Jaggi Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 301,
+        "end": 311
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Gade-Dey                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 760,
+        "end": 796
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Chana-Devan",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 823,
+        "end": 834
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Roy-Sharma                          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 922
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Ahluwalia-Goswami                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1012,
+        "end": 1048
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "05/12/2026     Sabharwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1334,
+        "end": 1358
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Sharma",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1475,
+        "end": 1481
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Parmar",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1634,
+        "end": 1640
+      }
+    }
+  ]
+}

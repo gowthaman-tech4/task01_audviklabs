@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_027.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Agastya Ray",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5046318794",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "MLLHA3139W",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2594579340745024",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "michaelom@example.org",
+      "start": 430,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 91313 11974",
+      "start": 476,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "87, Zachariah Chowk, Arrah 046259",
+      "start": 516,
+      "end": 549
+    }
+  ]
+}

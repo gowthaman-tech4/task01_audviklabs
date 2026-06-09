@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_020.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 338,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "880 April Road, South Jamesland, NY 17074",
+      "start": 375,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brent Townsend",
+      "start": 434,
+      "end": 448
+    },
+    {
+      "type": "SSN",
+      "value": "231-67-8246",
+      "start": 454,
+      "end": 465
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/22/1999",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7119 Duarte Groves, Lake Brandy, WA 13665",
+      "start": 501,
+      "end": 542
+    },
+    {
+      "type": "PHONE",
+      "value": "001-787-755-4588",
+      "start": 550,
+      "end": 566
+    },
+    {
+      "type": "EMAIL",
+      "value": "sharonpatterson@example.org",
+      "start": 574,
+      "end": 601
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jessica Gonzalez",
+      "start": 638,
+      "end": 654
+    },
+    {
+      "type": "PHONE",
+      "value": "642-327-5290x762",
+      "start": 662,
+      "end": 678
+    },
+    {
+      "type": "EMAIL",
+      "value": "andrewdavis@example.com",
+      "start": 686,
+      "end": 709
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "01011056141141",
+      "start": 970,
+      "end": 984
+    }
+  ]
+}

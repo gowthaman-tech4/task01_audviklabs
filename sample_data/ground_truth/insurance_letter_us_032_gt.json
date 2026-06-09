@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_032.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Adam Day",
+      "start": 313,
+      "end": 321
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Phillip Owens",
+      "start": 478,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/18/1978",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 5783, Box 1694, APO AA 53314",
+      "start": 543,
+      "end": 575
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-398-305-7821x008",
+      "start": 596,
+      "end": 615
+    },
+    {
+      "type": "EMAIL",
+      "value": "eclark@example.com",
+      "start": 636,
+      "end": 654
+    },
+    {
+      "type": "SSN",
+      "value": "192-55-7828",
+      "start": 675,
+      "end": 686
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ronald Walton",
+      "start": 733,
+      "end": 746
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/29/1949",
+      "start": 794,
+      "end": 804
+    }
+  ]
+}

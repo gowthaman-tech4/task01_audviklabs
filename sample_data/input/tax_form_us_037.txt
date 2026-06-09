@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   481-27-2934
+
+b  Employer Identification Number (EIN)
+   12-3702721
+
+c  Employer's Name, Address, and ZIP Code
+   Watson, White and Martin
+   25082 Thompson Trail Apt. 287, Powellshire, VI 19626
+
+e  Employee's Name
+   Adam Lambert
+
+f  Employee's Address and ZIP Code
+   37418 Atkins Burgs, North Andrew, MI 89924
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  169,568.51
+2  Federal income tax withheld         $   48,415.86
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  169,568.51
+6  Medicare tax withheld               $    2,458.74
+
+12a Code DD - Health Insurance          $    4,148.51
+
+--- STATE TAX INFORMATION ---
+
+15 State: TN
+16 State wages                         $  169,568.51
+17 State income tax                    $    8,875.29
+
+============================================================

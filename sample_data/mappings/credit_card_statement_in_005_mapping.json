@@ -1,0 +1,190 @@
+{
+  "document": "credit_card_statement_in_005.txt",
+  "timestamp": "2026-06-09T07:55:02.254641",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Tanveer Shanker",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 234
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "440034426328",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 255,
+        "end": 269
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "679998",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 333,
+        "end": 339
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 74798 22131",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 360,
+        "end": 374
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "shayamini@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 395,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kothari",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 972,
+        "end": 979
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kothari",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1046,
+        "end": 1053
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Yogi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1107,
+        "end": 1111
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_005]",
+      "original": "Karnik Street",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 306,
+        "end": 319
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "South Dumdum",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 321,
+        "end": 333
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Lad-Batra",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 834,
+        "end": 843
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Sami-Kata                           $    509.22",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 897,
+        "end": 944
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Agarwal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 989,
+        "end": 996
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Khalsa",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1033,
+        "end": 1039
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Menon",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1041,
+        "end": 1046
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Jayaraman-Raman                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1182,
+        "end": 1218
+      }
+    }
+  ]
+}

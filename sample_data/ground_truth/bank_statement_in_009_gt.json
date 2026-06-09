@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_009.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Dipta Luthra",
+      "start": 344,
+      "end": 356
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7638694428300654",
+      "start": 376,
+      "end": 392
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "UBIN0876107",
+      "start": 412,
+      "end": 423
+    },
+    {
+      "type": "PAN",
+      "value": "FDYLK9878R",
+      "start": 443,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "91 63917 50901",
+      "start": 473,
+      "end": 487
+    },
+    {
+      "type": "EMAIL",
+      "value": "tsen@example.org",
+      "start": 507,
+      "end": 523
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/14/1967",
+      "start": 543,
+      "end": 553
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 919, Nair Circle, Berhampore 193107",
+      "start": 573,
+      "end": 614
+    }
+  ]
+}

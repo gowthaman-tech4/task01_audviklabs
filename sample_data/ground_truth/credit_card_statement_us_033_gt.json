@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_033.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Nathan Stark",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4854-1821-2987-6665",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "594 Brandt Neck, Melissafurt, ND 85974",
+      "start": 292,
+      "end": 330
+    },
+    {
+      "type": "PHONE",
+      "value": "(580)528-2496",
+      "start": 351,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "elizabeth62@example.org",
+      "start": 385,
+      "end": 408
+    }
+  ]
+}

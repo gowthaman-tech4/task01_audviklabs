@@ -1,0 +1,135 @@
+{
+  "document": "credit_card_statement_in_037.txt",
+  "timestamp": "2026-06-09T07:55:08.179816",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Prisha Nadkarni",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 234
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "492045225657",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 255,
+        "end": 269
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "97, Kar Nagar, Suryapet 061483",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 295,
+        "end": 325
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 99970 18281",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 346,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "oshanker@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 382,
+        "end": 402
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gandhi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1346,
+        "end": 1352
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Sridhar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 993,
+        "end": 1000
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Shankar         $    955.35",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1005,
+        "end": 1032
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Kapadia Group                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1048,
+        "end": 1084
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Ramakrishnan and Bera",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1119,
+        "end": 1140
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Trivedi",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1374,
+        "end": 1381
+      }
+    }
+  ]
+}

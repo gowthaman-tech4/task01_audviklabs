@@ -1,0 +1,167 @@
+{
+  "document": "tax_form_us_023.txt",
+  "timestamp": "2026-06-09T08:06:00.851391",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "SSN": 1,
+    "ACCOUNT_NUMBER": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "'s Social Security Number",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 211,
+        "end": 236
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "617-02-9793",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 240,
+        "end": 251
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "5753125",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 299,
+        "end": 306
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": ", and ZIP Code,    Smith, Harper and Carroll,    45977 Miranda Crossroad Suite 504, Bryanside, ME 41040",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 335,
+        "end": 436
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "'s Name",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 449,
+        "end": 456
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Charles Martinez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 460,
+        "end": 476
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "'s Address and ZIP Code",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 489,
+        "end": 512
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "Unit 7224 Box 8568, DPO AP 99674",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 516,
+        "end": 548
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Social Security",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 640,
+        "end": 655
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 693,
+        "end": 701
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Medicare",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 746,
+        "end": 754
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Code DD - Health Insurance          $   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 801,
+        "end": 841
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "State",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 886,
+        "end": 891
+      }
+    }
+  ]
+}

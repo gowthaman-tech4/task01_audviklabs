@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_009.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ansh Das",
+      "start": 312,
+      "end": 320
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Rishi Choudhry",
+      "start": 477,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/30/1966",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "type": "ADDRESS",
+      "value": "38/13, Dugar Path, Cuttack-278509",
+      "start": 543,
+      "end": 576
+    },
+    {
+      "type": "PHONE",
+      "value": "91 88561 26552",
+      "start": 597,
+      "end": 611
+    },
+    {
+      "type": "EMAIL",
+      "value": "devanwridesh@example.net",
+      "start": 632,
+      "end": 656
+    },
+    {
+      "type": "PAN",
+      "value": "SJRHB1530A",
+      "start": 677,
+      "end": 687
+    },
+    {
+      "type": "AADHAAR",
+      "value": "4259 0850 0882",
+      "start": 708,
+      "end": 722
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Balhaar Badami",
+      "start": 769,
+      "end": 783
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/28/1996",
+      "start": 828,
+      "end": 838
+    }
+  ]
+}

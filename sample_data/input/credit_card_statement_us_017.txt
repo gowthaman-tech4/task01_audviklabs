@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Mrs. Sarah Davis
+Card Number:        4212-0071-2356-7332
+Billing Address:    131 Daniel Wells, Lake Julian, NJ 12078
+Phone:              5778741792
+Email:              conwayamy@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 27, 2026
+Payment Due Date:   June 27, 2026
+Credit Limit:       $   43,465.17
+Previous Balance:   $   14,737.01
+Payments Received:  $    3,116.58
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/21/2026     Hall, James and Lester              $    684.14
+05/14/2026     Lucero Inc                          $  1,297.36
+05/26/2026     Gordon Inc                          $  1,300.72
+06/01/2026     Bauer, Gibson and Garcia            $    325.33
+05/30/2026     Adams-Roy                           $     72.56
+06/03/2026     Garcia, Miller and Moses            $  1,332.64
+05/30/2026     Butler-Cummings                     $    168.02
+
+-------------------------------------------------------------
+Total Charges:      $    5,180.77
+New Balance:        $   16,801.20
+Minimum Payment:    $      336.02
+
+============================================================

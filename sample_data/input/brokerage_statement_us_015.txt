@@ -1,0 +1,46 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Jeffery Phillips Jr.
+Account Number:         5980608376
+SSN:                    215-58-6684
+Email:                  schultzbradley@example.org
+Phone:                  684-990-1764x29597
+Correspondence Address: 50591 Rachael Harbors, Cannonchester, FM 87355
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+GOOGL    Alphabet Inc.                412 $    143.92 $    170.93 $   70,424.74 $   11,129.70
+MSFT     Microsoft Corp.              294 $    304.51 $    407.65 $  119,848.28 $   30,322.34
+AAPL     Apple Inc.                   464 $    180.23 $    164.29 $   76,231.27 $   -7,395.45
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  266,504.29
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/01/2026     SELL     MSFT         53 $    447.54 $   23,719.62
+05/08/2026     BUY      AAPL         26 $    472.23 $   12,277.98
+05/27/2026     SELL     AAPL         51 $    405.66 $   20,688.66
+05/30/2026     BUY      MSFT         64 $     55.41 $    3,546.24
+03/29/2026     SELL     GOOGL        98 $    342.47 $   33,562.06
+03/25/2026     DIV      MSFT         30 $    266.37 $    7,991.10
+06/06/2026     BUY      GOOGL        62 $    217.91 $   13,510.42
+05/24/2026     BUY      MSFT         32 $    413.54 $   13,233.28
+04/09/2026     DIV      GOOGL        98 $    345.78 $   33,886.44
+05/03/2026     BUY      MSFT         43 $    171.71 $    7,383.53
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

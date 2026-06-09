@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_008.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Eshana Narasimhan",
+      "start": 312,
+      "end": 329
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Netra Mohanty",
+      "start": 486,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/14/1981",
+      "start": 520,
+      "end": 530
+    },
+    {
+      "type": "ADDRESS",
+      "value": "73/92, Sinha Circle, Allahabad 924463",
+      "start": 551,
+      "end": 588
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 84204 51569",
+      "start": 609,
+      "end": 624
+    },
+    {
+      "type": "EMAIL",
+      "value": "wmittal@example.org",
+      "start": 645,
+      "end": 664
+    },
+    {
+      "type": "PAN",
+      "value": "BPTBM8943L",
+      "start": 685,
+      "end": 695
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2437 7690 0551",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ishita Atwal",
+      "start": 777,
+      "end": 789
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/30/2020",
+      "start": 837,
+      "end": 847
+    }
+  ]
+}

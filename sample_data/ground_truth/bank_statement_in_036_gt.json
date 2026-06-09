@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_036.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Gautami Karan",
+      "start": 344,
+      "end": 357
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "63579561297",
+      "start": 377,
+      "end": 388
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "IOBA0971712",
+      "start": 408,
+      "end": 419
+    },
+    {
+      "type": "PAN",
+      "value": "RPWCV5321T",
+      "start": 439,
+      "end": 449
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 88393 84021",
+      "start": 469,
+      "end": 484
+    },
+    {
+      "type": "EMAIL",
+      "value": "qwason@example.net",
+      "start": 504,
+      "end": 522
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/18/1993",
+      "start": 542,
+      "end": 552
+    },
+    {
+      "type": "ADDRESS",
+      "value": "34, Chauhan Circle, Akola 469184",
+      "start": 572,
+      "end": 604
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+============================================================
+          [ORGANIZATION_007].
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 90, [ORGANIZATION_006], Chapra [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_005]                 344 $    719.93 $    843.92 $  290,308.49 $   42,652.57
+[ORGANIZATION_004]              162 $    110.63 $    154.23 $   24,985.56 $    7,063.50
+TSLA     [ORGANIZATION_003]                   375 $    224.79 $    271.24 $  101,713.90 $   17,417.65
+[ORGANIZATION_002]          227 $    310.99 $    412.09 $   93,543.85 $   22,949.12
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  510,551.80
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/16/2026     DIV      TSLA         84 $    238.31 $   20,018.04
+04/28/2026     SELL     [ORGANIZATION_001]         75 $    227.58 $   17,068.50
+03/18/2026     SELL     AMZN          7 $    180.10 $    1,260.70
+04/04/2026     DIV      AMZN         37 $    252.68 $    9,349.16
+03/31/2026     DIV      AMZN         30 $    330.28 $    9,908.40
+04/04/2026     SELL     TSLA          2 $    307.22 $      614.44
+05/20/2026     DIV      TSLA         16 $    136.95 $    2,191.20
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

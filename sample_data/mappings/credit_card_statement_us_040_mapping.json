@@ -1,0 +1,223 @@
+{
+  "document": "credit_card_statement_us_040.txt",
+  "timestamp": "2026-06-09T07:55:16.128808",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 7,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Michael Jensen",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "441431413889",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "3991 Williams Dale, New Michaelfort, WI 23382",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 294,
+        "end": 339
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "2468570659",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 360,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tracymarshall@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 416
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Dawson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 965,
+        "end": 971
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Williams",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 973,
+        "end": 981
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Santos",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1477,
+        "end": 1483
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Johnson",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1595,
+        "end": 1602
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Smith",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1604,
+        "end": 1609
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Miller",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1614,
+        "end": 1620
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_008]",
+      "original": "06/06/2026     Scott Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 718,
+        "end": 744
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Butler Inc                          ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 796,
+        "end": 832
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "King Inc                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1005,
+        "end": 1041
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Campos Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1068,
+        "end": 1080
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Thompson-Robinson                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1257,
+        "end": 1293
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Turner",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1326,
+        "end": 1332
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Obrien             $",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1337,
+        "end": 1357
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Grimes PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1383,
+        "end": 1393
+      }
+    }
+  ]
+}

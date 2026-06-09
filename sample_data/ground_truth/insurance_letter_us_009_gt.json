@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_009.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Brian Ellis",
+      "start": 316,
+      "end": 327
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Clifford Sanchez",
+      "start": 484,
+      "end": 500
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/01/1966",
+      "start": 521,
+      "end": 531
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8601 Hernandez Coves, North Michael, SC 41349",
+      "start": 552,
+      "end": 597
+    },
+    {
+      "type": "PHONE",
+      "value": "741-972-2676",
+      "start": 618,
+      "end": 630
+    },
+    {
+      "type": "EMAIL",
+      "value": "osmith@example.com",
+      "start": 651,
+      "end": 669
+    },
+    {
+      "type": "SSN",
+      "value": "519-59-7576",
+      "start": 690,
+      "end": 701
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tina Garza",
+      "start": 748,
+      "end": 758
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/02/1967",
+      "start": 806,
+      "end": 816
+    }
+  ]
+}

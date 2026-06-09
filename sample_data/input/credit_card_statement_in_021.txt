@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Caleb Walia
+Card Number:        4694-4320-4722-7440
+Billing Address:    28/52, Anand Ganj, Hajipur-085504
+Phone:              +91 65368 21048
+Email:              pahalmani@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 15, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   18,508.17
+Previous Balance:   $    2,684.63
+Payments Received:  $    2,376.76
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/15/2026     Khatri and Sons                     $  1,827.87
+05/29/2026     Bumb, Nagarajan and Krishna         $    348.71
+05/11/2026     Sidhu-Vig                           $  1,533.00
+05/10/2026     Nair-Rao                            $  1,780.31
+05/24/2026     Vora, Handa and Sunder              $  1,329.24
+05/29/2026     Chaudhari LLC                       $    736.56
+05/12/2026     Kumer-Rege                          $  1,796.43
+06/01/2026     Soni-Krishna                        $  1,614.81
+
+-------------------------------------------------------------
+Total Charges:      $   10,966.93
+New Balance:        $   11,274.80
+Minimum Payment:    $      225.50
+
+============================================================

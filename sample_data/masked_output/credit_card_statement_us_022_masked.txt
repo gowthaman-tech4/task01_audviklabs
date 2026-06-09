@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_004]
+Card Number:        [AADHAAR_001]-1449
+[ORGANIZATION_003]:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 19, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   47,160.97
+Previous Balance:   $   11,563.62
+Payments Received:  $    5,877.98
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/30/2026     Kelly-Cox                           $  1,610.60
+[ORGANIZATION_002]                           $     13.83
+05/28/2026     Beard-Thomas                        $  1,014.87
+05/23/2026     Jones, [PERSON_NAME_003] and [PERSON_NAME_002]            $  1,807.29
+06/06/2026     Bonilla Inc                         $  1,248.90
+05/17/2026     Bernard and Sons                    $  1,372.12
+06/01/2026     Noble, Collier and Moses            $    287.26
+05/19/2026     [ADDRESS_003], [ADDRESS_002] and [PERSON_NAME_001]$  1,756.49
+05/20/2026     [ORGANIZATION_001]                         $    273.67
+
+-------------------------------------------------------------
+Total Charges:      $    9,385.03
+New Balance:        $   15,070.67
+Minimum Payment:    $      301.41
+
+============================================================

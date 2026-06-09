@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_028.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Linda Olson",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4962-6160-7271-2475",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 1138 Box 1106, DPO AP 46310",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "type": "PHONE",
+      "value": "460-705-9579x37388",
+      "start": 344,
+      "end": 362
+    },
+    {
+      "type": "EMAIL",
+      "value": "bjensen@example.org",
+      "start": 383,
+      "end": 402
+    }
+  ]
+}

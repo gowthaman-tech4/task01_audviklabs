@@ -1,0 +1,182 @@
+{
+  "document": "bank_statement_us_034.txt",
+  "timestamp": "2026-06-09T07:54:27.137905",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Beth Jackson",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 360
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "661183806922",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 380,
+        "end": 392
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "114-66-4586",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 412,
+        "end": 423
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(661)641-6654x13908",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 443,
+        "end": 462
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "tmiller@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 482,
+        "end": 501
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/18/1973",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 521,
+        "end": 531
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "4550 Rivera View Apt. 034, Amandaton, NV 13299",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 551,
+        "end": 597
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "72256423",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1063,
+        "end": 1071
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "07258061",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1155,
+        "end": 1163
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "27713554",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1247,
+        "end": 1255
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 106
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/15/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 901,
+        "end": 923
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/26/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1949,
+        "end": 1971
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/28/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2133,
+        "end": 2155
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Global Trust Banking Corp",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2597,
+        "end": 2622
+      }
+    }
+  ]
+}

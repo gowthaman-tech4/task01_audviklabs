@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_034.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Forum Warrior",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3944627349",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "UFSJH1873Z",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0045790141510101",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "csrinivasan@example.net",
+      "start": 432,
+      "end": 455
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 60175 30938",
+      "start": 480,
+      "end": 495
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 77, Krishnamurthy Ganj, Pali 180631",
+      "start": 520,
+      "end": 561
+    }
+  ]
+}

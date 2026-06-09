@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_025.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Paul Decker",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4031-8653-1723-0051",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "11944 Jesse Terrace, North Maureen, IA 81133",
+      "start": 291,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "870.494.7238",
+      "start": 356,
+      "end": 368
+    },
+    {
+      "type": "EMAIL",
+      "value": "danielleperkins@example.org",
+      "start": 389,
+      "end": 416
+    }
+  ]
+}

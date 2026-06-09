@@ -1,0 +1,45 @@
+============================================================
+          [ORGANIZATION_005]
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+TSLA     Tesla Inc.                    75 $    179.24 $    231.95 $   17,396.25 $    3,953.25
+[ORGANIZATION_004]          206 $    442.51 $    525.76 $  108,307.28 $   17,150.22
+MSFT     [ORGANIZATION_003]              102 $    320.18 $    371.39 $   37,881.80 $    5,223.44
+AAPL     Apple Inc.                    87 $    137.67 $    189.52 $   16,488.49 $    4,511.20
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  180,073.82
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/25/2026     BUY      AAPL         20 $    173.13 $    3,462.60
+03/16/2026     DIV      MSFT         15 $    476.17 $    7,142.55
+05/07/2026     DIV      TSLA         19 $    414.61 $    7,877.59
+05/07/2026     BUY      AAPL          5 $     65.80 $      329.00
+03/28/2026     BUY      [ORGANIZATION_002]         76 $    173.36 $   13,175.36
+05/22/2026     BUY      MSFT         38 $    116.19 $    4,415.22
+05/03/2026     SELL     [ORGANIZATION_001]         71 $    256.73 $   18,227.83
+04/21/2026     DIV      TSLA         50 $    488.01 $   24,400.50
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

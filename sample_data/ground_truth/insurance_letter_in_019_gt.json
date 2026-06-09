@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_019.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Aarav Sundaram",
+      "start": 319,
+      "end": 333
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Harita Rajan",
+      "start": 490,
+      "end": 502
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/04/1970",
+      "start": 523,
+      "end": 533
+    },
+    {
+      "type": "ADDRESS",
+      "value": "06, Dada Ganj, Pallavaram 580642",
+      "start": 554,
+      "end": 586
+    },
+    {
+      "type": "PHONE",
+      "value": "91 91836 04314",
+      "start": 607,
+      "end": 621
+    },
+    {
+      "type": "EMAIL",
+      "value": "jyotiwason@example.net",
+      "start": 642,
+      "end": 664
+    },
+    {
+      "type": "PAN",
+      "value": "JAJBU8578G",
+      "start": 685,
+      "end": 695
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7587 9899 1803",
+      "start": 716,
+      "end": 730
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Diya Amble",
+      "start": 777,
+      "end": 787
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/29/1960",
+      "start": 835,
+      "end": 845
+    }
+  ]
+}

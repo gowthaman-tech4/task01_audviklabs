@@ -1,0 +1,58 @@
+============================================================
+                    Horizon State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 06, 2026 to June 03, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Christopher Gibson
+Account Number:    558624856361
+SSN:               107-73-1199
+Phone:             433-469-8656
+Email:             snowcharles@example.org
+Date of Birth:     01/29/2001
+Address:           8563 Barton Greens, New Joe, AK 48578
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Manueltown Branch
+Opening Balance:   $85,427.17
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/25/2026     UPI Transfer                            3,928.22                   81,498.95
+05/26/2026     Online Transfer to 80071873             1,509.79                   79,989.16
+05/28/2026     UPI Transfer                            4,138.90                   75,850.26
+05/18/2026     NEFT Transfer                           3,046.56                   72,803.70
+05/25/2026     Service Charge                                       1,294.76      74,098.46
+05/13/2026     ATM Withdrawal - Port Elizabethton        461.53                   73,636.93
+05/15/2026     ATM Withdrawal - Lake Jonathan          2,261.95                   71,374.98
+05/26/2026     Service Charge                                       4,467.02      75,842.00
+06/04/2026     Interest Credit                                        728.73      76,570.73
+05/27/2026     NEFT Transfer                                        2,199.14      78,769.87
+05/11/2026     Check #1105                             4,079.74                   74,690.13
+05/10/2026     ATM Withdrawal - Chadberg                            1,962.03      76,652.16
+05/10/2026     UPI Transfer                                         4,529.27      81,181.43
+05/09/2026     Interest Credit                                      3,231.31      84,412.74
+06/06/2026     Check #6852                               160.60                   84,252.14
+06/07/2026     Service Charge                                         264.55      84,516.69
+05/30/2026     ATM Withdrawal - Pearsonville           3,191.51                   81,325.18
+05/11/2026     NEFT Transfer                                        2,540.95      83,866.13
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $83,866.13
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Horizon State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

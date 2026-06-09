@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_036.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "46/22, Viswanathan Zila, Jamshedpur 530130",
+      "start": 376,
+      "end": 418
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nidhi Tripathi",
+      "start": 436,
+      "end": 450
+    },
+    {
+      "type": "PAN",
+      "value": "JVUFT2132C",
+      "start": 456,
+      "end": 466
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5608 6594 4598",
+      "start": 476,
+      "end": 490
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/19/1999",
+      "start": 506,
+      "end": 516
+    },
+    {
+      "type": "ADDRESS",
+      "value": "60, Pall, Pimpri-Chinchwad-976756",
+      "start": 526,
+      "end": 559
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63483 93261",
+      "start": 567,
+      "end": 582
+    },
+    {
+      "type": "EMAIL",
+      "value": "daksha83@example.net",
+      "start": 590,
+      "end": 610
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Joshua Lata",
+      "start": 647,
+      "end": 658
+    },
+    {
+      "type": "PHONE",
+      "value": "91 92938 74147",
+      "start": 666,
+      "end": 680
+    },
+    {
+      "type": "EMAIL",
+      "value": "nkaul@example.com",
+      "start": 688,
+      "end": 705
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "76102188953408",
+      "start": 966,
+      "end": 980
+    }
+  ]
+}

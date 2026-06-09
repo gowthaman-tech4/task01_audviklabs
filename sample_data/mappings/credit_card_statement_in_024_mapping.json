@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_in_024.txt",
+  "timestamp": "2026-06-09T07:55:05.851339",
+  "total_entities_masked": 6,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Dhruv Ramachandran",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 237
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "495014421671",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 258,
+        "end": 272
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "H.No. 903, Bala Path, Ghaziabad-028712",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 298,
+        "end": 336
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 66130 69104",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 357,
+        "end": 371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "joshuagolla@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 392,
+        "end": 415
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gara",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1160,
+        "end": 1164
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Bakshi-Banerjee                     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 860,
+        "end": 896
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "05/18/2026     Grover PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1034,
+        "end": 1059
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Parsa",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1140,
+        "end": 1145
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Choudhury-Srivastava                ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1188,
+        "end": 1224
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Sarraf and Raval             ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1258,
+        "end": 1287
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Keer PLC                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1314,
+        "end": 1350
+      }
+    }
+  ]
+}

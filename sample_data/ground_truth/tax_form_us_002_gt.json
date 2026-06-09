@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_002.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "640-22-8503",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "17-8890136",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Sampson, Stone and Dominguez",
+      "start": 353,
+      "end": 381
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 2981, Box 4523, APO AE 81652",
+      "start": 385,
+      "end": 417
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Barbara Jackson",
+      "start": 441,
+      "end": 456
+    },
+    {
+      "type": "ADDRESS",
+      "value": "Unit 9200 Box 8425, DPO AA 96314",
+      "start": 496,
+      "end": 528
+    }
+  ]
+}

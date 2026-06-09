@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_001.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Advay Kar",
+      "start": 344,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9038824054962813",
+      "start": 373,
+      "end": 389
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "AXIS0566446",
+      "start": 409,
+      "end": 420
+    },
+    {
+      "type": "PAN",
+      "value": "BDOJA3594T",
+      "start": 440,
+      "end": 450
+    },
+    {
+      "type": "PHONE",
+      "value": "91 77435 48386",
+      "start": 470,
+      "end": 484
+    },
+    {
+      "type": "EMAIL",
+      "value": "vedhikaanne@example.com",
+      "start": 504,
+      "end": 527
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/07/1991",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "type": "ADDRESS",
+      "value": "33/02, Jain Path, Guna 560429",
+      "start": 577,
+      "end": 606
+    }
+  ]
+}

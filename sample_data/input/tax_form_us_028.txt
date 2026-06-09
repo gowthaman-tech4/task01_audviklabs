@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   360-66-2123
+
+b  Employer Identification Number (EIN)
+   55-7728884
+
+c  Employer's Name, Address, and ZIP Code
+   Spears-Estrada
+   01439 Jason Mission Suite 875, Bowersshire, NC 87528
+
+e  Employee's Name
+   Linda Price
+
+f  Employee's Address and ZIP Code
+   2915 Juan Hollow, Wangtown, WY 11021
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  186,995.99
+2  Federal income tax withheld         $   30,695.54
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  186,995.99
+6  Medicare tax withheld               $    2,711.44
+
+12a Code DD - Health Insurance          $   10,944.21
+
+--- STATE TAX INFORMATION ---
+
+15 State: MO
+16 State wages                         $  186,995.99
+17 State income tax                    $    9,093.84
+
+============================================================

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_040.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ansh Garg",
+      "start": 219,
+      "end": 228
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4053-6937-4795-1481",
+      "start": 249,
+      "end": 268
+    },
+    {
+      "type": "ADDRESS",
+      "value": "001, Bath Ganj, Vasai-Virar-298122",
+      "start": 289,
+      "end": 323
+    },
+    {
+      "type": "PHONE",
+      "value": "91 61634 75648",
+      "start": 344,
+      "end": 358
+    },
+    {
+      "type": "EMAIL",
+      "value": "david38@example.net",
+      "start": 379,
+      "end": 398
+    }
+  ]
+}

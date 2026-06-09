@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Michael Martinez
+Card Number:        4285-9263-9040-0400
+Billing Address:    1063 Johnson River, East William, NV 05765
+Phone:              823.976.1286
+Email:              matthewbruce@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 28, 2026
+Credit Limit:       $   10,613.15
+Previous Balance:   $    5,021.35
+Payments Received:  $    3,471.18
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Parker, Adams and Roman             $  1,476.64
+05/18/2026     Moore and Sons                      $    372.17
+05/27/2026     Pollard-Perez                       $  1,919.94
+05/29/2026     Noble PLC                           $  1,111.38
+05/20/2026     Barton, Lee and Torres              $  1,446.42
+06/02/2026     Garrett, Farrell and Valdez         $  1,230.26
+05/14/2026     Lewis and Sons                      $  1,983.60
+05/12/2026     Rivera Ltd                          $  1,956.29
+05/29/2026     Duke, Brewer and Williams           $  1,167.44
+05/20/2026     Henderson-Sanchez                   $  1,483.59
+05/25/2026     Smith, Robertson and Holloway       $  1,972.70
+05/14/2026     Ford, Fleming and Mann              $  1,729.86
+05/09/2026     Abbott-Nguyen                       $  1,498.13
+05/20/2026     Patel, Frazier and Manning          $     92.90
+
+-------------------------------------------------------------
+Total Charges:      $   19,441.32
+New Balance:        $   20,991.49
+Minimum Payment:    $      419.83
+
+============================================================

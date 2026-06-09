@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_033.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Devansh Sachar",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4273-9991-5216-3437",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 65, Mukherjee, Jalgaon 410076",
+      "start": 294,
+      "end": 329
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 64981 42956",
+      "start": 350,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "ethanguha@example.com",
+      "start": 386,
+      "end": 407
+    }
+  ]
+}

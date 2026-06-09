@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_029.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 338,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "07/16, Sarraf Road, Bhusawal-671278",
+      "start": 375,
+      "end": 410
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Isha Boase",
+      "start": 428,
+      "end": 438
+    },
+    {
+      "type": "PAN",
+      "value": "LKRPN1386P",
+      "start": 444,
+      "end": 454
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7361 1000 6130",
+      "start": 464,
+      "end": 478
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/27/2005",
+      "start": 494,
+      "end": 504
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 600, Tak Zila, Delhi-256198",
+      "start": 514,
+      "end": 547
+    },
+    {
+      "type": "PHONE",
+      "value": "91 89534 13607",
+      "start": 555,
+      "end": 569
+    },
+    {
+      "type": "EMAIL",
+      "value": "yashasvinaidu@example.net",
+      "start": 577,
+      "end": 602
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Hiral Lall",
+      "start": 639,
+      "end": 649
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 69653 60840",
+      "start": 657,
+      "end": 672
+    },
+    {
+      "type": "EMAIL",
+      "value": "wdalia@example.net",
+      "start": 680,
+      "end": 698
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "51516119305649",
+      "start": 959,
+      "end": 973
+    }
+  ]
+}

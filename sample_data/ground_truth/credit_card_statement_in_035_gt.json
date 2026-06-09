@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_035.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Adweta Swaminathan",
+      "start": 219,
+      "end": 237
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4897-1516-2438-7386",
+      "start": 258,
+      "end": 277
+    },
+    {
+      "type": "ADDRESS",
+      "value": "70/83, Kamdar, Chandigarh 891966",
+      "start": 298,
+      "end": 330
+    },
+    {
+      "type": "PHONE",
+      "value": "91 84350 13828",
+      "start": 351,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "matthew12@example.org",
+      "start": 386,
+      "end": 407
+    }
+  ]
+}

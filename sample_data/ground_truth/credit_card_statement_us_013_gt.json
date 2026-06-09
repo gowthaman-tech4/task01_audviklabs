@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_013.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Cindy Moore",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4484-6512-8614-3570",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8667 Orozco Radial, Contrerasmouth, CA 13239",
+      "start": 291,
+      "end": 335
+    },
+    {
+      "type": "PHONE",
+      "value": "001-291-600-2295x535",
+      "start": 356,
+      "end": 376
+    },
+    {
+      "type": "EMAIL",
+      "value": "tranjeremy@example.net",
+      "start": 397,
+      "end": 419
+    }
+  ]
+}

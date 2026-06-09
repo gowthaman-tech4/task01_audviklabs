@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_004.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Brian Long",
+      "start": 219,
+      "end": 229
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4424-3395-0315-3696",
+      "start": 250,
+      "end": 269
+    },
+    {
+      "type": "ADDRESS",
+      "value": "85633 Veronica Loaf, West Erin, NY 45710",
+      "start": 290,
+      "end": 330
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-462-477-2769x534",
+      "start": 351,
+      "end": 370
+    },
+    {
+      "type": "EMAIL",
+      "value": "aaronruiz@example.org",
+      "start": 391,
+      "end": 412
+    }
+  ]
+}

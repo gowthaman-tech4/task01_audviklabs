@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_040.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 337,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "05836 Nelson Gardens Apt. 695, Lake Danielleville, CT 12762",
+      "start": 374,
+      "end": 433
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Edward Garcia",
+      "start": 451,
+      "end": 464
+    },
+    {
+      "type": "SSN",
+      "value": "439-67-3993",
+      "start": 470,
+      "end": 481
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/04/2001",
+      "start": 497,
+      "end": 507
+    },
+    {
+      "type": "ADDRESS",
+      "value": "48771 Judith Station, Port Kaylastad, NV 99294",
+      "start": 517,
+      "end": 563
+    },
+    {
+      "type": "PHONE",
+      "value": "001-811-770-3793",
+      "start": 571,
+      "end": 587
+    },
+    {
+      "type": "EMAIL",
+      "value": "courtney55@example.org",
+      "start": 595,
+      "end": 617
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "22865060089252",
+      "start": 878,
+      "end": 892
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_005]
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_004]          415 $    381.32 $    531.96 $  220,762.63 $   62,514.83
+AAPL     [ORGANIZATION_003]                   447 $    150.70 $    199.77 $   89,298.38 $   21,935.48
+[ORGANIZATION_002]               15 $    133.16 $    176.61 $    2,649.09 $      651.69
+TSLA     Tesla Inc.                    34 $    187.84 $    225.44 $    7,664.88 $    1,278.32
+JPM      [ORGANIZATION_001]          69 $    185.90 $    197.19 $   13,605.90 $      778.80
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  333,980.88
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/23/2026     DIV      TSLA         58 $    186.49 $   10,816.42
+05/05/2026     SELL     TSLA         24 $    146.63 $    3,519.12
+03/15/2026     DIV      AMZN         74 $    282.16 $   20,879.84
+04/11/2026     DIV      JPM          55 $    177.02 $    9,736.10
+03/14/2026     SELL     AAPL         98 $    182.96 $   17,930.08
+03/22/2026     DIV      AAPL         30 $    152.99 $    4,589.70
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

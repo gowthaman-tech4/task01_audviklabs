@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-4367960
+Policy Type: Health Insurance
+Date of Issue: September 03, 2025
+
+Dear Christina Cortez,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Bridget Carey
+Date of Birth:      10/13/1970
+Address:            552 Gamble Ville, Davidland, WV 91670
+Phone:              001-950-975-3595x48396
+Email:              christian62@example.com
+SSN:                282-93-0479
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       David Price
+Relationship:       Mother
+Nominee DOB:        09/29/1989
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    448,398.57
+Annual Premium:     $     13,682.16
+Policy Term:        15 years
+Premium Payment:    Monthly
+Risk Commencement:  July 12, 2025
+Maturity Date:      February 28, 2043
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

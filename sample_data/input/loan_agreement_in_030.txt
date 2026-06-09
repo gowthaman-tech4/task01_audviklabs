@@ -1,0 +1,53 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-416469
+Date of Agreement: May 01, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Continental Credit Corporation
+Address: H.No. 55, Raja Circle, Varanasi 452382
+
+BORROWER:
+Name: Ridhi Roy
+PAN: IJUPU6232E
+Aadhaar: 2430 1779 2010
+Date of Birth: 01/16/1982
+Address: 29/44, Baral Circle, Jhansi-255186
+Phone: 91 87304 71923
+Email: daraekani@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    272,532.65
+Interest Rate:              9.06% per annum
+Loan Tenure:                24 months
+EMI Amount:                 $     12,458.09
+Disbursement Account No:    05474062848208
+Disbursement Date:          May 26, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 24 equal monthly installments of $12,458.09.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

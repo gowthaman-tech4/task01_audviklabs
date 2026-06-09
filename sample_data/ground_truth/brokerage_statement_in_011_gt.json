@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_011.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Keya Nagy",
+      "start": 283,
+      "end": 292
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9834649481",
+      "start": 317,
+      "end": 327
+    },
+    {
+      "type": "PAN",
+      "value": "FRQTM8044E",
+      "start": 352,
+      "end": 362
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "7259382281342192",
+      "start": 387,
+      "end": 403
+    },
+    {
+      "type": "EMAIL",
+      "value": "sarrafnakul@example.net",
+      "start": 428,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 61991 82024",
+      "start": 476,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "363, Din Zila, Agartala 962096",
+      "start": 516,
+      "end": 546
+    }
+  ]
+}

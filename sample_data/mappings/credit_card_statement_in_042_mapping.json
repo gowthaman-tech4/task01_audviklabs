@@ -1,0 +1,223 @@
+{
+  "document": "credit_card_statement_in_042.txt",
+  "timestamp": "2026-06-09T07:55:09.076127",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Ira Basak",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "423311535335",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 249,
+        "end": 263
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "439367",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 322,
+        "end": 328
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 87891 90391",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 349,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "joshironith@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 407
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Prabhakar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 909,
+        "end": 918
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kalla",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 964,
+        "end": 969
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Ganesan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1145,
+        "end": 1152
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Divan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1218,
+        "end": 1223
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_007]",
+      "original": "Gulati Chowk",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 301,
+        "end": 313
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "05/15/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 751,
+        "end": 766
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Sagar Inc",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 766,
+        "end": 775
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Kala-Natt                           ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 829,
+        "end": 865
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "05/16/2026     Pandey Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1023,
+        "end": 1050
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Sachdeva",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1107,
+        "end": 1115
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Bhasin",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1120,
+        "end": 1126
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Guha-Balakrishnan                   ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1312,
+        "end": 1348
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/12/2026     Dhingra Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1423,
+        "end": 1451
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Dubey-Ramakrishnan                  ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1690,
+        "end": 1726
+      }
+    }
+  ]
+}

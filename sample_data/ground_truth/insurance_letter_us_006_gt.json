@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_006.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Erika Flores",
+      "start": 316,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Stephen Martin",
+      "start": 485,
+      "end": 499
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/17/2001",
+      "start": 520,
+      "end": 530
+    },
+    {
+      "type": "ADDRESS",
+      "value": "61936 Perez Creek Apt. 722, West Anthonyberg, NY 50069",
+      "start": 551,
+      "end": 605
+    },
+    {
+      "type": "PHONE",
+      "value": "(290)577-7410x0500",
+      "start": 626,
+      "end": 644
+    },
+    {
+      "type": "EMAIL",
+      "value": "hnorris@example.net",
+      "start": 665,
+      "end": 684
+    },
+    {
+      "type": "SSN",
+      "value": "533-45-1200",
+      "start": 705,
+      "end": 716
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Hall",
+      "start": 763,
+      "end": 775
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/31/1975",
+      "start": 820,
+      "end": 830
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_004.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5680 Charles Forges, Jenniferside, AS 94247",
+      "start": 374,
+      "end": 417
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Daniel Noble",
+      "start": 435,
+      "end": 447
+    },
+    {
+      "type": "SSN",
+      "value": "643-04-0750",
+      "start": 453,
+      "end": 464
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/01/1987",
+      "start": 480,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "080 Jack Ramp, South Michaelport, DC 37911",
+      "start": 500,
+      "end": 542
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-628-689-6823x5722",
+      "start": 550,
+      "end": 570
+    },
+    {
+      "type": "EMAIL",
+      "value": "millerjoshua@example.org",
+      "start": 578,
+      "end": 602
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "22782299939180",
+      "start": 863,
+      "end": 877
+    }
+  ]
+}

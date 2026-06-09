@@ -1,0 +1,47 @@
+============================================================
+          [ORGANIZATION_010].
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: 382, [ORGANIZATION_009], Visakhapatnam-[ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_008]                 95 $    190.05 $    179.55 $   17,056.80 $     -997.95
+[ORGANIZATION_007]                 495 $    748.75 $    875.85 $  433,544.66 $   62,913.41
+[ORGANIZATION_006]          283 $    437.66 $    410.77 $  116,248.75 $   -7,609.03
+MSFT     [ORGANIZATION_005]              225 $    384.85 $    362.83 $   81,636.68 $   -4,954.57
+[ORGANIZATION_004]              247 $    159.45 $    166.02 $   41,005.90 $    1,621.75
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  689,492.79
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+06/01/2026     BUY      [ORGANIZATION_003]         37 $    201.78 $    7,465.86
+05/13/2026     SELL     GOOGL        27 $    142.59 $    3,849.93
+05/17/2026     SELL     MSFT         37 $    297.33 $   11,001.21
+03/19/2026     BUY      GOOGL         7 $    186.03 $    1,302.21
+03/12/2026     SELL     [ORGANIZATION_002]         34 $    110.40 $    3,753.60
+05/26/2026     BUY      GOOGL        21 $    369.67 $    7,763.07
+03/12/2026     DIV      GOOGL        35 $     73.27 $    2,564.45
+04/04/2026     DIV      [ORGANIZATION_001]         99 $     53.90 $    5,336.10
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

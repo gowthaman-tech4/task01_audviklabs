@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-0733
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 28, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $    9,738.05
+Previous Balance:   $    9,878.46
+Payments Received:  $    7,332.55
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/06/2026     Jimenez-Griffin                     $    862.66
+05/12/2026     [ORGANIZATION_005]$     71.83
+05/30/2026     Fernandez-Le                        $  1,321.01
+05/18/2026     Mitchell, [PERSON_NAME_004] and [ORGANIZATION_004]    103.21
+05/16/2026     [PERSON_NAME_006]$     12.68
+05/28/2026     Santiago, [ADDRESS_005] and [ORGANIZATION_003]$  1,228.39
+06/05/2026     [PERSON_NAME_003] and Sons                      $  1,792.17
+05/26/2026     [ADDRESS_004], [ADDRESS_003] and Silva              $  1,133.01
+05/18/2026     Mullen LLC                          $  1,741.77
+05/25/2026     [ORGANIZATION_002]                       $     81.91
+06/07/2026     Martinez, [PERSON_NAME_002] and [ORGANIZATION_001]
+05/24/2026     Hicks, [PERSON_NAME_001] and Herrera          $  1,965.78
+
+-------------------------------------------------------------
+Total Charges:      $   11,778.74
+[ADDRESS_002]:        $   14,324.65
+Minimum Payment:    $      286.49
+
+============================================================

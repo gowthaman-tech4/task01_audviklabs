@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_012]
+Card Number:        [AADHAAR_001]-6665
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 17, 2026
+Payment Due Date:   June 29, 2026
+Credit Limit:       $   46,276.09
+Previous Balance:   $    4,373.72
+Payments Received:  $    3,199.45
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/19/2026     Best Inc                            $  1,133.59
+05/12/2026     [ORGANIZATION_007]$  1,768.50
+[ORGANIZATION_006]                         $  1,498.19
+06/05/2026     Villegas, [PERSON_NAME_011] and [PERSON_NAME_010]        $    566.17
+05/21/2026     [PERSON_NAME_009], Fischer and [ORGANIZATION_005]1,119.93
+05/14/2026     [PERSON_NAME_008], [PERSON_NAME_007] and [PERSON_NAME_006]$    324.77
+06/04/2026     [PERSON_NAME_005], [PERSON_NAME_004] and Bryant           $  1,747.61
+05/18/2026     Torres-Bates                        $  1,275.32
+05/20/2026     [ORGANIZATION_004]$  1,473.76
+05/09/2026     Thompson, [PERSON_NAME_003] and Gilbert         $  1,803.42
+05/16/2026     [ORGANIZATION_003]$  1,040.29
+05/16/2026     [PERSON_NAME_002]                       $    844.72
+[ORGANIZATION_002]$    816.25
+05/19/2026     [ORGANIZATION_001]$  1,768.81
+05/12/2026     [PERSON_NAME_001], [ADDRESS_002] and Webb              $  1,378.16
+
+-------------------------------------------------------------
+Total Charges:      $   18,559.49
+New Balance:        $   19,733.76
+Minimum Payment:    $      394.68
+
+============================================================

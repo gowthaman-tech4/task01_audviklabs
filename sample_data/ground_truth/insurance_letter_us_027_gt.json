@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_027.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Heather Cannon",
+      "start": 316,
+      "end": 330
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Reeves",
+      "start": 487,
+      "end": 501
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/17/1997",
+      "start": 522,
+      "end": 532
+    },
+    {
+      "type": "ADDRESS",
+      "value": "784 Lisa Fall, Wattsview, WA 70052",
+      "start": 553,
+      "end": 587
+    },
+    {
+      "type": "PHONE",
+      "value": "502-683-5766",
+      "start": 608,
+      "end": 620
+    },
+    {
+      "type": "EMAIL",
+      "value": "karen11@example.net",
+      "start": 641,
+      "end": 660
+    },
+    {
+      "type": "SSN",
+      "value": "260-50-0269",
+      "start": 681,
+      "end": 692
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ray Smith",
+      "start": 739,
+      "end": 748
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "01/07/1989",
+      "start": 796,
+      "end": 806
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Owen Uppal
+Card Number:        4734-2312-4346-8754
+Billing Address:    H.No. 45, Pillay Street, Surat 007523
+Phone:              +91 75642 76621
+Email:              varenya76@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 16, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   28,419.87
+Previous Balance:   $    3,260.43
+Payments Received:  $    1,524.40
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/13/2026     Madan, Kaul and Sani                $    738.95
+05/29/2026     Nair and Sons                       $  1,421.90
+06/03/2026     Bhatia, Pandit and Wadhwa           $    234.61
+05/28/2026     Dube, Iyengar and Chandran          $  1,936.48
+05/26/2026     Lad and Sons                        $    597.74
+06/03/2026     Chanda, Nazareth and Keer           $    682.23
+05/26/2026     Gill-Wali                           $  1,774.13
+05/14/2026     Panchal-Dani                        $    350.62
+06/07/2026     Varty-Munshi                        $  1,210.99
+06/07/2026     Master and Sons                     $  1,839.35
+05/14/2026     Hayre Ltd                           $    720.26
+06/07/2026     Loke Ltd                            $    340.71
+06/05/2026     Edwin, Banik and Yogi               $  1,267.65
+
+-------------------------------------------------------------
+Total Charges:      $   13,115.62
+New Balance:        $   14,851.65
+Minimum Payment:    $      297.03
+
+============================================================

@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_001.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Abhimanyu Dhar",
+      "start": 283,
+      "end": 297
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8037100063",
+      "start": 322,
+      "end": 332
+    },
+    {
+      "type": "PAN",
+      "value": "IXVPF7224S",
+      "start": 357,
+      "end": 367
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1206288066503582",
+      "start": 392,
+      "end": 408
+    },
+    {
+      "type": "EMAIL",
+      "value": "yjani@example.net",
+      "start": 433,
+      "end": 450
+    },
+    {
+      "type": "PHONE",
+      "value": "91 88717 11253",
+      "start": 475,
+      "end": 489
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 816, Oak Zila, Satna-236377",
+      "start": 514,
+      "end": 547
+    }
+  ]
+}

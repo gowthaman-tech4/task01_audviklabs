@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_021.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "83417 Greg Neck Apt. 645, Lake Wendy, HI 81186",
+      "start": 372,
+      "end": 418
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Olivia Jenkins",
+      "start": 436,
+      "end": 450
+    },
+    {
+      "type": "SSN",
+      "value": "400-97-1256",
+      "start": 456,
+      "end": 467
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/03/2003",
+      "start": 483,
+      "end": 493
+    },
+    {
+      "type": "ADDRESS",
+      "value": "USNV Lutz, FPO AE 46982",
+      "start": 503,
+      "end": 526
+    },
+    {
+      "type": "PHONE",
+      "value": "2285398971",
+      "start": 534,
+      "end": 544
+    },
+    {
+      "type": "EMAIL",
+      "value": "ewyatt@example.org",
+      "start": 552,
+      "end": 570
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "04928239719197",
+      "start": 835,
+      "end": 849
+    }
+  ]
+}

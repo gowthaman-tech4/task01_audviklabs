@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_042.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Aachal Kaul",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2920938602",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "PXSHD8763U",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "8465450966523726",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "balendra85@example.net",
+      "start": 430,
+      "end": 452
+    },
+    {
+      "type": "PHONE",
+      "value": "91 67926 89935",
+      "start": 477,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 92, Chawla Street, Panchkula 798067",
+      "start": 516,
+      "end": 557
+    }
+  ]
+}

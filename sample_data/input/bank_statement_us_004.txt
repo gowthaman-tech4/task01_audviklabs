@@ -1,0 +1,48 @@
+============================================================
+                    Global Trust Banking Corp
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 20, 2026 to May 29, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Mary Cruz
+Account Number:    349995267384
+SSN:               172-56-2613
+Phone:             001-486-538-9705x716
+Email:             hornedebbie@example.net
+Date of Birth:     06/28/1961
+Address:           PSC 0665, Box 6056, APO AP 39956
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            North Joshua Branch
+Opening Balance:   $141,336.14
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/25/2026     NEFT Transfer                           2,737.01                  138,599.13
+06/01/2026     Interest Credit                         1,893.05                  136,706.08
+05/19/2026     NEFT Transfer                                        3,136.92     139,843.00
+05/13/2026     UPI Transfer                            3,125.99                  136,717.01
+05/26/2026     Direct Deposit - MVM Corp                            1,198.05     137,915.06
+05/20/2026     POS Purchase - Taylor-Jones               301.15                  137,613.91
+05/25/2026     Bill Payment - Utility                  4,873.28                  132,740.63
+05/26/2026     Online Transfer to 60555188                            135.05     132,875.68
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $132,875.68
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Global Trust Banking Corp
+FDIC Insured | Equal Opportunity Lender
+============================================================

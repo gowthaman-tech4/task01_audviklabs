@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_008.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mugdha Vala",
+      "start": 283,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9318259922",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "PAN",
+      "value": "FTOGW4105S",
+      "start": 354,
+      "end": 364
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "3300841509871288",
+      "start": 389,
+      "end": 405
+    },
+    {
+      "type": "EMAIL",
+      "value": "ekbalrege@example.com",
+      "start": 430,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "91 66045 56341",
+      "start": 476,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 33, Karan Ganj, Karaikudi 566171",
+      "start": 515,
+      "end": 553
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Nachiket Vig
+Account Number:         1585871790
+PAN:                    YOWPT2805E
+Demat Account:          0698133268704466
+Email:                  charansankaran@example.org
+Phone:                  91 80005 68760
+Correspondence Address: H.No. 840, Mann, Amritsar-190828
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+JPM      JPMorgan Chase & Co.           6 $    161.14 $    206.49 $    1,238.92 $      272.08
+MSFT     Microsoft Corp.                5 $    383.75 $    372.63 $    1,863.13 $      -55.62
+TSLA     Tesla Inc.                   150 $    190.13 $    201.69 $   30,252.83 $    1,733.33
+META     Meta Platforms Inc.           34 $    368.27 $    425.48 $   14,466.28 $    1,945.10
+NVDA     NVIDIA Corp.                 325 $    848.21 $    829.87 $  269,707.98 $   -5,960.27
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  317,529.14
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/16/2026     SELL     META         35 $    194.43 $    6,805.05
+04/13/2026     DIV      NVDA         77 $    226.13 $   17,412.01
+04/14/2026     DIV      JPM          27 $    423.77 $   11,441.79
+05/24/2026     DIV      NVDA         46 $    308.21 $   14,177.66
+04/02/2026     BUY      TSLA         10 $    488.13 $    4,881.30
+05/11/2026     DIV      NVDA         25 $    179.85 $    4,496.25
+04/11/2026     DIV      MSFT         71 $    271.77 $   19,295.67
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

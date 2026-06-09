@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_024.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Anthony Johnson",
+      "start": 219,
+      "end": 234
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4447-9950-8586-2351",
+      "start": 255,
+      "end": 274
+    },
+    {
+      "type": "ADDRESS",
+      "value": "3665 Brad Ford, North Rachel, HI 05772",
+      "start": 295,
+      "end": 333
+    },
+    {
+      "type": "PHONE",
+      "value": "(867)575-8533x171",
+      "start": 354,
+      "end": 371
+    },
+    {
+      "type": "EMAIL",
+      "value": "ywilliams@example.org",
+      "start": 392,
+      "end": 413
+    }
+  ]
+}

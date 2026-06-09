@@ -1,0 +1,183 @@
+{
+  "document": "bank_statement_in_040.txt",
+  "timestamp": "2026-06-09T07:53:53.493938",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Guneet Patel",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 356
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "483506488653",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 376,
+        "end": 388
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "HDFC0248151",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 408,
+        "end": 419
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "CFXAJ5147C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 439,
+        "end": 449
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 64383 74810",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 469,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ayaansahota@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 504,
+        "end": 527
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/30/1983",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 547,
+        "end": 557
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "216344",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 610,
+        "end": 616
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "22418514",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1357,
+        "end": 1365
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "15456749",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1909,
+        "end": 1917
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "90791177",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2277,
+        "end": 2285
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Shukla Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 587,
+        "end": 598
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/25/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1436,
+        "end": 1458
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/24/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2184,
+        "end": 2206
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 3028,
+        "end": 3062
+      }
+    }
+  ]
+}

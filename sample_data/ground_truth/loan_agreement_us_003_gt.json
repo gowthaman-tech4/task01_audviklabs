@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_003.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 338,
+      "end": 368
+    },
+    {
+      "type": "ADDRESS",
+      "value": "34418 Stephanie Prairie, West Courtneyton, MN 04948",
+      "start": 378,
+      "end": 429
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jacqueline Bartlett",
+      "start": 447,
+      "end": 466
+    },
+    {
+      "type": "SSN",
+      "value": "401-98-1392",
+      "start": 472,
+      "end": 483
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/14/1966",
+      "start": 499,
+      "end": 509
+    },
+    {
+      "type": "ADDRESS",
+      "value": "00958 Brady Park, New Timothyport, NJ 12134",
+      "start": 519,
+      "end": 562
+    },
+    {
+      "type": "PHONE",
+      "value": "(250)973-6982",
+      "start": 570,
+      "end": 583
+    },
+    {
+      "type": "EMAIL",
+      "value": "michaelbell@example.com",
+      "start": 591,
+      "end": 614
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Derek Oconnell",
+      "start": 651,
+      "end": 665
+    },
+    {
+      "type": "PHONE",
+      "value": "592-243-5650",
+      "start": 673,
+      "end": 685
+    },
+    {
+      "type": "EMAIL",
+      "value": "kmunoz@example.net",
+      "start": 693,
+      "end": 711
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "56701060023772",
+      "start": 972,
+      "end": 986
+    }
+  ]
+}

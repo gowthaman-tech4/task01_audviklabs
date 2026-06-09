@@ -1,0 +1,113 @@
+{
+  "document": "credit_card_statement_us_005.txt",
+  "timestamp": "2026-06-09T07:55:10.013730",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Christopher Bailey",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 237
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "491754944430",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 258,
+        "end": 272
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "969 Rodriguez Crossroad, Kingmouth, VI 30498",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 298,
+        "end": 342
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "001-621-951-8068",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 363,
+        "end": 379
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "edward60@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 400,
+        "end": 420
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Brown",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 780,
+        "end": 785
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Allen-Sloan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 843,
+        "end": 854
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Estrada",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 955,
+        "end": 962
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Velazquez PLC",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1192,
+        "end": 1205
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   98-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  177,822.14
+2  Federal income tax withheld         $   30,136.17
+3  [ORGANIZATION_006] wages               $  160,200.00
+4  [ORGANIZATION_005] tax withheld        $    9,932.40
+5  [ORGANIZATION_004] wages and tips             $  177,822.14
+6  [ORGANIZATION_003] tax withheld               $    2,578.42
+
+12a [ORGANIZATION_002]$    5,046.53
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: RI
+16 State wages                         $  177,822.14
+17 State income tax                    $   11,396.97
+
+============================================================

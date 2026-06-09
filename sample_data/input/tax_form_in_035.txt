@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sule, Kale and Tailor
+TAN of the Deductor:    WYWF96676W
+Address:                23/309, Khosla Circle, Medininagar 028192
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Quincy Dutt
+PAN of the Employee:    YFBFH0308F
+Aadhaar Number:         3891 1815 7909
+Date of Birth:          18/01/2001
+Address:                H.No. 447, Shukla Circle, Arrah 512213
+Email:                  trivediveer@example.org
+Mobile:                 +91 89785 49073
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.   1,110,858.72
+   (b) Value of perquisites u/s 17(2)  Rs.       7,048.47
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.     133,303.05
+   (b) LTA Exemption                   Rs.      23,379.52
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     927,555.67
+5. Tax on Total Income                 Rs.     185,511.13
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       7,420.45
+8. Total Tax Payable                   Rs.     192,931.58
+
+============================================================

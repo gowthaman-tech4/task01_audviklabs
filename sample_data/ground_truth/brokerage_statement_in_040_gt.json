@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_040.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jackson Deol",
+      "start": 283,
+      "end": 295
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "1907327806",
+      "start": 320,
+      "end": 330
+    },
+    {
+      "type": "PAN",
+      "value": "BOGPO8443O",
+      "start": 355,
+      "end": 365
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "5160788968553427",
+      "start": 390,
+      "end": 406
+    },
+    {
+      "type": "EMAIL",
+      "value": "danielpillay@example.com",
+      "start": 431,
+      "end": 455
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 98082 75559",
+      "start": 480,
+      "end": 495
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 14, Bora Street, Chapra-320746",
+      "start": 520,
+      "end": 556
+    }
+  ]
+}

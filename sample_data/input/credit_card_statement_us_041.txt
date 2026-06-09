@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Nancy Garcia
+Card Number:        4640-6009-9795-0733
+Billing Address:    050 Jordan Harbors Suite 420, East Robert, OR 15920
+Phone:              395.444.8754x8534
+Email:              miranda65@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 28, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $    9,738.05
+Previous Balance:   $    9,878.46
+Payments Received:  $    7,332.55
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/06/2026     Jimenez-Griffin                     $    862.66
+05/12/2026     Alexander-Parks                     $     71.83
+05/30/2026     Fernandez-Le                        $  1,321.01
+05/18/2026     Mitchell, Cook and Johnston         $    103.21
+05/16/2026     Davis Inc                           $     12.68
+05/28/2026     Santiago, Montoya and Hughes        $  1,228.39
+06/05/2026     Stein and Sons                      $  1,792.17
+05/26/2026     Silva, Tyler and Silva              $  1,133.01
+05/18/2026     Mullen LLC                          $  1,741.77
+05/25/2026     Williams-Ward                       $     81.91
+06/07/2026     Martinez, Newman and Bailey         $  1,464.32
+05/24/2026     Hicks, Johnson and Herrera          $  1,965.78
+
+-------------------------------------------------------------
+Total Charges:      $   11,778.74
+New Balance:        $   14,324.65
+Minimum Payment:    $      286.49
+
+============================================================

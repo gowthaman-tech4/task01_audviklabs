@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-8142
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   July 02, 2026
+Credit Limit:       $   20,738.27
+Previous Balance:   $    5,598.05
+Payments Received:  $    1,103.41
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/10/2026     [PERSON_NAME_002] and Sons                      $  1,132.48
+05/14/2026     [PERSON_NAME_001]                         $    242.64
+05/27/2026     Rivera Group                        $  1,936.21
+05/23/2026     Brown, Lee and [ORGANIZATION_002]              $    615.60
+05/23/2026     Snow Inc                            $  1,461.17
+06/06/2026     Spears-Johnson                      $  1,224.91
+05/10/2026     Ramirez-Robinson                    $  1,929.73
+05/17/2026     [ORGANIZATION_001]                       $    545.07
+
+-------------------------------------------------------------
+Total Charges:      $    9,087.81
+New Balance:        $   13,582.45
+Minimum Payment:    $      271.65
+
+============================================================

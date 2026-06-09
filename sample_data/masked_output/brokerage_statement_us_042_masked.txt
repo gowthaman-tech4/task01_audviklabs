@@ -1,0 +1,42 @@
+============================================================
+          [ORGANIZATION_004]
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_003]              242 $    197.89 $    182.95 $   44,272.74 $   -3,616.64
+NVDA     NVIDIA Corp.                 395 $    837.69 $    801.28 $  316,506.83 $  -14,380.72
+[ORGANIZATION_002]                494 $    135.63 $    178.28 $   88,068.00 $   21,066.78
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  448,847.57
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+04/08/2026     DIV      GOOGL        63 $    383.91 $   24,186.33
+05/02/2026     SELL     GOOGL        77 $    324.17 $   24,961.09
+06/01/2026     BUY      GOOGL        77 $    487.51 $   37,538.27
+05/06/2026     DIV      AMZN         29 $    437.65 $   12,691.85
+05/08/2026     DIV      AMZN         18 $    356.09 $    6,409.62
+05/18/2026     BUY      [ORGANIZATION_001]         79 $    287.29 $   22,695.91
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

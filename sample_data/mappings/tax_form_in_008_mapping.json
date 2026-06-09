@@ -1,0 +1,203 @@
+{
+  "document": "tax_form_in_008.txt",
+  "timestamp": "2026-06-09T07:57:48.409173",
+  "total_entities_masked": 14,
+  "entity_type_counts": {
+    "PERSON_NAME": 7,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Narayanan",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 358,
+        "end": 367
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Soni",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 372,
+        "end": 376
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "812225",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 467,
+        "end": 473
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 488,
+        "end": 499
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Warda Ray",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 525,
+        "end": 534
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "PNICE6761S",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 559,
+        "end": 569
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "8844 9945 3193",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 594,
+        "end": 608
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "08/01/1998",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 633,
+        "end": 643
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "890663",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 698,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "lpal@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 729,
+        "end": 745
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 67588 74237",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 770,
+        "end": 785
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 798,
+        "end": 809
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 814,
+        "end": 826
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Sarin Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 474,
+        "end": 484
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1110,
+        "end": 1144
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1223,
+        "end": 1251
+      }
+    }
+  ]
+}

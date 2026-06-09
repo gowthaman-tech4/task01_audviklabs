@@ -1,0 +1,201 @@
+{
+  "document": "credit_card_statement_in_007.txt",
+  "timestamp": "2026-06-09T07:55:02.646101",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Zarna Rajagopalan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 236
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "483291799414",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 257,
+        "end": 271
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "231639",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 328,
+        "end": 334
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 96551 74752",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 355,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "avishankar@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 413
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Morar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 781,
+        "end": 786
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Kuruvilla-Gara                      ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 899,
+        "end": 935
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Rajagopal",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1285,
+        "end": 1294
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Yohannan      ",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1299,
+        "end": 1313
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_004]",
+      "original": "Krishnan Road",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 303,
+        "end": 316
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Manda",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 839,
+        "end": 844
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "Dhillon",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 846,
+        "end": 853
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Nair Inc                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1135,
+        "end": 1171
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Gaba Ltd                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1398,
+        "end": 1434
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Chaudhari Ltd                       ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1461,
+        "end": 1497
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Talwar-Sridhar",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1587,
+        "end": 1601
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1795,
+        "end": 1806
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_025.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Advika Butala",
+      "start": 283,
+      "end": 296
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2701352670",
+      "start": 321,
+      "end": 331
+    },
+    {
+      "type": "PAN",
+      "value": "RAJCM9993Z",
+      "start": 356,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "2252094460188022",
+      "start": 391,
+      "end": 407
+    },
+    {
+      "type": "EMAIL",
+      "value": "banjeet02@example.net",
+      "start": 432,
+      "end": 453
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 92573 40495",
+      "start": 478,
+      "end": 493
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 21, Bains Street, Chittoor-652536",
+      "start": 518,
+      "end": 557
+    }
+  ]
+}

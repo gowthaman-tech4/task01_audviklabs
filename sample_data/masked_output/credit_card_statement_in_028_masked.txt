@@ -1,0 +1,42 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-1500
+Billing Address:    H.No. 35, [ADDRESS_003], Nagpur-[ADDRESS_002]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 10, 2026
+Payment Due Date:   July 06, 2026
+Credit Limit:       $   10,109.74
+Previous Balance:   $   13,357.79
+Payments Received:  $    3,779.76
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/14/2026     [ORGANIZATION_004]              $  1,548.85
+05/16/2026     [ORGANIZATION_003]$  1,456.62
+05/22/2026     Vasa-Karpe                          $     45.85
+05/20/2026     Taneja, [PERSON_NAME_002] and Buch      $  1,953.71
+05/11/2026     [ORGANIZATION_002]$  1,950.00
+05/17/2026     Barman Inc                          $    803.18
+05/19/2026     Sundaram and Sons                   $    547.25
+05/30/2026     Jain, [PERSON_NAME_001] and Bhatnagar            $    459.11
+05/21/2026     Agarwal-Sanghvi                     $  1,806.59
+[ADDRESS_001]     Goswami, Lala and D’Alia            $    405.56
+[ORGANIZATION_001]$     52.30
+
+-------------------------------------------------------------
+Total Charges:      $   11,029.02
+New Balance:        $   20,607.05
+Minimum Payment:    $      412.14
+
+============================================================

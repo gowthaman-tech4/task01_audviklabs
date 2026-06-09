@@ -1,0 +1,44 @@
+============================================================
+          [ORGANIZATION_007].
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [ACCOUNT_NUMBER_002]
+PAN:                    [PAN_001]
+Demat Account:          [ACCOUNT_NUMBER_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: H.No. 92, Chawla Street, Panchkula [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_006]                363 $    140.21 $    176.19 $   63,957.28 $   13,061.05
+[ORGANIZATION_005]                   471 $    172.59 $    187.97 $   88,533.93 $    7,244.04
+[ORGANIZATION_004]                  87 $    910.38 $    861.03 $   74,909.90 $   -4,293.16
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  227,401.11
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/05/2026     DIV      [ORGANIZATION_003]         57 $     63.99 $    3,647.43
+04/02/2026     SELL     [ORGANIZATION_002]         96 $    392.06 $   37,637.76
+03/17/2026     DIV      AAPL         52 $     95.41 $    4,961.32
+04/22/2026     DIV      AAPL         96 $    388.32 $   37,278.72
+03/13/2026     DIV      AAPL          4 $    489.20 $    1,956.80
+05/07/2026     BUY      [ORGANIZATION_001]         65 $    122.31 $    7,950.15
+05/21/2026     DIV      GOOGL        29 $    456.57 $   13,240.53
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

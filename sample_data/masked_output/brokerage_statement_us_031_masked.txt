@@ -1,0 +1,45 @@
+============================================================
+          [ORGANIZATION_006]
+            QUARTERLY INVESTMENT STATEMENT
+             Q3 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_005]          282 $    372.07 $    474.48 $  133,803.81 $   28,880.07
+JPM      [ORGANIZATION_004]          17 $    158.46 $    175.73 $    2,987.39 $      293.57
+[ORGANIZATION_003]                304 $    149.41 $    161.59 $   49,123.26 $    3,702.62
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  185,914.46
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/12/2026     SELL     GOOGL        12 $    111.25 $    1,335.00
+04/27/2026     SELL     [ORGANIZATION_002]         84 $    436.76 $   36,687.84
+03/13/2026     BUY      JPM           9 $    269.10 $    2,421.90
+05/05/2026     DIV      [ORGANIZATION_001]         12 $    123.48 $    1,481.76
+05/03/2026     SELL     JPM          44 $    166.48 $    7,325.12
+05/13/2026     DIV      GOOGL        59 $    145.64 $    8,592.76
+05/11/2026     DIV      JPM          11 $    379.27 $    4,171.97
+04/17/2026     SELL     GOOGL       100 $    197.39 $   19,739.00
+05/24/2026     DIV      GOOGL        55 $     55.31 $    3,042.05
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

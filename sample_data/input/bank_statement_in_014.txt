@@ -1,0 +1,51 @@
+============================================================
+                    Peninsula Banking Corporation
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 27, 2026 to May 20, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Gayathri Sunder
+Account Number:    243090674453
+IFSC Code:         SBIN0480385
+PAN:               LTGPZ8876U
+Phone:             +91 95487 13705
+Email:             bawaurmi@example.net
+Date of Birth:     12/25/2004
+Address:           H.No. 749, Edwin Path, Haldia 800520
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Miryalaguda Branch
+Opening Balance:   $6,385.71
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/20/2026     Interest Credit                         4,785.03                    1,600.68
+06/01/2026     ATM Withdrawal - Amritsar               1,944.94                     -344.26
+05/24/2026     Direct Deposit - RUT Corp               4,656.58                   -5,000.84
+05/27/2026     Bill Payment - Utility                  1,724.52                   -6,725.36
+05/23/2026     UPI Transfer                                         3,480.25      -3,245.11
+05/24/2026     Service Charge                          3,340.39                   -6,585.50
+05/11/2026     Bill Payment - Utility                  3,714.02                  -10,299.52
+05/27/2026     Online Transfer to 66755309             3,794.39                  -14,093.91
+05/14/2026     NEFT Transfer                           3,882.79                  -17,976.70
+05/11/2026     Interest Credit                            61.49                  -18,038.19
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $-18,038.19
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Peninsula Banking Corporation
+FDIC Insured | Equal Opportunity Lender
+============================================================

@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_028.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "731, Sanghvi Path, Bhalswa Jahangir Pur-009864",
+      "start": 370,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Unni Dara",
+      "start": 434,
+      "end": 443
+    },
+    {
+      "type": "PAN",
+      "value": "GEYGX9954R",
+      "start": 449,
+      "end": 459
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7009 4148 6077",
+      "start": 469,
+      "end": 483
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/23/1971",
+      "start": 499,
+      "end": 509
+    },
+    {
+      "type": "ADDRESS",
+      "value": "17/652, Barman, Bangalore 012401",
+      "start": 519,
+      "end": 551
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 93150 00830",
+      "start": 559,
+      "end": 574
+    },
+    {
+      "type": "EMAIL",
+      "value": "abharavel@example.net",
+      "start": 582,
+      "end": 603
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "69900379259686",
+      "start": 864,
+      "end": 878
+    }
+  ]
+}

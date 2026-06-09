@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_006.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Shravya Varughese",
+      "start": 349,
+      "end": 366
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "55643607208754",
+      "start": 386,
+      "end": 400
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "BKID0679274",
+      "start": 420,
+      "end": 431
+    },
+    {
+      "type": "PAN",
+      "value": "SZQAH3764P",
+      "start": 451,
+      "end": 461
+    },
+    {
+      "type": "PHONE",
+      "value": "91 81142 80424",
+      "start": 481,
+      "end": 495
+    },
+    {
+      "type": "EMAIL",
+      "value": "qloyal@example.net",
+      "start": 515,
+      "end": 533
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/06/1957",
+      "start": 553,
+      "end": 563
+    },
+    {
+      "type": "ADDRESS",
+      "value": "08/38, Kara Chowk, Bhiwani-433680",
+      "start": 583,
+      "end": 616
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_005]
+Card Number:        [AADHAAR_001]-9605
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 06, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   46,884.57
+Previous Balance:   $    3,593.76
+Payments Received:  $      384.06
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/10/2026     [ORGANIZATION_003], [PERSON_NAME_004] and Barron         $  1,561.55
+05/22/2026     Berry, Blair and Trujillo           $    323.55
+06/05/2026     Weaver Inc                          $  1,814.26
+05/15/2026     [ORGANIZATION_002]$    402.35
+05/20/2026     [PERSON_NAME_003], [ORGANIZATION_001] and Gentry              $  1,141.65
+05/31/2026     Andrews-Harris                      $  1,086.61
+05/15/2026     Porter, [PERSON_NAME_002] and Jimenez           $  1,582.81
+06/01/2026     Lewis, [PERSON_NAME_001] and Davila            $    410.87
+
+-------------------------------------------------------------
+Total Charges:      $    8,323.65
+New Balance:        $   11,533.35
+Minimum Payment:    $      230.67
+
+============================================================

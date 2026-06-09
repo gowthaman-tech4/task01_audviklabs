@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_031.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Robert Bailey",
+      "start": 340,
+      "end": 353
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "596888853542",
+      "start": 373,
+      "end": 385
+    },
+    {
+      "type": "SSN",
+      "value": "246-22-6577",
+      "start": 405,
+      "end": 416
+    },
+    {
+      "type": "PHONE",
+      "value": "8804945386",
+      "start": 436,
+      "end": 446
+    },
+    {
+      "type": "EMAIL",
+      "value": "christopher26@example.com",
+      "start": 466,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/31/1974",
+      "start": 511,
+      "end": 521
+    },
+    {
+      "type": "ADDRESS",
+      "value": "79442 John Prairie, West James, SC 47526",
+      "start": 541,
+      "end": 581
+    }
+  ]
+}

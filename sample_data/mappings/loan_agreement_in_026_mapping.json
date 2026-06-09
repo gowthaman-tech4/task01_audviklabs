@@ -1,0 +1,259 @@
+{
+  "document": "loan_agreement_in_026.txt",
+  "timestamp": "2026-06-09T07:55:37.306907",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "656671",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "297507",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 411,
+        "end": 417
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Panini Naidu",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 435,
+        "end": 447
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "RZWJO1404U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 453,
+        "end": 463
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5433 1277 9392",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 473,
+        "end": 487
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/25/1981",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 503,
+        "end": 513
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "197326",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 556,
+        "end": 562
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "91 65621 86237",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 570,
+        "end": 584
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "imaran46@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 592,
+        "end": 612
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Chaitanya Nori",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 649,
+        "end": 663
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 63445 39222",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 671,
+        "end": 686
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "dprakash@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 694,
+        "end": 714
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "91886460621903",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 974,
+        "end": 988
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 375
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Konda Road",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 396,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_006]",
+      "original": "Alappuzha",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 408,
+        "end": 417
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Nizamabad",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 572,
+        "end": 581
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1053,
+        "end": 1058
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1063,
+        "end": 1073
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1086,
+        "end": 1094
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1357,
+        "end": 1365
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1456,
+        "end": 1462
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Sherri Parks
+Account Number:         6267048774
+SSN:                    600-48-6741
+Email:                  ruth60@example.com
+Phone:                  5673565868
+Correspondence Address: 989 Glenn Villages Suite 046, Howardtown, MO 29412
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+AAPL     Apple Inc.                   473 $    142.68 $    167.23 $   79,097.58 $   11,609.94
+META     Meta Platforms Inc.          377 $    464.87 $    510.35 $  192,401.91 $   17,145.92
+TSLA     Tesla Inc.                   187 $    202.51 $    252.48 $   47,213.44 $    9,344.07
+AMZN     Amazon.com Inc.              208 $    148.51 $    188.41 $   39,189.57 $    8,299.49
+JPM      JPMorgan Chase & Co.         443 $    183.54 $    181.80 $   80,535.92 $     -772.30
+GOOGL    Alphabet Inc.                 95 $    147.51 $    179.78 $   17,079.25 $    3,065.80
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  455,517.67
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/12/2026     DIV      AMZN         34 $    275.12 $    9,354.08
+06/01/2026     SELL     GOOGL         7 $    244.27 $    1,709.89
+05/24/2026     DIV      META          8 $     62.10 $      496.80
+05/06/2026     BUY      AMZN         30 $    352.03 $   10,560.90
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

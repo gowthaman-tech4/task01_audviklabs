@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_029.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "James Bradley",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4078681868",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "188-12-4117",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "denisepham@example.org",
+      "start": 389,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "240-391-1439",
+      "start": 436,
+      "end": 448
+    },
+    {
+      "type": "ADDRESS",
+      "value": "61219 Mitchell Falls Suite 504, Connieport, SC 48515",
+      "start": 473,
+      "end": 525
+    }
+  ]
+}

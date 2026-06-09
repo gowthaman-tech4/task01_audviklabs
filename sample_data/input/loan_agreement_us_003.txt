@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-355695
+Date of Agreement: April 28, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Continental Credit Corporation
+Address: 34418 Stephanie Prairie, West Courtneyton, MN 04948
+
+BORROWER:
+Name: Jacqueline Bartlett
+SSN: 401-98-1392
+Date of Birth: 07/14/1966
+Address: 00958 Brady Park, New Timothyport, NJ 12134
+Phone: (250)973-6982
+Email: michaelbell@example.com
+
+CO-BORROWER (if applicable):
+Name: Derek Oconnell
+Phone: 592-243-5650
+Email: kmunoz@example.net
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    261,831.00
+Interest Rate:              16.67% per annum
+Loan Tenure:                48 months
+EMI Amount:                 $      7,510.52
+Disbursement Account No:    56701060023772
+Disbursement Date:          May 27, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 48 equal monthly installments of $7,510.52.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

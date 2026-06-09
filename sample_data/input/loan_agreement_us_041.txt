@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-267206
+Date of Agreement: June 07, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: Bharat Housing Finance Ltd
+Address: 65065 Morris Crescent, Hendersonland, MI 24724
+
+BORROWER:
+Name: Timothy Benton
+SSN: 439-04-6267
+Date of Birth: 05/18/1974
+Address: 4452 Andrew Cliff Apt. 462, Wolfeton, FM 70285
+Phone: +1-288-610-4938x15709
+Email: michaelhuerta@example.com
+
+CO-BORROWER (if applicable):
+Name: Tamara Mathews
+Phone: 965-717-6188x31173
+Email: jharrell@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    460,095.36
+Interest Rate:              6.15% per annum
+Loan Tenure:                12 months
+EMI Amount:                 $     39,630.49
+Disbursement Account No:    63144701272264
+Disbursement Date:          May 27, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 12 equal monthly installments of $39,630.49.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

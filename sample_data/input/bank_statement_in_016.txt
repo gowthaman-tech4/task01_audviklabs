@@ -1,0 +1,61 @@
+============================================================
+                    Bharath National Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 11, 2026 to May 29, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Pranav Wason
+Account Number:    7696981391307612
+IFSC Code:         HDFC0734282
+PAN:               IIPPI0802L
+Phone:             91 83078 70071
+Email:             dchoudhary@example.com
+Date of Birth:     05/07/1999
+Address:           11, Mane Street, Berhampore-864313
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Savings Account
+Branch:            Mehsana Branch
+Opening Balance:   $70,827.53
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/24/2026     NEFT Transfer                                          509.19      71,336.72
+05/19/2026     Bill Payment - Utility                  3,263.68                   68,073.04
+05/26/2026     UPI Transfer                            4,480.43                   63,592.61
+05/13/2026     ATM Withdrawal - Karimnagar             4,297.71                   59,294.90
+05/31/2026     Bill Payment - Utility                  4,446.77                   54,848.13
+05/20/2026     POS Purchase - Sanghvi Ltd                           4,276.34      59,124.47
+05/22/2026     NEFT Transfer                           3,780.20                   55,344.27
+06/06/2026     Service Charge                          3,762.34                   51,581.93
+05/21/2026     ATM Withdrawal - Nadiad                              2,201.38      53,783.31
+05/10/2026     POS Purchase - Mishra PLC                 962.22                   52,821.09
+05/09/2026     Service Charge                          2,519.18                   50,301.91
+05/31/2026     NEFT Transfer                           4,582.55                   45,719.36
+06/04/2026     Service Charge                             37.95                   45,681.41
+05/18/2026     Service Charge                          4,592.58                   41,088.83
+05/09/2026     ATM Withdrawal - Akola                  3,655.97                   37,432.86
+06/06/2026     ATM Withdrawal - Vadodara                 135.96                   37,296.90
+05/09/2026     ATM Withdrawal - Jalgaon                1,563.90                   35,733.00
+05/29/2026     NEFT Transfer                                        1,707.00      37,440.00
+05/12/2026     NEFT Transfer                                        1,266.68      38,706.68
+06/07/2026     ATM Withdrawal - Guntur                 1,690.60                   37,016.08
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $37,016.08
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Bharath National Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

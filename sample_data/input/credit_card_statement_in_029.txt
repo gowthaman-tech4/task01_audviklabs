@@ -1,0 +1,40 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Lekha Banerjee
+Card Number:        4785-3033-5745-2474
+Billing Address:    944, Bir, Agra-255584
+Phone:              91 95156 30142
+Email:              sahaanay@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 23, 2026
+Payment Due Date:   June 25, 2026
+Credit Limit:       $   49,979.33
+Previous Balance:   $   11,522.57
+Payments Received:  $    1,750.49
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/20/2026     Dar, Dube and Bhavsar               $  1,571.48
+05/12/2026     Sibal Ltd                           $  1,075.13
+05/19/2026     Solanki-Pai                         $    476.38
+05/24/2026     Krish, Chand and Bajwa              $  1,543.07
+06/06/2026     Viswanathan-Narain                  $    586.59
+05/21/2026     Manda Inc                           $  1,328.41
+05/25/2026     Luthra-Saran                        $    140.64
+06/06/2026     Bala, Menon and Patla               $     81.48
+06/07/2026     Pathak, Chokshi and Kumar           $  1,135.26
+
+-------------------------------------------------------------
+Total Charges:      $    7,938.44
+New Balance:        $   17,710.52
+Minimum Payment:    $      354.21
+
+============================================================

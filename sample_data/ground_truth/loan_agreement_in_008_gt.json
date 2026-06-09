@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_008.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "33/043, Prabhu Nagar, Katihar 977130",
+      "start": 372,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ekalinga Saran",
+      "start": 426,
+      "end": 440
+    },
+    {
+      "type": "PAN",
+      "value": "BWBGW5646H",
+      "start": 446,
+      "end": 456
+    },
+    {
+      "type": "AADHAAR",
+      "value": "2041 0042 3265",
+      "start": 466,
+      "end": 480
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/25/1994",
+      "start": 496,
+      "end": 506
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 902, Saxena Marg, Bharatpur-442858",
+      "start": 516,
+      "end": 556
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 83119 11336",
+      "start": 564,
+      "end": 579
+    },
+    {
+      "type": "EMAIL",
+      "value": "tlalla@example.org",
+      "start": 587,
+      "end": 605
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Krish Banerjee",
+      "start": 642,
+      "end": 656
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 75989 97642",
+      "start": 664,
+      "end": 679
+    },
+    {
+      "type": "EMAIL",
+      "value": "amritadoshi@example.org",
+      "start": 687,
+      "end": 710
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "75553628174953",
+      "start": 969,
+      "end": 983
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_009]
+Card Number:        [AADHAAR_001]-0400
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 21, 2026
+Payment Due Date:   June 28, 2026
+Credit Limit:       $   10,613.15
+Previous Balance:   $    5,021.35
+Payments Received:  $    3,471.18
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     [PERSON_NAME_008], [ORGANIZATION_009]$  1,476.64
+05/18/2026     Moore and Sons                      $    372.17
+05/27/2026     [ORGANIZATION_008]$  1,919.94
+05/29/2026     Noble PLC                           $  1,111.38
+05/20/2026     [ORGANIZATION_007], Lee and Torres              $  1,446.42
+06/02/2026     Garrett, [PERSON_NAME_007] and Valdez         $  1,230.26
+05/14/2026     Lewis and Sons                      $  1,983.60
+[ORGANIZATION_006]$  1,956.29
+05/29/2026     Duke, [PERSON_NAME_006] and [PERSON_NAME_005]           $  1,167.44
+05/20/2026     [ORGANIZATION_005]$  1,483.59
+05/25/2026     [PERSON_NAME_004], [PERSON_NAME_003] and [ORGANIZATION_004]       $  1,972.70
+05/14/2026     [ORGANIZATION_003], [ORGANIZATION_002] and [PERSON_NAME_002]              $  1,729.86
+05/09/2026     [ORGANIZATION_001]$  1,498.13
+05/20/2026     [PERSON_NAME_001], Frazier and Manning          $     92.90
+
+-------------------------------------------------------------
+Total Charges:      $   19,441.32
+New Balance:        $   20,991.49
+Minimum Payment:    $      419.83
+
+============================================================

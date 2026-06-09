@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_014.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "626, Vasa Chowk, Dibrugarh-114832",
+      "start": 370,
+      "end": 403
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ayushman Bajaj",
+      "start": 421,
+      "end": 435
+    },
+    {
+      "type": "PAN",
+      "value": "YWMLQ4606D",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6510 1623 8177",
+      "start": 461,
+      "end": 475
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/17/1971",
+      "start": 491,
+      "end": 501
+    },
+    {
+      "type": "ADDRESS",
+      "value": "55/29, Kothari Circle, Haridwar-845518",
+      "start": 511,
+      "end": 549
+    },
+    {
+      "type": "PHONE",
+      "value": "91 94977 53353",
+      "start": 557,
+      "end": 571
+    },
+    {
+      "type": "EMAIL",
+      "value": "zlata@example.org",
+      "start": 579,
+      "end": 596
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "73851502722227",
+      "start": 856,
+      "end": 870
+    }
+  ]
+}

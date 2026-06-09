@@ -1,0 +1,182 @@
+{
+  "document": "bank_statement_in_029.txt",
+  "timestamp": "2026-06-09T07:53:50.510397",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 4,
+    "ACCOUNT_NUMBER": 3,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Bachittar Dugal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 344,
+        "end": 359
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "653712799696383",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 379,
+        "end": 394
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "SBIN0619470",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 414,
+        "end": 425
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "TJOGU3238P",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 445,
+        "end": 455
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 92021 91239",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 489
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "rachanaradhakrishnan@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 509,
+        "end": 541
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/18/1996",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 561,
+        "end": 571
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "65, Doctor Nagar, Nandyal 085548",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 591,
+        "end": 623
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "76605980",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1015,
+        "end": 1023
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Purchase - Anne",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1092,
+        "end": 1107
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Pant",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1109,
+        "end": 1113
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Iyer      1,199.62",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1118,
+        "end": 1136
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "22984840",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1659,
+        "end": 1667
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/15/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1823,
+        "end": 1845
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Bharath National Bank\nFDIC Insured",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2471,
+        "end": 2505
+      }
+    }
+  ]
+}

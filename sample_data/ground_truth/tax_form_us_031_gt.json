@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_031.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "574-28-2004",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "64-6402691",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "Lewis-Oconnell",
+      "start": 353,
+      "end": 367
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2175 Smith Branch, Johnstad, RI 63110",
+      "start": 371,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Brandon Marshall",
+      "start": 432,
+      "end": 448
+    },
+    {
+      "type": "ADDRESS",
+      "value": "5636 Maureen Ridges, Lake Anneside, FM 09462",
+      "start": 488,
+      "end": 532
+    }
+  ]
+}

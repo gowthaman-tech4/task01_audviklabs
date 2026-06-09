@@ -1,0 +1,225 @@
+{
+  "document": "tax_form_in_030.txt",
+  "timestamp": "2026-06-09T08:03:06.444003",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Barad",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 358,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "331401",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 459,
+        "end": 465
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 480,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Meera Bains",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 517,
+        "end": 528
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "RTQJF0103C",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 553,
+        "end": 563
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "4302 7401 5729",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 588,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "15/04/1984",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 627,
+        "end": 637
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "423882",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 694,
+        "end": 700
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "krishnavohra@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 725,
+        "end": 749
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 87251 35414",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 774,
+        "end": 788
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 801,
+        "end": 812
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 817,
+        "end": 829
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_008]",
+      "original": "Randhawa",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 354,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Shanker\nTAN",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 397
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Nadig",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 463,
+        "end": 468
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Kale Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 717,
+        "end": 727
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1095,
+        "end": 1129
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1208,
+        "end": 1236
+      }
+    }
+  ]
+}

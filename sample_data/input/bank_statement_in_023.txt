@@ -1,0 +1,57 @@
+============================================================
+                    Kaveri State Bank
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: May 01, 2026 to May 16, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Dhruv Singhal
+Account Number:    80216684446
+IFSC Code:         AXIS0604656
+PAN:               UYPGM0873W
+Phone:             91 91466 25286
+Email:             vedhika12@example.net
+Date of Birth:     09/01/1970
+Address:           74, Bakshi Chowk, Chennai 768588
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Yamunanagar Branch
+Opening Balance:   $134,344.57
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/11/2026     Direct Deposit - DIH Corp               1,575.15                  132,769.42
+05/14/2026     UPI Transfer                            4,708.85                  128,060.57
+05/23/2026     Interest Credit                         2,240.77                  125,819.80
+05/25/2026     Online Transfer to 65523924             1,793.03                  124,026.77
+05/29/2026     Interest Credit                         3,613.68                  120,413.09
+06/03/2026     Service Charge                          4,346.49                  116,066.60
+05/15/2026     Online Transfer to 96456009             1,353.00                  114,713.60
+06/02/2026     NEFT Transfer                           1,115.32                  113,598.28
+05/31/2026     NEFT Transfer                           2,345.25                  111,253.03
+05/30/2026     Service Charge                          4,400.79                  106,852.24
+05/10/2026     UPI Transfer                                         4,346.89     111,199.13
+05/26/2026     Check #9945                                            734.45     111,933.58
+05/27/2026     Interest Credit                                      3,925.46     115,859.04
+05/16/2026     NEFT Transfer                           3,140.68                  112,718.36
+05/14/2026     Check #5971                                          1,055.43     113,773.79
+06/07/2026     Check #1883                             1,732.51                  112,041.28
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $112,041.28
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Kaveri State Bank
+FDIC Insured | Equal Opportunity Lender
+============================================================

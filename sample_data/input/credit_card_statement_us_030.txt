@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Sarah Lane
+Card Number:        4407-6683-9932-0493
+Billing Address:    97873 Hickman Spurs Apt. 296, West Katrina, TN 17376
+Phone:              441.765.0988x4787
+Email:              jameslarson@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 12, 2026
+Payment Due Date:   July 01, 2026
+Credit Limit:       $   31,008.35
+Previous Balance:   $    7,938.79
+Payments Received:  $    6,764.41
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/18/2026     Jenkins Group                       $    560.40
+06/04/2026     Torres-Ramirez                      $    978.66
+05/21/2026     Williams, Harris and White          $    767.54
+05/13/2026     Williams LLC                        $    383.97
+06/01/2026     Stewart Inc                         $  1,745.12
+06/04/2026     Barrera-Ruiz                        $    493.58
+06/03/2026     Perkins-Hampton                     $    104.81
+05/28/2026     Parker-Lowe                         $    612.30
+05/29/2026     Livingston and Sons                 $    246.47
+05/27/2026     Banks-Johnson                       $  1,074.71
+
+-------------------------------------------------------------
+Total Charges:      $    6,967.56
+New Balance:        $    8,141.94
+Minimum Payment:    $      162.84
+
+============================================================

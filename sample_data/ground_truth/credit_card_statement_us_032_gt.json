@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_032.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Holly Gallegos",
+      "start": 219,
+      "end": 233
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4917-0234-1591-1433",
+      "start": 254,
+      "end": 273
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2393 Austin Rapids Suite 089, Fergusonside, PA 63939",
+      "start": 294,
+      "end": 346
+    },
+    {
+      "type": "PHONE",
+      "value": "(734)229-2400x8277",
+      "start": 367,
+      "end": 385
+    },
+    {
+      "type": "EMAIL",
+      "value": "fcampbell@example.com",
+      "start": 406,
+      "end": 427
+    }
+  ]
+}

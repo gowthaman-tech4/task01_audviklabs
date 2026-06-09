@@ -1,0 +1,115 @@
+{
+  "document": "bank_statement_us_011.txt",
+  "timestamp": "2026-06-09T07:53:56.802170",
+  "total_entities_masked": 9,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "PHONE": 2,
+    "SSN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Theresa Mitchell",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 345,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "069113411754",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 381,
+        "end": 393
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "429-84-3159",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 413,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(729)556-7723x5996",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 444,
+        "end": 462
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "rsanders@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 482,
+        "end": 502
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/12/1966",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 522,
+        "end": 532
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "850 Banks Mountains Suite 691, Port Jake, ME 03722",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 552,
+        "end": 602
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "59872481",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1074,
+        "end": 1082
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "4,380.15",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2107,
+        "end": 2115
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "document": "bank_statement_in_027.txt",
+  "timestamp": "2026-06-09T07:53:50.028703",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 2,
+    "PHONE": 2,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1,
+    "ACCOUNT_NUMBER": 3
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Krishna Ranganathan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 347,
+        "end": 366
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "5541793707",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 386,
+        "end": 396
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0493079",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 416,
+        "end": 427
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "ZHTCU4053V",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 447,
+        "end": 457
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 84563 88768",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 477,
+        "end": 491
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "modiayushman@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 511,
+        "end": 535
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "09/12/1984",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 555,
+        "end": 565
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "52/00, Khurana Road, Vasai-Virar-088243",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 585,
+        "end": 624
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "22507724",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1363,
+        "end": 1371
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Rana",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1549,
+        "end": 1553
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "35951013",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2101,
+        "end": 2109
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "69459494",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2193,
+        "end": 2201
+      }
+    }
+  ]
+}

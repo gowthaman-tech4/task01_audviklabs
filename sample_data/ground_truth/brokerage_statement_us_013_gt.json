@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_013.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kim Reid",
+      "start": 280,
+      "end": 288
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "6360335023",
+      "start": 313,
+      "end": 323
+    },
+    {
+      "type": "SSN",
+      "value": "301-35-0252",
+      "start": 348,
+      "end": 359
+    },
+    {
+      "type": "EMAIL",
+      "value": "carlos16@example.org",
+      "start": 384,
+      "end": 404
+    },
+    {
+      "type": "PHONE",
+      "value": "268-600-9344x9934",
+      "start": 429,
+      "end": 446
+    },
+    {
+      "type": "ADDRESS",
+      "value": "627 Jason Burgs Apt. 888, Gomezville, MP 06283",
+      "start": 471,
+      "end": 517
+    }
+  ]
+}

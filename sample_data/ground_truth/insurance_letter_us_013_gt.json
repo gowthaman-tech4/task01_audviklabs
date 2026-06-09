@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_013.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Spencer Hubbard",
+      "start": 313,
+      "end": 328
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Scott Acosta",
+      "start": 485,
+      "end": 497
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/07/1975",
+      "start": 518,
+      "end": 528
+    },
+    {
+      "type": "ADDRESS",
+      "value": "9116 Jeffrey Isle Apt. 911, Bakerborough, IN 27308",
+      "start": 549,
+      "end": 599
+    },
+    {
+      "type": "PHONE",
+      "value": "(659)335-8748x422",
+      "start": 620,
+      "end": 637
+    },
+    {
+      "type": "EMAIL",
+      "value": "brandyjones@example.org",
+      "start": 658,
+      "end": 681
+    },
+    {
+      "type": "SSN",
+      "value": "321-94-2427",
+      "start": 702,
+      "end": 713
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Crystal Long",
+      "start": 760,
+      "end": 772
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/27/1984",
+      "start": 822,
+      "end": 832
+    }
+  ]
+}

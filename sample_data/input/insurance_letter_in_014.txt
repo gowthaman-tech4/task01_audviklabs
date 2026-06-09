@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-1009341
+Policy Type: Term Insurance
+Date of Issue: December 22, 2025
+
+Dear Aadi Kakar,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Ijaya Tiwari
+Date of Birth:      05/01/1988
+Address:            26/72, Das Marg, Imphal 084424
+Phone:              91 65587 73544
+Email:              basakisaac@example.org
+PAN:                KDRJX9860X
+Aadhaar:            2528 2080 1108
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Aarnav Datta
+Relationship:       Father
+Nominee DOB:        11/11/2006
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,026,098.51
+Annual Premium:     $     18,603.67
+Policy Term:        10 years
+Premium Payment:    Annual
+Risk Commencement:  June 23, 2025
+Maturity Date:      October 19, 2051
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_023.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Ranveer Lal",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4334-1900-3451-1392",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "00/378, Merchant, Hajipur-403142",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "type": "PHONE",
+      "value": "91 77262 23078",
+      "start": 344,
+      "end": 358
+    },
+    {
+      "type": "EMAIL",
+      "value": "voravedant@example.com",
+      "start": 379,
+      "end": 401
+    }
+  ]
+}

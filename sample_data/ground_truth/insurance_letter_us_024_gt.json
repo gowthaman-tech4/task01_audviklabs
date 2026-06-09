@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_024.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Henry Hughes",
+      "start": 312,
+      "end": 324
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Tina Brown",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "06/15/1989",
+      "start": 512,
+      "end": 522
+    },
+    {
+      "type": "ADDRESS",
+      "value": "1862 Carl Streets, East Philip, IN 12320",
+      "start": 543,
+      "end": 583
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-853-822-5564x79550",
+      "start": 604,
+      "end": 625
+    },
+    {
+      "type": "EMAIL",
+      "value": "qbell@example.org",
+      "start": 646,
+      "end": 663
+    },
+    {
+      "type": "SSN",
+      "value": "495-76-2513",
+      "start": 684,
+      "end": 695
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Kara Crosby",
+      "start": 742,
+      "end": 753
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/23/2005",
+      "start": 801,
+      "end": 811
+    }
+  ]
+}

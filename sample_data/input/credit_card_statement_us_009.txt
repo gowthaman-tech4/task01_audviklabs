@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Thomas Riddle
+Card Number:        4119-5424-3885-0332
+Billing Address:    61367 Dennis Flats, Michelleton, VA 17141
+Phone:              240-655-9681x41460
+Email:              dferguson@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 19, 2026
+Payment Due Date:   July 01, 2026
+Credit Limit:       $   49,656.95
+Previous Balance:   $    1,181.96
+Payments Received:  $    1,099.83
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/29/2026     Mckay Ltd                           $    244.13
+05/20/2026     Reyes-Jimenez                       $  1,208.00
+05/24/2026     Stone Group                         $    522.48
+05/20/2026     Curtis and Sons                     $    520.75
+05/14/2026     Thomas-Navarro                      $  1,013.72
+05/13/2026     Williams-Patel                      $  1,381.87
+05/17/2026     Wilson, Marks and Cruz              $     77.13
+05/29/2026     Mendez-Mckay                        $    501.43
+05/20/2026     Park-Moss                           $    923.74
+05/31/2026     Rogers, Carlson and Chase           $    385.85
+
+-------------------------------------------------------------
+Total Charges:      $    6,779.10
+New Balance:        $    6,861.23
+Minimum Payment:    $      137.22
+
+============================================================

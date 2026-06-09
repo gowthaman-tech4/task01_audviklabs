@@ -1,0 +1,56 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 25, 2026 to May 13, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              Justin Mitchell
+Account Number:    044801983747
+SSN:               244-91-6406
+Phone:             9725828479
+Email:             chelseathomas@example.com
+Date of Birth:     02/01/1982
+Address:           10932 Timothy Road, Port Christopher, AZ 34295
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            Port Paulashire Branch
+Opening Balance:   $61,795.88
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+06/06/2026     Direct Deposit - CXO Corp                              157.24      61,953.12
+05/13/2026     Bill Payment - Utility                  2,205.31                   59,747.81
+05/10/2026     ATM Withdrawal - Hornport                            4,630.29      64,378.10
+05/09/2026     ATM Withdrawal - Lucasmouth                          2,725.80      67,103.90
+05/29/2026     Direct Deposit - XGD Corp               2,313.54                   64,790.36
+05/10/2026     NEFT Transfer                                        1,158.12      65,948.48
+06/05/2026     NEFT Transfer                           1,893.32                   64,055.16
+05/13/2026     Interest Credit                         2,607.48                   61,447.68
+05/19/2026     ATM Withdrawal - East Kimberly          2,786.67                   58,661.01
+05/21/2026     ATM Withdrawal - East Samanthabury        228.37                   58,432.64
+06/04/2026     UPI Transfer                            3,877.45                   54,555.19
+06/06/2026     Bill Payment - Utility                    521.58                   54,033.61
+05/30/2026     ATM Withdrawal - North Steven                        4,072.43      58,106.04
+05/28/2026     Bill Payment - Utility                  3,145.23                   54,960.81
+06/02/2026     ATM Withdrawal - Lauramouth             2,222.18                   52,738.63
+06/02/2026     Check #9124                             3,522.95                   49,215.68
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $49,215.68
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

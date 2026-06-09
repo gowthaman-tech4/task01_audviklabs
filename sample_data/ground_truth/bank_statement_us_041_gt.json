@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_041.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Mrs. Latoya Phelps",
+      "start": 340,
+      "end": 358
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "693581226646",
+      "start": 378,
+      "end": 390
+    },
+    {
+      "type": "SSN",
+      "value": "470-10-2424",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PHONE",
+      "value": "(340)449-9965",
+      "start": 441,
+      "end": 454
+    },
+    {
+      "type": "EMAIL",
+      "value": "ymorris@example.net",
+      "start": 474,
+      "end": 493
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/23/1985",
+      "start": 513,
+      "end": 523
+    },
+    {
+      "type": "ADDRESS",
+      "value": "44859 Wright Locks Suite 673, North Kristin, NY 55298",
+      "start": 543,
+      "end": 596
+    }
+  ]
+}

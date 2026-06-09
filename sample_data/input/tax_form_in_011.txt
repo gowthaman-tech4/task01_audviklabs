@@ -1,0 +1,43 @@
+============================================================
+              FORM 16 - CERTIFICATE UNDER
+         SECTION 203 OF THE INCOME TAX ACT, 1961
+                FOR TAX DEDUCTED AT SOURCE
+              Assessment Year: 2025-2026
+============================================================
+
+--- EMPLOYER DETAILS ---
+
+Name of the Deductor:   Sarraf-Trivedi
+TAN of the Deductor:    KNUR35984B
+Address:                52/875, Bedi Chowk, Ramgarh 528789
+
+--- EMPLOYEE DETAILS ---
+
+Name of the Employee:   Gaurav Kumer
+PAN of the Employee:    YOJFP8520I
+Aadhaar Number:         5455 4874 4313
+Date of Birth:          24/04/1982
+Address:                88/97, Borde Path, Ambarnath-755135
+Email:                  tamannakant@example.net
+Mobile:                 +91 78536 63544
+
+--- SALARY DETAILS ---
+
+1. Gross Salary
+   (a) Salary as per Section 17(1)     Rs.     592,923.47
+   (b) Value of perquisites u/s 17(2)  Rs.      42,440.52
+   (c) Profits in lieu of salary 17(3) Rs.           0.00
+
+2. Less: Exemptions under Section 10
+   (a) HRA Exemption                   Rs.      71,150.82
+   (b) LTA Exemption                   Rs.      23,615.08
+
+3. Standard Deduction u/s 16(ia)       Rs.      50,000.00
+
+4. Taxable Income                      Rs.     471,772.65
+5. Tax on Total Income                 Rs.      94,354.53
+6. Less: Rebate u/s 87A               Rs.           0.00
+7. Education Cess @ 4%                 Rs.       3,774.18
+8. Total Tax Payable                   Rs.      98,128.71
+
+============================================================

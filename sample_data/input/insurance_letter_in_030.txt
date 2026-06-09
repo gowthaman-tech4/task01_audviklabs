@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-9106874
+Policy Type: Home Insurance
+Date of Issue: November 07, 2025
+
+Dear Aarini Subramanian,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Chakradev Bava
+Date of Birth:      05/15/1991
+Address:            27/172, Lad Circle, Hajipur-027522
+Phone:              91 60684 91999
+Email:              ykala@example.net
+PAN:                OWGFU4013E
+Aadhaar:            9276 7765 5068
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Zayyan Lad
+Relationship:       Father
+Nominee DOB:        10/26/2024
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  3,379,161.16
+Annual Premium:     $     11,002.34
+Policy Term:        10 years
+Premium Payment:    Monthly
+Risk Commencement:  August 31, 2025
+Maturity Date:      September 11, 2039
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

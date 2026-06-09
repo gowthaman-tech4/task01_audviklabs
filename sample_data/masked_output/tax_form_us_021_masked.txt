@@ -1,0 +1,37 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee[PERSON_NAME_004]
+   [SSN_001]
+
+b  Employer Identification Number (EIN)
+   29-[ACCOUNT_NUMBER_001]
+
+c  Employer's Name, Address[ADDRESS_002]
+
+e  Employee[PERSON_NAME_003]
+   [PERSON_NAME_002]
+
+f  Employee[PERSON_NAME_001]
+   [ADDRESS_001]
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  167,550.70
+2  Federal income tax withheld         $   43,097.75
+3  [ORGANIZATION_005] wages               $  160,200.00
+4  [ORGANIZATION_004] tax withheld        $    9,932.40
+5  [ORGANIZATION_003] wages and tips             $  167,550.70
+6  Medicare tax withheld               $    2,429.49
+
+12a [ORGANIZATION_002]
+
+--- STATE TAX INFORMATION ---
+
+15 [ORGANIZATION_001]: MO
+16 State wages                         $  167,550.70
+17 State income tax                    $   11,336.54
+
+============================================================

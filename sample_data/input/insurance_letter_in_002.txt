@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-7506732
+Policy Type: Life Insurance
+Date of Issue: July 10, 2025
+
+Dear Girik Loyal,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Kamya Jani
+Date of Birth:      10/03/1977
+Address:            07/77, Raval Path, Nagercoil-490172
+Phone:              91 88310 74763
+Email:              gopal26@example.com
+PAN:                YTJBT7001D
+Aadhaar:            4647 0253 8100
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Advaith Mannan
+Relationship:       Daughter
+Nominee DOB:        09/01/2013
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,679,766.82
+Annual Premium:     $     15,173.60
+Policy Term:        20 years
+Premium Payment:    Monthly
+Risk Commencement:  August 12, 2025
+Maturity Date:      February 07, 2048
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

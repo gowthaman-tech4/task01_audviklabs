@@ -1,0 +1,80 @@
+{
+  "document": "loan_agreement_us_022.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 12,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 336,
+      "end": 363
+    },
+    {
+      "type": "ADDRESS",
+      "value": "98383 Rivas Shoal, Tarabury, CO 24862",
+      "start": 373,
+      "end": 410
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jamie Murray",
+      "start": 428,
+      "end": 440
+    },
+    {
+      "type": "SSN",
+      "value": "291-78-8909",
+      "start": 446,
+      "end": 457
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/11/2001",
+      "start": 473,
+      "end": 483
+    },
+    {
+      "type": "ADDRESS",
+      "value": "82687 Hogan Track Apt. 765, East Austinfurt, PW 70341",
+      "start": 493,
+      "end": 546
+    },
+    {
+      "type": "PHONE",
+      "value": "(467)400-8295",
+      "start": 554,
+      "end": 567
+    },
+    {
+      "type": "EMAIL",
+      "value": "bperry@example.com",
+      "start": 575,
+      "end": 593
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Joshua Alvarez",
+      "start": 630,
+      "end": 644
+    },
+    {
+      "type": "PHONE",
+      "value": "760-245-2883x086",
+      "start": 652,
+      "end": 668
+    },
+    {
+      "type": "EMAIL",
+      "value": "rodney49@example.com",
+      "start": 676,
+      "end": 696
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "22883909347766",
+      "start": 957,
+      "end": 971
+    }
+  ]
+}

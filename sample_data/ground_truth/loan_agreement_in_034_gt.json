@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_034.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 338,
+      "end": 362
+    },
+    {
+      "type": "ADDRESS",
+      "value": "35, Prabhu Path, Suryapet-113660",
+      "start": 372,
+      "end": 404
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Nicholas Kuruvilla",
+      "start": 422,
+      "end": 440
+    },
+    {
+      "type": "PAN",
+      "value": "IJSCC0407F",
+      "start": 446,
+      "end": 456
+    },
+    {
+      "type": "AADHAAR",
+      "value": "6862 7327 0852",
+      "start": 466,
+      "end": 480
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "09/27/2004",
+      "start": 496,
+      "end": 506
+    },
+    {
+      "type": "ADDRESS",
+      "value": "55/41, Prabhakar Nagar, Phusro 835707",
+      "start": 516,
+      "end": 553
+    },
+    {
+      "type": "PHONE",
+      "value": "91 84497 47806",
+      "start": 561,
+      "end": 575
+    },
+    {
+      "type": "EMAIL",
+      "value": "william76@example.net",
+      "start": 583,
+      "end": 604
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Avi Parekh",
+      "start": 641,
+      "end": 651
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 96755 52704",
+      "start": 659,
+      "end": 674
+    },
+    {
+      "type": "EMAIL",
+      "value": "ftiwari@example.net",
+      "start": 682,
+      "end": 701
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "61693598145734",
+      "start": 967,
+      "end": 981
+    }
+  ]
+}

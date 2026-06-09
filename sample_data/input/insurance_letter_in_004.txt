@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-2154231
+Policy Type: Term Insurance
+Date of Issue: January 19, 2026
+
+Dear Rehaan Buch,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Hema Bains
+Date of Birth:      04/11/1984
+Address:            00/92, Pandya Circle, Saharanpur 042384
+Phone:              91 63682 29019
+Email:              waliutkarsh@example.com
+PAN:                LDQLA2226H
+Aadhaar:            7426 4691 3984
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Bishakha Chakrabarti
+Relationship:       Father
+Nominee DOB:        03/23/2005
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $    316,779.94
+Annual Premium:     $     21,557.30
+Policy Term:        20 years
+Premium Payment:    Monthly
+Risk Commencement:  January 03, 2026
+Maturity Date:      February 20, 2053
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_009.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Bharat Housing Finance Ltd",
+      "start": 338,
+      "end": 364
+    },
+    {
+      "type": "ADDRESS",
+      "value": "6374 Mercado Fork, Matthewstad, WI 95297",
+      "start": 374,
+      "end": 414
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Joshua Scott",
+      "start": 432,
+      "end": 444
+    },
+    {
+      "type": "SSN",
+      "value": "338-63-4509",
+      "start": 450,
+      "end": 461
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/24/1993",
+      "start": 477,
+      "end": 487
+    },
+    {
+      "type": "ADDRESS",
+      "value": "2880 Jerome Flat, Marcustown, OK 50097",
+      "start": 497,
+      "end": 535
+    },
+    {
+      "type": "PHONE",
+      "value": "2063374280",
+      "start": 543,
+      "end": 553
+    },
+    {
+      "type": "EMAIL",
+      "value": "tvaldez@example.net",
+      "start": 561,
+      "end": 580
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "99333787546315",
+      "start": 841,
+      "end": 855
+    }
+  ]
+}

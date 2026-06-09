@@ -1,0 +1,68 @@
+{
+  "document": "loan_agreement_in_002.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "First National Lending Corp",
+      "start": 338,
+      "end": 365
+    },
+    {
+      "type": "ADDRESS",
+      "value": "08/27, Banik, Karnal-665366",
+      "start": 375,
+      "end": 402
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Aashi Ramachandran",
+      "start": 420,
+      "end": 438
+    },
+    {
+      "type": "PAN",
+      "value": "OEMTB0864G",
+      "start": 444,
+      "end": 454
+    },
+    {
+      "type": "AADHAAR",
+      "value": "8387 7371 0034",
+      "start": 464,
+      "end": 478
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/15/1970",
+      "start": 494,
+      "end": 504
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 05, Korpal Marg, Faridabad-513857",
+      "start": 514,
+      "end": 553
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 63729 94776",
+      "start": 561,
+      "end": 576
+    },
+    {
+      "type": "EMAIL",
+      "value": "divya75@example.org",
+      "start": 584,
+      "end": 603
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "38460734832853",
+      "start": 864,
+      "end": 878
+    }
+  ]
+}

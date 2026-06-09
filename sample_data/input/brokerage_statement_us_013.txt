@@ -1,0 +1,41 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Kim Reid
+Account Number:         6360335023
+SSN:                    301-35-0252
+Email:                  carlos16@example.org
+Phone:                  268-600-9344x9934
+Correspondence Address: 627 Jason Burgs Apt. 888, Gomezville, MP 06283
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.          475 $    423.98 $    405.97 $  192,837.04 $   -8,553.46
+MSFT     Microsoft Corp.              239 $    358.75 $    368.53 $   88,079.56 $    2,338.31
+AAPL     Apple Inc.                   318 $    168.69 $    164.67 $   52,365.57 $   -1,277.85
+NVDA     NVIDIA Corp.                 226 $    650.95 $    888.42 $  200,782.78 $   53,668.08
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  534,064.95
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+06/07/2026     BUY      NVDA         37 $     75.09 $    2,778.33
+06/01/2026     BUY      NVDA         94 $     67.02 $    6,299.88
+04/26/2026     BUY      AAPL         41 $    157.80 $    6,469.80
+04/23/2026     DIV      META         19 $    185.51 $    3,524.69
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

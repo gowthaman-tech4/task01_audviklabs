@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_009.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Hema Seth",
+      "start": 219,
+      "end": 228
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4217-8679-2239-5895",
+      "start": 249,
+      "end": 268
+    },
+    {
+      "type": "ADDRESS",
+      "value": "59/472, Edwin, Pune 414933",
+      "start": 289,
+      "end": 315
+    },
+    {
+      "type": "PHONE",
+      "value": "91 89417 19451",
+      "start": 336,
+      "end": 350
+    },
+    {
+      "type": "EMAIL",
+      "value": "orinder49@example.net",
+      "start": 371,
+      "end": 392
+    }
+  ]
+}

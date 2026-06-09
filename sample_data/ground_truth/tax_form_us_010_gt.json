@@ -1,0 +1,44 @@
+{
+  "document": "tax_form_us_010.txt",
+  "document_type": "tax_form",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "SSN",
+      "value": "506-24-0625",
+      "start": 240,
+      "end": 251
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "82-5508691",
+      "start": 296,
+      "end": 306
+    },
+    {
+      "type": "ORGANIZATION",
+      "value": "White-Johnson",
+      "start": 353,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "50241 Charles Track Apt. 249, Lake Shawna, VA 26186",
+      "start": 370,
+      "end": 421
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Lonnie Harmon",
+      "start": 445,
+      "end": 458
+    },
+    {
+      "type": "ADDRESS",
+      "value": "PSC 3070, Box 2709, APO AA 22196",
+      "start": 498,
+      "end": 530
+    }
+  ]
+}

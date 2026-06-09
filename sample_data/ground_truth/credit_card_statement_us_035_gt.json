@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_035.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Michael Davis",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4827-7284-4741-3773",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "337 Clark Greens Suite 907, Andersonmouth, VT 86989",
+      "start": 293,
+      "end": 344
+    },
+    {
+      "type": "PHONE",
+      "value": "862-781-4980x89970",
+      "start": 365,
+      "end": 383
+    },
+    {
+      "type": "EMAIL",
+      "value": "kaufmankelly@example.com",
+      "start": 404,
+      "end": 428
+    }
+  ]
+}

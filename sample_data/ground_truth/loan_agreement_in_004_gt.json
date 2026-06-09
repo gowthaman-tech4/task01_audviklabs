@@ -1,0 +1,86 @@
+{
+  "document": "loan_agreement_in_004.txt",
+  "document_type": "loan_agreement",
+  "locale": "in",
+  "total_pii_entities": 13,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Continental Credit Corporation",
+      "start": 336,
+      "end": 366
+    },
+    {
+      "type": "ADDRESS",
+      "value": "538, Upadhyay Ganj, Bharatpur-619388",
+      "start": 376,
+      "end": 412
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Unnati Morar",
+      "start": 430,
+      "end": 442
+    },
+    {
+      "type": "PAN",
+      "value": "FRNAQ7734T",
+      "start": 448,
+      "end": 458
+    },
+    {
+      "type": "AADHAAR",
+      "value": "5558 6702 1855",
+      "start": 468,
+      "end": 482
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "07/13/1979",
+      "start": 498,
+      "end": 508
+    },
+    {
+      "type": "ADDRESS",
+      "value": "710, Kapadia, Guwahati 930235",
+      "start": 518,
+      "end": 547
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 66960 13150",
+      "start": 555,
+      "end": 570
+    },
+    {
+      "type": "EMAIL",
+      "value": "olivervohra@example.org",
+      "start": 578,
+      "end": 601
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Ishwar Bawa",
+      "start": 638,
+      "end": 649
+    },
+    {
+      "type": "PHONE",
+      "value": "91 63260 69033",
+      "start": 657,
+      "end": 671
+    },
+    {
+      "type": "EMAIL",
+      "value": "warinder31@example.org",
+      "start": 679,
+      "end": 701
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "32602972538030",
+      "start": 962,
+      "end": 976
+    }
+  ]
+}

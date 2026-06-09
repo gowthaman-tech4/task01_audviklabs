@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_009.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Thomas Riddle",
+      "start": 219,
+      "end": 232
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4119-5424-3885-0332",
+      "start": 253,
+      "end": 272
+    },
+    {
+      "type": "ADDRESS",
+      "value": "61367 Dennis Flats, Michelleton, VA 17141",
+      "start": 293,
+      "end": 334
+    },
+    {
+      "type": "PHONE",
+      "value": "240-655-9681x41460",
+      "start": 355,
+      "end": 373
+    },
+    {
+      "type": "EMAIL",
+      "value": "dferguson@example.net",
+      "start": 394,
+      "end": 415
+    }
+  ]
+}

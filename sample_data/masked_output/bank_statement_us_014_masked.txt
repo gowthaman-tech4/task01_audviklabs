@@ -1,0 +1,50 @@
+============================================================
+                    Premier Federal Credit Union
+                  MONTHLY ACCOUNT STATEMENT
+============================================================
+
+Statement Period: April 22, 2026 to May 26, 2026
+Statement Date: June 08, 2026
+
+--- ACCOUNT HOLDER INFORMATION ---
+
+Name:              [PERSON_NAME_001]
+Account Number:    [AADHAAR_001]
+SSN:               [SSN_001]
+Phone:             [PHONE_001]
+Email:             [EMAIL_001]
+Date of Birth:     [DATE_OF_BIRTH_001]
+Address:           [ADDRESS_001]
+
+--- ACCOUNT SUMMARY ---
+
+Account Type:      Checking Account
+Branch:            West Mackenzieview Branch
+Opening Balance:   $65,919.22
+
+--- TRANSACTION DETAILS ---
+
+Date           Description                                Debit       Credit        Balance
+---------------------------------------------------------------------------------------
+05/22/2026     NEFT Transfer                                        2,166.32      68,085.54
+05/09/2026     Bill Payment - Utility                  1,435.87                   66,649.67
+05/16/2026     Interest Credit                         4,019.60                   62,630.07
+06/04/2026     Direct Deposit - FTS Corp                            3,340.44      65,970.51
+05/19/2026     ATM Withdrawal - New John               4,334.73                   61,635.78
+05/09/2026     UPI Transfer                                         1,266.63      62,902.41
+05/22/2026     Interest Credit                                        816.68      63,719.09
+06/04/2026     NEFT Transfer                           1,847.16                   61,871.93
+05/19/2026     ATM Withdrawal - Bartlettfurt           1,091.13                   60,780.80
+05/09/2026     Direct Deposit - BCF Corp               2,166.83                   58,613.97
+
+---------------------------------------------------------------------------------------
+Closing Balance:   $58,613.97
+
+--- IMPORTANT NOTICE ---
+This is a computer-generated statement and does not require a signature.
+For any discrepancies, please contact our customer service at 1-800-555-0199.
+This statement is confidential and intended solely for the account holder.
+
+Premier Federal Credit Union
+FDIC Insured | Equal Opportunity Lender
+============================================================

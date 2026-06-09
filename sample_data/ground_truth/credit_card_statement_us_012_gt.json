@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_012.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Elizabeth Cantrell",
+      "start": 219,
+      "end": 237
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4743-4759-2636-8414",
+      "start": 258,
+      "end": 277
+    },
+    {
+      "type": "ADDRESS",
+      "value": "68833 Campbell Parks, Ramirezton, NC 97731",
+      "start": 298,
+      "end": 340
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-863-676-5190x1398",
+      "start": 361,
+      "end": 381
+    },
+    {
+      "type": "EMAIL",
+      "value": "kari19@example.net",
+      "start": 402,
+      "end": 420
+    }
+  ]
+}

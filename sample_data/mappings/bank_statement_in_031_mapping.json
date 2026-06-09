@@ -1,0 +1,171 @@
+{
+  "document": "bank_statement_in_031.txt",
+  "timestamp": "2026-06-09T07:53:51.040267",
+  "total_entities_masked": 10,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "ACCOUNT_NUMBER": 3,
+    "IFSC_CODE": 1,
+    "PAN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Manthan Patla",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 351,
+        "end": 364
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_003]",
+      "original": "8858135616632679",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 400
+      }
+    },
+    {
+      "placeholder": "[IFSC_CODE_001]",
+      "original": "AXIS0334120",
+      "type": "IFSC_CODE",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 420,
+        "end": 431
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "EMNGR8695N",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 451,
+        "end": 461
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 66705 26159",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 481,
+        "end": 495
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "neeledwin@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 515,
+        "end": 536
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "05/09/1997",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 556,
+        "end": 566
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "313038",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 619,
+        "end": 625
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_002]",
+      "original": "71893616",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1273,
+        "end": 1281
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "44607923",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1457,
+        "end": 1465
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 81,
+        "end": 110
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Dhingra Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 600,
+        "end": 612
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "05/26/2026     Service",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1645,
+        "end": 1667
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Peninsula Banking Corporation",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 2569,
+        "end": 2598
+      }
+    }
+  ]
+}

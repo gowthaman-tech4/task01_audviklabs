@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_019.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Varsha Chawla",
+      "start": 344,
+      "end": 357
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0464659121422",
+      "start": 377,
+      "end": 390
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "IOBA0811569",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PAN",
+      "value": "KVYJX6776X",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 68669 43712",
+      "start": 471,
+      "end": 486
+    },
+    {
+      "type": "EMAIL",
+      "value": "sarrafwakeeta@example.net",
+      "start": 506,
+      "end": 531
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "04/16/2000",
+      "start": 551,
+      "end": 561
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 14, Mand Chowk, Kharagpur 102686",
+      "start": 581,
+      "end": 619
+    }
+  ]
+}

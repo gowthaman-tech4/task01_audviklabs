@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Ekantika Choudhury
+Card Number:        4639-6800-7407-0905
+Billing Address:    H.No. 452, Barad Nagar, Kishanganj-338542
+Phone:              +91 89122 75093
+Email:              vbalan@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 20, 2026
+Payment Due Date:   June 24, 2026
+Credit Limit:       $   31,777.85
+Previous Balance:   $    1,018.97
+Payments Received:  $      205.23
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/12/2026     Chaudhari, Sethi and Swamy          $  1,336.76
+05/18/2026     Peri-Comar                          $  1,613.63
+05/19/2026     Dhar Group                          $    593.25
+05/18/2026     Chakraborty-Sama                    $    277.83
+05/28/2026     Raja-Dube                           $  1,909.01
+05/11/2026     Subramaniam PLC                     $     82.17
+05/30/2026     Shroff-Doctor                       $      6.56
+05/21/2026     Bala, Kar and Pandit                $  1,124.32
+
+-------------------------------------------------------------
+Total Charges:      $    6,943.53
+New Balance:        $    7,757.27
+Minimum Payment:    $      155.15
+
+============================================================

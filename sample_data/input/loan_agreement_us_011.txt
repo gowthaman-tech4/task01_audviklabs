@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-441190
+Date of Agreement: March 18, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: 9148 Willis Inlet Suite 099, New Kathleenport, PW 81385
+
+BORROWER:
+Name: Tiffany Chandler
+SSN: 388-69-5340
+Date of Birth: 07/30/1999
+Address: 79859 Alan Courts Suite 754, Dawnchester, HI 95401
+Phone: 556.251.1334
+Email: jasonwilliams@example.org
+
+CO-BORROWER (if applicable):
+Name: Elizabeth Bates
+Phone: 001-614-372-9947x99279
+Email: scottjoseph@example.com
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Personal Loan
+Loan Amount:                $     54,520.85
+Interest Rate:              4.75% per annum
+Loan Tenure:                72 months
+EMI Amount:                 $        871.75
+Disbursement Account No:    30995097975537
+Disbursement Date:          May 29, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 72 equal monthly installments of $871.75.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

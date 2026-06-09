@@ -1,0 +1,43 @@
+============================================================
+          EAGLE ROCK SECURITIES INC.
+            QUARTERLY INVESTMENT STATEMENT
+             Q2 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Mark Cooley
+Account Number:         3777789968
+SSN:                    323-28-6471
+Email:                  jessica39@example.net
+Phone:                  +1-593-936-5760x2139
+Correspondence Address: 5506 Moore Meadows, North Michaelstad, AZ 21128
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+META     Meta Platforms Inc.           22 $    423.88 $    497.26 $   10,939.66 $    1,614.30
+JPM      JPMorgan Chase & Co.          84 $    195.20 $    189.95 $   15,955.58 $     -441.22
+MSFT     Microsoft Corp.               19 $    276.27 $    380.52 $    7,229.80 $    1,980.67
+NVDA     NVIDIA Corp.                  57 $    793.31 $    820.46 $   46,766.37 $    1,547.70
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $   80,891.41
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+03/20/2026     BUY      JPM          15 $    200.19 $    3,002.85
+04/11/2026     SELL     MSFT         18 $     50.05 $      900.90
+05/15/2026     DIV      META         52 $    423.62 $   22,028.24
+04/12/2026     DIV      NVDA         13 $    240.29 $    3,123.77
+05/10/2026     DIV      META         66 $    356.27 $   23,513.82
+04/11/2026     DIV      NVDA         93 $    428.79 $   39,877.47
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

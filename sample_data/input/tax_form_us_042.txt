@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   609-60-8922
+
+b  Employer Identification Number (EIN)
+   34-8414056
+
+c  Employer's Name, Address, and ZIP Code
+   Gay, Livingston and Murray
+   7978 Thompson Village Apt. 569, Piercefort, OR 84081
+
+e  Employee's Name
+   Cindy Norman
+
+f  Employee's Address and ZIP Code
+   8343 Huff Square Apt. 182, East Johnfort, AR 21804
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  147,418.91
+2  Federal income tax withheld         $   35,348.77
+3  Social Security wages               $  147,418.91
+4  Social Security tax withheld        $    9,139.97
+5  Medicare wages and tips             $  147,418.91
+6  Medicare tax withheld               $    2,137.57
+
+12a Code DD - Health Insurance          $    7,232.95
+
+--- STATE TAX INFORMATION ---
+
+15 State: IA
+16 State wages                         $  147,418.91
+17 State income tax                    $   12,594.71
+
+============================================================

@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   215-52-7595
+
+b  Employer Identification Number (EIN)
+   30-5451803
+
+c  Employer's Name, Address, and ZIP Code
+   Morales and Sons
+   61904 Gill Plains, West Matthew, DC 90964
+
+e  Employee's Name
+   Amy Smith
+
+f  Employee's Address and ZIP Code
+   54889 Stone Loop, West Jessicaborough, WA 85751
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $  214,327.25
+2  Federal income tax withheld         $   37,866.77
+3  Social Security wages               $  160,200.00
+4  Social Security tax withheld        $    9,932.40
+5  Medicare wages and tips             $  214,327.25
+6  Medicare tax withheld               $    3,107.75
+
+12a Code DD - Health Insurance          $   14,759.50
+
+--- STATE TAX INFORMATION ---
+
+15 State: WI
+16 State wages                         $  214,327.25
+17 State income tax                    $    7,693.96
+
+============================================================

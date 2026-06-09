@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_011.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Tarak Bansal",
+      "start": 219,
+      "end": 231
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4602-6077-6596-9320",
+      "start": 252,
+      "end": 271
+    },
+    {
+      "type": "ADDRESS",
+      "value": "08/21, Shan Chowk, Maheshtala 964075",
+      "start": 292,
+      "end": 328
+    },
+    {
+      "type": "PHONE",
+      "value": "91 79880 73084",
+      "start": 349,
+      "end": 363
+    },
+    {
+      "type": "EMAIL",
+      "value": "manthan35@example.org",
+      "start": 384,
+      "end": 405
+    }
+  ]
+}

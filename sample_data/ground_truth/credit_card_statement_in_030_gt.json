@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_030.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Kiaan Tella",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4773-7853-1357-1674",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "615, Mangal Nagar, Ballia 947970",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 75568 98243",
+      "start": 344,
+      "end": 359
+    },
+    {
+      "type": "EMAIL",
+      "value": "srinivaschakrika@example.com",
+      "start": 380,
+      "end": 408
+    }
+  ]
+}

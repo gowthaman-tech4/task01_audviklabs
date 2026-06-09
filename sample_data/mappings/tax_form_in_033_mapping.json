@@ -1,0 +1,214 @@
+{
+  "document": "tax_form_in_033.txt",
+  "timestamp": "2026-06-09T08:03:38.647694",
+  "total_entities_masked": 13,
+  "entity_type_counts": {
+    "PERSON_NAME": 6,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "AADHAAR": 1,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1,
+    "PHONE": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Anne",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 348,
+        "end": 352
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "672, Dada Marg, Haldia-006945",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 431,
+        "end": 460
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 475,
+        "end": 486
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gopal Goyal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 512,
+        "end": 523
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "USQGH5901U",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 548,
+        "end": 558
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "5643 8067 2708",
+      "type": "AADHAAR",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 583,
+        "end": 597
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "01/10/1970",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 622,
+        "end": 632
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "987309",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 685,
+        "end": 691
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "sachareshana@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 716,
+        "end": 740
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 93980 45267",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 765,
+        "end": 780
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 793,
+        "end": 804
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 809,
+        "end": 821
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Mangal",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 373,
+        "end": 379
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Sandhu",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Patla Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 686,
+        "end": 696
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1064,
+        "end": 1098
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1177,
+        "end": 1205
+      }
+    }
+  ]
+}

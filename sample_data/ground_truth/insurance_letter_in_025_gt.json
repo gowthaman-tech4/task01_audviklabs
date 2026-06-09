@@ -1,0 +1,68 @@
+{
+  "document": "insurance_letter_in_025.txt",
+  "document_type": "insurance_letter",
+  "locale": "in",
+  "total_pii_entities": 10,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Amruta Loke",
+      "start": 315,
+      "end": 326
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Vivaan Dalal",
+      "start": 483,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "02/03/1994",
+      "start": 516,
+      "end": 526
+    },
+    {
+      "type": "ADDRESS",
+      "value": "25, Choudhary Ganj, Sonipat 422838",
+      "start": 547,
+      "end": 581
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 92480 04313",
+      "start": 602,
+      "end": 617
+    },
+    {
+      "type": "EMAIL",
+      "value": "gaganseth@example.com",
+      "start": 638,
+      "end": 659
+    },
+    {
+      "type": "PAN",
+      "value": "CEEAR1774Z",
+      "start": 680,
+      "end": 690
+    },
+    {
+      "type": "AADHAAR",
+      "value": "7686 5536 4953",
+      "start": 711,
+      "end": 725
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Sanya Baral",
+      "start": 772,
+      "end": 783
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "11/10/2022",
+      "start": 828,
+      "end": 838
+    }
+  ]
+}

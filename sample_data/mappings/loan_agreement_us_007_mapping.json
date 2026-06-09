@@ -1,0 +1,225 @@
+{
+  "document": "loan_agreement_us_007.txt",
+  "timestamp": "2026-06-09T07:55:42.337521",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "ADDRESS": 3,
+    "PERSON_NAME": 2,
+    "SSN": 1,
+    "DATE_OF_BIRTH": 1,
+    "PHONE": 2,
+    "EMAIL": 2,
+    "ACCOUNT_NUMBER": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "915596",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 222,
+        "end": 228
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "80411 Martin Rue Suite 393, East Tonyaville, KY 53667",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 376,
+        "end": 429
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Barbara Hernandez",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 447,
+        "end": 464
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "121-69-0657",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 470,
+        "end": 481
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "11/13/1989",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 497,
+        "end": 507
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "3036 Moore Manors, Juarezfort, CO 61652",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 517,
+        "end": 556
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "001-360-458-0848x51665",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 564,
+        "end": 586
+      }
+    },
+    {
+      "placeholder": "[EMAIL_002]",
+      "original": "jamieclark@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 594,
+        "end": 616
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Ryan Herrera",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 653,
+        "end": 665
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+1-270-590-6110x67472",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 673,
+        "end": 694
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "courtneytaylor@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 702,
+        "end": 728
+      }
+    },
+    {
+      "placeholder": "[ACCOUNT_NUMBER_001]",
+      "original": "91192672211417",
+      "type": "ACCOUNT_NUMBER",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 989,
+        "end": 1003
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Continental Credit Corporation",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 343,
+        "end": 373
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "TERMS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 962,
+        "end": 967
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "CONDITIONS",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 972,
+        "end": 982
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 995,
+        "end": 1003
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Borrower",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1266,
+        "end": 1274
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Lender",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1365,
+        "end": 1371
+      }
+    },
+    {
+      "placeholder": "[EMAIL_003]",
+      "original": "eclar",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "leak_verification",
+      "position": {
+        "start": 1482,
+        "end": 1487
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Jalsa Luthra
+Card Number:        4699-6665-0070-9221
+Billing Address:    H.No. 00, Mane Marg, Sasaram 232490
+Phone:              91 87846 36960
+Email:              snayar@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 26, 2026
+Payment Due Date:   July 04, 2026
+Credit Limit:       $   17,890.49
+Previous Balance:   $      598.25
+Payments Received:  $      256.56
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/04/2026     Sharma, Bawa and Kashyap            $     83.76
+05/25/2026     Krishnan and Sons                   $  1,936.24
+05/21/2026     Ghosh-Mammen                        $    814.96
+05/09/2026     Chahal-Bal                          $    776.78
+05/13/2026     Suri-Dhar                           $  1,025.35
+06/01/2026     Keer-Varghese                       $  1,558.48
+05/12/2026     Dalal Inc                           $    386.20
+05/12/2026     Sharaf Inc                          $    573.40
+05/17/2026     Dugar Inc                           $     65.74
+05/21/2026     Sahni and Sons                      $    932.48
+05/12/2026     Bobal PLC                           $  1,403.35
+
+-------------------------------------------------------------
+Total Charges:      $    9,556.74
+New Balance:        $    9,898.43
+Minimum Payment:    $      197.97
+
+============================================================

@@ -1,0 +1,50 @@
+{
+  "document": "bank_statement_us_019.txt",
+  "document_type": "bank_statement",
+  "locale": "us",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Damon Carr",
+      "start": 348,
+      "end": 358
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "803710006338",
+      "start": 378,
+      "end": 390
+    },
+    {
+      "type": "SSN",
+      "value": "115-22-3900",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PHONE",
+      "value": "2184161525",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "EMAIL",
+      "value": "richardburns@example.net",
+      "start": 471,
+      "end": 495
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/17/1994",
+      "start": 515,
+      "end": 525
+    },
+    {
+      "type": "ADDRESS",
+      "value": "13464 Andrew Road Suite 861, Morganshire, ID 55726",
+      "start": 545,
+      "end": 595
+    }
+  ]
+}

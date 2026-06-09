@@ -1,0 +1,38 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Roy Livingston
+Card Number:        4455-0145-0556-4222
+Billing Address:    05176 Scott Expressway Suite 632, West Breannaside, NV 14971
+Phone:              001-371-316-4597x6239
+Email:              kramerbarbara@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 23, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   46,522.34
+Previous Balance:   $    4,343.05
+Payments Received:  $    3,654.91
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/26/2026     Riley, Hull and Jones               $    583.47
+05/19/2026     Hale Ltd                            $    632.05
+05/22/2026     Campbell PLC                        $  1,840.11
+05/28/2026     Murphy Group                        $  1,462.45
+05/19/2026     Vasquez-Collins                     $  1,956.09
+05/26/2026     Perry Inc                           $    621.44
+05/24/2026     King, Oneal and Smith               $     39.96
+
+-------------------------------------------------------------
+Total Charges:      $    7,135.57
+New Balance:        $    7,823.71
+Minimum Payment:    $      156.47
+
+============================================================

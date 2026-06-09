@@ -1,0 +1,202 @@
+{
+  "document": "tax_form_in_040.txt",
+  "timestamp": "2026-06-09T08:05:38.934512",
+  "total_entities_masked": 12,
+  "entity_type_counts": {
+    "PERSON_NAME": 5,
+    "ADDRESS": 2,
+    "PAN": 1,
+    "PHONE": 2,
+    "DATE_OF_BIRTH": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 311,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "196029",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 447,
+        "end": 453
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 468,
+        "end": 479
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Rudra Karan",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 505,
+        "end": 516
+      }
+    },
+    {
+      "placeholder": "[PAN_001]",
+      "original": "GMUJC6746F",
+      "type": "PAN",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 541,
+        "end": 551
+      }
+    },
+    {
+      "placeholder": "[PHONE_002]",
+      "original": "9125 2369 0898",
+      "type": "PHONE",
+      "confidence": 0.75,
+      "source": "presidio",
+      "position": {
+        "start": 576,
+        "end": 590
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "19/02/1969",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 615,
+        "end": 625
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "559503",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 683,
+        "end": 689
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "watika56@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 714,
+        "end": 734
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 83936 67628",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 759,
+        "end": 774
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "DETAILS ---",
+      "type": "PERSON_NAME",
+      "confidence": 0.9,
+      "source": "propagation",
+      "position": {
+        "start": 787,
+        "end": 798
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Gross Salary",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 803,
+        "end": 815
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Ram Inc",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 354,
+        "end": 361
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Soman Ganj",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 429,
+        "end": 439
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_003]",
+      "original": "Sachdeva Nagar",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 690,
+        "end": 704
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "HRA Exemption                   Rs",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1070,
+        "end": 1104
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Standard Deduction u/s 16(ia",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1183,
+        "end": 1211
+      }
+    }
+  ]
+}

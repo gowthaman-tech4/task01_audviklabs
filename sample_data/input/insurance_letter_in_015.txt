@@ -1,0 +1,50 @@
+============================================================
+              BHARATH LIFE INSURANCE LTD.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-8978713
+Policy Type: Home Insurance
+Date of Issue: December 04, 2025
+
+Dear Zehaan Kala,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Balveer Halder
+Date of Birth:      12/01/2000
+Address:            19, Kata Zila, Solapur-059681
+Phone:              +91 79086 85135
+Email:              fiyaz00@example.net
+PAN:                BVYFV4770K
+Aadhaar:            8507 9070 5597
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Vasana Tiwari
+Relationship:       Mother
+Nominee DOB:        01/09/1997
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  4,082,962.06
+Annual Premium:     $     14,803.52
+Policy Term:        10 years
+Premium Payment:    Annual
+Risk Commencement:  January 18, 2026
+Maturity Date:      April 28, 2041
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

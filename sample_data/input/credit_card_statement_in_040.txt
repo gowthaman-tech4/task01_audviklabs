@@ -1,0 +1,45 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Ansh Garg
+Card Number:        4053-6937-4795-1481
+Billing Address:    001, Bath Ganj, Vasai-Virar-298122
+Phone:              91 61634 75648
+Email:              david38@example.net
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 07, 2026
+Payment Due Date:   June 23, 2026
+Credit Limit:       $   18,630.02
+Previous Balance:   $   11,541.33
+Payments Received:  $    3,883.84
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+06/04/2026     Bassi, Gulati and Bhattacharyy      $  1,119.80
+06/07/2026     Bhatia PLC                          $  1,126.06
+05/27/2026     Mohan and Sons                      $  1,410.95
+05/17/2026     De Inc                              $    369.51
+05/10/2026     Palla Inc                           $     73.16
+05/26/2026     Shanker-Krishnan                    $  1,767.67
+05/14/2026     Munshi Inc                          $     94.78
+05/27/2026     Kale LLC                            $    212.26
+05/09/2026     Modi Inc                            $    858.22
+05/22/2026     Bajwa Group                         $  1,206.79
+05/20/2026     Dasgupta, Goel and Keer             $    183.29
+05/23/2026     Kale, Kant and Khatri               $    362.36
+06/05/2026     Amble, Basu and Virk                $  1,406.11
+05/14/2026     Ramanathan, Gaba and Sodhi          $  1,786.84
+
+-------------------------------------------------------------
+Total Charges:      $   11,977.80
+New Balance:        $   19,635.29
+Minimum Payment:    $      392.71
+
+============================================================

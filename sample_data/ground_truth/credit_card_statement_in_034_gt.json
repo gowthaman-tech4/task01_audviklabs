@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_034.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Hredhaan Cherian",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4073-6459-9883-0885",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 80, Gopal Road, Begusarai 100527",
+      "start": 296,
+      "end": 334
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 61094 75595",
+      "start": 355,
+      "end": 370
+    },
+    {
+      "type": "EMAIL",
+      "value": "advika19@example.org",
+      "start": 391,
+      "end": 411
+    }
+  ]
+}

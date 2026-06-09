@@ -1,0 +1,146 @@
+{
+  "document": "credit_card_statement_in_002.txt",
+  "timestamp": "2026-06-09T07:55:01.745469",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Gayathri Ghose",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "414771935481",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "769138",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 321,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 86014 46225",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 362
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "edwinakshay@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 383,
+        "end": 406
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Kadakia",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 849,
+        "end": 856
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Bassi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1145,
+        "end": 1150
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Chada Nagar",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 304,
+        "end": 315
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Malda",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 317,
+        "end": 322
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/16/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 809,
+        "end": 824
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Dhillon",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 831,
+        "end": 838
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Sami",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1030,
+        "end": 1034
+      }
+    }
+  ]
+}

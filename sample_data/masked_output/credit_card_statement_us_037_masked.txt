@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_010]
+Card Number:        [AADHAAR_001]-1050
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 02, 2026
+Payment Due Date:   July 04, 2026
+Credit Limit:       $   46,035.70
+Previous Balance:   $    2,958.09
+Payments Received:  $    1,494.43
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/20/2026     Dillon-Perry                        $  1,220.65
+06/01/2026     Edwards-Dean                        $  1,351.79
+06/07/2026     Pruitt Inc                          $  1,319.46
+05/29/2026     West and Sons                       $  1,982.75
+05/19/2026     [PERSON_NAME_011], [PERSON_NAME_009] and Rojas           $  1,529.57
+05/20/2026     Rogers-Brown                        $  1,647.30
+06/05/2026     Sampson, [ORGANIZATION_004] and [PERSON_NAME_008]          $  1,005.70
+[ORGANIZATION_003]                           $    638.32
+05/21/2026     [PERSON_NAME_007], [PERSON_NAME_006] and [ORGANIZATION_002]           $    122.44
+05/22/2026     [PERSON_NAME_005]$  1,532.74
+05/13/2026     George, Sandoval and Gates          $    509.88
+05/29/2026     Leon-Ray                            $     48.01
+05/29/2026     [ORGANIZATION_001], [PERSON_NAME_004] and [PERSON_NAME_003]         $    188.88
+05/17/2026     [ADDRESS_002], Adams and Kelly             $     10.23
+05/27/2026     [PERSON_NAME_002], [PERSON_NAME_001] and Cunningham      $  1,073.06
+
+-------------------------------------------------------------
+Total Charges:      $   14,180.78
+New Balance:        $   15,644.44
+Minimum Payment:    $      312.89
+
+============================================================

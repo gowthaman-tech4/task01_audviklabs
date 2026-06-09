@@ -1,0 +1,39 @@
+============================================================
+              WAGE AND TAX STATEMENT (W-2)
+                    Tax Year 2025
+============================================================
+
+a  Employee's Social Security Number
+   246-17-8143
+
+b  Employer Identification Number (EIN)
+   71-6596030
+
+c  Employer's Name, Address, and ZIP Code
+   Larson, Ewing and Holland
+   77795 Rachel Brooks Apt. 704, Garciaville, WI 62716
+
+e  Employee's Name
+   Daniel Salas
+
+f  Employee's Address and ZIP Code
+   7228 Baker Port Apt. 472, North Alexander, WI 01964
+
+--- WAGE AND TAX DATA ---
+
+1  Wages, tips, other compensation     $   78,237.65
+2  Federal income tax withheld         $   17,110.97
+3  Social Security wages               $   78,237.65
+4  Social Security tax withheld        $    4,850.73
+5  Medicare wages and tips             $   78,237.65
+6  Medicare tax withheld               $    1,134.45
+
+12a Code DD - Health Insurance          $   14,742.02
+
+--- STATE TAX INFORMATION ---
+
+15 State: FL
+16 State wages                         $   78,237.65
+17 State income tax                    $    5,184.61
+
+============================================================

@@ -1,0 +1,41 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Jonathan Dunn
+Card Number:        4108-8747-3074-2534
+Billing Address:    347 Santiago Stravenue, Port Jonburgh, IN 62366
+Phone:              +1-902-976-8403x1132
+Email:              waresara@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 26, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   29,689.13
+Previous Balance:   $      816.97
+Payments Received:  $      511.98
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/21/2026     Young-Klein                         $    250.82
+06/04/2026     Taylor Ltd                          $  1,048.94
+05/31/2026     Bryan-Nelson                        $  1,052.61
+06/04/2026     Bolton-Holland                      $    951.02
+06/05/2026     Petersen-Scott                      $    955.60
+05/17/2026     Hart-Hayes                          $     35.84
+05/24/2026     Green, Jackson and Sanders          $    574.51
+05/18/2026     Stewart, Manning and Bolton         $  1,998.74
+05/11/2026     Williams, Martinez and Rodrigu      $    501.98
+05/27/2026     Robinson-Richmond                   $  1,071.63
+
+-------------------------------------------------------------
+Total Charges:      $    8,441.69
+New Balance:        $    8,746.68
+Minimum Payment:    $      174.93
+
+============================================================

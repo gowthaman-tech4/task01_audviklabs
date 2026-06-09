@@ -1,0 +1,62 @@
+{
+  "document": "insurance_letter_us_004.txt",
+  "document_type": "insurance_letter",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Hernandez",
+      "start": 316,
+      "end": 334
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Mallory Anderson PhD",
+      "start": 491,
+      "end": 511
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "05/27/1976",
+      "start": 532,
+      "end": 542
+    },
+    {
+      "type": "ADDRESS",
+      "value": "66461 James Squares Suite 498, Port Kristenburgh, IN 15984",
+      "start": 563,
+      "end": 621
+    },
+    {
+      "type": "PHONE",
+      "value": "(879)843-6737",
+      "start": 642,
+      "end": 655
+    },
+    {
+      "type": "EMAIL",
+      "value": "danarobles@example.net",
+      "start": 676,
+      "end": 698
+    },
+    {
+      "type": "SSN",
+      "value": "147-20-0116",
+      "start": 719,
+      "end": 730
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Robert Johnson",
+      "start": 777,
+      "end": 791
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "10/23/1990",
+      "start": 839,
+      "end": 849
+    }
+  ]
+}

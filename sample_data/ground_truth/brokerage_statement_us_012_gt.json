@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_012.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Brett Nichols",
+      "start": 280,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "0263258799",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "SSN",
+      "value": "195-79-6553",
+      "start": 353,
+      "end": 364
+    },
+    {
+      "type": "EMAIL",
+      "value": "michaelgreen@example.net",
+      "start": 389,
+      "end": 413
+    },
+    {
+      "type": "PHONE",
+      "value": "877.761.9682",
+      "start": 438,
+      "end": 450
+    },
+    {
+      "type": "ADDRESS",
+      "value": "17872 Medina Run Apt. 711, Williamston, MH 71715",
+      "start": 475,
+      "end": 523
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "document": "brokerage_statement_us_037.txt",
+  "document_type": "brokerage_statement",
+  "locale": "us",
+  "total_pii_entities": 6,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Robert Sanford",
+      "start": 280,
+      "end": 294
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4116287804",
+      "start": 319,
+      "end": 329
+    },
+    {
+      "type": "SSN",
+      "value": "301-22-5757",
+      "start": 354,
+      "end": 365
+    },
+    {
+      "type": "EMAIL",
+      "value": "bishopjon@example.com",
+      "start": 390,
+      "end": 411
+    },
+    {
+      "type": "PHONE",
+      "value": "001-811-397-6325x227",
+      "start": 436,
+      "end": 456
+    },
+    {
+      "type": "ADDRESS",
+      "value": "0713 Brown Light Apt. 793, West Dustinfort, IA 11325",
+      "start": 481,
+      "end": 533
+    }
+  ]
+}

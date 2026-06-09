@@ -1,0 +1,43 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Peter Bond
+Card Number:        4006-2151-0872-2174
+Billing Address:    434 Justin Trail, Port Erik, PR 05297
+Phone:              (774)203-8401x0050
+Email:              karenstanley@example.com
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 22, 2026
+Payment Due Date:   July 05, 2026
+Credit Limit:       $   43,454.78
+Previous Balance:   $    6,838.82
+Payments Received:  $    5,234.50
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/11/2026     Green-Hernandez                     $     50.98
+06/07/2026     Conley Group                        $     49.34
+05/14/2026     Wilson, Neal and Miller             $    279.45
+05/25/2026     Quinn, Wagner and Lynch             $    640.57
+05/14/2026     Richards LLC                        $    109.17
+05/22/2026     Dyer-Hale                           $    963.48
+05/13/2026     Holland, Berry and Flores           $  1,554.50
+05/13/2026     Woods-Gordon                        $    215.90
+05/26/2026     Edwards Inc                         $  1,281.67
+05/30/2026     Ford, Williams and Clark            $    229.70
+06/01/2026     Pope, Leonard and Cortez            $  1,934.96
+05/31/2026     Solomon, Scott and Collins          $    483.41
+
+-------------------------------------------------------------
+Total Charges:      $    7,793.13
+New Balance:        $    9,397.45
+Minimum Payment:    $      187.95
+
+============================================================

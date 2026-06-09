@@ -1,0 +1,50 @@
+{
+  "document": "brokerage_statement_in_035.txt",
+  "document_type": "brokerage_statement",
+  "locale": "in",
+  "total_pii_entities": 7,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Janya Shah",
+      "start": 283,
+      "end": 293
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "9344422454",
+      "start": 318,
+      "end": 328
+    },
+    {
+      "type": "PAN",
+      "value": "QFLHP9982D",
+      "start": 353,
+      "end": 363
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "4706763087729168",
+      "start": 388,
+      "end": 404
+    },
+    {
+      "type": "EMAIL",
+      "value": "nishabobal@example.com",
+      "start": 429,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "91 67077 45857",
+      "start": 476,
+      "end": 490
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 86, Varma Circle, Vijayanagaram-572765",
+      "start": 515,
+      "end": 559
+    }
+  ]
+}

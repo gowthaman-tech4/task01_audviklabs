@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_in_012.txt",
+  "document_type": "credit_card_statement",
+  "locale": "in",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Lipika Mody",
+      "start": 219,
+      "end": 230
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4815-8431-6927-9106",
+      "start": 251,
+      "end": 270
+    },
+    {
+      "type": "ADDRESS",
+      "value": "140, Jaggi Ganj, Thrissur 800751",
+      "start": 291,
+      "end": 323
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 98457 35614",
+      "start": 344,
+      "end": 359
+    },
+    {
+      "type": "EMAIL",
+      "value": "vasatikabandi@example.com",
+      "start": 380,
+      "end": 405
+    }
+  ]
+}

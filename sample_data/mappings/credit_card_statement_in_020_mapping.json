@@ -1,0 +1,157 @@
+{
+  "document": "credit_card_statement_in_020.txt",
+  "timestamp": "2026-06-09T07:55:04.984380",
+  "total_entities_masked": 11,
+  "entity_type_counts": {
+    "PERSON_NAME": 7,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_007]",
+      "original": "Owen Uppal",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 229
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "473423124346",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 250,
+        "end": 264
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "H.No. 45, Pillay Street, Surat 007523",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 290,
+        "end": 327
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "+91 75642 76621",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 348,
+        "end": 363
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "varenya76@example.com",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 384,
+        "end": 405
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_006]",
+      "original": "Kaul",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 772,
+        "end": 776
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_005]",
+      "original": "Nazareth",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1088,
+        "end": 1096
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Keer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1101,
+        "end": 1105
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Edwin",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1521,
+        "end": 1526
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Banik",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1528,
+        "end": 1533
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Yogi",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1538,
+        "end": 1542
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "Bhatia",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 872,
+        "end": 878
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "06/07/2026     Loke Ltd                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1446,
+        "end": 1497
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "document": "bank_statement_us_041.txt",
+  "timestamp": "2026-06-09T07:54:35.122238",
+  "total_entities_masked": 8,
+  "entity_type_counts": {
+    "PERSON_NAME": 1,
+    "AADHAAR": 1,
+    "SSN": 1,
+    "PHONE": 1,
+    "EMAIL": 1,
+    "DATE_OF_BIRTH": 1,
+    "ADDRESS": 2
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Mrs. Latoya Phelps",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 340,
+        "end": 358
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "693581226646",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 378,
+        "end": 390
+      }
+    },
+    {
+      "placeholder": "[SSN_001]",
+      "original": "470-10-2424",
+      "type": "SSN",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 410,
+        "end": 421
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "(340)449-9965",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 441,
+        "end": 454
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "ymorris@example.net",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 474,
+        "end": 493
+      }
+    },
+    {
+      "placeholder": "[DATE_OF_BIRTH_001]",
+      "original": "12/23/1985",
+      "type": "DATE_OF_BIRTH",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 513,
+        "end": 523
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "44859 Wright Locks Suite 673, North Kristin, NY 55298",
+      "type": "ADDRESS",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 543,
+        "end": 596
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "South Michaelmouth Branch",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 678,
+        "end": 703
+      }
+    }
+  ]
+}

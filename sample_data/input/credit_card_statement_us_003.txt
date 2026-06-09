@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Anthony Galvan
+Card Number:        4924-3098-1232-9605
+Billing Address:    84705 Samantha Streets, New James, IN 32599
+Phone:              001-594-552-7236x89852
+Email:              leroy67@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     June 06, 2026
+Payment Due Date:   July 03, 2026
+Credit Limit:       $   46,884.57
+Previous Balance:   $    3,593.76
+Payments Received:  $      384.06
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/10/2026     Holder, Sandoval and Barron         $  1,561.55
+05/22/2026     Berry, Blair and Trujillo           $    323.55
+06/05/2026     Weaver Inc                          $  1,814.26
+05/15/2026     Williams-Morris                     $    402.35
+05/20/2026     Khan, Weiss and Gentry              $  1,141.65
+05/31/2026     Andrews-Harris                      $  1,086.61
+05/15/2026     Porter, Davis and Jimenez           $  1,582.81
+06/01/2026     Lewis, Taylor and Davila            $    410.87
+
+-------------------------------------------------------------
+Total Charges:      $    8,323.65
+New Balance:        $   11,533.35
+Minimum Payment:    $      230.67
+
+============================================================

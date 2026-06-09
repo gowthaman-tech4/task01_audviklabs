@@ -1,0 +1,56 @@
+{
+  "document": "bank_statement_in_037.txt",
+  "document_type": "bank_statement",
+  "locale": "in",
+  "total_pii_entities": 8,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Luke Mody",
+      "start": 346,
+      "end": 355
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "021623903797515",
+      "start": 375,
+      "end": 390
+    },
+    {
+      "type": "IFSC_CODE",
+      "value": "HDFC0879443",
+      "start": 410,
+      "end": 421
+    },
+    {
+      "type": "PAN",
+      "value": "SVDAZ7594C",
+      "start": 441,
+      "end": 451
+    },
+    {
+      "type": "PHONE",
+      "value": "+91 96499 30411",
+      "start": 471,
+      "end": 486
+    },
+    {
+      "type": "EMAIL",
+      "value": "jagrati01@example.com",
+      "start": 506,
+      "end": 527
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "12/06/1975",
+      "start": 547,
+      "end": 557
+    },
+    {
+      "type": "ADDRESS",
+      "value": "H.No. 822, Pandit Circle, Proddatur-675579",
+      "start": 577,
+      "end": 619
+    }
+  ]
+}

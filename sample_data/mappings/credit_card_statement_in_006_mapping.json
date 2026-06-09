@@ -1,0 +1,168 @@
+{
+  "document": "credit_card_statement_in_006.txt",
+  "timestamp": "2026-06-09T07:55:02.446325",
+  "total_entities_masked": 7,
+  "entity_type_counts": {
+    "PERSON_NAME": 3,
+    "AADHAAR": 1,
+    "ADDRESS": 1,
+    "PHONE": 1,
+    "EMAIL": 1
+  },
+  "mappings": [
+    {
+      "placeholder": "[PERSON_NAME_003]",
+      "original": "Chaitanya Gara",
+      "type": "PERSON_NAME",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 219,
+        "end": 233
+      }
+    },
+    {
+      "placeholder": "[AADHAAR_001]",
+      "original": "473003567848",
+      "type": "AADHAAR",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 254,
+        "end": 268
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_001]",
+      "original": "863300",
+      "type": "ADDRESS",
+      "confidence": 0.99,
+      "source": "context",
+      "position": {
+        "start": 329,
+        "end": 335
+      }
+    },
+    {
+      "placeholder": "[PHONE_001]",
+      "original": "91 69471 01342",
+      "type": "PHONE",
+      "confidence": 0.95,
+      "source": "context",
+      "position": {
+        "start": 356,
+        "end": 370
+      }
+    },
+    {
+      "placeholder": "[EMAIL_001]",
+      "original": "urishillavenkataraman@example.org",
+      "type": "EMAIL",
+      "confidence": 1.0,
+      "source": "presidio",
+      "position": {
+        "start": 391,
+        "end": 424
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_002]",
+      "original": "Bandi-Handa",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 910,
+        "end": 921
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_001]",
+      "original": "Keer",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1169,
+        "end": 1173
+      }
+    },
+    {
+      "placeholder": "[PERSON_NAME_004]",
+      "original": "Prabhakar Path",
+      "type": "PERSON_NAME",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 307,
+        "end": 321
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_005]",
+      "original": "06/07/2026     ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 948,
+        "end": 963
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_004]",
+      "original": "Devi Inc                            ",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 963,
+        "end": 999
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_003]",
+      "original": "05/13/2026     Solanki",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1213,
+        "end": 1235
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_002]",
+      "original": "Raghavan Group",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1291,
+        "end": 1305
+      }
+    },
+    {
+      "placeholder": "[ORGANIZATION_001]",
+      "original": "Tata",
+      "type": "ORGANIZATION",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1374,
+        "end": 1378
+      }
+    },
+    {
+      "placeholder": "[ADDRESS_002]",
+      "original": "New Balance",
+      "type": "ADDRESS",
+      "confidence": 0.85,
+      "source": "presidio",
+      "position": {
+        "start": 1688,
+        "end": 1699
+      }
+    }
+  ]
+}

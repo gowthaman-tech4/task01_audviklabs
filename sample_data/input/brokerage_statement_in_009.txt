@@ -1,0 +1,45 @@
+============================================================
+          TRIDENT CAPITAL SERVICES LTD.
+            QUARTERLY INVESTMENT STATEMENT
+             Q1 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   Gautami Wadhwa
+Account Number:         3991869810
+PAN:                    KYIGZ1587W
+Demat Account:          0254664977822727
+Email:                  bhavinimody@example.com
+Phone:                  91 65433 27078
+Correspondence Address: H.No. 05, Chanda Marg, Ratlam 339440
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+GOOGL    Alphabet Inc.                198 $    132.86 $    165.73 $   32,814.90 $    6,508.62
+AAPL     Apple Inc.                   195 $    165.81 $    156.80 $   30,576.15 $   -1,756.80
+META     Meta Platforms Inc.          218 $    405.37 $    496.93 $  108,330.70 $   19,960.04
+AMZN     Amazon.com Inc.              194 $    134.51 $    162.67 $   31,558.24 $    5,463.30
+MSFT     Microsoft Corp.               52 $    411.68 $    414.66 $   21,562.14 $      154.78
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  224,842.13
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/18/2026     BUY      GOOGL        97 $    331.76 $   32,180.72
+03/18/2026     SELL     GOOGL        51 $     68.33 $    3,484.83
+03/27/2026     DIV      AMZN         40 $    385.00 $   15,400.00
+04/06/2026     BUY      META         36 $    477.76 $   17,199.36
+05/03/2026     SELL     AMZN         55 $    335.15 $   18,433.25
+04/29/2026     BUY      AMZN         44 $     92.24 $    4,058.56
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

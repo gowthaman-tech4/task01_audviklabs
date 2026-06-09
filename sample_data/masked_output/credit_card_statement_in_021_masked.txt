@@ -1,0 +1,39 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    [PERSON_NAME_003]
+Card Number:        [AADHAAR_001]-7440
+Billing Address:    [ADDRESS_001]
+Phone:              [PHONE_001]
+Email:              [EMAIL_001]
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 15, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   18,508.17
+Previous Balance:   $    2,684.63
+Payments Received:  $    2,376.76
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/15/2026     [PERSON_NAME_002] and Sons                     $  1,827.87
+05/29/2026     Bumb, [ORGANIZATION_004] and Krishna         $    348.71
+05/11/2026     Sidhu-Vig                           $  1,533.00
+05/10/2026     [ORGANIZATION_003]$  1,780.31
+05/24/2026     [PERSON_NAME_001], [ADDRESS_003] and Sunder              $  1,329.24
+05/29/2026     [ORGANIZATION_002] LLC                       $    736.56
+05/12/2026     [ORGANIZATION_001]$  1,796.43
+06/01/2026     Soni-Krishna                        $  1,614.81
+
+-------------------------------------------------------------
+Total Charges:      $   10,966.93
+[ADDRESS_002]:        $   11,274.80
+Minimum Payment:    $      225.50
+
+============================================================

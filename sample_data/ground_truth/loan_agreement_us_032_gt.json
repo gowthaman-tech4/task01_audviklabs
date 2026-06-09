@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_032.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "99823 Jeffrey Plains, Vanessaborough, OH 20293",
+      "start": 370,
+      "end": 416
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "William Murray",
+      "start": 434,
+      "end": 448
+    },
+    {
+      "type": "SSN",
+      "value": "292-85-2123",
+      "start": 454,
+      "end": 465
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "08/15/1966",
+      "start": 481,
+      "end": 491
+    },
+    {
+      "type": "ADDRESS",
+      "value": "864 Martin Road, Huntermouth, RI 67614",
+      "start": 501,
+      "end": 539
+    },
+    {
+      "type": "PHONE",
+      "value": "+1-337-910-2025x2169",
+      "start": 547,
+      "end": 567
+    },
+    {
+      "type": "EMAIL",
+      "value": "phyllis80@example.net",
+      "start": 575,
+      "end": 596
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "59651816450523",
+      "start": 857,
+      "end": 871
+    }
+  ]
+}

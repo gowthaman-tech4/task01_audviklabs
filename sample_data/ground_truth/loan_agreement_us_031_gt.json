@@ -1,0 +1,62 @@
+{
+  "document": "loan_agreement_us_031.txt",
+  "document_type": "loan_agreement",
+  "locale": "us",
+  "total_pii_entities": 9,
+  "entities": [
+    {
+      "type": "ORGANIZATION",
+      "value": "Premier Home Finance Ltd",
+      "start": 336,
+      "end": 360
+    },
+    {
+      "type": "ADDRESS",
+      "value": "1272 Ryan Walk, Port Melissa, FL 03120",
+      "start": 370,
+      "end": 408
+    },
+    {
+      "type": "PERSON_NAME",
+      "value": "Jennifer Lang",
+      "start": 426,
+      "end": 439
+    },
+    {
+      "type": "SSN",
+      "value": "601-19-8344",
+      "start": 445,
+      "end": 456
+    },
+    {
+      "type": "DATE_OF_BIRTH",
+      "value": "03/07/1985",
+      "start": 472,
+      "end": 482
+    },
+    {
+      "type": "ADDRESS",
+      "value": "8879 Robert Dale, Wilsonfort, VT 64589",
+      "start": 492,
+      "end": 530
+    },
+    {
+      "type": "PHONE",
+      "value": "001-221-941-8220x1802",
+      "start": 538,
+      "end": 559
+    },
+    {
+      "type": "EMAIL",
+      "value": "hallmary@example.org",
+      "start": 567,
+      "end": 587
+    },
+    {
+      "type": "ACCOUNT_NUMBER",
+      "value": "52810479323884",
+      "start": 849,
+      "end": 863
+    }
+  ]
+}

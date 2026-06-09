@@ -1,0 +1,48 @@
+============================================================
+          [ORGANIZATION_008]
+            QUARTERLY INVESTMENT STATEMENT
+             Q4 - 2026
+============================================================
+
+--- INVESTOR INFORMATION ---
+
+Name:                   [PERSON_NAME_001]
+Account Number:         [PHONE_002]
+SSN:                    [SSN_001]
+Email:                  [EMAIL_001]
+Phone:                  [PHONE_001]
+Correspondence Address: [ADDRESS_001]
+
+--- PORTFOLIO HOLDINGS ---
+
+Symbol   Company                      Qty     Avg Cost    Mkt Price          Value            P&L
+-------------------------------------------------------------------------------------------
+[ORGANIZATION_007]          444 $    452.20 $    439.73 $  195,240.57 $   -5,536.23
+[ORGANIZATION_006]                   207 $    176.54 $    176.05 $   36,441.78 $     -102.00
+MSFT     [ORGANIZATION_005]                5 $    311.51 $    417.77 $    2,088.87 $      531.32
+[ORGANIZATION_004]                 19 $    172.79 $    175.30 $    3,330.75 $       47.74
+TSLA     [ORGANIZATION_003]                   158 $    199.92 $    241.76 $   38,197.92 $    6,610.56
+JPM      [ORGANIZATION_002]300 $    148.19 $    197.15 $   59,146.26 $   14,689.26
+-------------------------------------------------------------------------------------------
+                                                      Total Portfolio Value: $  334,446.15
+
+--- TRANSACTION HISTORY ---
+
+Date           Type     Symbol      Qty        Price         Amount
+--------------------------------------------------------------
+05/20/2026     DIV      GOOGL        95 $    204.47 $   19,424.65
+04/12/2026     SELL     [ORGANIZATION_001]         67 $    153.94 $   10,313.98
+04/28/2026     SELL     TSLA         99 $    110.96 $   10,985.04
+04/04/2026     BUY      MSFT         70 $    279.44 $   19,560.80
+05/21/2026     BUY      AAPL         22 $    411.76 $    9,058.72
+06/01/2026     BUY      JPM          38 $    157.23 $    5,974.74
+03/10/2026     SELL     GOOGL        26 $    183.50 $    4,771.00
+04/29/2026     DIV      TSLA         34 $    110.00 $    3,740.00
+04/01/2026     BUY      AAPL         26 $    129.23 $    3,359.98
+
+--- DISCLAIMER ---
+This statement is provided for informational purposes only.
+Past performance is not indicative of future results.
+All investments are subject to market risks.
+
+============================================================

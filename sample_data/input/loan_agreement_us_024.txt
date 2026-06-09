@@ -1,0 +1,57 @@
+============================================================
+                 LOAN AGREEMENT
+           PERSONAL / HOME LOAN DOCUMENT
+============================================================
+
+Loan Agreement Number: LA-642539
+Date of Agreement: May 24, 2026
+
+This Loan Agreement ("Agreement") is entered into between:
+
+LENDER:
+Name: First National Lending Corp
+Address: 80264 Cunningham Way Suite 364, Brittanyhaven, MH 21182
+
+BORROWER:
+Name: Eric Lee
+SSN: 234-50-4164
+Date of Birth: 10/04/1962
+Address: 3426 Tamara Drive Apt. 426, Darrellton, IN 37952
+Phone: (553)800-4116x179
+Email: paularnold@example.net
+
+CO-BORROWER (if applicable):
+Name: Christopher Duncan
+Phone: 001-594-289-4208
+Email: william66@example.org
+
+--- LOAN DETAILS ---
+
+Loan Type:                  Home Loan
+Loan Amount:                $    390,754.13
+Interest Rate:              14.8% per annum
+Loan Tenure:                12 months
+EMI Amount:                 $     35,231.94
+Disbursement Account No:    39476623089431
+Disbursement Date:          May 22, 2026
+
+--- TERMS AND CONDITIONS ---
+
+1. The Borrower agrees to repay the loan amount along with interest
+   in 12 equal monthly installments of $35,231.94.
+2. Late payment will attract a penalty of 2% per month on the overdue amount.
+3. Pre-payment is allowed after 6 months with a foreclosure charge of 3%.
+4. The Borrower authorizes the Lender to report loan status to credit bureaus.
+5. In case of default, the Lender reserves the right to initiate recovery
+   proceedings as per applicable law.
+
+--- DECLARATION ---
+
+I hereby declare that all information provided above is true and correct
+to the best of my knowledge. I understand and agree to the terms and
+conditions of this loan agreement.
+
+Borrower Signature: ___________________     Date: _______________
+Lender Representative: ________________     Date: _______________
+
+============================================================

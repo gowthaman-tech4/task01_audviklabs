@@ -1,0 +1,46 @@
+============================================================
+              PREMIER CREDIT CARD STATEMENT
+============================================================
+
+--- CARDHOLDER INFORMATION ---
+
+Cardholder Name:    Ira Basak
+Card Number:        4233-1153-5335-9729
+Billing Address:    817, Gulati Chowk, Vijayanagaram 439367
+Phone:              91 87891 90391
+Email:              joshironith@example.org
+
+--- ACCOUNT SUMMARY ---
+
+Statement Date:     May 18, 2026
+Payment Due Date:   July 07, 2026
+Credit Limit:       $   42,054.61
+Previous Balance:   $    3,497.12
+Payments Received:  $      890.49
+
+--- TRANSACTIONS ---
+
+Date           Merchant                                  Amount
+-------------------------------------------------------------
+05/15/2026     Sagar Inc                           $    978.84
+06/03/2026     Kala-Natt                           $  1,420.02
+05/11/2026     Bandi, Pall and Prabhakar           $  1,784.13
+05/31/2026     Mannan, Kalla and Tara              $    173.52
+05/16/2026     Pandey Group                        $  1,209.15
+05/18/2026     Bail, Sachdeva and Bhasin           $  1,592.15
+06/01/2026     Ganesan and Sons                    $  1,332.31
+05/30/2026     Tripathi, Divan and Sarin           $    133.99
+05/11/2026     Guha-Balakrishnan                   $    902.77
+05/25/2026     Sankaran-Grover                     $  1,995.46
+05/12/2026     Dhingra Group                       $    381.62
+05/27/2026     Chahal, Balay and Rattan            $    831.27
+05/19/2026     Dutt and Sons                       $  1,018.64
+05/17/2026     Narain-Bhatt                        $  1,734.78
+05/16/2026     Dubey-Ramakrishnan                  $    515.29
+
+-------------------------------------------------------------
+Total Charges:      $   16,003.94
+New Balance:        $   18,610.57
+Minimum Payment:    $      372.21
+
+============================================================

@@ -1,0 +1,49 @@
+============================================================
+              GLOBAL SHIELD INSURANCE CO.
+              POLICY DOCUMENT / CERTIFICATE OF INSURANCE
+============================================================
+
+Policy Number: POL-6362268
+Policy Type: Home Insurance
+Date of Issue: February 06, 2026
+
+Dear Erika Flores,
+
+Thank you for choosing our insurance services. Please find below the
+details of your insurance policy.
+
+--- POLICYHOLDER DETAILS ---
+
+Full Name:          Stephen Martin
+Date of Birth:      02/17/2001
+Address:            61936 Perez Creek Apt. 722, West Anthonyberg, NY 50069
+Phone:              (290)577-7410x0500
+Email:              hnorris@example.net
+SSN:                533-45-1200
+
+--- NOMINEE DETAILS ---
+
+Nominee Name:       Michael Hall
+Relationship:       Son
+Nominee DOB:        10/31/1975
+
+--- POLICY DETAILS ---
+
+Sum Assured:        $  2,825,993.63
+Annual Premium:     $      8,454.37
+Policy Term:        30 years
+Premium Payment:    Monthly
+Risk Commencement:  December 23, 2025
+Maturity Date:      August 12, 2052
+
+--- EXCLUSIONS ---
+
+1. Death due to suicide within 12 months of policy commencement.
+2. Death due to participation in hazardous activities not disclosed.
+3. Pre-existing conditions not declared at the time of proposal.
+
+For claims or queries, contact us at:
+Customer Service: 1-800-555-0188
+Email: claims@globalshieldinsurance.com
+
+============================================================

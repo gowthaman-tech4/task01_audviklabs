@@ -1,0 +1,38 @@
+{
+  "document": "credit_card_statement_us_019.txt",
+  "document_type": "credit_card_statement",
+  "locale": "us",
+  "total_pii_entities": 5,
+  "entities": [
+    {
+      "type": "PERSON_NAME",
+      "value": "Elizabeth Watson",
+      "start": 219,
+      "end": 235
+    },
+    {
+      "type": "CREDIT_CARD",
+      "value": "4746-6944-4397-4432",
+      "start": 256,
+      "end": 275
+    },
+    {
+      "type": "ADDRESS",
+      "value": "7479 Perez Terrace, East Georgeland, MN 07529",
+      "start": 296,
+      "end": 341
+    },
+    {
+      "type": "PHONE",
+      "value": "(357)835-8902x67912",
+      "start": 362,
+      "end": 381
+    },
+    {
+      "type": "EMAIL",
+      "value": "jasonprice@example.com",
+      "start": 402,
+      "end": 424
+    }
+  ]
+}
